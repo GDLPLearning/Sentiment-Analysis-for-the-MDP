@@ -85,3 +85,9 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# virtualenv
+/project_env/
+
+# Data folder
+/data/

@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'Sentiment-Analysis-for-the-MDP', u'sentiment-analysis-for-the-mdp Documentation',
      u"Arteaga Juan, Caro Wilson, Quintero Jonathan, Lambis Erick, Luna German, Sosa Sergio, Vergara Gustavo ", 'sentiment-analysis-for-the-mdp',
-     'Project repository - 'Sentiment Analysis in Twitter for the Medellin Development Plan' by group 247 of the 6th cohort of DS4A Colombia.', 'Miscellaneous'),
+     "'Project repository - 'Sentiment Analysis in Twitter for the Medellin Development Plan' by group 247 of the 6th cohort of DS4A Colombia.'", 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
