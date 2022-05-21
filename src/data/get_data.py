@@ -22,7 +22,7 @@ access_token_secret = bcrypt.hashpw(access_token_secret.encode(), bcrypt.gensalt
 # Creating an API Object
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
-# print(consumer_key)
-# public_tweets = api.home_timeline()
-# for tweet in public_tweets:
-#     print(f'{tweet.user.screen_name}:\n{tweet.text}\n{"*"*60}')
+
+public_tweets = api.home_timeline()
+for tweet in public_tweets:
+    print(f'{tweet.user.screen_name}:\n{tweet.text}\n{"*"*60}')
