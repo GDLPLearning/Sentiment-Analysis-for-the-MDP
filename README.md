@@ -9,11 +9,26 @@ https://socialify.git.ci/
 Shields.io
 ## Project Description
 
-What your application does,
+### Business problem and solution approach
+The Medellín Development Plan (MDP) 2020 - 2023 is the local government proposal that seeks to guarantee comprehensive 
+attention to the needs of Medellín's citizens, care for vulnerable populations, economic reactivation, the construction 
+of a sustainable city and the generation of opportunities based on a major educational transformation.
+In other words, it is a promise of public policies by the mayor's office in order to improve the welfare of the people 
+they represent by trying to meet the needs that afflict them. But are these in tune with the proposals presented in the 
+city's development plan? This is what this project will try to answer, for which it will divide the analysis into two 
+components:
 
-Why you used the technologies you used,
+1. Is the MDP aligned with the needs expressed by the population?
 
-Some of the challenges you faced and features you hope to implement in the future.
+    * In this first component, the main problems expressed by the inhabitants of Medellin prior to the entry into force 
+      of the MDP will be identified and it will check if these are part of the development plan.
+    * To solve this question a text analysis of information extracted will be performed from Twitter (needs) and MDP 
+      (proposals) to check if there is any relationship between them.
+    
+
+2. What is the perception of citizens in relation to MDP programs and projects during the government's term?
+    * The response of the citizens of Medellin in relation to this topic will be analyzed through a sentiment analysis based on the perception exposed by the inhabitants on Twitter in relation to these projects and programs of the MDP.
+
 
 ## Table of Contents 
 
@@ -33,6 +48,10 @@ Also if your project will require authentication like passwords or usernames, th
 
 ## Technologies used
 
+## Tests
+
+## Documentation 
+
 ## Credits
 If you worked on the project as a team or an organization, list your collaborators/team members. You should also include links to their GitHub profiles and social media too.
 
@@ -47,9 +66,9 @@ https://choosealicense.com/
 
 https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
 
+## Support
 
-## Tests
-
+If you are having issues, please let us know. We have a mailing list located at: project@google-groups.com
 
 Project Organization
 ------------
@@ -110,4 +129,4 @@ Project Organization
 
 --------
 
-<
+

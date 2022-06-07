@@ -1,11 +1,6 @@
 # keys.py
-"""Store the credentials by input to OAuth 2.0 authentication Twitter processes
-to enable access to its APIs"""
-
-import pyinputplus as pyip  # Provide input()- and raw_input()-like functions with additional validation features
-
-consumer_key = pyip.inputPassword('Enter API Key:')
-consumer_secret = pyip.inputPassword('Enter API Secret Key:')
-access_token = pyip.inputPassword('Enter Access Token:')
-access_token_secret = pyip.inputPassword('Enter Access Token Secret:')
-
+"""Academic Research Access Application"""
+consumer_key = "WOqCjUlKHMwAe4iFztGqocZmc"
+consumer_secret = "g8diatpLrlKjEk8ZHl5oGPeGL9oxeLo8mEE6MrDuDTsD0uWBUd"
+access_token = "172106314-fWXki4XWQg0TMmHIJOwFZfBDKepXIA3r11wvaVki"
+access_token_secret = "90wFvOe2envsJHbJyeQXenW2rB0TUbBiAaYwqoJmRjGA3"
