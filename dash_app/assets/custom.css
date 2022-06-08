@@ -1,0 +1,28 @@
+@font-face{
+    font-family: 'font';
+    src: url('Agrandir-Tight.otf') format('truetype');
+}
+@font-face {
+    font-family: 'font-title';
+    src: url('Arimo-Regular.ttf') format('truetype');
+}
+h1 {
+    font-family: 'font-title';
+    font-size: 1.5em;
+    color: #0C1821;
+    text-align: center;
+}
+h2 {
+    font-family: 'font-title';
+    font-size: 1.3em;
+    text-align: center;
+}
+h3 {
+    font-family: 'font-title';
+    color: white;
+    text-align: center;
+}
+P {
+    font-family: 'font';
+    font-size: 1.2em;
+}
