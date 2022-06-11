@@ -6,7 +6,7 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 
 # app instantiation
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+
 
 
 theme_colors = {
@@ -18,7 +18,7 @@ theme_colors = {
 }
 
 # app layout
-app.layout = html.Div([
+layout = html.Div([
     html.Div([
         html.H2(children='Overview'),
         html.H3(children='BUSINESS PROBLEM', style={'background-color': theme_colors['fondo']}),
@@ -42,6 +42,3 @@ app.layout = html.Div([
     ])
 ])
 
-# running the app
-if __name__ == '__main__':
-    app.run_server(debug=True, port=1045)

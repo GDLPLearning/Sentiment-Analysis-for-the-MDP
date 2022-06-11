@@ -4,8 +4,10 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 
+#import parts of the app
+from pages import home, overview, dataset, eda, model, report, about, contact
 
-
+# app instantiation
 app = dash.Dash(external_stylesheets=[dbc.themes.YETI])
 
 # the style arguments for the sidebar. We use position:fixed and a fixed width
@@ -43,7 +45,8 @@ sidebar = html.Div(
                 dbc.NavLink("EDA", href="/page-3", active="exact"),
                 dbc.NavLink("Model", href="/page-4", active="exact"),
                 dbc.NavLink("Report", href="/page-5", active="exact"),
-                dbc.NavLink("Contact us", href="/page-6", active="exact"),
+                dbc.NavLink("About us", href="/page-6", active="exact"),
+                dbc.NavLink("Contact us", href="/page-7", active="exact"),
             ],
             vertical=True,
             pills=True,
@@ -60,19 +63,21 @@ app.layout = html.Div([dcc.Location(id="url"), sidebar, content])
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def render_page_content(pathname):
     if pathname == "/":
-        return html.P("Home")
+        return home.layout
     elif pathname == "/page-1":
-        return html.P("1")
+        return overview.layout
     elif pathname == "/page-2":
-        return html.P("2")
+        return dataset.layout
     elif pathname == "/page-3":
-        return html.P("3")
+        return eda.layout
     elif pathname == "/page-4":
-        return html.P("4")
+        return model.layout
     elif pathname == "/page-5":
-        return html.P("5")
+        return report.layout
     elif pathname == "/page-6":
-        return html.P("6")
+        return about.layout
+    elif pathname == "/page-7":
+        return contact.layout
     # If the user tries to reach a different page, return a 404 message
     return dbc.Jumbotron(
         [
