@@ -5,4 +5,4 @@ from dash import html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 
-layout = html.Div([html.H1(id="page-content", children='Hello World')])
+layout =0
