@@ -9,19 +9,13 @@ from dash.dependencies import Input, Output
 
 
 
-theme_colors = {
-    'titulo': '#000000', 
-    'primario': '#0C1821', 
-    'secundario': '#1B2A41',
-    'terciario': '#324A5F', 
-    'fondo': '#CCC9DC', 
-}
+
 
 # app layout
 layout = html.Div([
+    html.Div(html.H1(children='OVERVIEW')),
     html.Div([
-        html.H2(children='Overview'),
-        html.H3(children='BUSINESS PROBLEM', style={'background-color': theme_colors['fondo']}),
+        html.H3(children='Business problem',style={'text-align': 'left'}),
         html.P(children= "The Medellín Development Plan (MDP) 2020 - 2023 is the local government proposal that seeks to guarantee comprehensive attention to the needs of Medellín's citizens, care for vulnerable populations, economic reactivation, the construction of a sustainable city and the generation of opportunities based on a major educational transformation."),
         html.P(children="In other words, it is a promise of public policies by the mayor's office in order to improve the welfare of the people they represent by trying to meet the needs that afflict them. But are these in tune with the proposals presented in the city's development plan? This is what this project will try to answer, for which it will divide the analysis into two components:"),
         html.Ol([html.Li(children="Is the MDP aligned with the needs expressed by the population?"),
@@ -33,12 +27,12 @@ layout = html.Div([
             html.Ul([
                 html.Li(children="The response of the citizens of Medellin in relation to this topic will be analyzed through a sentiment analysis based on the perception exposed by the inhabitants on Twitter in relation to these projects and programs of the MDP.")
                 ])
-           ]),
-     ]),
+            ]),
+        ]),
 
     html.Div([
-    html.H3(children="BUSINESS IMPACT   ", style={'background-color': theme_colors['fondo'], 'text-align':'right'}),
-    html.P(children="Through the citizen's perception of the MDP programs, as well as the needs felt by the population on Twitter, it is possible to establish an alternative measurement of the assertiveness of the current local government plan and likewise to open up the possibility of configuring a more appropriate action horizon for future development plans for Medellin aligned with the above.")
+        html.H3(children="Business impact", style={ 'text-align':'right'}),
+        html.P(children="Through the citizen's perception of the MDP programs, as well as the needs felt by the population on Twitter, it is possible to establish an alternative measurement of the assertiveness of the current local government plan and likewise to open up the possibility of configuring a more appropriate action horizon for future development plans for Medellin aligned with the above.")
+        ])
     ])
-])
 
