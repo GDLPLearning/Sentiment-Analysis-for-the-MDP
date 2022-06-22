@@ -9,3 +9,32 @@ nav:
     
 theme:
   name: material
+  
+  palette: 
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    
+    
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Español
+      link: /de/
+      lang: es
+
