@@ -86,5 +86,4 @@ target/
 # Mypy cache
 .mypy_cache/
 
-# Data folder
-/data/
+
