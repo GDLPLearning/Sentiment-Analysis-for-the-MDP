@@ -10,7 +10,7 @@ import pandas as pd
 #Create data description
 data_description={
     'column_name':['full_text','user','location','date','tweet_id','number_rt','number_likes','id_key_word'],
-    'data_type':['string','string','string','datetime','int','int','int','int'],
+    #'data_type':['string','string','string','datetime','int','int','int','int'],
     'description':['full text of the tweet','username who posted the tweet','location where the tweet was post','time when the tweet was post','primary key, number id of the tweet','number of retweets of the tweet','number of likes of the tweet','foreign key with the id that represent the key word']
     }
 df_description=pd.DataFrame(data_description)
