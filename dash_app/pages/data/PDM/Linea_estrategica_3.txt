@@ -1,0 +1,2273 @@
+2 9 5
+Tercera parte. Marco programático
+ En la Cultura ciudadana, se da prioridad a la implementación de la Política de Cultura Ciuda-
+dana, la cual busca la gestión local de la cultura ciudadana, para la transformación de imaginarios, 
+comportamientos,	hábitos,	representaciones	culturales	y	configuraciones	simbólicas	en	la	ciudad	
+(Acuerdo 123 de 2019), con la cual se abordarán enfoques diferenciales para la promoción de la 
+cultura y la sana convivencia.  Recoge la Política Pública para el reconocimiento de la diversidad 
+sexual e identidades de género y para la protección, restablecimiento, atención y la garantía de 
+derechos de las personas lesbianas, gais, bisexuales, transgeneristas e intersexuales (LGBTI) 
+del municipio de Medellín (Acuerdo 8 de 2011) principalmente dentro de un concepto de diver-
+sidad cultural.   Se toman también la política de voluntariado y de estímulos al arte y la cultura, 
+como estrategias complementarias al desarrollo del programa.  Este componente tiene implícito 
+el	desarrollo	de	capacidades	en	la	ciudadanía	para	aportar	en	la	convivencia	sana	y	pacífica,	así	
+mismo,	se	aborda	la	confianza	como	mecanismo	de	cooperación	y	eje	de	la	solidaridad,	a	través	
+del logro de consensos y de respeto de las diferencias en sus distintos niveles, físicas, políticas, 
+sociales, entre otras. 
+“En el componente Maestros/as líderes de futuro, se ha avanzado en la ciudad en el desarrollo de 
+acciones como el Acuerdo 19 de 2015, por medio del cual se adopta la política pública de formación 
+de Maestros y Maestras de la ciudad de Medellín, articulada al Centro de innovación del Maestro 
+(Mova)“.	Se	cuenta	con	cuatro	líneas	de	formación	(desarrollo	humano,	formación	situada,	reflexión	
+metodológica e investigación) para los maestros y maestras.  Estos son insumos muy importantes 
+para el logro del bienestar laboral y social de los maestros y maestras”.
+3.3.  Capítulo III. Línea Estratégica 3: Medellín Me Cuida
+Medellín Me Cuida es una estrategia que surge como respuesta a la situación mundial generada por la 
+pandemia	del	COVID-19	que	conlleva	a	la	reflexión	sobre	la	vulnerabilidad	del	ser	humano,	y	sobre	
+lo esencial que resulta el cuidado y el vínculo para hacerle frente, porque si bien la modernidad ha 
+promovido la autonomía de las personas desde la concepción del sujeto de derecho, en todas las 
+personas habita un sujeto que necesita, que es dependiente de un entramado social que le provee 
+cuidados de distinta índole.
+En ese sentido, Medellín Me Cuida se concibe como una apuesta de transformación social para 
+llevar a cabo acciones protectoras de la vida y de la integridad de las personas y donde el cuidado 
+es considerado una actividad esencial y valiosa para la supervivencia humana.
+Esta perspectiva del cuidado como vital para el bienestar, que responda a las necesidades de las 
+personas,	está	enmarcada	en	su	definición	en	los	términos	planteados	por	Joan	Tronto	y	Berenice	
+Fisher: “El cuidado es una actividad característica de la especie humana que incluye todo lo que 
+hacemos con vistas a mantener, continuar o reparar nuestro mundo de tal manera que podamos vivir 
+2 9 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+en él lo mejor posible. Este mundo incluye nuestros cuerpos, nuestras individualidades y nuestro 
+entorno, que buscamos tejer juntos en una red compleja que sostiene la vida”19.
+La economía del cuidado es la manera cómo se proveen, distribuyen, intercambian y consumen 
+los servicios de cuidado, en los hogares y fuera de ellos, de forma remunerada o no. Es importante 
+considerar que en Medellín alrededor del 46 % de la población ocupada se encuentra en condicio-
+nes de informalidad, lo cual restringe el acceso al derecho de cuidado, por ello se busca habilitar o 
+garantizar este derecho, en especial para las mujeres y los hombres que no cuentan con la garantía 
+efectiva de este, por no estar amparados por sistemas de protección social efectivos. Así mismo, la 
+comprensión del cuidado debe considerar las inequidades en las que se inscribe ya que particularmente 
+las	mujeres	han	sido	definidas	como	cuidadoras	por	excelencia	y	responsabilizadas,	casi	de	manera	
+exclusiva, del cuidado y las labores domésticas. Asumir como natural esta división del trabajo entre 
+los sexos va en detrimento de la autonomía económica, física y política de las mujeres. De tal modo 
+que la comprensión del cuidado debe considerar no sólo las inequidades en las que se inscribe, sino 
+también la necesidad de su superación.
+De	esta	manera	se	debe	reconocer	que	no	solo	en	las	etapas	iniciales	o	finales	de	la	vida	de	una	
+persona, esta requiere de cuidados, sino por el contrario, estos son necesarios en cualquier momento 
+de la vida: como sujetos de cuidado o como dadores del mismo.
+Gestionar el cuidado no puede ser un asunto a resolverse solo en la esfera de lo privado, requiere 
+además la competencia y el soporte del Estado, la comunidad y el sector privado, y debe tener en 
+cuenta	aspectos	tales	como	los	distintos	tiempos	que	configuran	la	vida	de	una	persona,	las	relaciones	
+personales que se establecen, las necesidades y particularidades, el curso de vida, la etnia, el sexo, el 
+género,	las	condiciones	de	discapacidad,	migración,	si	se	es	víctima	del	conflicto	armado,	entre	otras.
+Es por esto que Medellín Me Cuida se convierte en la apuesta de estos cuatro años por crear un 
+régimen de cuidado bajo un escenario de igualdad y corresponsabilidad entre el Estado, el sector pri-
+vado,	los	hogares	y	la	comunidad,	donde	el	fin	es	redistribuir	los	tiempos	invertidos	en	las	actividades	
+de cuidado, principalmente las horas de trabajo doméstico y de cuidado no remunerado (TDYCNR), 
+los recursos asignados a dichas actividades, garantizar y ampliar los bienes y  servicios que se pro-
+mueven para cuidar de la vida en sus distintas formas.
+De ahí que, en la redistribución de los tiempos dedicados a actividades de cuidado y domésticas 
+no	remuneradas,	los	tiempos	de	la	producción	mercantil	tendrían	que	flexibilizarse	y	ajustarse	a	los	
+de las jornadas domésticas necesarias para preservar la vida, posibilitando una forma discontinua 
+de participar en el trabajo familiar que dependerá del ciclo vital de cada persona, mujer u hombre.
+19 Citado en: Tronto, Joan (2003), “Care as the work of citizens”, end “Dialogues on care” Conference, Bergen, Norway, 
+October.  
+2 9 7
+Tercera parte. Marco programático
+Se	trataría	entonces	de	modificar	la	organización	social	heredada	de	la	revolución	industrial,	
+donde el tiempo productivo es el único que se ha valorado y ahora que se planea una reedición de 
+la misma, con la Cuarta Revolución Industrial, se tendrán que empezar a valorar los tiempos que se 
+dedican a los cuidados, tanto en horas de trabajo doméstico y de cuidado, no remuneradas en cabeza 
+de los hogares y principalmente de las mujeres, como en horas de trabajo doméstico y de cuidado 
+remuneradas que son las de los servicios de aseo, servicios de alimentación, servicios de asistencia 
+social, servicios en áreas de la salud y servicios en áreas de bienestar físico, mental y emocional 
+de las personas, donde también el personal de apoyo es mayoritariamente femenino. De tal manera 
+que el cuidado se vuelva un asunto de responsabilidad social compartida entre hombres y mujeres, 
+con el auspicio del Estado, el sector privado, y la comunidad que proveerán infraestructuras para el 
+cuidado de la vida y que redistribuyan el tiempo invertido en ello.
+Para ello esta Línea desarrolla varios programas que son una forma de esbozar lo que sería a 
+futuro un Sistema Municipal de Cuidado, donde se coordinen diferentes políticas públicas y pro-
+gramas de la institucionalidad que ponen en su núcleo el cuidado de la vida, y responden a las 
+necesidades de bienestar de las personas. Éstos se planearán desde una perspectiva de género 
+para que desarrollen acciones que redistribuyan los tiempos de cuidado entre mujeres y hombres, 
+y entre Estado, hogares, sector privado y comunidad, habilitando el cuidado como un derecho para 
+todas las personas y donde lo central, en tiempos del COVID-19, es la preservación y restableci-
+miento de la salud física, mental y social de las personas, de manera que se compaginen tiempos 
+de ocio, tiempos de necesidades personales, tiempos de participación ciudadana, tiempos de trabajo 
+doméstico, y tiempos de trabajo formal o de generación de ingresos.
+En cuanto a los recursos asignados a los cuidados requeridos en el marco de la pandemia, se generarán 
+apoyos tanto económicos como en especie que brinden condiciones de mínimo vital para la población 
+que así lo requiera, así mismo se implementarán programas para la protección de sus derechos al interior 
+de los hogares y el aseguramiento alimentario y nutricional de la ciudadanía según sus necesidades.
+En torno a los bienes y servicios que se promueven para cuidar la vida en sus distintas formas, 
+desde esta Línea Estratégica se habilitan aquellos que son demandados con mayor prioridad a raíz 
+de la pandemia y la necesidad de la reconstrucción de las redes de cuidado y el tejido social postpan-
+demia, teniendo en cuenta los distintos tipos de personas para los cuales la vulnerabilidad es mayor, 
+buscando generar condiciones óptimas y favorables para que la vida continúe y emerja con todo su 
+potencialidad en este escenario de transformación en  los modos de vivir que buscan darle prioridad 
+al sentido de la vida misma y el valor de la humanidad por sobre todas las cosas.
+Propósito 
+Promover, crear, renovar y garantizar las condiciones básicas sociales y culturales que les permitan a 
+los ciudadanos de Medellín en sus diferentes cursos de vida tener las capacidades para desarrollar su 
+2 9 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+potencial humano e individual y contribuir desde sus posibilidades a la creación de entornos sociales 
+y comunitarios saludables, seguros, creativos y sostenibles.
+3.3.1.  Componente. Comunidades, cuerpos y mentes saludables
+No es posible una vida digna sin garantía al derecho a la salud. La salud es un derecho, no un ne-
+gocio. Trabajaremos para hacer de Medellín una ciudad saludable, donde se priorice la prevención 
+de la enfermedad, la promoción de la salud y la atención de las personas se brinde con humanidad, 
+calidad, esmero y siempre de forma oportuna, segura, efectiva y sin ningún tipo de discriminación. 
+Nuestro enfoque de salud es integral, se basa en la promoción de comportamientos saludables y 
+en la prevención de la enfermedad mediante estrategias que les permitan a las y los ciudadanos, a 
+sus familias y comunidades el desarrollo de hábitos de autocuidado y estilos de vida que incentiven 
+la responsabilidad personal sobre la salud.
+Reconocemos el valor de la recreación, el deporte y la actividad física como componente vital de 
+la vida humana. Bien conocidos son los efectos positivos de la actividad física sobre la salud mental y 
+fisiológica	de	los	ciudadanos.	La	práctica	deportiva	permite	a	los	individuos	relacionarse	con	su	cuerpo,	
+conocerlo, potenciarlo y fortalecerlo, al tiempo que les posibilita la construcción de relaciones sociales 
+y comunitarias que propicien un buen uso del espacio público, demandan un mejor medioambiente y 
+facilitan la convivencia ciudadana. Apostamos por el deporte, la recreación y el aprovechamiento del 
+tiempo libre como mecanismo para la reducción de las tensiones sociales, fuente de la construcción 
+de proyectos de vida saludables y vínculos ciudadanos que hagan de nuestra ciudad un escenario 
+de paz y solidaridad. 
+El ser humano debe ser el centro de las políticas públicas. Para ello, es fundamental: i. Propiciar 
+el desarrollo de autonomías en las personas, familias y comunidades para el cuidado de la salud 
+y	la	vida,	ii.	Fortalecer	las	capacidades	de	los	agentes	de	salud	y	profesionales	de	áreas	afines	y	
+complementarias para promover una cultura centrada en la promoción de la salud y la prevención de 
+la	enfermedad	(nos	afirmamos	en	nuestro	compromiso	fundamental	de	fortalecer,	cuidar	y	proteger	
+la red pública de salud de la ciudad, el de mejorar las condiciones de los profesionales en salud), iii. 
+Reconocer el diálogo de saberes como fuente de construcción del tejido social, y iv. Atender los llama-
+dos de las políticas internacionales de promoción de la salud, las orientaciones nacionales contenidas 
+en el Plan Decenal de Salud Pública y la Política de Atención Integral en Salud y la Política Pública 
+de Deporte, Recreación y Actividad Física de Medellín, Cultura D. La atención a estos imperativos 
+éticos debe inspirar la construcción del Plan de Desarrollo y el Plan Territorial de Salud de Medellín.
+Propiciaremos un modelo centrado en la Atención Primaria en Salud, teniendo como eje de ar-
+ticulación las familias y las comunidades, inspirador de acciones integrales que contribuyan a que 
+2 9 9
+Tercera parte. Marco programático
+Medellín avance en el camino de ser una ciudad saludable, muy en sintonía con nuestra propuesta 
+de Ecociudad, fortaleciendo la intersectorialidad y la participación social, fomentando la cultura del 
+cuidado integral, el ejercicio de ciudadanía y el goce efectivo del derecho fundamental a la salud de 
+toda	su	población	e	influyendo	positivamente	en	la	transformación	de	los	determinantes	de	la	salud,	
+avanzando en equidad y el desarrollo humano, para que todas y todos  vivamos más y mejor en 
+nuestras diferentes edades y cursos de vida.
+Objetivo 
+Propiciar la construcción de proyectos de vida saludables, que permitan el desarrollo de hábitos de 
+autocuidado y estilos de vida responsables de las personas, familias y comunidades mediante la 
+atención integral e integrada. 
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Familias priorizadas 
+gestionadas a través de Secretaría de 
+Número ND 100.000
+los Equipos Territoriales de Salud
+Atención Familiar Integral.
+Tasa por 
+Mortalidad prematura por 14.3 Secretaría de 
+100.000 13.9
+hipertensión (30-69 años).  (2018) Salud
+habitantes
+Tasa por 
+Mortalidad Infantil (menores de 1.000 Secretaría de 
+7.1 7
+1 año). nacidos Salud
+vivos
+Sistema Integrado De Secretaría de Ruta N-
+Información de la Secretaría de Porcentaje NA 60
+Salud Subsecretaría de TI
+Salud implementado.
+Proporción de embarazos en Secretaría de 
+Porcentaje 0.6 0.5
+adolescentes de 10-14 años. Salud
+Mortalidad por lesiones auto Tasa por 
+6.8 Secretaría de 
+infringidas intencionalmente- 100.000 6.6
+(2018) Salud
+suicidio. habitantes
+Secretaría de 
+Proporción de embarazo en 15.8 Secretaría de Inclusión social
+Porcentaje 14
+adolescentes 10 a 19 años. (2018) Salud Secretaría de 
+Educación
+Tabla continúa en la siguiente página...
+3 0 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Razón por 
+Secretaría de 
+Mortalidad materna evitable. 100.000 17 (2018) 16.5
+Salud
+nacidos vivos
+Tasa por 
+Mortalidad temprana por 100.000 Secretaría de Secretaría de 
+cáncer de cuello uterino en 6.9 6.8
+mujeres de 30 Salud Mujeres
+mujeres de 30 a 69 años. a 69 años
+ Años de vida potencialmente 
+perdidos por mortalidad evitable Índice AVPP 
+Secretaría de 
+por vacunación, prevención, por 1.000 1.30 (2018) 1.25
+Salud
+saneamiento ambiental o habitantes
+medidas mixtas.
+Éxito de tratamiento de Secretaría de 
+Porcentaje 72 (2018) 75
+pacientes con tuberculosis. Salud
+Tasa de por 
+Mortalidad por EDA 100.000 Secretaría de 
+(enfermedad diarreica aguda) 1.4 (2018) 0.7
+menores de 5 Salud
+en menores de 5 años. años
+Personas con infección por Secretaría de 
+VIH que conocen diagnóstico Porcentaje 85 90
+Salud
+positivo.
+Incidencia de eventos en Tasa de 
+eliminación (sarampión, rubéola, incidencia Secretaría de 
+0 0
+síndrome de rubéola congénito, por 100 mil Salud
+poliomielitis y rabia humana). personas
+Índice de desempeño de salud Secretaría de 
+Porcentaje 59 60
+ambiental. Salud
+Secretaría de 
+Letalidad por dengue. Porcentaje 100 2
+Salud
+Cobertura de afiliación al Secretaría de 
+Sistema General de Seguridad Porcentaje 107.3 (2019) 100
+Salud
+Social en Salud (SGSSS).
+Tiempo promedio de la 
+atención prehospitalaria Secretaría de 
+en caso de urgencias, Minutos 14 14
+Salud
+emergencias y desastres para 
+triaje I y II.
+3 0 1
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Instituciones de salud Secretaría de 
+públicas nuevas acorde a la Número NA 1
+Salud
+normatividad vigente.
+Personas que perciben un 
+aumento de su bienestar a Porcentaje NA 90 INDER
+través de la participación en los 
+programas INDER.
+Estrategia para la prevención Secretaría de 
+del primer consumo Porcentaje NA 100
+Salud
+implementada.
+Escolares intervenidos con el 
+programa de Medellín Me Cuida Secretaría de 
+Salud en el entorno escolar Porcentaje NA 5
+Salud
+y familiar que disminuyen su 
+sobrepeso y obesidad.
+Fortalecimiento del Centro 
+Integrado de Servicios Secretaría de 
+Porcentaje NA 100
+Ambulatorios para la Mujer y la Salud
+Familia.
+Reconocemos la importancia  del enfoque diferencial en cada una de las estrategias que se 
+desarrollarán en los programas que planteamos en este componente, incorporaremos  variables de 
+diferenciación como sexo, situación económica, étnico-racial, género, curso de vida, situación física, 
+discapacidad,	diversidad	sexual,	situaciones	históricas,	culturales,	religiosas,	políticas,	geográficas,	
+entre otras variables, que permitirán analizar las situaciones de salud  desde una perspectiva integral 
+y el diseño de estrategias en términos de equidad. 
+Los anteriores enfoques y propósitos propuestos se ven ampliados en el Plan Territorial de Salud 
+“Comunidades, Cuerpos y Mentes Saludables, hacia un Territorio Saludable, Medellín 2020-2023”, 
+retomando los enfoques y las dimensiones priorizadas en el Plan Decenal de Salud Pública, buscando 
+así	cerrar	las	brechas	de	inequidad	en	salud	que	existen	en	la	ciudad,	definiendo	con	mayor	precisión	
+cómo se desarrollarán los enfoques de género, diferencial, étnico, de poblaciones vulnerables y de 
+territorial en las diferentes estrategias de los programas aquí propuestos. 
+En	la	construcción	del	actual	Plan	Territorial,	se	identificaron	con	cada	una	de	las	comunidades	las	
+tensiones en salud en las diferentes dimensiones de la salud pública priorizadas, donde se reconoce la 
+importancia de la acción intersectorial en los territorios para la intervención positiva de los determinantes 
+sociales	y	ambientales	de	la	salud,	identificando	los	diferentes	programas	e	indicadores	de	las	demás	
+3 0 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+líneas	y	componentes	definidos	por	otros	sectores	en	este	Plan	de	Desarrollo	Municipal	Medellín Futuro 
+2020-2023. Así mismo, el Plan Territorial describe la situación de salud frente a la emergencia sanitaria 
+por la pandemia del COVID-19 y el plan de acción que se emprendió en la ciudad el cual cuenta con 
+cuatro líneas de acción para trabajar en las diferentes etapas de la crisis (Anexo 2: Plan Territorial).
+Con los temas que se abordan en el componente Comunidades, cuerpos y mentes saludables, se 
+busca aportar a las metas del tercer ODS que busca garantizar una vida sana y promover el bienestar 
+de todos a todas las edades, esta contribución se monitoreará a través del indicador de la Agenda 
+de los Objetivos de Desarrollo Sostenible de la ciudad para el 2030 que se relaciona a continuación:
+Figura 69. Mortalidad materna por cada cien mil nacidos vivos, Medellín 2010-2018
+36.2 36.0
+29.3
+24.0 24.8
+21.1 21.2
+17.5 17.0 17.0 17.0 17.0 17.0 17.0 17.0 17.0
+14.5
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Razón Meta 2030
+ Fuente: Secretaría de Salud, Base de Datos Estadísticas Vitales (DANE), (2018).
+La meta de Medellín Futuro es que la razón de muertes maternas sea inferior a 20 por cada mil 
+nacidos vivos.
+Programas
+3.3.1.1. Programa. Medellín Me Cuida: Salud
+Descripción
+ 
+Desarrollar acciones que potencien el cuidado de sí, el cuidado del otro, y el cuidado del entorno, 
+mediante	la	atención	integral	e	integrada	con	los	diferentes	actores,	a	fin	de	garantizar	un	mayor	nivel	
+3 0 3
+Tercera parte. Marco programático
+de bienestar, enmarcado en la estrategia de Atención Primaria en Salud.  La  conformación de los 
+Equipos Territoriales de Atención Familiar Integral, será una de las principales estrategias con  enfoque 
+diferencial y por ciclo de vida que  desarrollarán las acciones  planteadas en el Plan Decenal de Salud 
+Pública y en el Plan de Intervenciones Colectivas (PIC): implementando acciones en salud mental 
+para la prevención del suicidio, la disminución del consumo de sustancias, el mejoramiento de la con-
+vivencia y la disminución de las diferentes formas de violencia; estrategia para avanzar en el ejercicio 
+libre, autónomo, igualitario y responsable de los derechos sexuales y los derechos reproductivos con 
+enfoque de género y diferencial, mediante la transformación de espacios, conceptos e imaginarios, 
+la prevención de riesgos y la atención en salud sexual, la implementación de metodologías, rutas y 
+protocolos que mitiguen los riesgos que vulneran los derechos sexuales y derechos reproductivos 
+de todas las personas; acciones que  fomenten en la población hábitos saludables y alimentación 
+sana en todos los entornos; intervenciones en  salud laboral, fomentando estilos de vida saludables 
+en	la	población	trabajadora	informal	y	formal	a	través	de	la	identificación	de	riesgos	y	acciones	de	
+promoción y educación en salud, con trabajo articulado con las respectivas organizaciones las ARL; 
+gestión del riesgo de  enfermedades crónicas no transmisibles y enfermedades transmisibles. Su 
+accionar será en los entornos hogar, educativo, comunitario y laboral- institucional, fortaleciendo el 
+enfoque de salud en todas las políticas para avanzar en la ruta de una ciudad saludable. Fortaleciendo 
+además la gobernanza territorial a través de la implementación de la Política de Participación Social 
+en Salud y el modelo de Gestión territorial en salud basada en comunidad para el fortalecimiento de 
+los mecanismos de participación en salud, conformación y consolidación de redes sociales, comuni-
+tarias, sectoriales e intersectoriales. 
+Objetivo general 
+Potenciar en los habitantes el cuidado del individuo, la familia, la comunidad y el entorno; enmarcado 
+en la estrategia de Atención Primaria en Salud, que facilita la atención integral e integrada, desde la 
+salud pública, la promoción de la salud, la prevención de la enfermedad, a través de la conformación 
+de los Equipos Territoriales de Atención Familiar Integral (ETAFI), el fortalecimiento de  las capacida-
+des comunitarias en la gestión territorial y participación social en salud y con la articulación de otros 
+sectores.
+Objetivos específicos 
+•  Desarrollar estrategias de promoción de la salud en las diferentes dimensiones del 
+Plan Decenal de Salud Pública, que promuevan la cultura del cuidado de sí, el cuida-
+do	del	otro,	y	el	cuidado	del	entorno,	a	fin	de	garantizar	un	mayor	nivel	de	bienestar.	
+•  Llevar a cada territorio y sus familias acciones intersectoriales en salud a través de la 
+conformación de los equipos territoriales de atención familiar integral. 
+•  Fortalecer el desarrollo humano integral y la calidad de vida de la población del 
+municipio, a través de la implementación de acciones de autocuidado, estrategias de 
+3 0 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+promoción de la salud mental, prevención de la enfermedad y gestión del riesgo en 
+salud mental.
+•  Realizar asesoría y asistencia técnica en las diferentes Entidades administradoras 
+de	planes	de	beneficio	(EAPB)	e	Instituciones	prestadoras	de	servicios	(IPS)	para	la	
+implementación de las rutas de atención integral en salud priorizadas.
+•  Gestionar condiciones sociales, económicas, políticas y culturales que inciden en el 
+ejercicio pleno y autónomo de los derechos sexuales y derechos reproductivos de la 
+población de Medellín, en el marco de los enfoques de derechos, de género y diferen-
+cial,	con	el	fin	de	incidir	en	la	reducción	de	condiciones	de	vulnerabilidad	y	la	atención	
+integral de las personas.
+•  Fortalecer las capacidades en la gestión territorial y participación social en salud de 
+los individuos, las familias, las organizaciones comunitarias, las entidades no gu-
+bernamentales y los diferentes actores de la sociedad; para mejorar su incidencia 
+política y ejercer el control social en salud, y así avanzar hacia una gobernanza en la 
+salud integral y el bienestar poblacional en los territorios.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Cobertura en las acciones de prevención y 
+detección temprana de las enfermedades no Porcentaje NA 52 Secretaría de Salud
+transmisibles (ENT).
+Política de salud bucal implementada. Porcentaje 62 100 Secretaría de Salud
+Coberturas administrativas de vacunación con Porcentaje 97 95 Secretaría de Salud
+DPT (3 dosis en menores de 1 año).
+Política Pública de Salud Mental implementada. Porcentaje NA 50 Secretaría de Salud
+Comunas y corregimientos con el modelo de Número 21 21 Secretaría de Salud
+gestión territorial implementado.
+Ruta de atención materno perinatal Porcentaje ND 100 Secretaría de Salud
+implementada.
+3 0 5
+Tercera parte. Marco programático
+3.3.1.2.  Programa. Tecnologías en salud, gestión de información y  
+    del conocimiento
+Descripción 
+Fortalecer la gestión de la información y la gestión del conocimiento para lograr un mejor aprove-
+chamiento de la telesalud y la innovación en salud, a partir de la administración, análisis y uso de 
+la información, utilizando metodologías y herramientas avanzadas, con innovación y tecnología. 
+El	análisis	interdisciplinario	e	intersectorial	para	la	identificación	y	seguimiento	a	las	diversas	
+situaciones y problemáticas en salud son requerimientos indispensables que contribuyen a la 
+Gobernanza y Gobernabilidad de la Administración Municipal en el sector. 
+Se	cualificará	el	sistema	de	información	en	salud,	que	permita	reconocer	e	identificar	todas	
+las variables de diferenciación de género, étnico y poblacional y su análisis interseccional, como 
+herramienta para el diseño, implementación, monitoreo y seguimiento de las estrategias, progra-
+mas y proyectos.
+Este programa incluye estrategias de implementación y desarrollo del sistema de información 
+de salud articulado, fortalecimiento de la plataforma para el CIGA, las estrategias de salud pú-
+blica, el sistema de emergencias médicas, desarrollo de plataformas de telesalud, gestión de la 
+información y del conocimiento en salud.
+Objetivo general 
+Fortalecer los sistemas de información y conocimiento en la Secretaría de Salud, por medio del 
+desarrollo de capacidades, innovación, implementación y articulación de componentes y proce-
+dimientos para el cumplimiento de las competencias.
+Objetivos específicos 
+•  Implementar modelos operativos que garanticen la debida gestión de la informa-
+ción y el conocimiento en salud.
+•  Desarrollo de acciones para la innovación, uso y aplicación de las TIC y telesalud 
+para fortalecer el acceso y la atención en salud de la población en el municipio de 
+Medellín.
+•  Implementar modelos tecnológicos que permitan integrar los diferentes sistemas 
+de información en salud.
+3 0 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Estrategias telesalud, big data, analítica 
+de datos y APP de hábitos saludables Porcentaje NA 80 Secretaría de Salud
+implementadas.
+Unidad de gestión de información operando los Porcentaje 100 100 Secretaría de Salud
+12 meses del año.
+Plataformas tecnológicas para la salud pública, 
+sistema de emergencias médicas, acceso a Número 0 4 Secretaría de Salud
+servicios de salud operando.
+3.3.1.3.  Programa. Vigilancia en salud
+Descripción 
+Fortalecer el direccionamiento del sector y de sus funciones como autoridad sanitaria, con el debido 
+seguimiento, prevención e intervención de los eventos de interés en salud pública, a la carga ambien-
+tal de la enfermedad, los factores y determinantes de la salud y el acceso efectivo a los servicios en 
+salud, como aporte para una mejor calidad de vida y el goce pleno de la salud y el bienestar. 
+La vigilancia integral en salud está articulada con el programa de tecnologías en salud y convo-
+cará a todos los actores del sector y de otros sectores para su implementación en los entornos. Este 
+programa incluye la vigilancia epidemiológica, la vigilancia en salud ambiental, la supervisión del 
+acceso a los servicios de salud, y la inspección, vigilancia y control de los riesgos para la salud en 
+establecimientos de consumo.
+Objetivo general 
+Contribuir al mejoramiento de las condiciones de vida de la población del municipio de Medellín por 
+medio de la vigilancia en salud de factores de riesgo, factores protectores y eventos, a través de la 
+gestión de estrategias e intervenciones en salud pública, control sanitario y la vigilancia y supervisión 
+de los actores del Sistema General de Seguridad Social en Salud.
+Objetivos	específicos	
+•  Desarrollar acciones de supervisión del acceso a la prestación de los servicios de 
+salud de forma continua y sistemática, para contribuir al mejoramiento de la calidad 
+3 0 7
+Tercera parte. Marco programático
+en la atención de los servicios y desarrollar estrategias para disminuir las barreras en 
+el acceso a la salud en el municipio de Medellín. 
+•  Vigilar, controlar, eliminar y erradicar los eventos de Interés en Salud Pública (EISP) y 
+Emergencias de Salud Pública de Interés Internacional (ESPII) en la ciudad de Medellín.
+•  Implementar el sistema de vigilancia en salud ambiental de los efectos en la salud 
+asociados a factores ambientales.
+•  Disminuir los factores de riesgo ambientales asociados al consumo de bienes y servi-
+cios que puedan afectar la salud, a través intervenciones de los diferentes estableci-
+mientos sanitarios.
+• 	 Fortalecer	los	recursos	humanos,	físicos,	tecnológicos,	logísticos	y	financieros	para	la	
+gestión de la Secretaría de Salud.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+IPS priorizadas que implementan acciones de 
+mejora establecidas dentro de la supervisión Porcentaje 100 100 Secretaría de Salud
+del acceso.
+Investigaciones epidemiológicas según Porcentaje 100 95 Secretaría de Salud
+protocolos realizadas.
+Investigaciones epidemiológicas realizadas 
+a eventos sospechosos o confirmados del Porcentaje 100 95 Secretaría de Salud
+Reglamento Sanitario Internacional.
+Protocolos de vigilancia en salud ambiental Porcentaje 60 100 Secretaría de Salud
+implementados. 
+Establecimientos de alto riesgo sanitario Porcentaje 76 80 Secretaría de Salud
+priorizados con inspección vigilancia y control.
+3.3.1.4.  Programa. Salud ambiental
+Descripción 
+Favorecer y promover la calidad de vida y salud de la población, de las presentes y futuras genera-
+ciones y materializar el derecho a un ambiente sano, a través de la transformación positiva de los 
+determinantes sociales, sanitarios y ambientales; incluye acciones de promoción, prevención, inspec-
+ción, vigilancia y control en salud ambiental, la dinamización de la participación activa a nivel sectorial, 
+intersectorial, interinstitucional y comunitario, para buscar la solución integral de los problemas de 
+3 0 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+salud ambiental, la universalización de los servicios  públicos, vigilancia y control de factores de riesgo 
+ambientales, el manejo integral de las cuencas y microcuencas del territorio, la implementación de 
+acciones territoriales y políticas para la  adaptación en salud al cambio y variabilidad climática.
+Este programa incluye: la gestión de los factores sanitarios (agua, saneamiento básico, residuos), 
+la gestión de los factores ambientales (contaminación del aire, ruido, radiaciones electromagnéticas y 
+cambio climático), la inspección, vigilancia y control de los establecimientos de consumo de servicios 
+y el control de los vectores y las zoonosis.
+Objetivo general 
+Fortalecer la autoridad sanitaria con las acciones de inspección, vigilancia y control para el segui-
+miento, prevención e intervención de los eventos de interés en salud pública, la carga ambiental de 
+la enfermedad asociada a los factores y determinantes ambientales de la salud.
+Objetivos específicos 
+•  Desarrollar la estrategia de gestión integrada para el control de las enfermedades 
+transmitidas por los vectores y las zoonosis.
+•  Realizar acciones intersectoriales para la intervención y adaptación poblacional frente 
+los diferentes factores ambientales que afectan la salud de las personas como el aire, 
+ruido, radiaciones electromagnéticas y los asociados a la crisis climática.
+•  Realizar acciones intersectoriales para la intervención, vigilancia y control de factores 
+de riesgo sanitarios que afectan la salud de las personas como las basuras, los resi-
+duos peligrosos, la calidad del agua para consumo humano y recreativo, condiciones 
+sanitarias de las viviendas, entre otros.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Plan de adaptación en salud al cambio 
+y variabilidad climática formulado e Porcentaje 0 60 Secretaría de Salud
+implementado.
+Estrategia de gestión integrada de las zoonosis 
+de interés en salud pública formulada e Porcentaje 0 50 Secretaría de Salud
+implementada.
+Establecimientos generadores de residuos 
+hospitalarios, similares y peligrosos priorizados Porcentaje ND 80 Secretaría de Salud
+con inspección vigilancia y control.
+3 0 9
+Tercera parte. Marco programático
+3.3.1.5.  Programa. Infraestructura, equipamientos y acceso a los  
+     servicios de salud
+Descripción 
+Gestionar y fortalecer el acceso de los servicios de salud, según las necesidades de la población, 
+prestando un servicio basado en la equidad, calidad, humanización y que contribuya a la disminu-
+ción de barreras, en articulación con las diferentes redes privadas, públicas y mixtas, para promover 
+la salud y el bienestar de todas las personas. Además de fortalecer la red pública de servicios de 
+salud,	por	medio	de	la	construcción,	mejoramiento	de	la	infraestructura	y	el	equipamiento,	con	el	fin	
+de garantizar el mejoramiento de la calidad de vida de la población, a través de la disminución de 
+las barreras de acceso, de lograr una atención con oportunidad, para que incremente la cobertura, 
+mejore la satisfacción ciudadana y se disminuya las complicaciones evitables de los eventos en salud. 
+Objetivo general 
+Fortalecer el acceso a los servicios de salud según las necesidades de la población, a través de la 
+financiación	de	la	atención	de	la	población	pobre	vulnerable;	la	adecuación	de	la	red	de	prestación	
+de servicios, procurando la equidad, la calidad y la humanización en el acceso.
+Objetivos específicos 
+•  Gestionar y promocionar el aseguramiento en salud para la población de Medellín.  
+• 	 Garantizar	y	gestionar	la	atención	en	salud	para	la	población	pobre	que	no	está	afilia-
+da al sistema general de seguridad social en salud. 
+•  Fortalecer los servicios de salud de la red pública y privada, con el mejoramiento de 
+la calidad, continuidad y acceso a la atención en salud.
+•  Mantener en Medellín el Sistema de Emergencias para la Atención de Urgencias, 
+Emergencias y Desastres, garantizando su oportunidad y calidad.
+•  Entregar a la ciudad nueva infraestructura en salud, fortaleciendo principalmente la 
+red pública para la atención en salud mental.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Déficit de cobertura del régimen subsidiado Porcentaje 0.2 0.15 Secretaría de Salud
+certificado por el Ministerio de Salud.
+Tabla continúa en la siguiente página...
+31 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Población pobre no asegurada PPNA con 
+acceso a servicios de salud de primer nivel Porcentaje 100 100 Secretaría de Salud
+garantizado.
+Instituciones prestadoras de servicios de 
+salud que logran un nivel adecuado de la Porcentaje 69 69 Secretaría de Salud
+implementación del PAMEC.
+Nueva infraestructura hospitalaria entregada Porcentaje NA 100 Secretaría de Salud
+(Hospital mental).
+Unidad hospitalaria de Buenos Aires entregada. Porcentaje 67 100 Secretaría de Salud
+Unidad hospitalaria de Santa Cruz ampliada. Porcentaje NA 100 Secretaría de Salud
+Instituciones de la Red Pública fortalecidas. Porcentaje 100 100 Secretaría de Salud
+Días al año en operación del Sistema de 
+Emergencias Médicas para la Atención De Número 365 365 Secretaría de Salud
+Urgencias, Emergencias y Desastres.
+3.3.1.6.  Programa. Medellín vive el deporte, la recreación y 
+     la actividad física 
+Descripción 
+Fomentar la práctica del deporte, la recreación y la actividad física en hombres y mujeres de todos los 
+grupos	etarios,	con	el	fin	de	prevenir	el	sobrepeso,	la	obesidad,	a	través	de	espacios	que	contribuyan	
+a la salud física y mental, la promoción de estilos de vida saludable y la cultura ciudadana de todos 
+los habitantes del municipio de Medellín.
+Objetivo general 
+Fomentar el deporte, la recreación y la actividad física como medios de transformación social de los 
+habitantes de la ciudad de Medellín, contribuyendo con el mejoramiento de la calidad de vida y la 
+cultura ciudadana.
+31 1
+Tercera parte. Marco programático
+Objetivos específicos 
+•  Promover el deporte social comunitario, educativo y asociado desde los procesos 
+formativos, pedagógicos y competitivos.
+•  Incentivar la práctica de la actividad física para el mejoramiento de la salud, la 
+disminución del sedentarismo, la prevención de enfermedades no transmisibles y el 
+debilitamiento de la salud y mental física.
+•  Fomentar la participación y la inclusión social de los diferentes grupos poblacionales 
+a través de actividades recreativas y de aprovechamiento del tiempo libre.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Personas con discapacidad que participan en la Número 5.669 5.669 INDER
+estrategia Sin Límites.
+Personas que participan en estrategias de Número 149.327 158.000 INDER
+actividad física.
+Personas que participan en las estrategias de Número 41.994 44.276 INDER
+las escuelas populares del deporte.
+Personas atendidas con actividades deportivas. Número 67.524 59.906 INDER
+Personas atendidas mediante actividades Número 74.963 64.530 INDER
+recreativas.
+3.3.2.  Componente. Juventudes
+La juventud no sólo es futuro, es el presente más dinámico, la actualización de la sociedad misma. 
+Generar capacidades y oportunidades de desarrollo humano para nuestras y nuestros jóvenes es 
+generar posibilidades de futuro para la ciudad en su conjunto. No se trata sólo de una orientación 
+ciega y voluntarista hacia el porvenir, entablar un diálogo honesto con el pasado se hace necesario, 
+reconocer y tener memoria de dónde se viene: para reconocer lo más valioso de nuestra tradición 
+y actualizarlo en los nuevos contextos tecnológicos, culturales y ambientales que nos rodea, para 
+superar prácticas y tradiciones que ya no van con el proyecto de futuro que Medellín ha venido 
+construyendo y nos atan con violencia al pasado. Es ir hacia el futuro dotados de capacidades 
+31 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+técnicas e intelectuales, pero también dotado de memoria e identidad como premisas del 
+derecho a esa nueva ciudad que hoy se erige.
+Frente a la tradición política que ha sostenido una visión de los jóvenes como problema, 
+nuestra concepción los observa como solución y actores del cambio. El mundo que habitamos 
+hoy exige mayores espacios y garantías de decisión y opinión para los jóvenes. Empecemos 
+entonces por reconocer que jóvenes hay de todo tipo: los que participan activamente de la 
+vida política de la ciudad, los que se toman el espacio público para intervenir en él con de-
+mostraciones culturales, los que trabajan arduamente por el progreso de Medellín, los que 
+no temen mostrar su desacuerdo, los que resisten desde los territorios y trabajan por una 
+ciudad diferente, los que emprenden, los que estudian, crean y se divierten; pero también los 
+que luchan por su identidad, los que exigen que se les respete, los que reclaman su derecho 
+a expresarse y a ser escuchados, los cientos de miles a los que se les ha negado un futuro, 
+educación y empleo. 
+En	esta	perspectiva,	la	juventud	no	sólo	es	beneficiaria	de	políticas	sociales,	sino	que	
+también es agente creador y transformador de su propio destino.  Ello implica la creación y 
+mantenimiento de espacios y tiempos, redes de interacción, protección y cuidado para que la 
+condición del ser-joven sea posible: espacio-tiempos culturales y políticos que le permitan a la 
+juventud construir y ejercer su propio carácter e identidad en cuanto (re)generación o sucesión 
+de la propia sociedad.
+En esta dirección, nos sumamos a la Política Pública de Juventud de Medellín (Acuerdo 
+19 del 2014) cuando se plantea: (1) garantizar el reconocimiento de los jóvenes en la socie-
+dad, como sujetos de derechos y deberes, como actores estratégicos del desarrollo y como 
+constructores de democracia y convivencia, (2) generar y fortalecer espacios y escenarios 
+que permitan y garanticen a la población juvenil la participación social, política, cultural, eco-
+nómica y ambiental para la concertación, la incidencia y la toma de decisiones en asuntos y 
+propuestas que los involucran y/o que son de su interés, tanto a nivel individual como colectivo, 
+y (3) propiciar la incidencia en los entornos en los cuales transcurre la vida de los jóvenes, 
+para contribuir y asegurar las condiciones que posibiliten el desarrollo integral de la juventud.
+Objetivo 
+Crear y garantizar condiciones sociales, económicas, políticas, culturales y espaciales para 
+que la población joven sea reconocida como agente de cambio, desarrolle y despliegue su 
+potencial creativo y transformador de cara a una ciudad incluyente, participativa, ambiental 
+y económicamente sostenible, apoyándonos en una oferta institucional que atienda a los 
+jóvenes desde sus diferencias y sus territorios, garantizando el buen desempeño de la Se-
+cretaría de la Juventud.
+31 3
+Tercera parte. Marco programático
+Indicadores de resultado 
+Unidad Línea Meta 
+Indicadores de resultado Responsable
+de medida base 2020-2023
+Índice de desarrollo juvenil Secretaría de la 
+Número 7.8 8
+(dimensión del desarrollo ser joven). Juventud
+Secretaría de 
+Índice de Participación Ciudadana número 0.394 0.4 Participación 
+(subíndice juventud). Ciudadana
+Jóvenes atendidos efectivamente en las Secretaría de la 
+necesidades en salud reportadas en el Sistema Porcentaje NA 100
+Juventud
+de Alertas Tempranas de Medellín, SATMED.
+Jóvenes con capacidades para la apropiación Secretaría de la 
+del territorio de los atendidos por el programa Porcentaje NA 50
+Juventud
+Hábitat Joven.
+Jóvenes atendidos efectivamente en las 
+necesidades en vulnerabilidad económica Secretaría de la 
+Porcentaje NA 100
+reportadas en el Sistema de Alertas Tempranas Juventud
+de Medellín, SATMED.
+El componente de Juventudes, incluye acciones orientadas a lograr que los jóvenes de la ciudad 
+puedan desarrollar todas sus potencialidades, las cuales aportarán a las metas del ODS 8, promo-
+viendo el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el 
+trabajo decente para todos, esta contribución se monitoreará a través del indicador de la Agenda de 
+los Objetivos de Desarrollo Sostenible de la ciudad para el 2030 que se relaciona a continuación:
+Figura 70. Porcentaje de la población NINI entre 14 y 28 años, Medellín 2010-2018 
+ 
+19.56 20.67 19.77 20.05 19.57 19.90
+17.04
+15.0 15.0 15.0 15.0 15.0 15.0 15.0 15.0 15.0
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+Fuente: Gran Encuesta Integrada de Hogares (GEIH), (2010-2018).
+31 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+El objetivo es que, al cierre del Plan de Desarrollo, la cantidad de jóvenes que se encuentren en 
+esta condición sea inferior a las cifras registradas en los últimos años en la ciudad. 
+Programas
+3.3.2.1.  Programa. Salud pública juvenil
+Descripción 
+Este programa aporta a los objetivos de la Línea Estratégica y de acción Salud Pública Juvenil, del Plan 
+Estratégico de Juventud de Medellín, desde la cual se reconoce la salud como derecho humano funda-
+mental y la salud pública como las “medidas que se consideren acertadas para que cada ser humano 
+nazca, crezca y muera dentro de una sociedad que le permita desarrollar su máxima potencialidad bio-
+lógica y espiritual, libre de enfermedades, de temores y de sufrimientos evitables” (Héctor Abad Gómez).
+ Los jóvenes de Medellín comprenden la salud desde sus prácticas cotidianas: montar en bicicleta, 
+el autocuidado, alimentarse bien, hacer ejercicio, sus consumos conscientes y las conversaciones 
+sobre su salud mental y sexualidad hacen parte de algunas de las prácticas que nos enseñan hoy, 
+que la salud va más allá de la enfermedad, y como sociedad debemos reconocer la capacidad de 
+autodeterminación de las juventudes para tomar decisiones sobre sus consumos, cuerpos y vidas; 
+los proyectos de este programa están orientados a que los y las jóvenes accedan a información cua-
+lificada	para	la	toma	de	decisiones	conscientes.
+Objetivo general 
+Gestionar el riesgo en torno a fenómenos de salud pública y sus determinantes sociales en los y las 
+jóvenes de la ciudad de Medellín.  
+Objetivos específicos 
+•  Promover prácticas informadas con relación a los riesgos para la salud derivados del 
+ejercicio del consumo. 
+• 	 Propiciar	espacios	de	reflexión	en	torno	al	uso	responsable	del	cuerpo.
+• 	 Atender	y	derivar	las	alertas	de	riesgo	en	salud	identificadas	por	el	Sistema	de	Alertas	
+Tempranas	de	Medellín,	SATMED,	en	los	territorios	específicos	delimitados.
+•  Orientar en prácticas saludables a los y las jóvenes con consumos potencialmente 
+problemáticos.
+•  Propiciar escenarios para el reconocimiento de los consumos problemáticos como 
+riesgos para la salud.
+31 5
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Diagnóstico realizado del riesgo químico de Secretaría de la 
+las sustancias psicoactivas circulantes en la Número NA 1
+Juventud
+ciudad de Medellín.
+Instituciones educativas (educación media y 
+superior) atendidas que incluyen el enfoque Secretaría de la 
+de mitigación del daño sobre consumos Porcentaje NA 40
+Juventud
+problemáticos y prevención a la conducta 
+suicida en sus estrategias de prevención.
+Atenciones realizadas en los centros de 
+escucha para la mitigación del daño en torno Secretaría de la 
+Número NA 6.000
+a los riesgos asociados a fenómenos de salud Juventud
+pública y sus determinantes sociales.
+Encuentros informativos realizados para Secretaría de la 
+la mitigación del daño de consumos Número NA 6
+Juventud
+problemáticos.
+Jóvenes que participan en los encuentros Secretaría de la 
+informativos para la mitigación del daño de Número NA 1.800
+Juventud
+consumos problemáticos.
+3.3.2.2.  Programa. Juventud que teje vida
+Descripción 
+Este programa aporta a los objetivos de la Línea Estratégica y de acción Convivencia y Derechos 
+Humanos, del Plan Estratégico de Juventud de Medellín, desde la cual se reconocen los derechos 
+humanos como un conjunto de orientaciones que permiten concretar en la cotidianidad los principios 
+de libertad, igualdad, seguridad y solidaridad, en tanto representan los pactos fundamentales sobre 
+los cuales un ciudadano/a puede decidir lo que quiere para su vida, en un marco de límites que genera 
+estabilidad y libertad a las demás personas, y la convivencia hace parte de esta esfera entendida en su 
+sentido amplio como la posibilidad de vivir con otras personas, compartir un mismo espacio y territorio. 
+Como sociedad tenemos la tarea de establecer un sistema de protección que cuide a los jóvenes 
+de los riesgos sociales y les permita disfrutar de sus libertades. Las juventudes de Medellín son 
+resistentes, pero no pueden solas, en este sentido este programa aporta a generar y acompañar 
+31 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+estrategias de promoción, prevención, respeto y garantía de los derechos y libertades de las juven-
+tudes que les permitan vivir y desarrollarse en convivencia con los demás y con su entorno a partir 
+de	la	confianza	y	la	solidaridad.
+Objetivo general 
+Generar, implementar y acompañar estrategias de promoción, prevención, respeto y garantía de los 
+derechos y libertades de las personas jóvenes que les permitan vivir y desarrollarse en convivencia 
+con	los	demás	y	su	entorno	a	partir	de	la	confianza	y	la	solidaridad.
+Objetivos específicos 
+•  Potenciar las capacidades que tienen los y las jóvenes de Medellín, para la promo-
+ción del cuidado y la prevención de hechos victimizantes priorizados por el SATMED 
+en sus territorios.
+•  Fortalecer de forma individual y grupal a jóvenes en condición de vulnerabilidad o 
+riesgo social, incluyendo a jóvenes del sistema de responsabilidad penal adolescente, 
+con	el	fin	de	prevenir	problemáticas	como	el	reclutamiento,	el	uso,	utilización	y	cons-
+treñimiento a adolescentes y jóvenes de la ciudad de Medellín.
+•  Fortalecer los atributos sociales, creativos y culturales para la construcción del capital 
+social,	la	confianza	y	la	promoción	de	la	convivencia	alrededor	del	fútbol	y	lo	que	
+representa para la ciudad de Medellín.
+•  Atender NNAJ en riesgo de ser instrumentalizados para la comisión de delitos por 
+parte de las estructuras criminales con acompañamiento psicológico, oportunidades 
+en educación, empleo y/o, emprendimiento.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Jóvenes formados y con capacidades para el Secretaría de la 
+agenciamiento, la promoción de convivencia y Número NA 4.000
+Juventud
+prevención de violencias.
+Jóvenes acompañados para prevenir la Secretaría de la 
+Número NA 3.200
+vulneración de sus derechos y libertades. Juventud
+Jóvenes atendidos efectivamente en las Secretaría de la 
+necesidades reportadas en el Sistema de Porcentaje 78 95
+Juventud
+Alertas Tempranas de Medellín, SATMED.
+Tabla continúa en la siguiente página...
+31 7
+Tercera parte. Marco programático
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Agentes protectores formados y con Secretaría de la 
+capacidades en la promoción del cuidado y Número 240 1400
+juventud
+prevención de vulneraciones en sus territorios.
+NNAJ acompañados psicosocialmente por la Secretaría de 
+estrategia “Parceros” frente a la construcción Número 1.080 1.200 Seguridad y 
+de un proyecto de vida desde la legalidad. Convivencia
+NNAJ en riesgo de ser instrumentalizados 
+para la comisión de delitos por parte de Secretaría de 
+las estructuras criminales atendidos por Porcentaje 46 60 Seguridad y 
+la estrategia "Parceros" que acceden a Convivencia
+oportunidades en educación, empleo y/o, 
+emprendimiento.
+Encuentros interactivos realizados para la Secretaría de la 
+Número NA 40
+promoción Juventud
+3.3.2.3.  Programa. El futuro se parece a nosotros
+Descripción 
+Este programa aporta a los objetivos de la Línea Estratégica y de acción Cultura Juvenil, del Plan 
+Estratégico de Juventud de Medellín, desde la cual se pretende fortalecer las condiciones para el goce 
+efectivo de los derechos culturales y el ejercicio de una ciudadanía cultural democrática por parte de 
+los jóvenes de Medellín, así como brindar las herramientas posibilitadoras para construir identidades 
+juveniles o adscribirse a identidades colectivas; para fortalecer las diversidades culturales; para de-
+sarrollar	su	sentido	de	la	espiritualidad	y	trascendencia;	para	apropiarse	y	resignificar	los	territorios;	
+para participar del espacio público; y para incidir positivamente en la vida cultural de la ciudad. 
+Reconocemos	en	las	identidades	juveniles	una	búsqueda	infinita	del	ser	donde	emergen	las	
+perplejidades y dilemas morales de nuestra sociedad, por eso comprender sus lenguajes y estéticas 
+permitirá un mejor relacionamiento con las agendas, posturas políticas y narrativas sobre la ciudad.
+Objetivo general 
+Movilizar las agendas juveniles mediante la articulación de la oferta y la participación de los jóvenes 
+en experiencias, espacios y prácticas que enriquezcan la vida personal y colectiva de las juventudes 
+en Medellín.
+31 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivos específicos 
+•  Movilizar agendas con jóvenes y actores juveniles que posibiliten la construcción y 
+visibilización	de	nuevos	referentes	de	lo	que	significa	ser	joven	en	Medellín.
+•  Articular la difusión de la oferta pública, privada, mixta y comunitaria para el acceso a 
+las oportunidades que permitan el desarrollo del ser joven, el consumo de ciudad y la 
+formación de públicos.
+•  Promover la participación de los jóvenes en experiencias, espacios y prácticas artísti-
+cas y culturales.
+•  Reconocer la diversidad juvenil para fortalecer las prácticas y expresiones juveniles 
+como parte del desarrollo del ser joven.
+•  Fomentar procesos formativos en arte y cultura a través de gestión y divulgación de 
+la oferta enfocada en jóvenes.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Orientaciones efectivas de la oferta Medellín Secretaría de la 
+Número 2.378.703 2.400.000
+Joven. Juventud
+Acceso efectivo a la oferta publicada en la Secretaría de la 
+Número NA 50.000
+plataforma Medellín Joven. Juventud
+Jóvenes que asisten al seminario de Secretaría de la 
+Número 199 320
+comunicaciones. Juventud
+Secretaría de la 
+Personas que asisten a semana de la juventud. Número 118.600 120.000
+Juventud
+Eventos realizados para movilizar agendas 
+con jóvenes y actores juveniles que posibiliten Secretaría de la 
+la construcción y visibilización de nuevos Número 7 8
+Juventud
+referentes de lo que significa ser joven en 
+Medellín.
+Grupos artísticos y culturales vinculados a la Secretaría de la 
+Número NA 20
+Agenda Joven y que tienen enfoque diferencial. Juventud
+31 9
+Tercera parte. Marco programático
+3.3.2.4.  Programa. Hábitat joven
+Descripción 
+Este programa aporta a los objetivos de la Línea Estratégica y de acción Ecología y Sostenibilidad, del 
+Plan Estratégico de Juventud de Medellín, desde la cual se reconoce que los derechos a un ambiente 
+sano y al desarrollo son considerados derechos humanos fundamentales, queremos hacer de Medellín 
+una Ecociudad que se planea a partir de sus fuentes hídricas es recuperar las raíces de nuestros ances-
+tros, que comprendieron al agua como ordenadora de vida, así los proyectos de este programa buscan a 
+aportar al reconocimiento y respeto a la diversidad, a las prácticas y dinámicas locales urbanas y rurales, 
+a la valoración y conservación de los ecosistemas y su biodiversidad, y a  lecturas de contextos que 
+posibiliten el equilibrio de las relaciones entre los seres humanos y su entorno, para también compren-
+der y proponer estrategias de acción a las problemáticas de las personas jóvenes de la ciudad y a la 
+necesidad de que las soluciones partan de iniciativas acordes con sus realidades. Un joven que conoce 
+su territorio está en la capacidad de transformarlo, las juventudes también tienen derecho a la ciudad.
+Objetivo general 
+Promover en los y las jóvenes el cuidado y la apropiación del hábitat en los territorios urbanos y rurales 
+de la ciudad de Medellín desde una construcción socio cultural múltiple, histórica y territorialmente 
+contextualizada.
+Objetivos específicos
+•  Fortalecer los procesos juveniles que involucren el cuidado del hábitat en los territo-
+rios urbanos y rurales de la ciudad de Medellín.
+• 	 Fomentar	en	los	y	las	jóvenes	la	protección	de	las	fuentes	hidrográficas	de	la	ciudad	
+de Medellín.
+•  Generar espacios de educación y participación juvenil en torno al hábitat en los terri-
+torios urbanos y rurales de la ciudad de Medellín.
+•  Motivar en los jóvenes acciones ambientales y de desarrollo sostenible del hábitat en 
+los territorios urbanos y rurales de la ciudad de Medellín.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Jóvenes que participan en las rutas de Medellín Secretaría de la 
+Número 4.551 5.000
+en la Cabeza. Juventud
+Tabla continúa en la siguiente página...
+3 2 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Jóvenes rurales atendidos por los diferentes Secretaría de la 
+Número 2.935 4.000
+proyectos de la Secretaría de la Juventud. Juventud
+Jóvenes formados y acompañados para el Secretaría de la 
+Número NA 2.000
+cuidado de las fuentes hídricas. Juventud
+Secretaría de la 
+Procesos juveniles ambientales fortalecidos. Número NA 21
+Juventud
+Eventos para promover en las juventudes el Secretaría de la 
+cuidado y la apropiación del hábitat en los Número NA 6
+Juventud
+territorios urbanos y rurales de Medellín.
+3.3.2.5.  Programa. Jóvenes en el Valle del Software
+Descripción 
+Este programa aporta a los objetivos de la Línea Estratégica y de acción Trabajo y Emprendimien-
+to Juvenil, del Plan Estratégico de Juventud de Medellín, desde la cual se reconoce el derecho al 
+trabajo digno, en los términos de la Constitución Política y al trabajo decente entendidos como la 
+posibilidad de contar con oportunidades de un trabajo que sea productivo y que produzca un ingreso 
+digno, seguridad en el lugar de trabajo y protección social para las familias, mejores perspectivas de 
+desarrollo personal e integración a la sociedad e igualdad de oportunidad y trato para las mujeres y 
+los hombres, así como de los habitantes rurales y urbanos. 
+Para esto desde el programa se busca contribuir a la generación de mejores condiciones de 
+empleabilidad y emprendimiento para los jóvenes y aportar a la atención de jóvenes en condición 
+de vulnerabilidad económica, las iniciativas y oportunidades para jóvenes deberán estar claramente 
+ligadas a la generación de ingresos, sin esta conexión, principalmente los más pobres, desconectados 
+de la ciudad y sin redes de apoyo, seguirán sin satisfacer sus necesidades básicas o en dinámicas 
+de economías precarias, informales o en la ilegalidad.
+Objetivo general 
+Potenciar las capacidades que tienen los y las jóvenes de Medellín para afrontar los riesgos que 
+impactan su seguridad económica, mediante la formación y habilitación para el trabajo, la inserción 
+laboral y el emprendimiento juvenil.
+3 2 1
+Tercera parte. Marco programático
+Objetivos específicos 
+•  Creación de la unidad estratégica de seguridad económica juvenil.
+•  Fortalecer de las cadenas de valor de emprendimiento juvenil. 
+•  Diseño e implementación de la ruta de atención en inseguridad económica para jóve-
+nes vulnerables.
+•  Fortalecer la capacidad de los jóvenes rurales para satisfacer sus necesidades eco-
+nómicas.
+•  Construir alternativas de autoabastecimiento de las juventudes urbanas y rurales.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable Corresponsable
+de medida 2020-2023
+Unidades de 
+autoabastecimiento y Secretaría de la 
+Número NA 20
+producción agroecológica rural Juventud
+y urbana fortalecidas. 
+Cadenas de valor juveniles Secretaría de la 
+Número NA 8
+fortalecidas. Juventud
+Secretaría 
+Unidad estratégica de seguridad Secretaría de 
+Porcentaje NA 100 de Desarrollo 
+económica juvenil creada. la Juventud
+Económico
+3.3.2.6.  Programa. Incidencia y organización juvenil
+Descripción 
+Este programa aporta a los objetivos de la Línea Estratégica y de acción Democracia y Participación, 
+del Plan Estratégico de Juventud de Medellín, desde la cual se entiende la participación como prin-
+cipio y derecho fundamental que busca garantizar la incidencia de los y las jóvenes en la toma de 
+decisiones sobre lo público, a la vez, promueve su involucramiento en la planeación y ejecución de 
+dichas decisiones. Las juventudes de Medellín sí participan, así como existen jóvenes con una fuerte 
+actividad política vinculada a movimientos y estructuras formales, otros encuentran mecanismos de 
+participación más efectivos en las formas no convencionales y disidentes. Este programa genera 
+estrategias	de	formación	y	acompañamiento	que	promuevan	la	configuración	de	una	subjetividad	
+social, ética y política en los jóvenes que les permitan su autorreconocimiento como sujetos de de-
+beres y derechos en relación con los otros, los ayuden a ampliar su comprensión de las realidades 
+3 2 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+territoriales y las posibilidades que les ofrecen y los lleven a incidir en las dinámicas democráticas. 
+Con este programa también se implementan acciones necesarias para el fortalecimiento institucional 
+que le permita a la Secretaría de la Juventud responder a estas demandas.
+Objetivo general 
+Promover y fortalecer los procesos de participación juvenil en la ciudad para que los y las jóvenes, 
+las instancias y organizaciones juveniles se apropien de lo público, ejerzan su ciudadanía, y trabajen 
+por transformar sus realidades.
+Objetivos específicos 
+•  Promover la participación e incidencia de los y las jóvenes en la planeación del desa-
+rrollo local y el presupuesto participativo (PDL y PP).
+•  Realizar procesos de formación ciudadana para el fortalecimiento de la participación 
+juvenil.
+• 	 Fortalecer	las	capacidades	políticas,	técnica,	financiera	y	administrativa	de	la	Se-
+cretaría de la Juventud para articular la oferta pública, dinamizar la oferta privada y 
+fortalecer las dinámicas comunitarias y juveniles para el desarrollo del ser joven, así 
+como para tener mayor incidencia en la gestión de asuntos, agendas y problemas 
+que rodean a los jóvenes.
+•  Reconocer y dinamizar los procesos, prácticas y expresiones para la participación 
+juvenil orientadas al fortalecimiento de la democracia.
+•  Reconocer el trabajo en red, las solidaridades y la cooperatividad entre los y las jóve-
+nes, las instancias y organizaciones juveniles.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Presupuesto ordinario de la Secretaría de la 
+Juventud priorizado por el Consejo Municipal Secretaría de la 
+Porcentaje 0 5
+de Juventud y por las demás instancias del Juventud
+Sistema Municipal de Juventud.
+Subsistema institucional del Sistema Municipal Secretaría de la 
+Porcentaje 57 100
+de Juventud operando. Juventud
+Acciones con enfoque de intervención Secretaría de la 
+diferencial realizadas por los diferentes Número NA 21
+Juventud
+proyectos de la Secretaría de la Juventud.
+Tabla continúa en la siguiente página...
+3 2 3
+Tercera parte. Marco programático
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Jóvenes formados para la participación Secretaría de la 
+Número 40 1.150
+ciudadana y la incidencia pública. Juventud
+Jóvenes beneficiados con las estrategias de Secretaría de la 
+Número 11.243 12.000
+clubes juveniles. Juventud
+3.3.3.  Componente. Mujeres
+Estamos convencidas y convencidos de que ninguna ciudad, ningún país y ninguna sociedad puede 
+progresar si deja a la mitad de su población atrás. Es preciso que ninguna mujer se sienta insegura 
+en razón de su sexo, que tengan las mismas oportunidades con las que cuentan los hombres para 
+construir un proyecto de vida y que sea respetada nuestra autonomía e independencia.  La igualdad 
+entre los géneros no es sólo un derecho humano fundamental descrito como el quinto de los Objetivos 
+de	Desarrollo	Sostenible,	sino	que,	además,	es	la	base	necesaria	para	conseguir	un	mundo	pacífico,	
+próspero y sostenible.
+Una estrategia efectiva contra la pobreza, la corrupción y la violencia es la de promover el liderazgo 
+femenino en todas las instancias de nuestra sociedad. Somos fundamentales como gestoras de la 
+construcción de la paz y la reconciliación de la ciudad.
+Esta	categoría	analítica	permite	identificar	las	diferencias	de	poder	entre	hombres	y	mujeres,	la	
+posición de subordinación de estas y como aspectos culturales limitan la autonomía y la ciudadanía 
+de	las	mujeres.	En	esta	medida	el	género	“es	una	forma	primaria	de	relaciones	significantes	de	po-
+der”,	en	palabras	de	Joan	Scott;	definición	que	muestra	que	hay	una	organización	de	la	sociedad	a	
+partir	de	la	forma	como	percibimos,	interpretamos	y	clasificamos	la	diferencia	sexual,	que	de	ninguna	
+manera	debería	significar	desigualdad	ni	discriminación	para	las	mujeres.
+Las	mujeres	poseen	características	y	clasificaciones	diferenciales:	la	posición	de	clase,	la	edad,	la	
+etnia,	la	opción	sexual	(identidad-orientación),	las	capacidades	diferentes	y	los	contextos	(el	conflicto	
+armado, la ruralidad, la migración).
+En la ciudad de Medellín, el logro de esa equidad de género pasa por transformaciones sociales de 
+fondo que requieren de un enfoque de género en el desarrollo (EGD), que haga transversal tanto los 
+imaginarios culturales y las representaciones sociales, como las actuaciones individuales y colectivas 
+de	los	sujetos	en	la	planificación	y	el	desarrollo,	de	modo	que	permitan	el	reconocimiento	de	la	des-
+igualdad de género como un problema de asimetría en las relaciones, organización y proyecciones, 
+3 2 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+que	va	en	detrimento	de	las	mujeres	y,	por	lo	tanto,	dificulta	el	ejercicio	autónomo	de	sus	derechos	así	
+como	la	configuración	de	contextos	en	los	que	se	reconozcan	las	inequidades	y	los	marcos	culturales,	
+sociopolíticos y normativos en los que se desenvuelven las relaciones.
+Precisamente por esta razón en Medellín se aprobó en el año 2018 el Acuerdo 102 que adopta la 
+Política	Pública	de	Igualdad	de	Género	para	las	Mujeres	Urbanas	y	Rurales	de	la	ciudad	con	el	fin	de	
+“Garantizar que las mujeres tengan las mismas oportunidades para el goce efectivo de sus derechos, 
+que ninguna sufra discriminación en razón de su identidad de género, sexual, étnico-racial, territorial, 
+condición política y ciclo de vida, para lograr la igualdad entre hombres y mujeres en el municipio 
+de Medellín”. En este gran propósito que plantea el Acuerdo 102 de 2018 debe entenderse que la 
+igualdad de género es un asunto transversal a las diferentes dimensiones del desarrollo. 
+En este sentido, en el Plan de Desarrollo Municipal Medellín Futuro 2020-2023 varias de sus líneas 
+estratégicas y componentes recogen temas de gran complejidad que se plantean en las dimensiones 
+que comprende la Política Pública de Igualdad de Género y su Plan Estratégico, siendo entonces 
+fundamental la implementación de acciones de transversalización durante el cuatrienio que permitan 
+incorporar adecuadamente el enfoque de género en los diferentes programas y proyectos.
+Objetivos 
+•  Potenciar la construcción de la ciudadanía plena de las mujeres de Medellín, en sus 
+diferentes cursos de vida y en sus diversidades, mediante el reconocimiento efectivo y 
+la	garantía	de	sus	derechos	y	la	afirmación	de	sí	mismas	como	sujetas	autónomas,	que	
+participan social, económica, cultural y políticamente en la construcción del territorio.
+•  Trabajaremos para reducir la brecha entre hombres y mujeres profesionales en 
+tecnologías de la información, con estrategias focalizadas no sólo en el acceso a 
+programas de educación superior, sino también en la inserción al mercado laboral y la 
+generación de empleo. 
+•  Desplegar programas integrales para promover salarios equitativos y buenas prácti-
+cas de género en las nuevas industrias, así como su participación en juntas y cargos 
+directivos.
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Departamento 
+Índice de desigualdad de Secretaría de Administrativo 
+Índice 0.28 0.24
+género IDG. las Mujeres de Planeación 
+Municipal
+Tabla continúa en la siguiente página...
+3 2 5
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Secretaría de 
+Índice de participación Secretaría de las 
+Número 0.391 0.42 Participación 
+ciudadana-subíndice género. Mujeres
+Ciudadana
+Brecha del tiempo dedicado Departamento 
+a quehaceres domésticos y Secretaría de Administrativo 
+Horas semana 16.2 (2018) 14
+cuidados no remunerados por las Mujeres de Planeación 
+hombres y mujeres. Municipal
+Mujeres víctimas de violencias 
+basadas en género y/o en riesgo 
+atendidas por los mecanismos Secretaría de 
+Porcentaje NA 70
+de la Secretaría de las Mujeres, las Mujeres
+que activan rutas de protección, 
+salud y/o justicia.
+El componente de Mujeres está orientado a potenciar el liderazgo y la promoción del empodera-
+miento de las mujeres así mismo buscará fortalecer los procesos de coordinación interinstitucional 
+para la protección de vulnerabilidades y riesgos de las mujeres de la ciudad, con estas acciones se 
+espera aportar al ODS 5, y avanzar en la igualdad de género y el empoderamiento de todas las mu-
+jeres y las niñas. Este componente monitoreará a través del indicador de la Agenda de los Objetivos 
+de Desarrollo Sostenible de la ciudad para el 2030 que se relaciona a continuación:
+Figura 71. Índice de Desigualdad de Género (IDG), Medellín 2014-2018
+0.37 0.37
+0.30
+0.28 0.28 0.28 0.28 0.28
+2014 2015 2016 2017 2018
+Índice Meta 2030
+Fuente: Subdirección de Información y Evaluación Estratégica del Departamento Administrativo de 
+Planeación de Medellín (DAP), (2014-2018).
+El propósito es que este indicador continúe la tendencia al descenso.
+3 2 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+Programas
+3.3.3.1.  Programa. Condiciones de vida dignas y equitativas para las  
+    mujeres
+Descripción 
+Promover la igualdad de oportunidades para el goce efectivo de los derechos de las mujeres con 
+enfoque de derechos humanos, género, diferencial, territorial e interseccional, a través del diseño y la 
+implementación de estrategias que favorezcan la permanencia de las mujeres en la educación básica 
+y media, la disminución de barreras para la atención y el acceso a servicios particularmente a los de 
+salud con enfoque de género. Así mismo, promoverá la desconcentración de servicios institucionales 
+y la deconstrucción de imaginarios de masculinidad hegemónica, contribuyendo al cierre de brechas 
+entre mujeres hombres y al mejoramiento de las condiciones de vida de las mujeres de la ciudad.
+Objetivo general 
+Promover la igualdad de oportunidades para el goce efectivo de los derechos de las mujeres, especial-
+mente de sus derechos sexuales y reproductivos, mediante acciones que favorezcan su permanencia 
+en la educación básica y media, la disminución de barreras para una atención en salud con enfoque 
+de género, la desconcentración de servicios institucionales y la deconstrucción de imaginarios de 
+masculinidad hegemónica.
+Objetivos específicos 
+•  Fortalecer los Centros de Equidad de Género (CEG) como escenarios de articulación 
+institucional, para atención y prevención de las violencias basadas en género y la 
+educación comunitaria para el logro de la igualdad de género.
+•  Fomentar la disminución de las brechas de género en salud, especialmente en mate-
+ria de salud sexual y salud reproductiva y en el contexto de la pandemia COVID-19, 
+a través de Gestoras de Igualdad de Género para las comunas y corregimientos de 
+Medellín.
+•  Promover masculinidades por la equidad de género en la ciudad de Medellín, con-
+tribuyendo a la reducción de la violencia machista y a la corresponsabilidad de los 
+varones en el ámbito de los cuidados, la prevención del embarazo adolescente y 
+subsecuente y el trabajo doméstico no remunerado.
+•  Incorporar el enfoque de género y diferencial en programas y proyectos de la Alcaldía 
+de	Medellín	que	se	desarrollan	en	las	comunas	y	corregimientos,	a	fin	de	contribuir	a	
+3 2 7
+Tercera parte. Marco programático
+la disminución de imaginarios y prácticas culturales que sustentan o generan discrimi-
+nación contra las mujeres, posibilitando su acceso a derechos en el territorio.
+•  Implementar estrategias que permitan a las mujeres, especialmente aquellas afecta-
+das por el COVID-19, superar situaciones que limitan su acceso y su permanencia en 
+el sistema educativo y la culminación de sus proyectos formativos, proporcionándoles 
+acciones	afirmativas,	además	de	estrategias	pedagógicas	dirigidas	a	la	transforma-
+ción patrones educativos sexistas.
+•  Desarrollar estrategias pedagógicas para la transformación de patrones culturales se-
+xistas en la comunidad educativa, a través de la incorporación del enfoque de género 
+en los Proyectos Educativos Institucionales (PEI) y la realización de otras acciones 
+pedagógicas con agentes educativos.
+•  Favorecer el ejercicio de los derechos sexuales y reproductivos de las mujeres, 
+incluyendo el derecho a la higiene menstrual, según curso de vida, pertenencia étnica 
+y territorial, orientación sexual, identidad de género, discapacidad, victimización y 
+condiciones de vida en general.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable Corresponsable
+de medida 2020-2023
+Centros de Equidad de Género Secretaría de 
+fortalecidos y con procesos de Número 4 4
+las Mujeres
+atención a la ciudadanía. 
+Acciones de movilización social 
+y asistencia técnica realizadas 
+en el territorio, para la Secretaría de 
+Número NA 100
+disminución de las brechas de las Mujeres
+género en salud con enfoque 
+interseccional.
+Acciones pedagógicas 
+realizadas para deconstrucción Secretaría de 
+de imaginarios de masculinidad Número NA 100
+las Mujeres
+dominante y violencia 
+machista.
+Mujeres que reciben acciones Secretaría de 
+afirmativas en "La Escuela Número 557 1.100
+las Mujeres
+Encuentra a las Mujeres".
+Instituciones educativas 
+públicas asistidas técnicamente Secretaría de 
+Número NA 40
+para la incorporación del las Mujeres
+enfoque de género en los PEI.
+Tabla continúa en la siguiente página...
+3 2 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Meta 
+Indicadores de producto Línea base Responsable Corresponsable
+de medida 2020-2023
+Agentes educativos Secretaría de 
+sensibilizados en educación no Número NA 450
+las Mujeres
+sexista. 
+Mujeres asesoradas para el Secretaría de 
+ejercicio de sus derechos Número NA 20.000 Secretaría de Salud
+las Mujeres
+sexuales y reproductivos.
+Mujeres asesoradas en su 
+derecho a la higiene menstrual, Secretaría de 
+y que acceden a la copa Número NA 25.000
+las Mujeres
+menstrual u a otras alternativas 
+de higiene al respecto.
+3.3.3.2.  Programa. Liderazgo y empoderamiento femenino
+Descripción 
+Promover en las mujeres el ejercicio del derecho a la participación efectiva y el goce de su ciudadanía 
+plena, mediante el estímulo de sus liderazgos y potencialidades en los ámbitos sociales, comunitarios, 
+administrativos, económicos, culturales, artísticos, investigativos, políticos y de paz; estimulando su 
+participación en escenarios públicos y privados de toma de decisiones en condiciones de equidad, 
+oportunidad y representatividad y a favor de los derechos humanos de las mujeres. 
+Objetivo general 
+Favorecer la garantía del derecho a la participación de las mujeres y el ejercicio de su ciudadanía 
+plena en los ámbitos social, administrativo, económico, cultural y político y su incidencia en la toma 
+de decisiones en escenarios públicos, incluida la construcción de paz.
+Objetivos específicos 
+• 	 Promover	la	participación,	la	cualificación	social	y	política,	y	el	empoderamiento	de	
+las mujeres, jóvenes y niñas como sujetas políticas. 
+•  Fortalecer los procesos organizativos y de movilización política, civil y social de las 
+mujeres, mediante estrategias que favorezcan su organización, la consolidación y el 
+apoyo a sus expresiones de ciudadanía plena, con especial énfasis en las afectaciones 
+al tejido social y las apuestas de reconstrucción a raíz de la emergencia del COVID-19.
+3 2 9
+Tercera parte. Marco programático
+•  Promover y fortalecer los procesos ciudadanos de las mujeres en pro de la paz te-
+rritorial, mediante el acompañamiento a la implementación de sus agendas de paz y 
+procesos de resistencia y el reconocimiento de sus iniciativas de paz y sus liderazgos.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Mujeres formadas para la promoción de sus Secretaría de las 
+derechos y la igualdad de género con enfoque Número 884 2.800
+Mujeres
+interseccional.
+Expresiones organizativas asistidas Secretaría de las 
+técnicamente para la promoción y el ejercicio Número 21 100
+Mujeres
+de los derechos de las mujeres.
+Mujeres ocupando cargos en los niveles Secretaría de las 
+Porcentaje 52.59 53
+decisorios de la Administración Municipal. Mujeres
+Mujeres que participan en procesos políticos y Secretaría de las 
+Número 175 780
+de movilización para la construcción de paz. Mujeres
+Acciones realizadas para la visibilización y el 
+reconocimiento de iniciativas de construcción Secretaría de las 
+Número 5 12
+de paz en los territorios con perspectiva de Mujeres
+género.
+3.3.3.3. Programa. Seguridad, vida libre de violencias y protección  
+    integral para las mujeres
+Descripción 
+Garantizar la seguridad de las mujeres y su derecho a vivir una vida libre de violencias, especialmente 
+las basadas en género, en el ámbito público y privado, mediante la implementación de medidas de 
+prevención, protección, atención, acceso a la justicia y reparación integral con enfoque de derechos 
+humanos, género, diferencial, territorial e interseccional; estas medidas deben observar el principio 
+de coordinación interinstitucional, a través del Consejo de Seguridad Pública para las Mujeres.
+3 3 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo general 
+Generar acciones en Medellín, involucrando a los diferentes sectores sociales, públicos y privados 
+para que promuevan la garantía de los derechos  de las mujeres a la seguridad y a una vida libre 
+de violencias; mediante la implementación de estrategias de gestión del conocimiento, información, 
+atención integral, sensibilización, formación comunicación, fortalecimiento del sistema de justicia, em-
+poderamiento de las mujeres y movilización social, para el efectivo acceso y garantía de sus derechos.
+Objetivos	específicos	
+•  Desarrollar acciones de prevención de las violencias contra las mujeres especial-
+mente las basadas en género, promoviendo la articulación interinstitucional desde 
+el Consejo de Seguridad Pública para las Mujeres y en el contexto de las medidas 
+adoptadas de manera especial, con ocasión de la emergencia por el COVID-19. 
+•  Desarrollar acciones de atención y protección integral a las mujeres en riesgo y 
+víctimas de violencias, especialmente las basadas en género a través de la imple-
+mentación de mecanismos tales como: línea 123 Mujer, hogares de acogida, atención 
+psicológica y jurídica, y representación judicial (Defensa técnica).
+•  Implementar acciones pedagógicas de comunicación pública, de movilización social y de 
+articulación interinstitucional, dirigidas a habitantes, actores institucionales y socios estraté-
+gicos	que	se	encuentran	en	el	territorio,	para	generar	reflexión	y	movilización	en	contra	de	
+cualquier forma de violencia contra las mujeres y las niñas, de manera especial el acoso 
+y la violencia sexual que las afectan en el espacio público; buscando posicionar en el ima-
+ginario social una cultura de respeto de los derechos humanos de las mujeres, haciendo 
+énfasis en la promoción del derecho de las mujeres a una vida libre de violencias.
+•  Generar procesos de gestión de conocimiento para conocer la magnitud y el impac-
+to	–individual	y	colectivo–	de	las	violencias	basadas	en	género	y	la	percepción	de	
+seguridad de las mujeres en el municipio de Medellín, a través de la realización de 
+investigaciones	cualitativas	y	cuantitativas	que	permitan	definir	estrategias	para	la	
+garantía efectiva de sus derechos, especialmente a una vida libre de violencias, con 
+especial consideración de grupos en mayor situación de vulnerabilidad social y de 
+manera especial aquellas con ocasión de la emergencia por el COVID-19.
+•  Promover el fortalecimiento del sistema institucional de prevención, atención, asis-
+tencia, protección, judicialización y reparación integral de las mujeres víctimas de 
+violencias, especialmente las basadas en género en el marco del Consejo de Se-
+guridad Pública para las Mujeres, a través de la realización de diagnósticos para la 
+implementación de planes de mejoramiento e infraestructura, adopción de normas y 
+procedimientos,	cualificación	del	talento	humano,	sistemas	de	información,	etc.,	para	
+el mejoramiento de la calidad de la atención y la articulación interinstitucional.
+3 31
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Personas sensibilizadas en prevención de Secretaría de las 
+violencia y acoso sexual hacia las mujeres, en Número 4.492 18.500
+Mujeres
+los espacios públicos de ciudad.
+Mujeres víctimas de violencias basadas en Secretaría de las 
+género y/o en riesgo que reciben atención Número 3.895 15.000
+Mujeres
+psicológica y jurídica.
+Mujeres víctimas de violencias basadas en Secretaría de las 
+Número 5.545 22.800
+género atendidas desde la agencia mujer. Mujeres
+Mujeres víctimas de violencias basadas en Secretaría de las 
+género en riesgo de feminicidio que reciben Número 100 380
+Mujeres
+protección en hogares de acogida.
+3.3.3.4.  Programa. Autonomía económica para las mujeres y su in 
+    corporación en el Valle del Software
+Descripción 
+Promover los derechos económicos de las mujeres urbanas y rurales de Medellín, especialmente 
+de aquellas que han sido afectadas en su autonomía económica por la emergencia del COVID-19, 
+mediante estrategias formativas, de acompañamiento técnico, gestión de oportunidades para el logro 
+de su autonomía económica y su vinculación a los proyectos estratégicos de desarrollo económico 
+definidos	en	la	Línea	Estratégica	de	Reactivación		Económica	y	Valle del Software y otros servicios 
+que oferte la ciudad. Además de promover buenas prácticas de género en el entorno empresarial y 
+otras acciones que posibiliten reducir las horas de trabajo doméstico y de cuidado no remunerado 
+de las mujeres.
+Objetivo general 
+Promover los derechos económicos de las mujeres y su autonomía económica, a través del fortaleci-
+miento para la toma de decisiones sobre su vida y su cuerpo y la gestión para la generación de ingresos.
+3 3 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivos específicos 
+•  Promover la implementación del modelo para la promoción de la autonomía econó-
+mica de las mujeres de Medellín, mediante una articulación interinstitucional, que 
+fortalezca sus capacidades y competencias, su acceso a oportunidades, y el relacio-
+namiento con el ecosistema productivo y empresarial, a través de la construcción de 
+alianzas estratégicas entre entidades de los sectores públicos y privados, y el posicio-
+namiento de las labores domésticas y de cuidado como un tema público.
+•  Entregar estímulos económicos a mujeres dedicadas a tareas de cuidado: madres 
+comunitarias, Fami y sustitutas.
+•  Diseñar un Sistema Municipal de Cuidados con un enfoque de igualdad de género y 
+derechos que articule la demanda y la oferta de cuidados de la ciudad de Medellín, 
+preferencialmente los servicios dedicados al cuidado de niños y niñas, personas 
+enfermas, adultos/as mayores, personas en situación de discapacidad; y avanzar en 
+una primera fase de implementación.
+•  Realizar un proceso de acompañamiento para que las mujeres dedicadas al trabajo 
+doméstico y de cuidado no remunerado disminuyan el tiempo destinado a estas labo-
+res y fortalezcan su autonomía.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Estímulos económicos entregados a madres Secretaría de las 
+Porcentaje 100 100
+comunitarias, Fami y sustitutas. Mujeres
+Mujeres urbanas y rurales que participan de Secretaría de las 
+la ruta para la autonomía económica y la de Número 623 2.000
+Mujeres
+gestión de oportunidades.
+Empresas sensibilizadas y acompañadas en Secretaría de las 
+Número 15 30
+buenas prácticas de género. Mujeres
+Sistema Municipal de Cuidados diseñado con Secretaría de las 
+Porcentaje NA 100
+enfoque de igualdad de género y derechos. Mujeres
+Mecanismo interinstitucional conformado Secretaría de las 
+para la articulación de la oferta municipal de Número NA 1
+Mujeres
+cuidados.
+Mujeres acompañadas para el fortalecimiento 
+de su autonomía personal y económica, que Secretaría de las 
+Número NA 8.700
+logran la disminución del tiempo de trabajo Mujeres
+doméstico y de cuidado no remunerado.
+3 3 3
+Tercera parte. Marco programático
+3.3.4. Componente. Recuperemos lo social 
+Recuperar	lo	social	significa	comprender	que	el	centro	del	Plan	de	Desarrollo	son	el	ser	humano,	
+las familias y las comunidades; el desarrollo humano sostenible y territorialmente equitativo; la paz 
+y seguridad humana integral poblacional y diferencial; y el enfoque de género. Constituyéndose en 
+el	punto	partida	para	que	las	y	los	individuos	tengan	las	suficientes	capacidades	para	articularse	de	
+modo creativo y respetuoso en colectivos sociales (grupos, comunidades y empresas), vivir en liber-
+tad sus potencialidades y contribuir a prácticas económicas, tecnológicas y culturales que potencien 
+la convivencia, la articulación y la sostenibilidad de los múltiples territorios que integran la ciudad.
+Este componente apunta a la garantía de las necesidades básicas de las poblaciones más vulne-
+rables; a la generación de alianzas para la gestión de la migración poblacional a sus territorios, de los 
+cuales	nunca	debieron	salir;	a	garantizar	la	atención,	asistencia	y	reparación	a	las	víctimas	del	conflicto	
+armado; a fortalecer la complementación alimentaria y nutricional de los grupos poblacionales; a la cons-
+trucción de políticas para la protección de derechos a poblaciones objetivo, partiendo de la articulación 
+institucional y la transversalización de enfoques de derecho, género y curso de vida; a fortalecer la pro-
+ducción rural de manera sustentable reconociendo las prácticas sociales y culturales de cada territorio; 
+a materializar las acciones del sistema municipal de DD.HH.; y a desarrollar acciones para garantizar 
+atención psicosocial y/o ayuda humanitaria a personas en situación de riesgo y vulnerabilidad social.
+Por otro lado, está determinado por el sentido de acogida ciudadana, protección de los derechos 
+fundamentales, respeto por la diferencia, inclusión en espacios, garantías económicas, relaciones y 
+tejidos individuales y sociales. Aquello que se entiende por lo social se ha ido ampliando con otras 
+categorías de carácter más sociológico, las cuales se recogen en la noción de capital social. Estas 
+categorías visibilizan asuntos centrales para la solidaridad, cohesión e integración social; entre ellas 
+están	la	confianza	(entre	individuos	y	sus	instituciones),	las	redes	y	la	organización	social,	los	va-
+lores y las normas compartidas, categorías que en conjunto contribuyen a la sociabilidad, en tanto 
+capacidad y habilidad para construir y dinamizar el tejido social: integrar grupos y redes de trabajo, 
+cooperar e interactuar en sociedad.
+La comprensión actual de lo social hace mucho tiempo desbordó la acción unilateral del Estado. 
+Su tratamiento y gestión es un asunto que hoy implica al sector privado, la academia y la socie-
+dad civil en general, para la construcción de prácticas social y ambientalmente responsables que 
+contribuyan a resolver de manera interactiva y en conjunto los problemas diversos que preocupan 
+y aquejan a Medellín.
+Objetivo
+Garantizar las condiciones básicas para el pleno desarrollo económico, ambiental, social, cultural y 
+político de los hombres y mujeres de Medellín; a través de la implementación de estrategias para la 
+3 3 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+promoción y protección del goce pleno de derechos en condiciones de igualdad, equidad e inclusión, 
+de niños, niñas y adolescentes, personas con discapacidad, personas mayores, víctimas, población 
+indígena, población NARP: Negra, Afrodescendiente, Raizal y Palenquera, población LGTBI, perso-
+nas en ejercicio de prostitución y habitantes de calle; para generar capacidades y oportunidades que 
+aporten al cierre de brechas y a la reducción de las desigualdades imperantes.
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de producto Línea base Responsable Corresponsable
+de medida 2020-2023
+Secretaría 
+de Inclusión Departamento 
+Hogares que se perciben con Porcentaje 41.24 40 Social, Familia Administrativo de 
+inseguridad alimentaria. y Derechos Planeación
+Humanos
+Secretaría 
+Niños, niñas y adolescentes de Inclusión 
+con reducción de condiciones Porcentaje 90 95 Social, Familia 
+de vulnerabilidad. y Derechos 
+Humanos
+Personas con discapacidad, 
+familiares y cuidadores que Secretaría 
+mejoran sus condiciones de de Inclusión 
+vida a través de procesos Número 23.399 28.566 Social, Familia 
+habilitación, rehabilitación, y Derechos 
+formación y equiparación de Humanos
+oportunidades.
+Secretaría 
+de Inclusión 
+Personas que superan su Número 847 900 Social, Familia 
+situación de calle. y Derechos 
+Humanos
+Secretaría 
+Personas resocializadas que de Inclusión 
+mantienen condiciones de vida Número NA 270 Social, Familia 
+digna después de superar su y Derechos 
+situación de calle. Humanos
+Personas en ejercicio de Secretaría 
+prostitución que mejoran de Inclusión 
+sus condiciones de bienestar Número N/A 600 Social, Familia 
+individual, familiar y social y Derechos 
+a través del acceso a Humanos
+oportunidades.
+Tabla continúa en la siguiente página...
+3 3 5
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de producto Línea base Responsable Corresponsable
+de medida 2020-2023
+Secretaría 
+Personas a partir de 50 años de Inclusión 
+que mejoran su condición Número 54.400 55.100 Social, Familia 
+familiar, social y económica. y Derechos 
+Humanos
+Secretaría 
+Hogares con acompañamiento de Inclusión 
+familiar que superan sus Número 21.366 24.000 Social, Familia 
+condiciones de pobreza y Derechos 
+monetaria y multidimensional. Humanos
+Personas que mejoran sus Secretaría 
+condiciones de bienestar de Inclusión 
+individual, familiar y social Número 23.023 31.000 Social, Familia 
+a través del acceso a y Derechos 
+oportunidades. Humanos
+Desnutrición aguda (peso bajo Secretaría de 
+y muy bajo de estatura) en Secretaría de Inclusión Social, 
+menores de 5 años que asisten Porcentaje 1.1 0.7
+Salud Familia y Dere-
+al programa de crecimiento y chos Humanos
+desarrollo
+Desnutrición global (peso bajo Secretaría de 
+y muy bajo para la edad) en Secretaría de Inclusión Social, 
+menores de 5 años que asisten Porcentaje 2.4 1.9
+Salud Familia y Dere-
+al programa de crecimiento y chos Humanos
+desarrollo.
+Desnutrición crónica (estatura Secretaría de 
+baja para la edad) en menores de Secretaría de Inclusión Social, 
+Porcentaje 7.6 4.6
+5 años que asisten al programa Salud Familia y Dere-
+de crecimiento y desarrollo. chos Humanos
+Secretaría 
+de Inclusión Departamento 
+Tasa de trabajo infantil. Tasa 2.24 (2018) 2 Social, Familia Administrativo de 
+y Derechos Planeación
+Humanos
+Departamento 
+Administrativo de 
+Secretaría 
+Planeación, Secre-
+63 de Inclusión 
+taría de Medio Am-
+Índice de progreso social. índice (2017) 64 Social, Familia 
+biente, Secretaría 
+y Derechos 
+de Educación, 
+Humanos
+Secretaría de 
+Salud, ISVIMED
+Tabla continúa en la siguiente página...
+3 3 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Meta 
+Indicadores de producto Línea base Responsable Corresponsable
+de medida 2020-2023
+Población étnica fortalecida Secretaría de 
+en procesos de promoción de Inclusión Social, 
+Porcentaje 4 8
+derechos, prácticas y saberes Familia y Dere-
+ancestrales.  chos Humanos
+Personas resocializadas que Secretaría de 
+mantienen condiciones de vida Inclusión Social, 
+Número NA 270
+digna después de superar su Familia y Dere-
+situación de calle chos Humanos
+Tasa por 
+Mortalidad por desnutrición en cada cien mil Secretaría de 
+0 0
+niños menores de 5 años. menores de Salud
+cinco años
+Población LGTBI que se ha Secretaría de 
+sentido discriminada por su Inclusión Social, 
+Porcentaje 40.6 30.6
+identidad de género o su Familia y Dere-
+orientación sexual. chos Humanos
+Con las acciones realizadas en el componente de Recuperemos lo social, aportaremos a varias metas 
+propuestas en la agenda de los ODS de la ciudad para 2030. En efecto, se espera aportar a los ODS 
+2, 3, 5, 10 y 16, las cuales podremos monitorear con los indicadores que se relacionan a continuación.
+Seguridad alimentaria y nutricional es central en este componente, el cual si bien siempre ha sido 
+un tema de gran interés de esta Administración, recobra mayor interés de cara a la situación actual de 
+la	ciudad,	con	este	además	aportaremos	a	las	metas	que	nos	propone	el	ODS	2:	Poner	fin	al	hambre,	
+lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible, las 
+apuestas en este tema las monitorearemos a partir el indicador que se relaciona a continuación y que 
+hace parte de la Agenda ODS de ciudad:
+Figura 72. Hogares con inseguridad alimentaria moderada y severa, Medellín 2013-2018
+14.8 14.8 15.0
+12.8
+11.4
+9.0
+8.0 8.0 8.0 8.0 8.0 8.0
+2013 2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+ 
+Fuente: Encuesta de Calidad de Vida (ECV), Alcaldía de Medellín, (2013-2018).
+3 3 7
+Tercera parte. Marco programático
+Se espera que con las gestiones que se adelanten en este tema el número de hogares con 
+inseguridad	alimentaria	moderada	y	severa	sea	cada	vez	menor	y	podamos	modificar	la	tendencia	
+actual del indicador.
+Con relación a la primera infancia, niñez y adolescencia, se realizarán acciones que se orienten 
+a la protección integral de los niños, niñas y adolescentes, las cuales aportarán a las metas del 
+ODS 3 y ODS 16, esta contribución se monitoreará a través del indicador de la agenda de los 
+Objetivos de Desarrollo Sostenible de la ciudad para el 2030, que se relaciona a continuación:
+Figura 73. Vulneración de derechos de niños, niñas y adolescentes, Medellín 2010-2019
+4,777
+4,329
+4,073
+3,776
+3,321
+2,815 2,693 2,759 2,815 2,847
+1,781 1,781 1,781 1,781 1,781 1,781 1,781 1,781 1,781 1,781
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Número Meta 2030
+ Fuente: Secretaría de Seguridad y Convivencia, Sistema THETA, (2010-2019).
+Se espera que con estas acciones los niños, niñas y adolescentes de la ciudad, encuentren 
+garantía de sus derechos y cada día sea menor la vulneración de los mismos, revirtiendo el com-
+portamiento actual del indicador.
+De	otro	lado,	las	acciones	que	dignifiquen	una	nueva	vejez	para	las	personas	mayores,	tiene	
+como propósito garantizar calidad de vida a las personas mayores, que en su mayoría son población 
+de alta vulnerabilidad y reconocer los aportes que ellos hicieron para el desarrollo de la ciudad, 
+si	bien	la	agenda	ODS	no	tiene	ningún	indicador	específico	para	esta	población,	el	propósito	es	
+que las próximas generaciones tengan mejores condiciones de vida, por lo que los asociamos 
+con el ODS 1 y lo monitorearemos con el indicador que se relaciona a continuación. (Figura 58. 
+Cobertura	de	afiliación	en	pensiones	de	los	ocupados,	Medellín	2010-2018).
+3 3 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Figura 74. Cobertura de afiliación en pensiones de los ocupados, Medellín 2010-2018
+69.7 69.7 69.7 69.7 69.7 69.7 69.7 69.7 69.7
+55.7 56.9 58.0 60.0 59.4
+51.6 51.6
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+Fuente: Gran Encuesta Integrada de Hogares para Medellín (DANE), (2010-2018).
+El	objetivo	es	que	cada	día	sea	mayor	el	número	de	personas	que	se	encuentren	afiliadas	pensiones	
+y que para el 2023 está supere el 60 % de los ocupados.
+Las acciones que se realizarán en el marco del reconocimiento, diversidad y protección, están 
+orientadas a la inclusión y reconocimiento de todos los grupos poblacionales que habitan la ciudad, 
+con	estas	se	aporta	a	las	metas	definidas	en	los	ODS	5	y	ODS	10,	el	cual	se	monitoreará	con	el	
+indicador de la agenda Medellín que se relaciona a continuación.
+Figura 75. Hogares donde se considera que se ha logrado mayor igualdad de oportunidades 
+entre hombres y mujeres, Medellín 2010-2018
+74.4
+71.9
+71.0 71.0 71.0 71.0 71.0 71.0 71.0 71.0 71.0
+69.4 70.2
+68.2
+66.8 65.9 66.7
+62.6
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+Fuente: Encuesta de Calidad de Vida (ECV), Alcaldía de Medellín, (2010-2018).
+3 3 9
+Tercera parte. Marco programático
+Con estas acciones esperamos que la igualdad y equiparación de oportunidades de los diferentes 
+grupos poblacionales sea mayor.
+Programas
+3.3.4.1.  Programa. Canasta básica de derechos 
+Descripción
+Fortalecer la complementación alimentaria y nutricional de los grupos poblacionales en mayor vulne-
+rabilidad de padecer hambre y desigualdad, implementando estrategias de focalización territorial con 
+enfoque formativo y diferencial, según su cultura alimentaria y curso de vida; que permitan abordar la 
+inseguridad alimentaria de las familias que lo requieran, especialmente las conformadas por niños, 
+niñas y adolescentes, personas mayores, en emergencia social y las víctimas que por su condición 
+de vulnerabilidad requieran cubrir sus necesidades básicas. De igual forma, a través del suministro 
+de apoyo económico garantizar el acceso de la población a bienes y servicios necesarios para su 
+subsistencia y a través de albergue temporal, contribuir a condiciones de vida digna y equidad.
+Objetivo general 
+Fortalecer la complementación alimentaria y las condiciones de vida digna de las familias más vul-
+nerables de la ciudad, especialmente las conformadas por niños, niñas y adolescentes, personas 
+con	discapacidad,	personas	mayores,	población	étnica,	en	emergencia	social	y	víctimas	del	conflicto	
+armado, a través de complemento alimentario, apoyo económico y techo a población vulnerable.
+Objetivos específicos 
+•  Atender la población que presenta vulnerabilidad alimentaria y social, con enfoque dife-
+rencial según grupos poblacionales (niños, niñas y adolescentes, personas con discapa-
+cidad, personas mayores, en emergencia social y las víctimas) mediante la entrega de 
+un paquete alimentario, compuesto por productos de la canasta básica colombiana, para 
+ser preparado y consumido en el hogar, acompañando de un componente educativo.
+•  Suministrar un complemento alimentario que contribuya al acceso con permanencia 
+en la jornada académica, de los niños, niñas, adolescentes y jóvenes entre 5 y 17 
+años	registrados	en	la	matrícula	oficial,	fomentando	hábitos	alimentarios	saludables.
+•  Brindar apoyo económico a personas con especial vulnerabilidad (personas con dis-
+capacidad, personas mayores, en emergencia social, víctimas). 
+•  Atender a la población más pobre y vulnerable de la ciudad mediante el servicio de 
+albergue temporal, garantizando condiciones de vida digna.
+3 4 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Secretaría de Inclu-
+Familias atendidas en programas de Número 16.274 18.000 sión Social, Familia y 
+complementación o asistencia alimentaria. Derechos Humanos
+Secretaría de Inclu-
+Paquetes alimentarios para las familias Número 11.460 12.000 sión Social, Familia y 
+víctimas atendidas en emergencia humanitaria. Derechos Humanos
+Secretaría de Inclu-
+Escolares atendidos con complementación Número 220.000 220.000 sión Social, Familia y 
+alimentaria y educación nutricional. Derechos Humanos
+Secretaría de Inclu-
+Personas con vulnerabilidad social beneficiadas Número 5.015 5.015 sión Social, Familia y 
+con renta básica. Derechos Humanos
+Secretaría de Inclu-
+Personas víctimas del conflicto beneficiadas de Número 2.500 3.500 sión Social, Familia y 
+renta básica. Derechos Humanos
+Secretaría de Inclu-
+Personas en situación de vulnerabilidad social Porcentaje 100 100 sión Social, Familia y 
+beneficiadas con albergue temporal. Derechos Humanos
+Secretaría de Inclu-
+Familias beneficiadas con renta básica: plante Número NA 91.485 sión Social, Familia y 
+familiar. Derechos Humanos
+Personas víctimas del conflicto atendidas con Secretaría de Inclu-
+enfoque diferencial, beneficiadas con albergue Porcentaje 100 100 sión Social, Familia y 
+temporal. Derechos Humanos
+Secretaría de Inclu-
+Personas capacitadas en nutrición y Número 50.000 55.000 sión Social, Familia y 
+alimentación para mejorar hábitos saludables. Derechos Humanos
+3.3.4.2.  Programa. Medellín Me Cuida y reconoce a sus grupos 
+    poblacionales 
+Descripción 
+Este programa brindará estrategias de atención y acompañamiento psicosocial, sensibilización, así como 
+procesos de habilitación, rehabilitación y formación acorde a las necesidades de la población objetivo, 
+3 41
+Tercera parte. Marco programático
+partiendo de la articulación institucional y la transversalización de enfoques de derecho, género y curso 
+de	vida,	buscando	a	través	de	acciones	afirmativas	la	reducción	de	cualquier	forma	de	estigmatización,	
+exclusión, estereotipo negativo o barreras para la inclusión social de los niños, niñas y adolescentes, 
+las personas con discapacidad, personas mayores, víctimas,  población indígena, población (NARP) 
+Negra, Afrodescendiente, Raizal y Palenquera, población LGTBI, personas en ejercicio de prostitución 
+y habitantes de calle; logrando así la inclusión en la oferta institucional (salud, educación, protección 
+social, empleo, emprendimiento, recreación, etc.), la potenciación de la diversidad de sus capacidades, 
+conocimientos, expresiones, prácticas, discursos, manifestaciones culturales, aportes a la construcción 
+social, política, económica y cultural de cada uno de ellos en la ciudad y sus territorios locales lo que a 
+su vez dará cumplimiento a la implementación de las agendas y políticas públicas.
+Objetivo general 
+Desarrollar estrategias para la promoción, protección y contribución del goce pleno, en condiciones 
+de igualdad, equidad e inclusión, de los derechos humanos y libertades fundamentales de los niños, 
+niñas y adolescentes, las personas con discapacidad, personas mayores, víctimas, población indí-
+gena, población (NARP), Negra, Afrodescendiente, Raizal y Palenquera, población LGTBI, personas 
+en ejercicio de prostitución y habitantes de calle.
+Objetivos específicos 
+•  Garantizar la protección integral de las niñas, niños, adolescentes y sus familias, 
+fortaleciendo sus capacidades y habilidades sociales, en articulación con actores 
+corresponsables que permitan un desarrollo humano integral y garantía de derechos 
+a través de procesos de promoción de derechos y prevención de la vulneración.
+•  Generar y fortalecer mecanismos y escenarios que garanticen a niñas, niños y ado-
+lescentes la participación para potenciar las subjetividades políticas y la incidencia en 
+la toma de decisiones.
+•  Promover entornos familiares, sociales e institucionales que garanticen el desarrollo 
+de capacidades y la realización de los derechos de las niñas, niños, adolescentes y 
+sus familias.
+•  Lograr la inclusión social mediante procesos de habilitación, rehabilitación y equi-
+paración de oportunidades, para que las personas con discapacidad y cuidadores 
+incrementen el goce de derechos, nivel de autonomía, desarrollo y fortalecimiento de 
+capacidades y habilidades para la vida.
+•  Asistir en necesidades básicas al habitante de y en calle con servicios de aseo perso-
+nal, dormitorio social y atención biopsicosocial mediante estrategias que promuevan 
+su protección y el restablecimiento de derechos.
+•  Atender de manera integral por medio de la institucionalización, a la población crónica 
+en calle con trastorno mental y/o discapacidad física.
+3 4 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+•  Brindar atención en la modalidad de albergue al habitante de calle con enfermedad o 
+discapacidad para su recuperación o protección.
+•  Brindar procesos de resocialización a la población en situación de calle mediante 
+espacios diferenciales permitiendo el desarrollo vocacional, ocupacional además de 
+la re vinculación social y familiar. 
+•  Brindar a la población en ejercicio de prostitución, atención psicosocial a través de 
+estrategias que potencien el desarrollo de sus capacidades y prevengan factores de 
+riesgo relacionados con este ejercicio desde los diferentes enfoques de intervención, 
+con	el	fin	de	mejorar	sus	condiciones	de	vida.
+•  Promover la transformación de imaginarios, en aras de que la población diversa 
+sexualmente goce de manera efectiva de sus derechos, promover comportamientos y 
+actitudes que contrarresten situaciones de discriminación y de exclusión en la ciudad 
+de Medellín.
+•  Promover en la población la adopción de estilos de vida saludables para un envejeci-
+miento digno, activo y responsable.
+•  Propiciar la atención integral institucionalizada a personas mayores en alto grado de 
+vulnerabilidad social, garantizando la protección, seguridad y cuidados adecuados de 
+acuerdo a su funcionalidad.
+•  Implementar el Plan Municipal Afrodescendiente, mediante el desarrollo y monitoreo 
+de acciones transversales orientadas a la garantía de los derechos étnicos diferencia-
+les de la población afrodescendiente en la ciudad de Medellín.
+•  Desarrollar acciones y estrategias del Plan de Atención Psicosocial para la población 
+Indígena de Medellín.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Niños, niñas y adolescentes con derechos Secretaría de Inclu-
+amenazados y/o vulnerados atendidos para la Número 34.400 35.000 sión Social, Familia y 
+garantía de derechos. Derechos Humanos
+Niños, niñas y adolescentes atendidos Secretaría de Inclu-
+en procesos de promoción de derechos y Número 23.914 24.000 sión Social, Familia y 
+prevención de la vulneración. Derechos Humanos
+Niños, niñas y adolescentes afectados por el 
+uso, utilización y riesgo de vinculación a grupos Secretaría de Inclu-
+delincuenciales organizados, beneficiados con Porcentaje ND 100 sión Social, Familia y 
+atención psicosocial y activación de ruta de Derechos Humanos
+derechos.
+Tabla continúa en la siguiente página...
+3 4 3
+Tercera parte. Marco programático
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Secretaría de Inclu-
+Intervención integral de niños, niñas y Porcentaje NA 100 sión Social, Familia y 
+adolescentes en situación de calle. Derechos Humanos
+Personas con discapacidad atendidas en Secretaría de Inclu-
+procesos de habilitación, rehabilitación y Número 4.742 5.008 sión Social, Familia y 
+equiparación de oportunidades. Derechos Humanos
+Secretaría de Inclu-
+Personas con discapacidad, cuidadores y Número 13.313 13.313 sión Social, Familia y 
+familiares asesorados en rutas de atención. Derechos Humanos
+Secretaría de Inclu-
+Personas en situación de calle con atención Número 5.643 8.000 sión Social, Familia y 
+básica. Derechos Humanos
+Secretaría de Inclu-
+Personas en situación de calle atendidas en Número 2.976 2.976 sión Social, Familia y 
+proceso de resocialización. Derechos Humanos
+Personas con discapacidad crónica en Secretaría de Inclu-
+situación de calle beneficiados con atención Número 290 290 sión Social, Familia y 
+integral. Derechos Humanos
+Secretaría de Inclu-
+Organizaciones y/o colectivos LGBTI Número 25 50 sión Social, Familia y 
+fortalecidos para el ejercicio de sus derechos. Derechos Humanos
+Secretaría de Inclu-
+Personas LGBTI beneficiadas con acciones Número 1.267 1.800 sión Social, Familia y 
+afirmativas para el ejercicio de sus derechos. Derechos Humanos
+Personas en ejercicio de prostitución Secretaría de Inclu-
+beneficiadas con atención psicosocial y Número ND 2.000 sión Social, Familia y 
+orientación en rutas de atención de derechos. Derechos Humanos
+Personas en contexto de prostitución Secretaría de Inclu-
+beneficiadas con campañas de prevención Número NA 2.000 sión Social, Familia y 
+y acercamiento de oferta institucional, con Derechos Humanos
+enfoque de género.
+Personas a partir de 50 años beneficiados con Secretaría de Inclu-
+servicios de promoción para un envejecimiento Número 85.300 85.900 sión Social, Familia y 
+digno. Derechos Humanos
+Secretaría de Inclu-
+Personas a partir de 55 años que reciben Número 1.604 2.560 sión Social, Familia y 
+atención integral y protección social. Derechos Humanos
+Secretaría de Inclu-
+Desarrollo del modelo Ciudadela Colonia Porcentaje NA 100 sión Social, Familia y 
+Belencito implementada. Derechos Humanos
+Tabla continúa en la siguiente página...
+3 4 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Secretaría de Inclu-
+Plan Municipal Afrodescendiente Porcentaje 0 33 sión Social, Familia y 
+implementado. Derechos Humanos
+Secretaría de Inclu-
+Plan de Atención Psicosocial para la Población Porcentaje 43 80 sión Social, Familia y 
+Indígena implementado. Derechos Humanos
+Personas beneficiadas para ingreso a los Número NA 203.810 Metroparques
+parques Norte y Juan Pablo II.
+Brigadas sanitarias y de limpieza desarrolladas Número NA 300 Gerencia del Centro
+en el Centro.
+3.3.4.3.  Programa. Medellín Me cuida: gestores familia
+Descripción 
+Promover la política pública para la familia, que posibilite el restablecimiento de los derechos de la 
+familia como grupo fundamental de formación de seres humanos y centro de desarrollo para la ciudad, 
+para fortalecer el sentido de equidad, igualdad de oportunidades y democracia al interior de la familia 
+desde un enfoque de capacidades, logrando generar oportunidades que contribuyan a la resolución 
+de situaciones internas, proporcionando herramientas de inclusión, que permitan la consecución y 
+disfrute del bienestar integral, convirtiendo a la familia en sujeto activo de su propio desarrollo, y a su 
+vez, protagonista del desarrollo social.
+Objetivo general 
+Fortalecer en las familias de Medellín el sentido de equidad, igualdad de oportunidades y demo-
+cratización al interior de la misma, fortaleciendo capacidades para la participación social y toma de 
+decisiones, generando oportunidades que contribuyan a su transformación y desplegando acciones 
+sostenibles de inclusión, que les garanticen un bienestar como colectivo político, reconociéndose 
+como sujeto activo de su propio desarrollo y protagonista del desarrollo humano y social.
+Objetivos específicos 
+•  Contribuir a la superación de la pobreza multidimensional y monetaria de las familias 
+más vulnerables de Medellín, movilizando su capacidad de agencia, a través de una 
+3 4 5
+Tercera parte. Marco programático
+estrategia de acompañamiento familiar, acercamiento de oportunidades y fortaleci-
+miento de la dinámica familiar.  
+•  Propiciar el acompañamiento psicosocial y acercamiento de oportunidades a familias 
+y personas afectadas por problemáticas psicosociales a través de los Centros Inte-
+grales de Familia, generando entornos protectores y solidarios.
+•  Favorecer el restablecimiento y fortalecimiento de los vínculos familiares, comunita-
+rios y sociales de las personas y grupos poblacionales que se encuentran en riesgo o 
+en condición de desarraigo.
+•  Contribuir al cierre de brechas y acceso a oportunidades de las personas en riesgo 
+de exclusión social, mediante la formación y el fortalecimiento de competencias bási-
+cas, ciudadanas y laborales, favoreciendo aspectos como la empleabilidad, el trabajo 
+autónomo, el fortalecimiento de negocios y desarrollo de emprendimientos inclusivos.
+•  Generar capacidades locales para la participación efectiva y el impulso de una 
+conciencia colectiva de construcción de paz, convivencia y reconciliación a partir de 
+estrategias pedagógicas basadas en enfoques de derechos humanos, para la promo-
+ción y prevención de los DD.HH. en el municipio de Medellín.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Secretaría de Inclusión 
+Hogares beneficiados con acompañamiento Social, Familia y Dere-
+familiar para la superación de la pobreza Número 64.597 60.000
+chos Humanos-Unidad 
+monetaria y multidimensional. Familia Medellín
+Secretaría de Inclusión 
+Personas beneficiadas con acompañamiento Social, Familia y Dere-
+Número 30.460 107.600
+psicosocial y acercamiento de oportunidades. chos Humanos- Unidad 
+Familia Medellín
+Secretaría de Inclusión 
+Familias en situación de vulnerabilidad social Social, Familia y Dere-
+acompañadas para el restablecimiento de Número 4.123 6.000
+chos Humanos-Unidad 
+vínculos familiares y sociales. Familia Medellín
+Personas acompañadas desde la escuela Secretaría de Inclusión 
+para la inclusión y el fortalecimiento de Número 1.365 1.500 Social, Familia y Dere-
+competencias básicas, ciudadanas y laborales. chos Humanos
+Plan de transversalización para la atención Secretaría de Inclusión 
+de la población afro, con discapacidad y Porcentaje NA 100 Social, Familia y Dere-
+personas mayores formulado, implementado y chos Humanos
+monitoreado.
+Personas víctimas beneficiadas con enfoque Secretaría de Inclusión 
+diferencial en acompañamiento psicosocial y Número NA 10.000 Social, Familia y Dere-
+acercamiento de oportunidades. chos Humanos
+3 4 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+3.3.4.4.  Programa. Tecnología social
+Descripción 
+Éste programa permitirá fortalecer las acciones a desarrollar para la caracterización, orientación, 
+atención, derivación y seguimiento a las personas y grupos poblacionales, con la implementación 
+de estrategias para el fortalecimiento de los canales de comunicación y de gestión de la informa-
+ción; como el 123 Social, el cual ampliará su alcance a la realización de llamadas y videollamadas, 
+realizadas por profesionales y especialistas de diferentes áreas del conocimiento, quienes serán 
+los	encargados	de	identificar	las	necesidades	y	problemáticas	con	enfoque	territorial,	de	derechos	
+humanos, de género, poblacional y diferencial y así acercar oportunidades a las personas y a las 
+familias, en especial a aquellas afectadas por emergencias sociales, naturales y/o causadas por 
+los seres humanos, niños, niñas y adolescentes, personas mayores, personas con discapacidad, 
+personas	pertenecientes	a	grupos	étnicos,	víctimas	del	conflicto	armado,	migrantes,	personas	en	
+ejercicio de prostitución, LGBTI. 
+A este programa se suma la estructuración de un sistema único de inteligencia social para la 
+Secretaría de Inclusión Social, Familia y Derechos Humanos, con el cual se busca promover el ac-
+ceso a la información, facilitar la recogida y el análisis de datos, integrar la información, modernizar 
+los procesos, gestionar el conocimiento, y orientar la toma de decisiones a partir del análisis de big 
+data, con miras a la transformación social para el logro de los Objetivos de Desarrollo Sostenible. 
+Objetivo general 
+Implementar un sistema de inteligencia social para la caracterización, orientación, atención, deri-
+vación y seguimiento a las personas y grupos poblacionales, en especial a aquellas afectadas por 
+emergencias sociales, naturales y/o causadas por los seres humanos.
+Objetivos específicos 
+•  Brindar reconocimiento y activación de rutas de acceso a los derechos a población 
+en emergencia social (línea 123 Social).
+•  Brindar acceso y restablecimiento de derechos a la población en emergencia natu-
+ral y/o antrópica (Comisión social).
+•  Brindar alojamiento temporal para población vulnerable, en riesgo y/o en emergen-
+cia (Albergue temporal).
+•  Realizar entrega de ayudas humanitarias de emergencia de acuerdo a las necesi-
+dades de la población afectada.
+•  Caracterizar las familias que requieren atención de emergencia y que no cuentan 
+con registro en el Sisbén.
+3 47
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Personas en situación de riesgo o emergencia, Secretaría de Inclusión, 
+natural o antrópica beneficiadas de Porcentaje 100 100 Familia y Derechos 
+acompañamiento social y atención básica de Humanos
+emergencia. 
+Secretaría de Inclusión, 
+Personas en emergencia social, atendidas por Porcentaje 100 100 Familia y Derechos 
+la línea 123 Social con enfoque diferencial. Humanos
+Secretaría de Inclusión, 
+Sistema de Información Social implementado. Porcentaje 100 100 Familia y Derechos 
+Humanos
+Secretaría de Inclusión, 
+Personas acompañadas y atendidas con las Porcentaje NA 100 Familia y Derechos 
+ofertas institucional por medio de la virtualidad. Humanos
+Familias de los diferentes grupos poblacionales Secretaría de Inclusión, 
+identificadas como población vulnerable que no Porcentaje 0 100 Familia y Derechos 
+se encuentran registradas en Sisbén. Humanos
+3.3.4.5.  Programa. Acciones de fortalecimiento social para el 
+      cuidado y la protección
+Descripción 
+Éste programa permitirá la coordinación de las políticas públicas sociales y la operativización de los 
+planes estratégicos con miras a la estructuración del Sistema Municipal de Cuidado , el cual tiene en 
+el centro la familia,  la garantía de los derechos y el bienestar de los diferentes grupos poblaciones en 
+especial aquellos con mayor vulnerabilidad social; a partir de la articulación institucional y la transver-
+salización de enfoques de cada una de las políticas públicas, las cuales tendrán la participación activa 
+de los sujetos de derecho; a través de un  proceso de comunicación, cooperación, y coordinación 
+entre los diferentes agentes que intervienen en la interacción social.
+Objetivo general 
+Contribuir a la garantía de derechos de los diferentes grupos poblacionales, mediante el seguimiento, 
+divulgación y formulación de políticas públicas de seguridad alimentaria y nutricional, niñez, disca-
+pacidad, habitante de calle, LGBTI, personas mayores y grupos étnicos de la ciudad de Medellín.
+3 4 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivos específicos 
+•  Realizar monitoreo a la Política Pública de Seguridad Alimentaria y Nutricional y 
+su contribución en las condiciones de mejoramiento de la situación alimentaria y 
+nutricional de la población participante de los programas y sus familias.
+•  Implementar estrategias educativas que contribuyan a la adquisición de 
+hábitos alimentarios adecuados, estilos de vida saludable y actividad física, 
+favoreciendo	las	condiciones	de	salud	de	la	población	beneficiaria	de	los	
+programas de Seguridad Alimentaria y sus familias.
+•  Generar y fortalecer mecanismos y escenarios que garanticen a niñas, niños 
+y adolescentes la participación para potenciar las subjetividades políticas y la 
+incidencia en la toma de decisiones.
+•  Coordinar la implementación y monitoreo de la Política Pública para la Inclusión 
+de	las	Personas	con	Discapacidad	del	municipio	de	Medellín,	con	el	fin	de	
+contribuir al ejercicio de sus derechos e inclusión social.
+•  Promover la transformación de imaginarios, en aras de que la población 
+diversa sexualmente goce de manera efectiva de sus derechos, promover 
+comportamientos y actitudes que contrarresten situaciones de discriminación y 
+de exclusión en la ciudad de Medellín.
+• • Formular la Política Pública para la Población Afrodescendiente, negra, 
+palenquera y raizal, mediante la consulta previa, fomentando escenarios 
+dirigidos a la garantía, restablecimiento y cumplimiento de los derechos 
+humanos y diferenciales de esta población.
+•  Implementar el Plan Municipal Afrodescendiente, mediante el desarrollo y 
+monitoreo de acciones transversales orientadas a la garantía de los derechos 
+étnicos diferenciales de la población afrodescendiente en la ciudad de Medellín.
+•  Formular el Plan Indígena de Medellín, mediante acciones de concertación 
+y pedagogía intercultural, que permitan la construcción de herramientas, 
+programas y proyectos, orientados a la implementación de la política pública.
+•  Gestionar la implementación, transversalización y seguimiento de la política 
+pública social para los habitantes de calle del municipio de Medellín. 
+•  Promover en la población la adopción de estilos de vida saludables para un 
+envejecimiento digno, activo y responsable.
+•  Direccionar la implementación, transversalización y seguimiento del plan 
+estratégico y cumplimiento de la política pública de la diversidad sexual e 
+identidad de género.
+3 4 9
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Secretaría de Inclusión 
+Política Pública de Seguridad Alimentaria y Porcentaje 100 100 Social, Familia y Dere-
+Nutricional actualizada. chos Humanos
+Comunas y corregimientos con estrategia Secretaría de Inclusión 
+de acompañamiento psicosocial y formación Número 20 21 Social, Familia y Dere-
+de cuidadores de personas mayores y/o con chos Humanos
+discapacidad implementada.
+Secretaría de Inclusión 
+Política Pública de Infancia y Adolescencia Porcentaje 0 100 Social, Familia y Dere-
+divulgada y monitoreada. chos Humanos
+Secretaría de Inclusión 
+Plan Indígena de Medellín formulado. Porcentaje 0 100 Social, Familia y Dere-
+chos Humanos
+Secretaría de Inclusión 
+Política Pública Afrodescendiente formulada e Porcentaje 0 100 Social, Familia y Dere-
+implementada. chos Humanos
+Secretaría de Inclusión 
+Política Pública de Diversidad Sexual e Porcentaje 100 100 Social, Familia y Dere-
+Identidades de Género monitoreada. chos Humanos
+Secretaría de Inclusión 
+Política Pública de Discapacidad monitoreada. Porcentaje 100 100 Social, Familia y Dere-
+chos Humanos
+Secretaría de Inclusión 
+Política Pública de Habitante de Calle Porcentaje 100 100 Social, Familia y Dere-
+monitoreada y evaluada. chos Humanos
+Secretaría de Inclusión 
+Política Pública para la Familia monitoreada y Porcentaje 100 100 Social, Familia y Dere-
+evaluada. chos Humanos
+Política Pública de Atención, Asistencia y Secretaría de Inclusión 
+Reparación Integral a Víctimas del Conflicto Porcentaje 100 100 Social, Familia y Dere-
+Armado monitoreada y evaluada. chos Humanos
+Secretaría de Inclusión 
+Plan Gerontológico monitoreado. Porcentaje NA 100 Social, Familia y Dere-
+chos Humanos
+Secretaría de Inclusión 
+Plan Intersectorial contra ESCNNA con gestión Porcentaje ND 100 Social, Familia y Dere-
+y seguimiento. chos Humanos
+Tabla continúa en la siguiente página...
+3 5 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Personas que participan en espacios de Secretaría de Inclusión 
+articulación, análisis, asistencia técnica Número ND 3000 Social, Familia y Dere-
+y divulgación de la Política Pública de chos Humanos
+Discapacidad. 
+Comités Comunales y Corregimentales de Secretaría de Inclusión 
+Inclusión acompañados para la garantía de Número 21 21 Social, Familia y Dere-
+derechos de las personas con discapacidad. chos Humanos
+Secretaría de Inclusión 
+Centro de Investigación de Políticas Públicas Porcentaje NA 100 Social, Familia y Dere-
+Sociales creado e implementado. chos Humanos
+Secretaría de Inclusión 
+Política Pública Municipal de Derechos Porcentaje NA 100 Social, Familia y Dere-
+Humanos formulada. chos Humanos
+Política Pública de Violencias Sexuales Secretaría de Seguri-
+Porcentaje NA 100
+monitoreada. dad y Convivencia
+Política Pública de Inquilinatos monitoreada. Porcentaje NA 100 ISVIMED
+Relación de la Línea Estratégica con políticas públicas municipales
+Medellín Me Cuida, desarrolla todos los elementos de política social que se han abordado en la ciudad 
+y que se plantearán para abordar el Plan de Desarrollo Municipal Medellín Futuro 2020-2023. Esta 
+Línea contiene el compromiso del fortalecimiento, revisión y ajuste de los procesos de políticas pú-
+blicas que se han desarrollado y que han implicado el compromiso del gobierno de asumir acciones 
+específicas	encaminadas	a	la	solución	de	problemas	percibidos	como	problemáticos	y	que,	a	su	vez,	
+contienen una participación permanente por medio de consejos, comités o mesas de trabajo entre la 
+Estado y la Sociedad.
+En Comunidades, cuerpos y mentes saludables, se desarrolla lo planteado en el Plan Territorial de 
+Salud,	en	el	cual	se	definen	las	prioridades	en	salud	para	el	período	de	vigencia,	los	objetivos,	metas	
+y estrategias para su cumplimiento y las enmarca en las competencias de todos los actores involu-
+crados,	teniendo	presente	la	disponibilidad	y	especificidad	del	origen	y	destino	de	los	recursos	del	
+sistema, la intersectorialidad y la transectorialidad.  Esto implica la ejecución de las políticas públicas 
+que le apuntan al logro de su objetivo superior, el cual es “Avanzar en Medellín hacia la garantía del 
+goce efectivo del derecho a la salud, promoviendo el cuidado del individuo, la familia, la comunidad y 
+3 5 1
+Tercera parte. Marco programático
+el	entorno;	identificando	y	gestionando	oportunamente	los	riesgos	en	salud;	fortaleciendo	el	acceso	a	
+la prestación de los servicios socio-sanitarios de forma integral, disminuyendo la inequidad en salud, 
+logrando mejores condiciones y resultados de salud, bienestar y calidad de vida, para el desarrollo 
+individual, colectivo y ambiental”.
+También en Comunidades, cuerpos y mentes saludables se desarrollan los lineamientos de la 
+Política Pública del Deporte, la Recreación y la Actividad Física de Medellín-Cultura D 2018-2031 
+(Acuerdo 064 de 2017), que establece el fomento del deporte, la recreación y la actividad física como 
+herramientas sociales transformadoras y generadoras de oportunidades, permitiendo la construcción 
+de proyectos de vida dignos, la inclusión social, la equidad, la participación, la cultura ciudadana y 
+los entornos protectores para todos los habitantes de Medellín.  Además, el Plan Estratégico del 
+Deporte, la Recreación y la Actividad Física 2013-2023 establece las líneas estratégicas para el 
+direccionamiento institucional.
+En Juventud, la historia particularmente de Medellín, ha generado múltiples visiones sobre el ser 
+joven y sobre las formas de abordar la cantidad de necesidades y acciones para la atención a la po-
+blación juvenil.  En general, la respuesta ha estado basada en las políticas públicas, en donde a partir 
+de construcciones conjuntas se han diseñado políticas alrededor de sus dinámicas, organizaciones 
+y particularidades.
+El reto en este cuatrienio, es superar todas las debilidades que no han favorecido acciones esta-
+tales conjuntas o que no han permitido llegar a las realidades de los jóvenes, esto tiene que ver con 
+el apoyo y acompañamiento al Consejo Municipal de la Juventud y a cada una de las instancias del 
+Subsistema Municipal de Participación de las Juventudes como lo plantea el Acuerdo 019, PPJ y la 
+Ley Estatutaria 1622, Estatuto de Ciudadanía Juvenil.  En este cuatrienio se desarrollarán acciones 
+prioritarias como la implementación de procesos y acciones de formación con las y los jóvenes que 
+fortalezcan el desarrollo positivo/habilidades para la vida, el fomento de la participación de las y los 
+jóvenes rurales en escenarios formales e informales en igualdad de oportunidades, la promoción y 
+visibilización de prácticas, expresiones y discursos juveniles a partir del diálogo intergeneracional y 
+entre jóvenes y Estado. En términos de salud, prestar un servicio de salud sin barreras, bajo el mo-
+delo	de	servicios	amigables	y	eficientes,	con	un	enfoque	diferencial	y	con	estrategias	extramurales	
+de atención en salud.  Esto tiene que ver con la salud mental y sexual y reproductiva principalmente.
+Los jóvenes de Medellín comprenden la salud desde sus prácticas cotidianas: montar en bicicleta, 
+el autocuidado, alimentarse bien, hacer ejercicio, sus consumos conscientes y las conversaciones 
+sobre su salud mental y sexualidad hacen parte de algunas de las prácticas que nos enseñan hoy 
+que la salud va más allá de la enfermedad, y como sociedad debemos reconocer la capacidad de 
+autodeterminación de las juventudes para tomar decisiones sobre sus consumos, cuerpos y vidas; 
+los proyectos de este programa están orientados a que los y las jóvenes accedan a información cua-
+lificada	para	la	toma	de	decisiones	conscientes.
+3 5 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+La Política Pública de Juventud (Acuerdo 19 de 2014) cumple un gran papel en la transferencia 
+intergeneracional con otras poblaciones, por esto su articulación será una gran apuesta para que 
+culturalmente desde el ciclo de vida de cada habitante de Medellín haya valoración y respeto.
+Los jóvenes en el Valle de Software, se desarrolla desde la Línea Estratégica y de acción Trabajo y 
+emprendimiento juvenil, del Plan Estratégico de Juventud de Medellín, desde la cual se reconoce el 
+derecho al trabajo digno, en los términos de la Constitución Política y al trabajo decente entendidos 
+como la posibilidad de contar con oportunidades de un trabajo que sea productivo y que produzca 
+un ingreso digno, seguridad en el lugar de trabajo y protección social para las familias, mejores pers-
+pectivas de desarrollo personal e integración a la sociedad e igualdad de oportunidad y trato para las 
+mujeres y los hombres, así como de los habitantes rurales y urbanos. Para esto desde el programa 
+se busca contribuir a la generación de mejores condiciones de empleabilidad y emprendimiento para 
+los jóvenes y aportar a la atención de jóvenes en condición de vulnerabilidad económica, las inicia-
+tivas y oportunidades para jóvenes deberán estar claramente ligadas a la generación de ingresos, 
+sin esta conexión, principalmente los más pobres, desconectados de la ciudad y sin redes de apoyo, 
+seguirán sin satisfacer sus necesidades básicas o en dinámicas de economías precarias, informales 
+o en la ilegalidad.
+En mujeres, la Política Pública para la igualdad de género de las mujeres urbanas y rurales del 
+Municipio de Medellín (Acuerdo 102 de 2018) se expresa en el enfoque de género, como herramienta 
+de análisis de la realidad de las mujeres urbanas y rurales en el contexto del desarrollo.  Esto también 
+incluye	la	realización	de	acciones	afirmativas	que	reduzcan	las	brechas	existentes	en	relación	a	los	
+hombres, lo cual ha generado desigualdades en razón al sexo y los preceptos culturales que han 
+influenciado	a	la	sociedad	y	han	puesto	en	un	nivel	inferior	a	las	mujeres.
+Las	acciones	afirmativas	que	se	determinan	en	este	componente	hacen	parte	del	establecimiento	
+de prioridades en la agenda pública, alrededor de los retos de política pública.  Es indiscutible que 
+el	avance	en	la	igualdad	de	oportunidades	para	todas	y	todos	beneficia	el	mejoramiento	de	las	con-
+diciones de vida y permite crear condiciones reales para la participación en todos los procesos de la 
+vida desde la equidad.
+Es a través de acciones como el liderazgo y empoderamiento femenino, la protección integral para 
+las mujeres y las niñas para una vida libre de violencias, la autonomía económica para las mujeres 
+y su incorporación al desarrollo económico que da cumplimiento al avance de la política pública, así 
+como también el permanente respaldo a la institucionalidad de género en el municipio de Medellín, 
+representado en la Secretaría de las Mujeres, como una herramienta política para la garantía de los 
+derechos de las mujeres.
+En el componente Recuperemos lo social, establece como primer elemento la canasta básica 
+de derechos, que incluye los paquetes alimentarios a la población y los programas de alimentación 
+3 5 3
+Tercera parte. Marco programático
+escolar (PAE), desde el enfoque de la Política Pública de Seguridad Alimentaria y Nutricional (SAN) 
+(Acuerdo 38 de 2005 Complementado por el Acuerdo 100 de 2013), que adopta el concepto de Se-
+guridad Alimentaria y Nutricional dispuesto en la Política Nacional (Conpes) 113-: “Es la disponibilidad 
+suficiente	y	estable	de	alimentos,	el	acceso	y	el	consumo	oportuno	y	permanente	de	los	mismos	en	
+cantidad, calidad e inocuidad por parte de todas las personas, bajo condiciones que permitan su 
+adecuada utilización biológica, para llevar una vida saludable y activa”20. 
+Es en este componente una apuesta de ciudad, que si bien debe ser liderada por la Secretaría de 
+Inclusión Social, Familia y Derechos Humanos involucra a todos los actores, públicos, privados, y a 
+la sociedad civil en general, e invita a unir y concentrar los esfuerzos, para optimizar los recursos y 
+garantizar	mejoras,	en	la	alimentación	y	la	nutrición,	que	beneficiará	la	calidad	de	vida	de	los	habi-
+tantes del municipio de Medellín.
+En el desarrollo de acciones para la primera infancia, niñez y adolescencia, se desarrolla acorde 
+a lo planteado en el Acuerdo 143 de 2019, por medio de la generación de capacidades y condiciones 
+familiares, sociales e institucionales para el desarrollo integral, el reconocimiento y la potenciación 
+de niñas, niños y adolescentes como sujetos de derechos y sujetos políticos, en la ciudad y ruralidad 
+de Medellín, tal como la establece el Acuerdo.  Lo cual es un objetivo superior, que, si bien no logrará 
+materializarse en su totalidad en el cuatrienio, si estarán dispuestos todos los esfuerzos hacia el logro 
+de este entre el 2020-2023, para dejar sentadas las bases del esfuerzo que como sociedad se debe 
+continuar hacia la garantía real y efectiva de los derechos de la niñez.
+La articulación con Política Pública para la Familia se da en términos de los procesos de promoción 
+de derechos y prevención de vulneraciones con NNA, teniendo en cuenta los grandes aportes que, 
+desde el ámbito familiar en cualquiera de sus conformaciones en la ciudad, se promueve y aplique 
+esta garantía y bienestar a los NNA.
+Desde la protección, la Política Pública Social para Habitantes de la Calle (Acuerdo 24 de 2015), 
+es un mecanismo para garantizar y restablecer los derechos de las personas habitantes de la calle, 
+con el propósito de lograr su rehabilitación y su inclusión social, puesto que han hecho de la calle 
+su lugar de habitación ya sea de forma permanente o transitoria y que, en ningún caso, esta puede 
+aportar elementos básicos para el bienestar de las personas.  Así mismo, las estrategias de inclusión 
+social son muy importantes para superar esta situación.
+Para las personas mayores, se plantean dos concepciones complementarias para el abordaje de 
+la Política Pública (Acuerdo 8 de 2012) por una parte, el envejecimiento, como un proceso que inicia 
+desde la concepción y termina con la muerte; por otro lado, la vejez como el segmento de curso de 
+vida	que	refiere	a	las	personas	mayores	de	60	años:
+20 Conpes 113, Departamento Nacional de Planeación, 2008, pág. 4.
+3 5 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+ Acciones generales para toda la población como la incidencia en el cambio de imaginarios frente 
+a la vejez, para ello es necesario vincular en esta Línea a todas las poblaciones para lograr mayores 
+índices de condiciones de vida para la población a partir de los 60 años y para que culturalmente 
+tengamos un cambio positivo, hacia una nueva vejez, en la valoración personas mayores por sus 
+aportes al desarrollo propio, de la familia, la comunidad y la sociedad y en donde se reconozca a las 
+personas mayores como sujetos políticos y de derechos; igualmente desde la adopción de estilos de 
+vida saludables que buscan trabajar en las dimensiones humanas, incidiendo en un envejecimiento 
+activo que incida en la vivencia de una vejez más saludable y de calidad. 
+De	otra	parte,	se	proponen	acciones	específicas,	donde	el	Estado,	la	sociedad	y	la	familia	en	
+un ejercicio de corresponsabilidad asistan a las personas mayores para garantizar las condiciones 
+básicas de subsistencia; ello con base en el contexto actual en el cual hay población que envejeció 
+en condiciones de pobreza y con una alta carga de enfermedad acumulada, que requiere del acom-
+pañamiento, protección y restitución de derechos. 
+Una vez más es necesario vincular en esta Línea a todas las poblaciones al respecto del concepto 
+de vejez, para lograr mayores índices de condiciones de vida para la población a partir de los 60 
+años y para que culturalmente tengamos un cambio positivo, hacia una nueva vejez, en la valoración 
+personas mayores. 
+La familia el principal motor de la Línea Medellín  Me Cuida, dado que en este grupo social 
+convergen todos los ciclos de vida y es el espacio primordial para el cuidado, por esto las acciones 
+hacia las familias deben trascender el bienestar  económico solamente, es decir, no solo se centran 
+en las familias pobres sino también en las familias en general, puesto que muchas situaciones de 
+vulneración y maltrato a sus miembros, son independientes de su situación económica, entonces en 
+toda la sociedad se debe abordar el mejoramiento de las relaciones familiares y de su convivencia. 
+Es una labor fundamental del Estado proteger la familia, por esto a través del acompañamiento para 
+la superación  de la pobreza, la prevención del maltrato especialmente a los niños, niñas, personas 
+mayores y mujeres, a través de acciones complementarias en todos los sectores del desarrollo, que 
+Medellín le apunta a reducir los índices de pobreza, el bienestar de las familias y sus integrantes, se 
+relaciona intrínsecamente con la educación, la salud y la participación  en el desarrollo económico, 
+generando alternativas para su bienestar que sean sostenibles e impidan retrocesos en su inclusión 
+y permitan que realmente sean agentes de su desarrollo tal como lo establece la Política Pública para 
+la promoción, prevención, atención, protección, garantía y restablecimientos de los derechos para 
+la	familia	en	el	municipio	de	Medellín		(Acuerdo	54	de	2011	Modificado	por	el	Acuerdo	22	de	2016).
+Este componente desarrolla los enfoques étnicos, diferencial y de género, para el desarrollo de 
+medidas	afirmativas	hacia	los	pueblos	indígenas,	lesbianas,	gais,	bisexuales,	transgeneristas	e	inter-
+sexuales (LGBTI), con la población afro, palenque y raizal.  En el caso de la protección de los derechos 
+indígenas, la formulación del Plan Indígena de Medellín, acorde a los establecido en el Acuerdo 130 

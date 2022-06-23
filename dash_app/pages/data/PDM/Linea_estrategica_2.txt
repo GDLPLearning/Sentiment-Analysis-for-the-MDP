@@ -1,0 +1,1729 @@
+2 47
+Tercera parte. Marco programático
+3.2.  Capítulo II. Línea estratégica 2:  
+Transformación  Educativa y Cultural
+Las relaciones entre educación y cultura constituyen un importante eje para la transformación de la 
+Medellín	futura;	en	ellas	confluyen	las	posibilidades	de	ampliar	el	horizonte	de	vida	de	nuestras	niñas,	
+niños, adolescentes, jóvenes y adultos para hacer de su proyecto de educativo y de vida cultural, un 
+lugar donde los saberes aprendidos, las experiencias compartidas y el desarrollo de prácticas que 
+potencien su universo sensible, les permita desarrollar su creatividad y la capacidad de innovar, reco-
+nocer en sus memorias y patrimonios aquellos elementos que le dan sentido a su existencia, valorar 
+a cada ser humano en su diferencia, vincularse a la vida social y productiva y convivir de manera más 
+respetuosa en sus entornos familiares, escolares, barriales y de ciudad.
+Queremos una educación que le sirva al crecimiento económico de la ciudad y permita lograr la 
+emancipación humana a través del pensamiento autónomo y libre; que garantice el desarrollo indivi-
+dual y la construcción de una ciudad que se apasione por la discusión argumentada, el aprendizaje, 
+la	enseñanza,	el	pensamiento	científico,	la	creación	artística	y	la	participación	política.	Una	Medellín	
+en la que los ciudadanos se constituyan como tales, reconozcan sus diferencias y trabajen en torno 
+a ellas; donde la educación no sea un privilegio de pocos sino un derecho de todos y todas. 
+La Transformación Educativa y Cultural se fundamenta en una concepción de la educación de cali-
+dad	(ODS	N.º	4),	lo	que	implica	cualificar	no	solo	el	acceso,	la	permanencia,	la	infraestructura	y	los	
+resultados en pruebas estandarizadas, asuntos en los que la ciudad viene trabajando, sino también 
+aplicar los principios de pertinencia, inclusión, equidad, diversidad, integralidad, y formación integral 
+que	cualifiquen	el	proceso	de	enseñanza	y	aprendizaje.	Desde	unos	currículos	concebidos	como	
+cultura en la era digital, una didáctica como comunicación soportada en las tecnologías de la infor-
+mación y la comunicación (TIC) y en los sistemas de información documental (SID), unos maestros y 
+maestras como investigadores dispuestos a jalonar las fronteras de la innovación y el conocimiento, 
+con una gestión del sistema educativo como proceso de evaluación y autoevaluación permanente 
+con soporte digital. Es un enfoque que reconoce las múltiples racionalidades que tiene el ser huma-
+no (lógica, ética, estética y política)17 para que cada uno desarrolle sus propios talentos y, desde su 
+conciencia histórica, su formación, reaprenda la cultura que toda la ciudad, como un gran ambiente 
+de aprendizaje, le pueda ofrecer. Se trata, entonces, de una oferta plural de procesos educativos 
+transformadores que nos permita vivir a todos juntos, libres, en paz y con dignidad. 
+El programa Buen Comienzo, la apuesta por mejorar la infraestructura, ampliar la cobertura y 
+17 Lo	lógico	implica	los	conocimientos	y	el	pensar	científico	construido	metódicamente;	lo	ético,	involucra	la	autonomía,	la	
+capacidad de juicio, de tomar decisiones, la responsabilidad y el autoconocimiento que permiten actuar correctamente, con 
+principios y valores; lo político, representa el vínculo social, la ciudadanía, la convivencia, la comunicación, el hablar y actuar 
+juntos,	el	convivir	pacíficamente,	la	generación	de	confianza,	la	gobernabilidad;	y,	finalmente,	lo	estético,	implica	la	inteli-
+gencia emocional, la intuición y todas aquellas sensibilidades que le permiten al ser humano crear algo novedoso, imaginar 
+nuevas realidades, resolver problemas, innovar y transformar su entorno hoy, en la era digital.
+2 4 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+garantizar el acceso la educación superior, la reactivación del Comité Universidad Empresa Es-
+tado, la creación de Mova y Sapiencia, el Vivero del Software, el Plan de Lectura y las bibliotecas 
+escolares, la Casa Medellín Vive la Música, las UVAS, Medellín Novation, y el Parque Explora, se 
+convirtieron en estrategias fundamentales en el renacimiento que ha vivido la ciudad en los últimos 
+veinte años. A la ciudadela universitaria Pedro Nel Gómez se le sumará pronto la Ciudadela de 
+Occidente, con el objetivo de proyectar a Medellín como una ciudad de Ciudadelas Universitarias. 
+Los próximos 10 años determinarán el futuro de nuestra ciudad y de su gente. Aunque el índice 
+multidimensional de la calidad educativa tuvo una leve mejoría, pasando de 48.8 en 2016 a 49.6 
+en 2017  hoy corremos el riesgo de que nuestro sistema educativo falle en seguirle los pasos a 
+los acelerados cambios tecnológicos y culturales que ha traído consigo el siglo XXI, así como que 
+falle en brindar oportunidades reales para reducir las brechas en términos calidad, cobertura y 
+pertinencia que hoy enfrenta la ciudad.
+El proyecto cultural de la ciudad fortalecerá la creación de oportunidades que aseguren el goce 
+y disfrute de los derechos culturales de los ciudadanos y ciudadanas. La riqueza de las manifesta-
+ciones del arte y la cultura, representadas en la música, las artes escénicas, las artes visuales, el 
+cine y el audiovisual, la literatura, así como los procesos que se desarrollan en museos, bibliotecas, 
+parques, archivos, teatros, casas de la cultura, escuelas de música, entre otros, constituyen los 
+insumos esenciales para consolidar la cultura como referente esencial en el desarrollo de la ciudad. 
+Para ello, continuaremos brindando oportunidades para que personas y organizaciones puedan 
+desarrollar sus proyectos culturales y preservar los patrimonios y las memorias que les han sido 
+confiadas,	de	modo	que	cada	vez,	más	ciudadanos	puedan	participar	de	manera	más	activa	y	gozar	
+y disfrutar la cultura. 
+Dicho propósito se fortalecerá, articulando los programas que desarrollan los museos, teatros, 
+bibliotecas, archivos, parques y diversas organizaciones culturales con el sistema educativo, a través 
+de programas como Buen Comienzo, jornada complementaria, bibliotecas escolares, entre otros, así 
+como mediante la vinculación a la formación de formadores en alianza con el Centro de Innovación 
+del Maestro (Mova), de forma que lo cultural se constituya en clave de la calidad educativa y las 
+oportunidades de vida cultural integren a los estudiantes en todos los niveles del sistema educativo.
+Medellín, una ciudad diversa en sus territorios urbanos y rurales, alberga una gran diversidad 
+poblacional (personas migrantes, en situación de desplazamiento, con discapacidad, LGBTI, grupos 
+etarios diversos, entre otros), así como un amplio conjunto de organizaciones culturales comunitarias 
+y de procesos de organización sociocultural que han contribuido a fortalecer el tejido social y hacer 
+realidad el efecto transformador del arte y la cultura en la sociedad.  Desarrollar las capacidades y 
+brindar condiciones para que los territorios se potencien como escenarios de transformación desde 
+el	arte	y	la	cultura,	constituye	un	reto	en	el	presente	Plan,	para	afianzar	la	solidaridad	y	aportar	a	la	
+construcción de la paz territorial en nuestra ciudad.
+Insertar la cultura en el nuevo horizonte de desarrollo trazado para la ciudad, nos invita a construir nue-
+2 4 9
+Tercera parte. Marco programático
+vos referentes que permitan avanzar en la consolidación de las políticas culturales de la ciudad mediante 
+información y conocimiento que contribuyan dimensionar de manera más clara su ecosistema cultura, 
+analizar las problemáticas del desarrollo cultural, y construir las soluciones requeridas que soporten la 
+toma de decisiones públicas. Ello, de la mano de un sistema municipal de cultura fortalecido y de diversas 
+redes y procesos de organización cultural existentes, así como de la creación de nuevos escenarios como 
+el Complejo Cultural Ciudad del Río, o la recuperación y puesta en servicio del Parque Biblioteca España, 
+entre	otros,	contribuirán	a	afianzar	la	gobernanza	y	la	gobernabilidad	cultural	en	materia	cultural.
+Afianzar	el	papel	de	la	cultura	ciudadana	como	posibilidad	de	transformar	los	comportamientos	
+ciudadanos	en	torno	a	la	legalidad	y	la	autorregulación,	la	confianza,	el	respeto	por	la	diferencia,	entre	
+otros, nos permitirá avanzar en la implementación efectiva de la política pública de cultura ciudadana 
+(Acuerdo 123 de 2019), para contribuir desde iniciativas orientadas a mejorar la convivencia, ampliar 
+la	participación,	potenciar	la	apropiación	del	espacio	público,	mejorar	la	confianza	entre	las	personas	
+y de éstas con las instituciones, fortalecer el cumplimiento de la norma y contribuir a la sostenibilidad 
+ambiental con enfoque de cultura ciudadana.
+Los desafíos que para el sector cultural representa la pandemia del COVID-19, requiere acompañar 
+a las personas y organizaciones para superar la crisis y articular todas las capacidades institucionales 
+para brindar alternativas mediante acciones de salvamento representadas en diversos estímulos, po-
+sibilidades	de	financiación,	articulación	con	el	gobierno	nacional,	creación	de	plataformas	virtuales	de	
+fomento, circulación y mercadeo de bienes y servicios culturales, así como de la formación de capacidades 
+en toda la cadena productiva del sector que permitan afrontar los desafíos de la sostenibilidad cultural 
+que permitan que nuestra ciudad siga contando con sus creadores y gestores culturales, así como con 
+las organizaciones y entidades que por muchos años han dado sentido a lo cultural en nuestra ciudad.
+Propósito
+Garantizar una educación de calidad como derecho que moviliza la transformación humana, económi-
+ca, política, ambiental y social de Medellín Futuro, articulada a un proyecto cultural de ciudad fundado 
+en los derechos culturales, que fortalezca el potencial creativo de sus ciudadanos, salvaguarde sus 
+patrimonios y memorias y contribuya a hacer de Medellín una ciudad más solidaria, participativa y 
+en paz. La educación se comprende como el eje que articula el desarrollo económico basado en 
+la tecnología, la innovación y el conocimiento (Valle del Software); con una ciudad donde todos los 
+espacios	territoriales,	tanto	urbanos	como	rurales,	se	configuran	como	ambientes	de	aprendizaje	
+(Ecociudad), donde todos los habitantes se reconocen y respetan el vínculo social que los une; por lo 
+que	es	posible	convivir,	comunicarse,	hablar	y	actuar	juntos	de	forma	pacífica	y	con	confianza	(Gober-
+nanza y Gobernabilidad) para interactuar en una Medellín con mejores personas, seres humanos con 
+oportunidades para desplegar su sensibilidad, su creatividad y su capacidad innovadora, ciudadanos 
+y profesionales, todos y todas educados.
+2 5 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+3.2.1.  Componente. Buen Comienzo
+En Medellín Futuro estamos convencidos de que los niños y las niñas deben iniciar su vida a plenitud, 
+pues los cobija el derecho a la educación desde la primera infancia; por esta razón, los ambientes de 
+aprendizaje	que	se	configuren	para	recibirlos	deben	garantizar	un	máximo	de	cuidado	y	protección,	
+una	atención	integral	que	les	dé	bienestar,	seguridad	y	confianza	a	ellos	y	a	sus	familias.	Una	de	las	
+intencionalidades del gobierno local es aumentar la cobertura del programa Buen Comienzo para 
+que una proporción cada vez mayor de los niños y niñas menores de 5 años y madres gestantes en 
+condición de vulnerabilidad, puedan acceder a acompañamiento, alimentación, y formación integral 
+en jardines e instituciones de calidad. 
+En Medellín llevaremos a cero los nuevos casos de desnutrición crónica y se fortalecerá el com-
+ponente pedagógico de Buen Comienzo, creando un currículo pertinente para la formación de la 
+primera infancia, que desarrolle y direccione las capacidades propias de los niños en conocimientos 
+y habilidades múltiples. Además de garantizar la formación constante de los agentes educativos. Un 
+Buen Comienzo perdurará para toda la vida. El afecto y la protección son el haz y el envés para ese 
+trayecto hacia una existencia plena, feliz y en paz.
+Objetivo
+Garantizar acceso a servicios de atención integral de calidad a través del programa Buen Comienzo, 
+favoreciendo el desarrollo de los niños y las niñas de la ciudad de Medellín desde su primera infancia.
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Tasa de cobertura en madres gestantes y Secretaría de 
+lactantes con atención integral de Buen Porcentaje 46 48
+Educación
+Comienzo.
+Tasa de cobertura en atención integral a niños Secretaría de 
+y niñas de 0 a 5 años del Programa Buen Porcentaje 71 92
+Educación
+Comienzo.
+Niños y niñas de 0 a 5 años en condiciones 
+de malnutrición por déficit que superan esta Secretaría de 
+Porcentaje 31 5
+condición gracias a la atención especializada Educación
+del programa Buen Comienzo.
+Tasa de tránsito de Buen Comienzo a la Secretaría de 
+Porcentaje 86,1 94
+educación regular. Educación
+2 5 1
+Tercera parte. Marco programático
+Una de las principales apuestas para lograr la transformación educativa es el Componente Buen 
+Comienzo, con el cual se realizan acciones orientadas a garantizar las condiciones nutricionales y 
+desarrollo integral de la primera infancia de la ciudad, estas buscan aportar a las metas del cuarto 
+ODS el cual busca garantizar una educación inclusiva y equitativa de calidad y promover oportunida-
+des de aprendizaje permanente para todos, este se monitoreará a través del indicador de la Agenda 
+de los Objetivos de Desarrollo Sostenible de la ciudad para 2030 que se relaciona a continuación.
+Figura 63. Cobertura del programa Buen Comienzo, Medellín 2010-2019
+90 90 90 90 90 90 90 90 90 90
+76.60 78.70 81.00 81.80
+73.20 74.50 74.40 72.50
+69.20
+47.30
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Porcentaje Meta 2030
+ Fuente: Secretaría de Educación de Medellín. Sistema de Información Buen Comienzo y población Sisbén, (2020).
+El objetivo es incrementar la cobertura, buscando que cada día más niños puedan acceder al 
+programa y el fortalecimiento de los procesos pedagógicos.
+Programas
+3.2.1.1.  Programa. Buen Comienzo: 1.000 días para mejores familias
+Descripción 
+Los primeros mil días de vida son un período crítico para la conformación de la arquitectura cerebral, 
+el crecimiento y la maduración corporal, que, por sus repercusiones para toda la vida, exigen atención 
+integral de calidad, como elemento esencial para garantizar el derecho al desarrollo integral de la 
+primera infancia y los derechos sexuales y reproductivos de las mujeres y de sus parejas. El recono-
+cimiento de la importancia del desarrollo infantil temprano, como el período durante el cual se sientan 
+las bases para el desarrollo posterior del ser humano, ha llevado también al reconocimiento de las 
+obligaciones de los adultos para garantizar su cumplimiento en todos los entornos donde transcurre 
+2 5 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+la vida infantil, vale decir en el hogar, las instituciones de salud, los centros de educación inicial y los 
+espacios públicos; es por esto que con este programa, se busca brindar acompañamiento psicoe-
+ducativo, nutricional,  en salud y protección a mujeres gestantes, lactantes, niños y niñas en primera 
+infancia, de manera especializada, oportuna y pertinente.
+Objetivo general 
+Brindar una atención integral a las mujeres en el ejercicio de su maternidad y a niños y niñas en los 
+primeros	mil	días	de	vida,	con	calidad,	eficacia	y	continuidad.
+Objetivos específicos 
+• Desarrollar acciones de atención integral para mujeres gestantes, lactantes y niños 
+y niñas en primera infancia del municipio de Medellín bajo criterios de oportunidad, 
+calidad y pertinencia. 
+• Brindar atención y acompañamiento a gestantes y madres adolescentes de manera 
+especializada para prevenir el embarazo subsecuente y promover una educación 
+inicial de calidad y afectuosa.
+• Impulsar acciones de acompañamiento al recién nacido, impulsando procesos de 
+articulación intersectorial con actores corresponsables del desarrollo integral de la 
+primera infancia del municipio de Medellín.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Madres adolescentes formadas a través de Secretaría de 
+Número 3.017 6.000
+acciones educativas diferenciales. Educación
+Madres gestantes y lactantes atendidas Secretaría de 
+Número 12.488 13.000
+integralmente con el Programa Buen Comienzo. Educación
+3.2.1.2.  Programa. Buen Comienzo para una escuela pertinente y  
+    oportuna  
+Descripción 
+La promoción del desarrollo integral de la primera infancia, vincula procesos de acompañamiento a 
+niños y niñas en su proceso evolutivo, es así como el estado en vía de garantizar la generación de 
+2 5 3
+Tercera parte. Marco programático
+condiciones que incentiven el desarrollo de habilidades para la vida y la creación de mejores ciudadanos 
+tiene la responsabilidad de suministrar servicios multisectoriales que incidan de manera positiva en 
+el desarrollo físico, cognitivo, afectivo, comunicacional y social de los niños y niñas. Es por esto que 
+Medellín Futuro, fortalecerá las acciones en educación inicial, salud y nutrición, existencia, protección 
+y	participación	que	tiene	la	ciudad,	a	fin	de	promover	el	máximo	potencial	de	la	población	infantil,	
+garantizando su tránsito exitoso a la escuela. 
+En este sentido generará estrategias de corte pedagógico, institucional y comunitario que permitan 
+la mejora de la prestación de servicios bajo criterios de oportunidad y pertinencia. Hoy cerrar las bre-
+chas de acceso a servicios de calidad para la promoción del desarrollo integral de la primera infancia 
+es una de las oportunidades que Medellín Futuro desea dejarle a los Medellinenses, se promoverá la 
+garantía de la ruta integral de atenciones para la primera infancia, con esquemas de acompañamiento, 
+cualificación	permanente	y	generación	de	ambientes	dignos	de	aprendizaje.
+Objetivo general 
+Promover el desarrollo integral de la primera infancia del municipio de Medellín mediante esquemas 
+de articulación suprasectorial que impulsen el acceso a la atención de calidad, la movilización social, 
+la gestión del conocimiento, el monitoreo y la y valoración de resultados de los efectos de las inter-
+venciones en el marco de la Política Municipal de Primera Infancia.
+Objetivos específicos 
+• Brindar atención integral a niños y niñas de primera infancia de la ciudad mediante el 
+acceso a servicios de educación, protección, desarrollo, salud y nutrición y participación.
+• Brindar atención especializada bajo criterios de calidad, pertinencia y equidad a niños 
+y niñas de primera infancia en condición de discapacidad del municipio de Medellín.
+• Promover la calidad en la prestación de servicios de desarrollo infantil del municipio de 
+Medellín	mediante	el	acompañamiento	y	la	cualificación	de	actores	corresponsables	
+de la primera infancia, reconocimiento y apoyo a prácticas exitosas de educación ini-
+cial y atención integral, asistencia técnica, fortalecimiento institucional y organización 
+y generación de ambientes de calidad para la primera infancia.
+• Implementar estrategias que impulsen la generación de mentalidades y prácticas de 
+ciudad protectoras de primera infancia en el municipio de Medellín mediante accio-
+nes de movilización social, jurídica y consolidación de la política pública municipal de 
+desarrollo integral temprano.
+• Desarrollar acciones de evaluación y monitoreo permanente que permitan valorar los 
+resultados de la Política Municipal contribuyendo a la mejora continua y toma de de-
+cisiones	que	incidan	en	las	actuaciones	de	corte	estratégico,	técnico	y	financiero	para	
+la promoción del desarrollo integral de la primera infancia del municipio de Medellín.
+2 5 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Niños y niñas de 0-5 años atendidos Secretaría de 
+Número 72.886 95.000
+integralmente con el Programa Buen Comienzo. Educación
+Niños y niñas con discapacidad participantes Secretaría de 
+del Programa Buen Comienzo con atención Porcentaje NA 100
+Educación
+diferencial bajo un enfoque de inclusión.
+Agentes educativos formados en educación Secretaría de 
+Porcentaje 42 50
+inicial. Educación
+Niños y niñas participantes del Programa de Secretaría de 
+Porcentaje NA 100
+Buen Comienzo con valoración del desarrollo. Educación
+Sedes de Buen Comienzo con obras de Secretaría de 
+Porcentaje 9 20
+mantenimiento. Educación
+3.2.1.3.  Programa. Un Buen Comienzo para la nutrición
+Descripción
+Los efectos de la desnutrición en la primera infancia (0 a 8 años) pueden ser devastadores y duraderos. 
+Pueden impedir el desarrollo conductual y cognitivo, el rendimiento escolar y la salud reproductiva, 
+debilitando así la futura productividad en el trabajo. Dado que el retraso en el crecimiento ocurre casi 
+exclusivamente durante el período intrauterino y en los 2 primeros años de vida, es importante que 
+las	intervenciones	de	prevención	de	la	atrofia,	la	anemia	o	la	xeroftalmia	ocurran	en	la	edad	tem-
+prana. En este sentido, contar con un esquema de atención diferencial de corte preventivo permitirá 
+que los niños y niñas de la ciudad de Medellín accedan a servicios de calidad que interpreten las 
+condiciones propias de cada uno y de esta manera se disminuyan los riesgos de malnutrición. Con 
+este programa se generarán estrategias de acompañamiento especializado contribuyendo al mejo-
+ramiento de la calidad de vida y niños, niñas, mujeres gestantes y lactantes desde los componentes 
+de complementación alimentaria, salud (APS), educación, hábitat y vivienda saludable y economía 
+familiar (desarrollo económico).
+Objetivo general
+Disminuir condiciones de malnutrición de niños y niñas de primera infancia del municipio de Medellín 
+contribuyendo a su desarrollo integral en condiciones de calidad y oportunidad.
+2 5 5
+Tercera parte. Marco programático
+Objetivos específicos
+• Bajar el riesgo de desnutrición en los niños y niñas que ingresan a servicios de aten-
+ción diferencial del municipio de Medellín.
+• Atender de manera integral y con enfoque diferencial a niños y niñas con riesgo de 
+desnutrición del municipio de Medellín.
+• Promover un esquema de alianzas intersectoriales favorecedoras del proceso de 
+atención diferencial a niños y niñas con riesgo de desnutrición, atendidos por Buen 
+Comienzo Medellín.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Niños y niñas atendidos de forma especializada Secretaría de 
+Número NA 33.000
+por presentar malnutrición por déficit. Educación
+3.2.2.  Componente. Transformación curricular para la Cuarta 
+    Revolución Industrial
+Haremos la segunda gran transformación educativa de la historia de la ciudad para instituciones 
+públicas y privadas de todos los niveles. Queremos una educación integral que potencie el ser, el 
+hacer y el servir, en el que se reconozcan a los niños, niñas y a los estudiantes como los activos 
+más importantes de la sociedad y, por tanto, a los maestros y maestras como líderes de nuestros 
+bienes más preciados. La transformación curricular tendrá por objetivo posicionar habilidades 
+diversas como la creatividad, la innovación, el pensamiento crítico, la resolución de problemas 
+complejos,	el	aprender	a	aprender,	la	inteligencia	emocional,	la	flexibilidad	cognitiva,	la	negociación	
+y	el	trabajo	en	equipo,	acompañado	de	capacidades	específicas	como:	el	desarrollo	de	software, el 
+pensamiento lógico y abstracto y el bilingüismo desde temprana edad y para todas las edades, con 
+el objetivo de desatar una era de innovación tecnológica y convertir a Medellín en Valle del Software.
+Para lograr una transformación educativa y curricular es indispensable discutir con maestros y 
+maestras de la ciudad los principios pedagógicos, didácticos, curriculares y de gestión que hagan 
+posible un cambio cultural como posibilidad de materializar las teorías del desarrollo humano en la 
+ciudad y en el campo del conocimiento particular de la Cuarta Revolución Industrial, lo que marcará 
+para Medellín Futuro un nuevo horizonte de pujanza para un buen vivir, ayudando a recuperar lo 
+social e instaurando el Valle de Software.
+2 5 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo
+Diseñar, implementar y evaluar un modelo educativo para Medellín Futuro con sus correspondientes 
+principios pedagógicos, didácticos, curriculares y de gestión que aseguren la educación de calidad y 
+por ende la formación de ciudadanos dignos y libres que trabajen por una sociedad en paz.
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Instituciones educativas oficiales con Secretaría de 
+estrategia de media técnica en el modelo Núero 78,1 100
+Educación
+curricular.
+Instituciones educativas oficiales que mejoran Secretaría de 
+de nivel de desarrollo o se mantienen en Porcentaje 81 91
+Educación
+superior en autoevaluación institucional. 
+Establecimientos educativos oficiales que Secretaría de 
+mejoran de categoría o se mantienen en A+ en Porcentaje 4,35 10
+Educación
+Pruebas Saber 11.
+Establecimientos educativos oficiales Secretaría de 
+clasificados en categorías A+, A y B en Pruebas Porcentaje 62,1 70
+Educación
+Saber 11.
+Tasa de analfabetismo en población de 15 años Secretaría de 
+Porcentaje 2,2 1,95
+y más. Educación
+Instituciones educativas oficiales clasificadas Secretaría de 
+en un nivel de desarrollo alto o superior en Porcentaje 38,1 48
+Educación
+autoevaluación institucional.
+Brecha en la clasificación de planteles Secretaría de 
+en categorías A y A+ en Saber 11 entre Porcentaje 43,5 39,5
+Educación
+establecimientos oficiales y no oficiales.
+Con el componente Transformación curricular para la Cuarta Revolución Industrial, se busca 
+mejorar la pertinencia, calidad y habilidades para la educación del futuro; con las acciones a 
+realizar se busca aportar a las metas del cuarto ODS, éste se monitoreará a través del indica-
+dor de la Agenda de los Objetivos de Desarrollo Sostenible que Medellín asume a través de la 
+Agenda Medellín 2030.
+2 5 7
+Tercera parte. Marco programático
+Figura 64. Instituciones educativas oficiales en categorías A+, A y B en pruebas Saber 11,
+Medellín 2014-2018
+80 80 80 80 80
+69.1 70.1
+64.2
+46.8 48.2
+2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+ Fuente: ICFES Instituto Colombiano para la Evaluación de la Educación, (2014-2018). 
+Con la transformación curricular, se espera aportar para que el número de instituciones educa-
+tivas	oficiales	que	alcanzan	los	más	altos	niveles	de	calidad	siga	incrementándose	hasta	llegar	al	
+80 % o superior.
+Programas
+3.2.2.1.	 	Programa.	Resignificación	de	los	Proyectos	Educativos	
+     Institucionales (PEI)
+Descripción 
+La construcción de la Medellín Futuro requiere la transformación del sistema educativo, avanzando en 
+el desarrollo de contenidos pertinentes y de calidad, modernizando los proyectos educativos institucio-
+nales, fortaleciendo la formación en nuevas tecnologías, la integración multidisciplinar e investigación 
+dirigida hacia el Ser+ STEM y la Cuarta Revolución Industrial, liderando una transformación curricular 
+que posibilite consolidar al municipio de Medellín como el Valle del Software.
+2 5 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo general 
+Generar una transformación curricular en el municipio de Medellín, a partir de la modernización de 
+planes, programas y proyectos educativos orientándolos a los principios de calidad, equidad, inclu-
+sión, impacto y pertinencia, fortaleciendo el liderazgo pedagógico, el desarrollo de competencias y el 
+proyecto de vida en los niños, niñas, adolescentes y jóvenes de Medellín Futuro.
+Objetivos específicos 
+• Acompañar a los establecimientos educativos en la construcción, actualización e 
+implementación del Proyecto Educativo Institucional en las diferentes áreas de 
+gestión (directiva, administrativa, académico-pedagógico y de la comunidad), 
+respondiendo a las necesidades y retos de Medellín Valle del Software.
+• Construir estrategias que permitan el fortalecimiento de las instituciones educativas 
+oficiales,	favoreciendo	el	mejoramiento	de	la	calidad	educativa	y	el	desarrollo	integral	
+del estudiante.
+• Fortalecer	la	modernización	curricular	en	las	instituciones	educativas	oficiales,	
+construyendo contenidos pertinentes y de calidad.
+• Acompañar la transformación pedagógica y curricular de las instituciones educativas 
+oficiales	rurales,	promoviendo	contenidos	pertinentes	que	potencien	las	vocaciones	
+económicas y culturales de los territorios.
+Indicadores de producto
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Instituciones educativas oficiales con PEI Secretaría de 
+Número 223 229
+actualizado. Educación
+Instituciones educativas oficiales acompañadas Secretaría de 
+para la adecuación de su modelo curricular Porcentaje NA 100
+Educación
+en la Cuarta Revolución Industrial.
+Estudiantes de instituciones educativas 
+oficiales matriculados en programas de Secretaría de 
+Número 1.950 5.000
+SER+STEM (Science, Technology, Engineering Educación
+and Mathematics).
+2 5 9
+Tercera parte. Marco programático
+3.2.2.2.  Programa. Pertinencia, calidad y habilidades para la 
+    educación del futuro
+Descripción 
+Este programa está orientado al fortalecimiento de las capacidades y condiciones para el desarrollo 
+de	las	labores	formativas,	académicas,	científicas,	culturales	y	de	extensión	al	interior	de	las	institucio-
+nes,	con	el	fin	de	lograr	una	articulación	real	entre	la	oferta	educativa	y	las	realidades	de	los	actores	
+sociales y los sectores productivos.
+En tal sentido, fortaleceremos la formación Ser+STEM, avanzaremos hacia la universalización de 
+la media técnica, promoveremos la articulación con la educación postsecundaria y el uso de ambien-
+tes virtuales de aprendizaje, respondiendo a las necesidades individuales, sociales y económicas a 
+nivel local, regional y nacional.
+Finalmente, comprende los sistemas internos de aseguramiento de la calidad, mecanismos de auto-
+rregulación y autoevaluación de las condiciones de calidad institucionales y de programas académicos.
+Objetivo general 
+Mejorar la calidad y pertinencia de la educación básica, media y postsecundaria, fortaleciendo las 
+condiciones para la prestación del servicio educativo y generando contenidos que promuevan habili-
+dades y capacidades para el ser y el hacer, acordes a las necesidades del desarrollo humano, social 
+y económico de Medellín.
+Objetivos específicos 
+• Avanzar en la universalización del programa de media técnica en la ciudad de Mede-
+llín, a través de la construcción de un modelo de articulación de educación secunda-
+ria, técnica y superior para el municipio de Medellín. 
+• Consolidar	la	estrategia	Ser+STEM	en	las	instituciones	educativas	oficiales	de	la	ciu-
+dad, aportando a la formación pertinente de niños, niñas, adolescentes y jóvenes en 
+la Medellín Valle del Software.
+• Fortalecer la estrategia de jornada complementaria, aumentando la cobertura e 
+impulsando la construcción de nuevos contenidos orientados a la formación del ser 
+y el hacer, de la mano de las instituciones culturales y artísticas de la ciudad, entre 
+ellas los museos, teatros y otras organizaciones que tengan como misión conservar e 
+investigar el patrimonio material e inmaterial cultural, y el fortalecimiento de las artes.
+• Fortalecer los factores de calidad y pertinencia, a través de la sinergia de las funciones 
+sustantivas de la educación postsecundaria.
+2 6 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+• Fortalecer el ecosistema de la educación digital del municipio de Medellín, a través del 
+campus digital @MedellÍn.
+• Consolidar la educación postsecundaria bajo los principios integralidad y complemen-
+tariedad del sistema educativo municipal.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Estudiantes participantes en las Pruebas de Secretaría de 
+Porcentaje NA 95
+Calidad Académica Medellín 4.0. Educación
+Estudiantes atendidos en jornada Secretaría de 
+Número 29.636 35.000
+complementaria. Educación
+ITM, Colegio Mayor, 
+Programas acreditados en alta calidad. Número 29 41
+Pascual Bravo
+Docentes formados en habilidades de la ITM, Colegio Mayor, 
+Número 70 1.630
+industria 4.0. Pascual Bravo
+Beneficiarios de estrategias que apuntan a la Número 12.141 20.000 Sapiencia
+permanencia, calidad y la pertinencia.
+Matrículas en la oferta académica de @Medellín. Número 59.668 70.000 Sapiencia
+Política Pública de Educación Postsecundaria Porcentaje 25 100 Sapiencia
+diseñada y adoptada.
+Instituciones educativas oficiales acompañadas 
+en la implementación de modelos de gestión de Secretaría de 
+Número 29 100
+la calidad orientados hacia la Cuarta Revolución Educación
+Industrial.
+Observatorio para la Calidad Educativa de Secretaría de 
+Número NA 100
+Medellín (OCEM) implementado. Educación
+Comité consultivo para la política pública 
+de educación postsecundaria creado e Número NA 100 Sapiencia
+implementado.
+3.2.3.  Componente. Educación para todos y todas 
+En Medellín Futuro asumimos la educación de calidad como un compromiso que hace parte del dere-
+cho a la educación, y a la posibilidad del desarrollo humano que de ella se desprende, toda vez que 
+se	puede	accionar	sobre	el	sentido	que	inspira	el	proyecto	de	vida	desde	la	conciencia	individual	–la	
+formación–,	hacia	la	conciencia	colectiva	–la	educación–;	mediada	por	currículos	flexibles,	perti-
+2 61
+Tercera parte. Marco programático
+nentes, interdisciplinares e integrales, con una gestión que implica garantizar acceso, permanencia, 
+inclusión, equidad, diversidad, formación integral y ambientes de aprendizaje, asuntos atravesados 
+por unas didácticas innovadoras, diseñadas desde la comunicación y soportadas en ambientes de 
+aprendizajes de la era digital.
+Objetivo
+Garantizar la cobertura universal del derecho a la educación de calidad en la primera infancia, la 
+educación básica y la media técnica en condiciones de acceso, permanencia, inclusión, equidad, 
+igualdad, diversidad y ambientes de aprendizaje; y ampliar las oportunidades de acceso a la educación 
+postsecundaria para una Medellín Futuro digna y en paz.
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Tasa de deserción total en edad Secretaría de 
+Porcentaje 2.90 2.50
+escolar del sector oficial. Educación
+Tasa de cobertura neta en Secretaría de 
+Porcentaje 49.56 53
+educación media. Educación
+Continuidad a la educación Secretaría de  
+Porcentaje 65.99 73.34 Sapiencia
+postsecundaria. Educación
+Índice de percepción estudiantil Secretaría de 
+en seguridad y respeto en el Número 6.59 7.2
+Educación
+sector oficial.
+Tasa de extraedad oficial en Secretaría de 
+Porcentaje 9.56 8.6
+secundaria. Educación
+Instituciones educativas oficiales 
+que logran fortalecerse en la 
+protección y formación integral Secretaría de 
+Porcentaje NA 100
+de los niños, niñas, adolescentes Educación
+y jóvenes a través de escuelas de 
+padres y madres. 
+Índice de percepción agregada en Secretaría de 
+Número 6.78 7.5
+ambiente escolar del sector oficial. Educación
+Tasa de deserción en edad escolar Secretaría de 
+en básica secundaria del sector Porcentaje 3.7 3.4
+Educación
+oficial.
+Tasa de deserción en edad escolar Secretaría de 
+Porcentaje 2.2 1.9
+en media del sector oficial. Educación
+2 6 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+Una de las premisas del Plan de Desarrollo Municipal Medellín Futuro 2020-2023 es que la Edu-
+cación es para todos y todas, que el acceso sea universal y los espacios educativos sean seguros y 
+amigables, con las acciones a realizar se buscan aportar a las metas del cuarto ODS y se monitoreará 
+a través del indicador de la Agenda de los Objetivos de Desarrollo Sostenible de la ciudad para el 
+2030. El objetivo es que cada día más jóvenes de la ciudad puedan acceder a la educación superior, 
+esperamos que al cierre de este gobierno el porcentaje sea de alrededor del 50 %.
+Figura 65. Tasa de asistencia a educación superior de 16 a 28 años, Medellín 2014-2017
+53.8 53.8 53.8 53.8
+43.8 43.6 45.0
+41.0
+2010 2011 2012 2013
+Porcentaje Meta 2030
+Fuente: Cálculos ODES con información de la GIH, DANE, (2017).
+Programas
+3.2.3.1.  Programa. A clase vamos todos y todas
+Descripción 
+Este programa busca la garantía del derecho a la educación básica, media y ampliar las oportuni-
+dades de acceso a la educación postsecundaria a todos los habitantes del municipio de Medellín, a 
+través de la implementación de proyectos que garanticen la cobertura, el acceso y la permanencia 
+en un sistema educativo pertinente y de calidad, favoreciendo el tránsito entre la educación básica, 
+media y postsecundaria; desarrollando competencias para potenciar los proyectos de vida, combatir 
+la inequidad social y consolidar a Medellín como Valle del Software.
+2 6 3
+Tercera parte. Marco programático
+Objetivo general 
+Garantizar el acceso de todos los niños, niñas, adolescentes y jóvenes del municipio de Medellín a 
+una educación básica y media de calidad y pertinente, avanzando en la implementación de estrate-
+gias que favorezcan la permanencia, tránsito educativo; y ampliando las oportunidades de acceso a 
+la educación postsecundaria.
+Objetivos específicos 
+• Avanzar en la garantía de acceso a una educación básica y media de calidad de todos 
+los niños, niñas, adolescentes y jóvenes del municipio de Medellín.
+• Promover la incorporación de la perspectiva de género en los proyectos educativos 
+institucionales (PEI) y en los planes educativos personalizados (PEP).
+• Fortalecer las estrategias de permanencia y equidad en el sistema educativo de la 
+ciudad de Medellín, permitiendo el tránsito de todos los niños, niñas, adolescentes y 
+jóvenes del municipio de Medellín entre la educación básica y media.
+• Ampliar	las	instituciones	educativas	oficiales	con	jornada	única,	garantizando	el	acce-
+so de los niños, niñas, adolescentes y jóvenes del municipio de Medellín a un sistema 
+educativo de calidad, donde se formen en contenidos pertinentes y bajo condiciones 
+que garanticen su permanencia.
+• Aumentar las oportunidades de acceso y permanencia en la educación postsecun-
+daria, a través de la oferta de becas y créditos condonables y de la ampliación de la 
+cobertura en las instituciones de educación superior del municipio.
+• Articular la educación superior con la media técnica y la educación para el trabajo y el 
+desarrollo humano (ETDH).
+• Descentralizar la oferta académica de las tres IES en las diferentes comunas y corregi-
+mientos, considerando la vocación y dinámicas de cada territorio.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Instituciones educativas oficiales con jornada Secretaría de 
+Porcentaje 71.62 87
+única. Educación
+Estudiantes de instituciones educativas Secretaría de 
+oficiales atendidos bajo el modelo Caminar en Número 6.020 7.000
+Educación
+Secundaria.
+Becas y créditos condonables otorgados. Número 26.094 25.000 Sapiencia
+Tabla continúa en la siguiente página...
+2 6 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Estudiantes matriculados en educación ITM, Colegio Mayor y 
+Número 35.731 40.700
+superior. Pascual Bravo
+Programas de educación superior articulados ITM, Colegio Mayor y 
+Número 5 24
+con media técnica. Pascual Bravo
+Programas pertinentes ofertados en comunas ITM, Colmayor, Pas-
+y corregimientos para llevar la universidad a los Número 12 23
+cual Bravo
+barrios y a la ruralidad.
+Programas de formación para el trabajo y ITM, Colmayor, 
+Número 5 23
+desarrollo humano ofertados. Pascual Bravo
+Estrategia de difusión y sensibilización con 
+enfoque de género, poblacional y diferencial Porcentaje NA 100 Sapiencia
+para el acceso a educación postsecundaria 
+implementada.
+Cupos dispuestos en transporte escolar para la Secretaría de 
+Número 37.500 37.500
+permanencia en el sistema educativo. Educación
+Deserción por semestre académico en becas 22.6 
+Porcentaje 20 Sapiencia
+otorgadas con recursos del Fondo EPM. (2019-2)
+3.2.3.2.  Programa. Educación diversa
+Descripción 
+Este programa busca reducir las barreras de los contextos institucional y de aula, familiar y social-co-
+munitario, mejorando al acceso al sistema educativo a todas las personas diversas por su raza, sexo, 
+género, edad o condición física, proporcionando la calidad, equidad y pertinencia debidas en los 
+procesos de aprendizaje y participación de todos los estudiantes, sin discriminación alguna.
+Objetivo general 
+Garantizar el acceso y la permanencia a un sistema educativo de calidad e incluyente a todos los 
+grupos poblacionales, implementando procesos educativos pertinentes y adecuados a sus particu-
+laridades y potencialidades.
+2 6 5
+Tercera parte. Marco programático
+Objetivos específicos 
+• Garantizar el acceso, la permanencia y la educación con calidad de las personas con 
+discapacidad, desde la educación inicial hasta la media. 
+• Articular la oferta de ciudad en pro del mejoramiento en la atención educativa a la 
+población en condición de enfermedad, condición de calle, menor infractor y personas 
+con necesidad de protección internacional. 
+• Fortalecer la oferta y el acceso a una educación de calidad estudiantes afro e indíge-
+nas	y	la	demás	población	vulnerable	y	diversa	atendida	en	las	instituciones	oficiales	
+de la ciudad de Medellín. 
+• Resignificar	y	visibilizar	las	buenas	prácticas	pedagógicas	y	experiencias	que	permitan	
+construir un tejido de saberes que fortalezcan los procesos de educación inclusiva en 
+la ciudad.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Instituciones educativas oficiales con Secretaría de 
+estrategias implementadas para la atención Número 216 229
+Educación
+diferencial a estudiantes.
+Estudiantes de instituciones educativas Secretaría de 
+oficiales atendidos con estrategias de formación Número 11.406 14.000
+Educación
+diferencial
+Instituciones educativas oficiales con Secretaría de Edu-
+estrategias de atención implementadas a Porcentaje 100 100
+cación
+población con discapacidad.
+Instituciones educativas oficiales con Secretaría de 
+Número 182 229
+estrategias de etnoeducación implementadas. Educación
+3.2.3.3.  Programa. Aula segura y amigable
+Descripción 
+El programa Aulas seguras y saludables (antes, Entornos seguros y protectores) se implementa en 
+todos	los	establecimientos	educativos	oficiales	de	la	ciudad,	asesorando	técnica	y	jurídicamente	el	
+fortalecimiento del sistema nacional de convivencia escolar, promoviendo y fortaleciendo la formación 
+2 6 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+para la ciudadanía, el ejercicio de los derechos humanos, sexuales y reproductivos, y la prevención 
+y mitigación de violencias.
+Su estructura organizativa se encuentra conformada por una coordinación general, un profesional 
+de enlace entre el componente territorial con la coordinación general del programa, 8 líderes territo-
+riales, 230 profesionales de apoyo institucional (psicólogos), un equipo interdisciplinario de gestión 
+estratégica y auxiliares administrativas.
+Dicho	equipo	posibilita	el	fortalecimiento	de	las	229	instituciones	educativas	oficiales	de	la	ciudad,	a	
+través de una intervención con un enfoque integral, desde las siguientes perspectivas: perspectiva de 
+derechos, perspectiva de desarrollo humano integral y desarrollo de capacidades, perspectiva diferencial, 
+perspectiva de gestión territorial, perspectiva de igualdad de género, perspectiva de pedagogía-crítica.
+Objetivo general 
+Asesorar	y	acompañar	a	los	establecimientos	educativos	oficiales	en	el	fortalecimiento	de	su	gestión	
+escolar, favoreciendo la convivencia y mediación escolar, promoviendo el liderazgo estudiantil, y la 
+sana relación entre familia y escuela, fomentando el ejercicio de los derechos humanos, sexuales y 
+reproductivos, la construcción de ciudadanía y la protección integral de los derechos de niños, niñas, 
+adolescentes y jóvenes.
+Objetivos específicos 
+• Resignificar	el	vínculo	democrático	entre	la	familia	y	la	escuela	para	su	ejercicio	de	
+corresponsabilidad en la formación y protección integral de los NNAJ (niño, niña, 
+adolescente, joven). 
+• Asesorar	los	Comité	Escolar	de	Convivencia	de	las	instituciones	educativas	oficiales	
+en el diseño e implementación de estrategias que favorezcan el clima de aula, el 
+clima institucional, los procesos de enseñanza-aprendizaje y el ejercicio de los 
+derechos humanos y los derechos sexuales y reproductivos.
+• Aportar al fortalecimiento de los proyectos pedagógicos-proyecto de educación sexual 
+y construcción de ciudadanía y proyecto consumo de sustancias psicoactivas-para 
+la apropiación del ejercicio de los derechos humanos y los derechos sexuales y 
+reproductivos, el reconocimiento de la diversidad y la protección integral en niños, 
+niñas, adolescente y jóvenes en el marco de la ruta de atención integral.
+• Promover la participación constructiva de los estudiantes en la transformación de sus 
+comunidades educativas y de su ciudad, fortaleciendo sus habilidades de liderazgo.
+• Contribuir a la transformación de los procesos institucionales de promoción y 
+prevención, desde el desarrollo de una visión multidisciplinaria de rutas, experiencias 
+y dispositivos pedagógicos con base en el arte y en metodologías participativas.
+2 67
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Instituciones educativas oficiales acompañadas 
+en el fortalecimiento de la inclusión, la Secretaría de 
+Porcentaje 100 100
+prevención del bullying y con ruta de atención Educación
+por acoso sexual.
+Instituciones educativas oficiales con planes Secretaría de 
+de transformación sostenible orientados al Porcentaje 63 95
+Educación
+fortalecimiento de los liderazgos estudiantiles.
+Instituciones educativas oficiales con manuales Secretaría de Edu-
+Porcentaje 66 85
+de convivencia actualizados. cación
+Instituciones educativas oficiales con guías 
+temáticas y metodológicas diseñadas para la Secretaría de 
+Porcentaje 45 100
+transversalización de competencias ciudadanas Educación
+y proyecto de vida.
+Instituciones educativas oficiales con proyectos Secretaría de 
+Porcentaje 17 100
+de familia diseñados o actualizados. Educación
+3.2.4.  Componente. Maestros y Maestras: Líderes de futuro
+Reconocer a los maestros y maestras como esencia de todo proceso educativo, custodios de los 
+acuerdos curriculares, cocreadores de los ambientes de aprendizaje, mediadores pedagógicos y 
+protectores de sus estudiantes, es crear condiciones humanas, sociales y económicas para el desa-
+rrollo de su labor. Para lograr la Medellín Futuro	propuesto,	se	requieren	docentes	cualificados	para	los	
+nuevos retos, a través de este componente se realizarán acciones orientadas a apoyar su formación y 
+bienestar. Se espera avanzar, para que cada día sean mayor el porcentaje de docentes que cuenten 
+con formación de posgrado, para llegar en 2023 al 60 %; lo que podrá generar innovación educativa 
+que reúna diversas rutas de formación, redes pedagógicas y comunidades de aprendizaje, investiga-
+ción, sistematización, estrategias de acompañamiento educativo y cultural, sistema de publicaciones 
+y transferencia de conocimientos, bienestar del maestro y apropiación del mundo digital, así como 
+encuentros e intercambios académicos, reconocimientos y estímulos a las prácticas educativa.
+Objetivo
+Implementar	programas	orientados	al	bienestar,	a	la	formación	en	investigación,	a	la	cualificación	de	
+docentes	y	de	directivos	docentes	para	configurar	comunidades	académicas	dentro	del	buen	vivir.
+2 6 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Instituciones educativas oficiales reconocidas Secretaría de 
+Número 51 100
+por el mejoramiento educativo para la calidad. Educación
+Docentes satisfechos con los programas de Secretaría de 
+Porcentaje NA 60
+bienestar laboral a los que acceden. Educación
+Producciones académicas que los maestros Secretaría de 
+logran construir como resultado de su Número 4.508 5.000
+Educación
+participación en programas de formación.
+Para lograr la Medellín Futuro	propuesto,	se	requieren	docentes	cualificados	para	los	nuevos	retos,	
+a través del componente Maestros/as: Líderes de futuro, se realizarán acciones orientadas a apoyar 
+su formación y bienestar, con las acciones a realizar se buscan aportar a las metas del cuarto ODS 
+y se monitoreará a través del indicador de la Agenda de los Objetivos de Desarrollo Sostenible de la 
+ciudad para el 2030 que se relaciona a continuación:
+Figura 66. Maestros vinculados a la Secretaría de Educación de Medellín que cuentan con posgrado, 2012-2019
+65 65 65 65 65 65 65 65
+57.2
+52.3 51.5 50.2 52.3 53.4
+46.5
+35.5
+2012 2013 2014 2015 2016 2017 2018 2019
+Porcentaje Meta 2030
+ 
+Fuente: Secretaría de Educación, dirección de talento humano, (2020).
+2 6 9
+Tercera parte. Marco programático
+Se espera avanzar, para que cada día sean mayor el porcentaje de docentes que cuenten con 
+formación de posgrado, para 2023 esperamos llegar al 60 %.
+Programas
+3.2.4.1.	 	Programa.	Docentes	cualificados	para	el	Medellín	Futuro
+Descripción 
+Mova es el programa de la Secretaría de Educación a través del cual se materializa la Política Pública 
+de Formación de los Maestros, los Directivos Docentes y los Agentes Educativos de Medellín (Acuerdo 
+Municipal No. 019 de septiembre de 2015). A través de sus procesos de formación, propicia, promueve 
+e integra las dimensiones del ser, el saber, el crear y el reconocer y, a su vez, posibilita experiencias 
+personales y profesionales desde y para los maestros, encaminadas a la gestión de propuestas y 
+acciones, con aplicabilidad y pertinencia en diversos contextos. Así mismo, desde una perspectiva 
+educativa pluralista e incluyente, se fomenta el diálogo y el intercambio de ideas sobre saberes y 
+prácticas educativas que propicien la innovación educativa, la cual es entendida como la apropiación, 
+recontextualización y transformación de los discursos y las prácticas en ambientes de aprendizaje 
+diversos que inciten a la experimentación permanente en los procesos de enseñanza y aprendizaje.
+Objetivo general 
+Fortalecer la implementación de la Política Pública de Formación de Maestros, Directivos y Agentes 
+Educativos de Medellín potenciando el ser, el saber y el crear, reconociendo el valor e importancia 
+de estos actores escolares, fortaleciendo su incidencia en la sociedad a partir de la innovación y en 
+el mejoramiento y difusión de las prácticas dentro y fuera del aula.
+Objetivos	específicos
+• Contribuir a la formación integral de maestros, directivos y agentes educativos median-
+te el fortalecimiento de lo pedagógico, analítico, tecnológico, emocional, corporal y 
+estético, entre otros.
+• Promover la creación e innovación educativa en maestros, directivos y agentes educa-
+tivos en aras de la transformación escolar y la calidad de la educación.
+• Potenciar en los maestros habilidades, conocimientos y competencias investigativas 
+que contribuyan a la construcción de saber y la transformación de la realidad escolar 
+y social.
+• Posibilitar la integración de los saberes (pedagógico, disciplinar, didáctico y de la ex-
+2 7 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+periencia) en el tratamiento de problemáticas y situaciones educativas asociados con 
+los contextos socioculturales en que se enmarca la escuela.
+• Fortalecer el análisis y la participación crítica de los maestros, directivos y de los 
+agentes educativos para la construcción conjunta de metodologías y prácticas 
+pedagógicas.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Docentes participantes en modalidad de Secretaría de 
+Número 7.573 7.600
+formación continua. Educación
+Docentes beneficiados con intercambios Secretaría de 
+Número 33 120
+académicos. Educación
+Directivos docentes participantes en programas Secretaría de 
+Número NA 400
+de formación en gestión. Educación
+3.2.4.2. Programa. Bienestar docente
+Descripción
+Implementar un proyecto de promoción y prevención de la salud mental para docentes y directivos 
+docentes	a	través	de	capacitaciones,	actividades	lúdicas,	reflexivas	y	espacios	de	asesoría	psico-
+social, permitiendo el desarrollo de factores protectores y la reducción del impacto por las diferentes 
+afectaciones en la salud mental en los docentes del municipio de Medellín, dando cumplimiento a la 
+normatividad vigente sobre el tema emitido por el Ministerio de Trabajo y la OMS.
+Objetivo general 
+Ofrecer a los docentes y directivos docentes estrategias de acompañamiento psicosocial, donde se 
+asesore, capacite, apoye por medio de espacios de escucha y atención, contribuyendo al desarrollo 
+de factores protectores y reducción del impacto por las diferentes afectaciones en salud mental.
+Objetivos específicos
+• Brindar herramientas para el desarrollo de habilidades para la vida acorde con los ni-
+veles de riesgo psicosocial, a través de intervenciones de forma individual y colectiva.
+2 7 1
+Tercera parte. Marco programático
+• Contribuir a la implementación de los factores protectores que se brindan a los 
+docentes y directivos docentes para minimizar las enfermedades de salud mental.
+• Llevar a cabo actividades de intervención de riesgo psicosocial desde los 
+componentes arrojados en las baterías de riesgo.
+Indicadores de producto
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Docentes acompañados con estrategias de Secretaría de 
+Número NA 5.000
+atención psicosocial. Educación
+3.2.4.3.  Programa. Innovación pedagógica para nuevas 
+     capacidades
+Descripción
+Implementar estrategias didácticas y participativas, que permitan la innovación en los modelos edu-
+cativos y curriculares del municipio de Medellín, posibilitando la emergencia de nuevas capacidades 
+en la comunidad educativa, promoviendo el intercambio de saberes, la formación postsecundaria y 
+la educación para el trabajo, preparando a nuestros jóvenes en los retos y oportunidades de Medellín 
+Valle del Software. 
+Objetivo general 
+Avanzar en la implementación de estrategias y procesos de innovación pedagógica, que permitan 
+mejorar la calidad del sistema educativo municipal, formando niños, niñas, adolescentes y jóvenes 
+del municipio de Medellín en contenidos pertinentes, con competencias y habilidades para el ser y el 
+hacer, respondiendo a los retos de Medellín Futuro.
+Objetivos específicos 
+• Fortalecer los procesos de formación para el trabajo, formando jóvenes en contenidos 
+pertinentes que den respuesta a los retos y necesidades que plantea la Cuarta Revo-
+lución Industrial. 
+• Implementar escenarios de encuentro y aprendizaje, donde se promueven las mate-
+máticas, las estadísticas y las ciencias de la computación en el municipio de Medellín. 
+2 7 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+• Consolidar procesos de intercambio académico, donde estudiantes y docentes reco-
+nozcan experiencias educativas exitosas del sector público y privado.
+• Avanzar en la implementación de acciones que permitan el tránsito y acceso para la 
+educación postsecundaria en el municipio de Medellín.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Alianzas y asociaciones público-privadas en Secretaría de 
+educación promovidas para el intercambio de Número 23 30
+Educación
+experiencias.
+Ferias de las matemáticas, las estadísticas y las Secretaría de 
+Número NA 3
+ciencias realizadas. Educación
+3.2.5.  Componente. Infraestructura y ambientes de aprendizaje
+La infraestructura educativa está estrechamente relacionada con el proyecto educativo institucional y 
+con el ecosistema que se quiere constituir para la ciudad. En este sentido, debe concebirse más allá de 
+los aspectos propios de la construcción y orientarse a las funciones sustantivas del diseño curricular.
+Según Rodríguez (2014), es necesario considerar la adecuación y creación de espacios que po-
+sibiliten la interacción, la información, la producción y la exhibición, que en su conjunto propician de 
+manera óptima el proceso de enseñanza-aprendizaje ya sea en escenarios (i) de docencia, referidos 
+a las aulas de clase; (ii) de investigación, tales como laboratorios y biblioteca, (iii) de bienestar, como 
+áreas verdes, de esparcimiento, cafeterías, entre otras; y (iv) de ambientes virtuales de aprendizaje 
+mediante el uso de las tecnologías de la información y la comunicación (TIC). Lo anterior, dando res-
+puesta a la exigencia mundial y contextual de la transformación de la educación desde los ámbitos 
+de infraestructura, pedagógicos y curriculares.
+En este sentido, el componente de infraestructura y ambientes de aprendizaje para la Medellín 
+Futuro, incorpora acciones para aumentar y mejorar los espacios en los cuales se desarrollan los pro-
+cesos de enseñanza, aportando así a la ampliación de la cobertura, calidad y pertinencia educativa.
+Objetivos
+Consolidar ambientes de aprendizaje adecuados, seguros, pertinentes y sostenibles, que favorezcan 
+el acceso, cobertura y permanencia de niños, niñas, jóvenes y adultos en el sistema educativo del 
+municipio de Medellín.
+2 7 3
+Tercera parte. Marco programático
+Indicadores de Resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Razón alumnos por Secretaría de 
+Número 5.84 2
+computador. Educación
+Secretaría de 
+Satisfacción de la comunidad Educación, ITM, 
+académica con la ciudad como Porcentaje NA 80 Sapiencia
+Colegio Mayor, 
+destino universitario. Pascual Bravo
+El componente de Infraestructura y ambientes de aprendizaje para la Medellín Futuro, incorpora 
+acciones para mejorar los ambientes de aprendizaje; con las acciones a realizar se busca aportar a 
+las metas del cuarto ODS y se monitoreará a través del indicador de la Agenda de los Objetivos de 
+Desarrollo Sostenible de la ciudad para el 2030 que se relaciona a continuación:
+Figura 67. Índice de ambiente escolar, Medellín 2011-2018
+8.0 8.0 8.0 8.0 8.0 8.0 8.0 8.0
+7.3 7.2
+7.1 7.2 7.2
+7.0 7.0
+6.8
+2011 2012 2013 2014 2015 2016 2017 2018
+Índice Meta 2030
+ 
+Fuente: Encuesta de Percepción de Ambiente Escolar, Secretaría de Educación de Medellín, (2011-2018).
+La meta de la agenda ODS a 2030 es que índice de ambiente escolar sea del 8 de 10 puntos 
+posibles, el propósito de estas acciones permite avanzar favorablemente en el tema.
+2 74
+Plan de Desarrollo Medellín Futuro 2020-2023
+Programas
+3.2.5.1.  Programa. Infraestructura para una Ciudad Universitaria
+Descripción 
+En este programa se pretende generar y fortalecer las condiciones de infraestructura y tecnología 
+necesarias para la formación postsecundaria de calidad, acordes con los desafíos que trae consigo la 
+Cuarta Revolución Industrial. En este sentido, las ciudadelas universitarias pretenden generar espacios 
+para múltiples posibilidades de formación y estrategias que apunten al concepto de educación a lo largo 
+de la vida. Estando construidas las ciudadelas universitarias el paso a seguir es su aprovechamiento, 
+a partir de un modelo educativo y de sostenibilidad para contribuir al aumento de la cobertura en la 
+ciudad. Este modelo contempla la necesidad de establecer una propuesta educativa que considere 
+el contexto socioeconómico y las tendencias de la ciudad, la elaboración de contenidos formativos 
+pertinentes, la implementación de metodologías disruptivas, enfoques constructivistas, modalidades de 
+formación	flexibles	y	el	reconocimiento	de	la	importancia	de	dar	respuesta	a	las	necesidades	locales,	
+mediante la articulación entre la educación postsecundaria y el sector productivo.
+Objetivo general 
+Crear las condiciones necesarias para hacer de Medellín un destino universitario de calidad, a tra-
+vés de la articulación de políticas de educación postsecundaria, con infraestructura y ambientes de 
+aprendizaje pertinentes.
+Objetivos específicos
+• Fortalecer la capacidad institucional de la Agencia de Educación Superior de Medellín.
+• Administrar las ciudadelas universitarias e implementar su modelo de sostenibilidad.
+• Avanzar en la construcción de la Ciudadela del Norte como un espacio público para la 
+formación postsecundaria.
+• Mejorar la infraestructura física y tecnológica de las IES del municipio de Medellín.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Personas formadas en la Ciudadela Occidente. Número 0 8.000 Sapiencia
+ITM, Colegio Mayor, 
+Cobertura de la red inalámbrica disponible. Porcentaje 91 99.7
+Pascual Bravo
+Tabla continúa en la siguiente página...
+2 7 5
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Metros cuadrados construidos y/o adecuados ITM, Colegio Mayor, 
+Número 0 12.506
+en las tres IES. Pascual Bravo
+Avance físico de la construcción de Ciudadela Secretaría de 
+Porcentaje NA 100
+Norte. Educación
+Modelo de funcionamiento y sostenibilidad Porcentaje NA 100 Sapiencia
+implementado en la Ciudadela de Occidente.
+3.2.5.2.  Programa. Ambientes escolares de calidad para Medellín  
+      Futuro
+Descripción 
+Realizar intervenciones en las sedes educativas del municipio, para mejorar las condiciones físicas 
+de la infraestructura, ampliar las capacidades de las mismas y realizar los mantenimientos requeridos; 
+para contar con espacios de calidad y adecuados para la formación de los estudiantes; dando un 
+salto de calidad en los ambientes educativos, aumentando la conectividad de internet, dotando con 
+nueva tecnología y mobiliario a las sedes educativas y fortalecer la educación superior mediante el 
+proyecto Ciudadela Universitaria Norte.
+Objetivo general 
+Fortalecer los ambientes escolares del municipio de Medellín, mejorando las capacidades físicas 
+y	logísticas	de	las	instituciones	oficiales,	contando	con	los	espacios	acordes	para	la	prestación	de	
+servicios educativos de calidad que respondan a las necesidades tecnológicas actuales.
+Objetivos específicos 
+• Realizar mantenimiento preventivo, correctivo y adecuaciones a las sedes educativas, 
+para contar con espacios físicos adecuados para la prestación del servicio educativo.
+• Ampliar la cobertura de la jornada única en las sedes educativas, mediante interven-
+ciones de infraestructura física.
+• Implementar los proyectos de alianzas público-privadas en el sector educativo, para 
+fortalecer y ampliar la infraestructura educativa.
+• Ampliar y modernizar la conectividad y la dotación tecnológica de las instituciones 
+educativas	oficiales.
+Indicadores de producto 
+2 76
+Plan de Desarrollo Medellín Futuro 2020-2023
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Puntos de enlace a internet instalados en Secretaría de 
+Número 2.115 3.615
+instituciones educativas del sector oficial. Educación
+Bibliotecas escolares con adecuaciones Secretaría de 
+Número NA 150
+mobiliarias o tecnológicas. Educación
+Establecimientos educativos oficiales Secretaría de 
+Número 4 19
+intervenidos según APP y Ley 21 de 1982. Educación
+Instituciones oficiales con mantenimiento de Secretaría de 
+Porcentaje ND 100
+obras físicas. Educación
+3.2.6.  Componente. Investigación, creación y apropiación de saberes
+Conforme a los desafíos que trae consigo la Cuarta Revolución Industrial, se propone el trabajo en 
+ciencia e innovación con un enfoque transformativo, determinando un avance necesario para supe-
+rar	dificultades	y	vacíos	que	se	presentan	en	el	sistema	de	investigación.	Este	enfoque	reconoce	
+la complejidad e interacciones entre las diferentes IES y agentes de innovación del ecosistema. Así 
+pues, se promueven procesos de cambio, tanto en lo técnico como en lo social, para dar forma a los 
+resultados esperados de los ODS asociados a la propuesta de un Valle del Software para Medellín.
+Desde las IES se requiere una política transformativa que busque abrir espacios en clave de cien-
+cia, tecnología e innovación, involucrando la participación activa de la sociedad civil en la búsqueda 
+de la solución a los problemas que afectan la ciudad, admitiendo que dichas soluciones pueden tener 
+diversos orígenes y pueden ser desarrolladas de forma exitosa de la mano del sector productivo y 
+académico, caso de éxito la alianza Universidad Empresa Estado (CUEE) de Medellín para Antioquia.
+Adicionalmente,	es	muy	significativo	que	desde	las	aulas	de	clase	se	promueva	el	desarrollo	pleno	
+de las capacidades y talentos de los estudiantes, entre ellos, es fundamental, el sentido estético, las 
+capacidades imaginativas, creativas y emocionales que relacionan el arte y las ciencias, que permiten 
+la formación de seres humanos sensibles, empáticos y respetuosos que valoran a los otros y lo otro. 
+Una ciudad pensada como un gran ambiente de aprendizaje.
+Objetivo 
+Fortalecer la investigación, la ciencia y la innovación para la solución de problemas de alto impacto, 
+desde un enfoque transformativo, de creación y de apropiación de saberes, para consolidar a Medellín 
+como una ciudad del aprendizaje y el emprendimiento. 
+2 7 7
+Tercera parte. Marco programático
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Grupos de investigación 
+en categorías A1, A y B con ITM, Colegio 
+productos de transferencia Número 21 24 Mayor, Pascual Sapiencia
+científica y tecnológica en las Bravo
+tres IES.
+El componente de Investigación, creación y apropiación de saberes, es un tema clave para 
+conseguir la Medellín del futuro, las acciones propuestas buscan aportar a las metas del ODS 9, 
+que busca construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible 
+y fomentar la innovación; este se monitoreará a través del indicador de la Agenda de los Objetivos 
+de Desarrollo Sostenible de la ciudad para el 2030; frente a éste se pretende que el porcentaje del 
+PIB que se orienta a acciones de investigación y desarrollo cada día sea mayor, se espera que sea 
+superior a 1.3 en 2023.
+Figura 68. Inversión en investigación y desarrollo sobre el PIB (I+D/PIB), Medellín 2015-2018
+1.50 1.50 1.50 1.50
+1.24
+0.87 0.83
+0.56
+2015 2016 2017 2018
+Porcentaje Meta 2030
+ Fuente: MinCiencias, (2018).
+2 7 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Programas
+3.2.6.1.  Programa. Medellín ciudad de la ciencia y el conocimiento
+Descripción
+ 
+Este programa busca apoyar el ejercicio investigativo de los grupos de investigación pertenecientes 
+a las instituciones de educación superior públicas y privadas de la ciudad y centros de investigación 
+formales, a través de la promoción, la generación, la divulgación, la apropiación y la transferencia del 
+conocimiento, para resolver problemas de alto impacto. Para ello, se requiere del trabajo conjunto de 
+las instituciones públicas y privadas, el sector productivo y los centros de investigación.
+Objetivo general 
+Orientar la investigación, la ciencia y la innovación para la solución de problemas ambientales, sociales 
+y económicos de la región, desde un enfoque transformativo, de creación y de apropiación de saberes.
+Objetivos específicos 
+• Fortalecer el proceso de investigación, innovación y emprendimiento para el mejora-
+miento de la calidad académica, la proyección institucional, la interacción con redes y 
+la contribución al desarrollo económico y social. 
+• Fortalecer la estrategia de generación, análisis y divulgación de la información en ma-
+teria de educación postsecundaria. 
+• Propiciar ambientes que faciliten el desarrollo de las actividades de investigación, la 
+interacción y cohesión entre las líneas de investigación institucionales y los grupos en 
+que se enmarcan; el relacionamiento con centros de investigación, instituciones de 
+educación superior, sector público y organizaciones externas.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+ITM, Colegio Mayor, 
+Semilleros de investigación activos. Número 124 145
+Pascual Bravo
+Estudiantes vinculados a semilleros de ITM, Colegio Mayor, 
+Número 2.236 3.168
+investigación. Pascual Bravo
+ITM, Colegio Mayor, 
+Publicaciones indexadas realizadas. Número 592 695
+Pascual Bravo
+Tabla continúa en la siguiente página...
+2 7 9
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+ITM, Colegio Mayor, 
+Patentes obtenidas. Número 7 10
+Pascual Bravo
+Proyectos de investigación con posibilidad de 
+transferencia científica y tecnológica de impacto Número 56 70 Sapiencia
+social apoyados.
+Metros cuadrados construidos Parque Tech. Número NA 3.720 Pascual Bravo
+ITM, Colegio Mayor, 
+Spin off creadas. Número 0 9
+Pascual Bravo
+3.2.7.  Componente. Cultura, arte y memoria
+Medellín tiene el potencial de aprovechar su energía creadora para superar los problemas de violencia 
+que	aún	persisten,	construir	civismo	y	ciudadanía	crítica,	reflexionar	sobre	los	errores	del	pasado	y	
+fortalecer el tejido social. 
+El arte y la cultura están presentes en la cotidianidad de nuestra vida comunitaria y barrial a través 
+de la nostálgica música de cuerdas que nos recuerda la vida del campo, las coplas y las trovas, la 
+salsa	y	el	rock.	La	pasión	por	el	fútbol,	las	fiestas	decembrinas,	las	conversaciones	de	tiendas	y	de	
+parques, los chistes, las historias populares y la comida. La cultura lo atraviesa todo. Es lo que somos 
+y al mismo tiempo lo que podemos ser.
+A partir del arte y la cultura surgen los valores que nos constituyen, aquellos presupuestos que 
+hacen posible contar hoy el relato de una ciudad optimista de cara a un futuro de constante evolución. 
+Estos valores los vemos encarnados diariamente en la bella muchedumbre que va a trabajar con 
+ánimo y esperanza de progreso; en los ciudadanos que, saben que tallan el futuro de la ciudad en 
+cada acción y que son la fuente de una ciudad futura más conviviente, solidaria y próspera. 
+Apostamos por una ciudad donde la cultura y las artes se consoliden como ecosistema abierto, 
+diverso, crítico, dinámico y comprometido con la transformación de Medellín. La cultura tiene el poten-
+cial de convertir a la ciudad en algo más que en el espacio que habitamos: en el lugar donde somos 
+con los otros y gracias a ellos; el escenario desde el que podemos soñar con un futuro de equidad, 
+convivencia, creatividad y prosperidad.
+La cultura como la actitud creativa de la sociedad que transforma e interpreta sus modos de 
+convivencia y participación, para reconocer y apropiar la diferencia, la memoria, y los espacios de 
+inclusión que hacen posible los valores de una vida digna. Se despliega en el día a día de ciudadanos 
+2 8 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+y ciudadanas como en los espacios y momentos de celebración, conmemoración y creación colec-
+tiva. Implica dimensionar y potenciar las prácticas que gestores, instituciones y artistas dinamizan 
+en la ciudad para la construcción de tejido social y nexos entre los individuos y la ciudad, toda vez 
+que comprometen expresiones, ordenamientos, modos de asociación y de creación de espacios y 
+acciones que convocan estéticamente la formación de subjetividades que se asumen con deberes 
+y derechos políticos.
+Es necesario apostarle a la interpretación de la cultura que pone en circulación valores que son 
+apropiados en comportamientos que dan sentido a formas de expresión y acción que comprometen 
+afectos, subjetivas sensibilidades y orientan la intuición en estrategias de conocimiento; cada uno de 
+estos procesos modula los actos comunicativos de la cultura en la ciudad. En cada individuo, estos 
+procesos tejen los nexos con su grupo, y en esto se evidencia el orden en que cada barrio o cada 
+comunidad cree y habita el territorio. No existe posibilidad alguna de concretar un parámetro efectivo 
+de medición cultural para movilizar en conjunto todas estas dinámicas. Lo que se hace evidente en 
+el contexto social es la discontinuidad, el umbral de rupturas o exclusiones que estos procesos re-
+flejan	cuando	se	impide	o	engaña	el	encuentro	del	individuo	con	su	grupo,	en	tanto	se	producen,	de	
+manera no explícita, insatisfacciones al habitar el lugar, generando las condiciones de la indiferencia, 
+la intolerancia o la violencia en muchas formas de expresión.
+Objetivo
+Acoger los procesos de la cultura en Medellín que se han orientado con mayor decisión hacia el 
+fortalecimiento del capital social, con acciones que han tenido lecturas diferenciadas del territorio, y 
+que han interpretado la creación artística como dinamizadora de modos de convivencia, encuentro y 
+discusión que caracterizan entramados simbólicos en la ciudad; para ello se potenciarán dinámicas 
+institucionales en patrimonio cultural y memoria que se confronten con las demandas urbanas de 
+apropiación que dan sentido y permanencia a los procesos de la cultura y a las dinámicas estéticas 
+y de producción de conocimiento de los individuos en el contexto de su grupo y su territorialidad.
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Plan de Desarrollo Cultural formulado Secretaría de Cultura 
+Número NA 1
+participativamente. Ciudadana
+Tasa neta de cobertura en educación para el Secretaría de Cultura 
+Porcentaje 9.4 9.8
+arte y la cultura. Ciudadana
+Asistencias de ciudadanos a la oferta pública Secretaría de Cultura 
+Número 14.474.229 11.074.445
+cultural de la ciudad. Ciudadana
+2 8 1
+Tercera parte. Marco programático
+Programas
+3.2.7.1.  Programa. Institucionalidad de la cultura y las artes de 
+    Medellín
+Descripción 
+Fortalecimiento institucional para el desarrollo cultural y artístico de la ciudad que conviertan a 
+Medellín en una ciudad creativa para el mundo, a través de tres  ejes fundamentales: la gestión 
+del conocimiento para la transformación cultural, que busca fortalecer los procesos y acciones 
+pedagógicas alrededor de los proyectos de ciudad que constituyen, a través del diálogo inter-
+cultural	y	de	saberes,	conocimiento	transferible	y	colaborativo,	y	aportan	a	la	redefinición	y	el	
+aprendizaje de las políticas culturales y al desarrollo cultural de la ciudad, lo cual comprende el 
+Sistema de Información Cultural, el Observatorio-Laboratorio de Políticas Culturales de Medellín, 
+la Encuesta de Cultura Ciudadana y las diferentes estrategias de gestión del conocimiento. La 
+segunda apuesta es por fortalecimiento de la institucionalidad cultural mediante la modernización 
+de la Secretaría de Cultura Ciudadana, la formulación del Plan Decenal de Cultura 2021-2031 
+y	la	articulación	de	diversos	instrumentos	de	la	planificación	cultural.	Finalmente,	se	busca	im-
+pactar en la gobernanza cultural mediante el desarrollo del Sistema Municipal de Cultura y de 
+diferentes estrategias para la participación efectiva de los agentes culturales y de la ciudadanía 
+en general en la política cultural de la ciudad.
+Objetivo general 
+Fortalecer los mecanismos de planeación, gestión, participación, conocimiento e información 
+relacionados con las políticas para el desarrollo cultural de la ciudad.
+Objetivos específicos 
+• Desarrollar estrategias para el fortalecimiento del Sistema Municipal de Cultura 
+como instancia para la participación artística y cultural en la ciudad y como 
+escenario para la gobernanza cultural.
+• Avanzar en la sistematización y análisis de información y datos relacionados con la 
+vida cultural de la ciudad a través del Sistema de Información Cultural de Medellín.
+• Implementar estrategias de gestión del conocimiento cultural a través del 
+Observatorio-Laboratorio de Políticas Culturales de Medellín.
+• Formular participativamente Plan Estratégico de Cultura de Medellín.
+2 8 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Secretaría de Cultura 
+Observatorio de Cultura implementado. Porcentaje NA 100
+Ciudadana
+Sistema Municipal de Cultura en Secretaría de Cultura 
+Número 1 1
+funcionamiento. Ciudadana
+Sistema de Información Cultural en Secretaría de Cultura 
+Número 1 1
+funcionamiento. Ciudadana
+3.2.7.2. Programa. Medellín vive las artes y la cultura
+Descripción 
+El programa Medellín vive las artes y la cultura se orienta al establecimiento de garantías para que 
+la ciudadanía disfrute de la cultura en todas sus manifestaciones, y para que los gestores y artistas 
+accedan al apoyo del estado para el desarrollo de sus iniciativas en materia creativa o de generación 
+de agenda y eventos culturales y artísticos. 
+Para esto fortaleceremos las plataformas de estímulos para las diferentes expresiones culturales 
+de personas, grupos, procesos de cultura viva comunitaria, colectivos y organizaciones a través de 
+convocatorias públicas en diversos campos de creación, patrimonio, memorias, bibliotecas, lectura, 
+escritura, oralidad, formación, investigación, gestión, circulación cultural y apropiación social de la 
+cultura, entre otros, de manera que podamos dar cuenta de la gran diversidad cultural de la ciudad, y 
+fortalezcamos las relaciones interculturales que favorezcan el reconocimiento e incluso la reivindicación 
+de los procesos culturales que se viven en cada territorio de la ciudad, se facilite el acceso ciudadano 
+a la agenda cultural de la ciudad con enfoque  territorial, poblacional y de género, se generen condi-
+ciones para la reactivación y continuidad de las organizaciones y entidades culturales, así como de 
+creadores y gestores afectados por la pandemia del COVID-19.
+Objetivo general 
+Garantizar el acceso y participación de los ciudadanos y ciudadanas en la agenda cultural pública y 
+privada de la ciudad y sus territorios locales, urbanos y rurales, mediante estrategias de descentrali-
+zación que potencien y dinamicen el sector y contribuyan a ampliar la apropiación, acceso y partici-
+pación en la vida cultural de la ciudadanía y de las comunidades, con enfoques poblacional, territorial 
+y de género en cada uno de los territorios, así como la garantía de permanencia y continuidad de las 
+organizaciones y entidades que hacen parte del ecosistema cultural de la ciudad.
+2 8 3
+Tercera parte. Marco programático
+Objetivos específicos 
+• Brindar apoyo a organizaciones culturales y entidades como museos, teatros, parques, 
+entre	otros,	con	el	fin	de	estimular	el	encuentro	ciudadano	y	el	acceso	a	la	oferta	
+cultural de la ciudad.
+• Estimular al sector artístico y cultural, para el fortalecimiento de los procesos de crea-
+ción, producción, circulación, formación, gestión e investigación artística y cultural.
+• Integrar el arte y la ciencia, con encuentros que potencien la creatividad, la cocreación, 
+el aprendizaje y la difusión creativa de las ciencias desde el arte y la cultura.
+• Fomentar procesos de formación, exhibición y salvaguarda del patrimonio fílmico, que 
+favorezcan el conocimiento y disfrute de las producciones audiovisuales y cinemato-
+gráficas	por	parte	de	la	ciudadanía,	y	amplíen	el	gusto	por	el	cine	como	expresión	de	
+la cultura. 
+• Diseñar, consolidar e implementar un programa programas de formación, comunica-
+ción e información de públicos, desarrollo de audiencia y comunidades artísticas y 
+culturales que aporten a la puesta en valor del arte y la cultura en la sociedad.
+Indicadores de producto
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Estrategia de arte, ciencia y tecnología Secretaría de Cultura 
+Porcentaje NA 100
+diseñada e implementada. Ciudadana
+Iniciativas de exhibición de formación y memoria Secretaría de Cultura 
+audiovisual realizados en la Cinemateca Número 2.267 2.500
+Ciudadana
+Municipal de Medellín.
+Secretaría de Cultura 
+Estímulos de arte y cultura otorgados. Número 2.835 2.835
+Ciudadana
+Estrategia de formación, comunicación Secretaría de Cultura 
+e información de públicos diseñada e Porcentaje NA 100
+Ciudadana
+implementada.
+Número de asistencias a los eventos culturales Secretaría de Cultura 
+Número 11.725.391 8.325.391
+de ciudad. Ciudadana
+Secretaría de Cultura 
+Convocatoria de agenda cultural realizada. Número 4 4
+Ciudadana
+2 8 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+3.2.7.3. Programa. Medellín territorio cultural
+Descripción 
+La cultura y las artes se insertan en los desafíos de la sociedad del conocimiento, como posibilidad de 
+garantizar el despliegue de las capacidades y las sensibilidades de las personas para el ejercicio pleno 
+de	sus	derechos	culturales,	de	una	parte,	y	de	otra,	para	contribuir	a	afirmar	el	papel	de	la	cultura	y	
+las artes como fundamento del desarrollo político, económico y social, en un marco de sostenibilidad. 
+Este programa promueve el acceso y participación de los ciudadanos en cada uno de los territorios a 
+los diferentes  procesos formativos creativos, investigativos, comunicativos y de apropiación del arte 
+y	la	cultura	que		aporten	a	la	cualificación	y	consolidación	de	los	procesos	artísticos	y	culturales	en	
+articulación con  tejido cultural existente, el sistema educativo, las familias y las comunidades, posi-
+biliten la sensibilización y el encuentro con los otros, propicien el trabajo colaborativo, promuevan los 
+procesos de memorias colectivas locales y amplíen las posibilidades de inserción  de las actividades 
+de la cultura, el arte y la economía creativa en el mundo del empleo. Para ello se fortalecerán el eco-
+sistema cultural existente, las red de casas de la cultura, la red de creación en prácticas artísticas y 
+culturales, las bibliotecas públicas de Medellín como territorios de innovación, el Plan Ciudadano de 
+Lectura,	Escritura	y	Oralidad,	la	profesionalización	artística	y	cultural,	la	formación	en	oficios	del	arte,	
+cultura y saberes tradicionales, así como las estrategias de cultura en comunidad desarrolladas por 
+organizaciones de cultura viva comunitaria, procesos de organizaciones vinculadas a comunidades 
+NARP, cabildos indígenas, personas con discapacidad, personas LGBTI, migrantes, entre otros.
+Objetivo general 
+Fortalecer	la	participación	de	los	creadores,	gestores	y	de	la	ciudadanía	en	procesos	que	afiancen	
+sus capacidades creativas y culturales y los procesos de memoria sustentados en la diversidad cul-
+tural, poblacional y de género que favorecen el sentido de identidad con sus contextos que habitan 
+y territorios, tanto urbanos como rurales. 
+Objetivos específicos 
+•  Fomentar la presencia articulada del Sistema de Bibliotecas Públicas de Medellín en 
+los territorios urbanos y rurales para el aseguramiento de los derechos para el desa-
+rrollo humano integral de todos los habitantes de Medellín.
+•  Promover en los habitantes de Medellín el acceso a la lectura, la escritura y la 
+oralidad, como fundamento para fortalecer la cadena de valor del libro con enfoque 
+territorial y de derechos.
+•  Potenciar las iniciativas culturales comunitarias en cada uno de los territorios de la 
+ciudad, para el logro de un desarrollo humano integral que tenga en cuenta la diversi-
+dad cultural, poblacional y de género. 
+2 8 5
+Tercera parte. Marco programático
+•  Articular el trabajo en red de las casas de la cultura, las UVA, teatros, laboratorios de 
+producción sonora y centros culturales contribuyendo a la generación de capacidades 
+ciudadanas y culturales en los territorios de la ciudad.
+•  Fomentar la formación en prácticas artísticas, la profesionalización de creadores de la 
+ciudad	y	la	formación	en	oficios	asociados	a	la	producción	cultural	y	saberes	deriva-
+dos de prácticas culturales tradicionales, que promuevan un encuentro ciudadano 
+sensible	y	al	tiempo	la	cualificación	de	procesos	culturales.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Personas registradas como participantes en las Secretaría de Cultura 
+Número 27.753 30.553
+redes de prácticas artísticas y culturales. Ciudadana
+Estrategias de la política pública cultura viva Secretaría de Cultura 
+Número 1 2
+comunitaria implementadas. Ciudadana
+Personas registradas como participantes en Secretaría de Cultura 
+programas y servicios de la Red Catul-Casas de Número 109.000 110.000
+Ciudadana
+Cultura.
+Personas registradas en actividades y servicios Secretaría de Cultura 
+Número 10.582.713 10.582.713
+del SBPM. Ciudadana
+Personas registradas como participantes en Secretaría de Cultura 
+actividades del Plan Ciudadano de Lectura, Número 2.237.687 1.737.687
+Ciudadana
+Escritura y Oralidad
+Personas formadas en el proyecto de Secretaría de Cultura 
+Número 136 155
+profesionalización artística y cultural. Ciudadana
+3.2.7.4.  Programa. Patrimonio cultural, memoria e identidades
+Descripción 
+El programa busca concebir integralmente el patrimonio cultural, material e inmaterial, mueble e 
+inmueble	con	la	identificación,	puesta	en	valor,	divulgación,	protección,	salvaguardia,	conservación,	
+recuperación,  y sostenibilidad de bienes y manifestaciones de las memorias y patrimonios culturales 
+de Medellín, a partir de la implementación de estrategias de preservación, articulación de actores 
+2 8 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+institucionales	y	apropiación	social	que	reafirmen	el	carácter	vivo	y	dinámico	del	patrimonio	cultural	
+y	las	memorias,	afianzando	el	papel	proactivo	de	las	comunidades,	con	el	fin	de	armonizarse	y	
+fortalecerse a favor de una política integral de patrimonio cultural en la ciudad que se encuentra 
+en mora de consolidarse.
+Objetivo general
+Fortalecer	los	procesos	de	identificación,	valoración,	conservación,	salvaguarda,	activación,	difusión,	
+intervención y sostenibilidad de la memoria y del patrimonio cultural material e inmaterial en el muni-
+cipio de Medellín, articulando los bienes de interés cultural y manifestaciones, la diversidad cultural 
+y las formas de apropiación social.
+Objetivos específicos
+•  Planear y ejecutar procesos de declaratorias, protección e intervención, sobre los 
+bienes de interés cultural muebles e inmuebles del municipio de Medellín, articu-
+lando ámbitos de gestión público-privada, para la conservación y sostenibilidad del 
+patrimonio cultural.
+•  Implementar estrategias de gestión, apropiación y sostenibilidad de la memoria y 
+el	patrimonio	documental,	bibliográfico,	archivístico	y	audiovisual,	mediante	pla-
+taformas interactivas de difusión y apropiación social del patrimonio y la memoria 
+histórica local y regional.
+•  Promover la puesta en valor del patrimonio cultural, material e inmaterial, a través de 
+diversas estrategias que conduzcan a la preservación de la memoria colectiva de las 
+comunidades y la ciudad.
+•  Desarrollar acciones de promoción y apropiación de la Manifestación Cultural Sillete-
+ra enmarcadas en el Plan Especial de Salvaguardia-PES, como proyectos de investi-
+gación, transmisión, educación, divulgación, y recuperación de la memoria de manera 
+integral, para la gestión y sostenibilidad del patrimonio cultural inmaterial.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Iniciativas de apropiación para la puesta en Secretaría de Cultura 
+Número 4 6
+valor del patrimonio cultural implementadas. Ciudadana
+Subsistema de Patrimonio Cultural Inmueble Departamento 
+de Medellín gestionado con la ciudadanía, para Porcentaje 30 80 Administrativo de 
+conservar la memoria colectiva. Planeación
+Tabla continúa en la siguiente página...
+2 8 7
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Contenidos patrimoniales interactivos Biblioteca Pública 
+Porcentaje NA 100
+implementados. Piloto
+Bienes urbanos y rurales identificados para la 
+conservación, protección y puesta en valor del Número 410 120 Agencia APP
+patrimonio.
+Acciones realizadas para la recuperación y Gerencia de 
+Número NA 6
+fortalecimiento de la identidad campesina. Corregimientos
+Metros lineales de documentos patrimoniales Secretaría de Cultura 
+salvaguardados mediante procesos archivísticos Número 120 120
+Ciudadana
+y de conservación.
+3.2.7.5.  Programa. Infraestructura y equipamientos culturales
+Descripción
+Los equipamientos culturales hacen parte del subsistema de equipamientos colectivos dentro del Plan 
+de Ordenamiento Territorial (POT), dentro del componente Equipamientos Básicos Sociales (EBS), 
+que comprende: educación, salud, recreación,  deporte y 
+cultura, y se consideran centrales en la política de desarrollo humano integral, por lo que corresponde 
+a los gobiernos ejercer la dirección del servicio en forma exclusiva en sus diferentes niveles, para que 
+sus	impactos	se	reflejan	directamente	en	el	bienestar	de	la	población	y	la	disminución	de	la	brecha	
+social. Los derechos culturales, materializados en la promoción, el fomento, la circulación de los bienes 
+y servicios culturales, el diálogo cultural, la creación, la memoria y la participación social, con miras a 
+la construcción de referentes sociales compartidos en torno a la ciudad, la nación y el mundo, pasan 
+por la garantía de acceso a los bienes y servicios culturales de manera equitativa en los territorios, 
+que requieren de una infraestructura física adecuada que sustente el ecosistema cultural como parte 
+esencial	en	el	modelo	de	ocupación	territorial	de	la	ciudad,	y	aporten	a	la	configuración	de	los	sub-
+sistemas de centralidades y corredores de alta mixtura para el desarrollo de territorios inteligentes a 
+partir de la cultura.
+Objetivo general 
+Consolidar la red de equipamientos culturales desde una lectura territorial que garantice el acceso a 
+los bienes y servicios culturales de manera equitativa en los territorios, y que potencien el desarrollo 
+de las comunidades y los diferentes grupos poblacionales.
+2 8 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivos específicos 
+•  Realizar la adecuación y mantenimiento de la infraestructura cultural de la 
+ciudad para que cumpla con las características de construcciones seguras, 
+funcionales, económicas y ambientalmente sostenibles, y que garanticen la 
+accesibilidad universal.
+•  Dotar los equipamientos culturales con los implementos pertinentes para que 
+fortalezcan las capacidades funcionales de los servicios culturales en la ciudad.
+•  Realizar los estudios, diseños y posterior construcción para la recuperación 
+del Parque Biblioteca Zona Nororiental acorde a las normas vigentes y a las 
+necesidades socio culturales de la población en este territorio.
+•  Adelantar el análisis de viabilidad para la construcción de un nuevo 
+equipamiento cultural en la ciudad.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Secretaría de Cultura 
+Complejo cultural Ciudad del Río construido. Porcentaje NA 100
+Ciudadana
+Parque Biblioteca Pública Zona Nororiental Secretaría de 
+Porcentaje 0 100
+rehabilitado. Infraestructura
+Secretaría de Cultura 
+Equipamientos culturales dotados. Número 2 5
+Ciudadana
+Secretaría de Cultura 
+Equipamientos culturales adecuados. Número 4 4
+Ciudadana
+3.2.8.  Componente. Cultura ciudadana 
+En los últimos veinte años Medellín ha conseguido constituirse como paradigma de transformación 
+social. Después de haber atravesado los momentos más difíciles de violencia urbana que jamás 
+haya enfrentado cualquier otra urbe del país, nuestra ciudad ha logrado emerger de las cenizas 
+para construir un proyecto colectivo que apuesta por la vida. Lo hicimos de la única forma que podía 
+hacerse:	transformando	la	cultura	ciudadana.	Por	esa	razón,	seguiremos	recuperando	la	confianza,	
+el compromiso y la identidad de los ciudadanos frente a la ciudad, a los asuntos públicos y a las ins-
+2 8 9
+Tercera parte. Marco programático
+tituciones, propiciando una cultura ciudadana que transforme los modos como los ciudadanos viven 
+la ciudad, la construyen en su cotidianidad y se relacionan con la norma, las autoridades y entre 
+nosotros mismos como ciudadanos.
+Así, la cultura ciudadana permitirá la construcción de sentidos de pertenencia y apropiación de lo 
+público, vinculando la participación y la corresponsabilidad de la ciudadanía y del Estado (o lo Ins-
+titucional) a través del reconocimiento del territorio, la valoración del patrimonio social y cultural, la 
+apropiación de acuerdos de convivencia y el reconocimiento del otro y su espacio vital.
+En este sentido, la cultura ciudadana va más allá de los comportamientos de las personas, pues-
+to que está orientada a la generación de conciencia en la ciudadanía para que tome decisiones de 
+manera informada sobre su papel en la transformación individual y colectiva del territorio; por tanto, 
+buscamos generar capacidades para los nuevos relacionamientos ciudadanos en el que es vital la 
+corresponsabilidad y mutuo reconocimiento.
+Objetivo
+Promover, transformaciones culturales a través de la gestión local de la cultura ciudadana que contribuya 
+a la convivencia plural, armónica e incluyente, fundada en la apropiación ciudadana, el cumplimiento 
+de	normas	y	acuerdos	sociales,	el	reconocimiento	a	la	diversidad,	la	confianza	interpersonal	y	la	
+sostenibilidad ambiental, la construcción de una ciudadanía cultural democrática y a la paz territorial 
+en la ciudad de Medellín. 
+Indicadores de resultado 
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Secretaría 
+Política pública de cultura Porcentaje NA 40 de Cultura 
+ciudadana implementada. Ciudadana
+Percepción ciudadana favorable Gerencia del 
+Porcentaje 68.67 84 Secretaría de Cultura
+del Centro. Centro
+Hogares donde se considera Departamento 
+Secretaría de 
+que existe discriminación Porcentaje 80.9 (2018) 80 Administrativo de 
+las Mujeres
+contra la mujer. Planeación Municipal
+2 9 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Programas
+3.2.8.1.  Programa. Ciudadanos de Futuro: cívicos, 
+	 	 	 	 	pacíficos	y	solidarios
+Descripción 
+Se generarán estrategias de formación, promoción y reconocimiento de disposiciones y acti-
+tudes ciudadanas que la Medellín Futuro necesita, mediante el reconocimiento de la diversidad 
+cultural, el respeto y el compromiso frente a la construcción de lo público; la solidaridad como 
+la	capacidad	de	generar	empatía	y	propiciar	redes	de	colaboración	y	apoyo	mutuo;	y	pacifis-
+mo,	como	un	estilo	de	vida	que	privilegia	las	formas	pacíficas	de	tramitar	los	conflictos	y	de	
+relacionarse con los otros.
+Para contribuir con dicho relacionamiento, se propende por desarrollar capacidades de 
+diálogo efectivas, claras, amables y empáticas como clave para el fortalecimiento de la cultura 
+ciudadana, los procesos de construcción de paz, el fortalecimiento de la democracia, la articu-
+lación de las acciones individuales y la transformación del relacionamiento entre el Estado y la 
+sociedad civil. Así mismo, se deben propiciar espacios de diálogo generando competencias y 
+garantías para entablar conversaciones de alta calidad humana, política y técnica en diferentes 
+escenarios de la ciudad.
+Objetivo general 
+Promover acciones que fomenten comportamientos y formas de relacionamiento fundados en 
+el respeto y la valoración del otro y los otros como base para una sociedad incluyente, partici-
+pativa y consciente de la repercusión de sus acciones en lo público.
+Objetivos específicos 
+•  Implementar el Plan Estratégico de la Política Pública de Cultura Ciudadana.
+•  Promover estrategias para la convivencia y el reconocimiento de la diversidad 
+en la ciudad.
+•  Desarrollar estrategias donde el arte y la cultura sean mecanismos para cons-
+trucción de paz territorial.
+2 9 1
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Iniciativas diversidad cultural acompañadas Secretaría de Cultura 
+Número 4 4
+con el enfoque de cultura ciudadana. Ciudadana
+Estrategia de arte y cultura para la Secretaría de Cultura 
+Porcentaje NA 100
+construcción de paz diseñada e implementada. Ciudadana
+Número de iniciativas de convivencia, Secretaría de Cultura 
+participación y apropiación con enfoque de Número 5 5
+Ciudadana
+cultura ciudadana realizadas.
+Número de iniciativas de confianza, Secretaría de Cultura 
+cumplimiento y sostenibilidad con enfoque de Número 2 4
+Ciudadana
+cultura ciudadana realizadas.
+Estrategia para la transversalización del enfoque Secretaría de Cultura 
+poblacional, diferencial y de género en las Porcentaje NA 100
+Ciudadana
+políticas culturales, diseñada e implementada.
+3.2.8.2.  Programa. Cultura Centro 
+Descripción 
+La estrategia de cultura ciudadana de alto impacto llamada la Cultura Centro ConSentido, cuyo én-
+fasis es insertar en el imaginario de toda la ciudad que el Centro de Medellín es la casa de todos, 
+permitirá mejorar el uso del espacio público, disminuir la inseguridad, la falta de apropiación y sentido 
+de permanencia del espacio.
+Es un programa de reapropiación del patrimonio material con usos para las artes y la cultura que 
+permitan hacerlo sostenible social, económica y culturalmente. Convertiremos el Centro en un museo 
+permanente para que los artistas expongan sus obras en los espacios públicos. De esta forma podrán 
+darse a conocer y visibilizar sus procesos. Con las peatonalizaciones haremos posible intervenciones 
+artísticas, culturales e institucionales en el espacio público. Llevaremos la Administración a las calles 
+del Centro, de la mano de la cultura.
+Objetivo general
+Generar un proceso de cultura ciudadana de alto impacto en el Centro implementando diferentes 
+estrategias comunicacionales, pedagógicas, artísticas, físicas e institucionales para el uso adecuado 
+del espacio público, la apropiación y sentido de permanencia en él.
+2 9 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivos específicos 
+•  Promover la apropiación social y de los espacios públicos mediante el arte y la cultu-
+ra, fortaleciendo la convivencia y aportando a la formación ciudadana.
+•  Reconocer y potenciar las diversidades, el valor del patrimonio construido y el acervo 
+cultural existente en la comuna 10- La Candelaria.
+•  Fortalecer la presencia institucional en el territorio, promoviendo el cumplimiento y 
+aceptación de la norma y los acuerdos sociales.
+•  Buscar garantizar la sostenibilidad ambiental, social y económica del Centro de la 
+ciudad.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Publicaciones de diversa índole realizadas 
+en el marco de la protección, recuperación y Número NA 36 Gerencia del Centro
+divulgación de la cultura, el arte y el patrimonio 
+cultural del Centro.
+Eventos de ciudad realizados en articulación Número 120 240 Gerencia del Centro
+con los actores del territorio del Centro.
+3.2.8.3.  Programa. Transformación de patrones culturales para la  
+     igualdad de género
+Descripción
+Avanzar en la transformación de imaginarios culturales y representaciones sociales sexistas que 
+propician la discriminación y limitan la participación, incidencia y visibilización de las mujeres, a través 
+de estrategias formativas, pedagógicas, comunicacionales, de movilización social e implementación 
+de	acciones	afirmativas	en	favor	de	las	mujeres.
+Objetivo general
+Desarrollar procesos comunicacionales y de movilización social para la transformación de imaginarios 
+culturales en favor de la igualdad de género, la inclusión y la visibilización de las mujeres en la ciudad 
+como agentes fundamentales del desarrollo de Medellín.
+2 9 3
+Tercera parte. Marco programático
+Objetivos específicos
+•  Visibilizar y reconocer las potencialidades de las mujeres en diferentes ámbitos, a 
+través de la realización de procesos como: Mujeres Jóvenes Talento, Medellín las 
+Mujeres	y	las	Artes,	y	el	Galardón	Honorífico	Medalla	al	Mérito	Femenino,	entre	otros,	
+que contribuyan a la transformación de imaginarios y desestructurar estereotipos de 
+género sexistas.
+•  Generar espacios de comunicación pública favorable al reconocimiento de los dere-
+chos e intereses de las mujeres, a través de procesos pedagógicos con los medios 
+de comunicación y la realización de acciones de comunicación pública y comunica-
+ción para el cambio social.
+• 	 Implementar	acciones	de	reconocimiento	como	medida	afirmativa	para	las	mujeres	
+que se hayan visto afectadas o que hayan estado en primera línea de respuesta en la 
+continencia del COVID-19.
+•  Divulgar y apoyar la implementación de iniciativas de mujeres y hombres individuales 
+y/o colectivas, orientadas a la promoción y/o fortalecimiento de imaginarios culturales 
+y representaciones que contribuyan a la igualdad de género la visibilización de los 
+saberes, capacidades y talentos de las mujeres en favor de su empoderamiento.
+Indicadores de producto 
+Unidad Línea Meta 
+Indicadores de producto Responsable
+de medida base 2020-2023
+Estrategias de movilización social realizadas 
+para la transformación de imaginarios Secretaría de las 
+Número NA 4
+culturales y representaciones sociales en favor Mujeres
+de la igualdad de género.
+Eventos realizados para el reconocimiento Secretaría de las 
+de las habilidades y potencialidades de las Número 3 11
+Mujeres
+mujeres.
+Relación de la Línea Estratégica con políticas públicas municipales
+En	Buen	Comienzo,	se	expresa	la	Política	Pública	(Acuerdo	58	de	2011	modificado	por	el	Acuerdo	54	
+de 2015) a través de la garantía de los derechos de la primera infancia, respaldado por un programa 
+que ha trascendido las Administraciones Municipales y ha venido siendo complementado a la luz 
+de los contextos sociales en que cada Plan de Desarrollo se inserta.  En este sentido, el cuidado y 
+protección como pilares fundamentales de la estrategia pedagógica de Buen Comienzo, trascienden 
+el pilar educativo y son ejes fundamentales del bienestar social y familiar.  Es fundamental, en este 
+2 9 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+componente la implementación de la Ruta Integral de Atenciones (RIA). Es la herramienta que con-
+tribuye a ordenar la gestión de la atención integral en el territorio de manera articulada, consecuente 
+con la situación de derechos de los niños y las niñas, con la oferta de servicios disponible y con 
+características de las niñas y los niños en sus respectivos contextos. Como herramienta de gestión 
+intersectorial convoca a todos los actores del Sistema Nacional de Bienestar Familiar con presencia, 
+competencias y funciones en el territorio”, Ley 1804 de 2016, artículo 4.
+En Transformación curricular para la Cuarta Revolución Industrial, cuenta con desarrollos de políti-
+cas	públicas	como	las	que	definen	el	Acuerdo	48	de	2017	que	adopta	el	Plan	Educativo	Municipal	de	
+Medellín 2016-2027 (PEM) “Hacia una educación integral, humana y sostenible para las apuestas de 
+desarrollo de la ciudad de Medellín, y se base en los siguiente principios y conceptos de la educación, 
+los cuales se relacionan con las apuestas de Medellín Futuro:
+“El artículo 67 de la Constitución Política de Colombia consagra la educación como un derecho 
+y un servicio público que tiene una función social. Por otro lado, la Ley General de Educación de-
+fine	la	educación	como	“un	proceso	de	formación	permanente,	personal,	cultural	y	social	que	se	
+fundamenta en una concepción integral de la persona humana, de su dignidad, de sus derechos y 
+de sus deberes” En armonía con lo anterior, la Constitución Política de 1991 y las normas vigentes 
+en materia educativa, el PEM 2016-2027 se enmarca en el reconocimiento del derecho a la edu-
+cación como fundamento para el pleno ejercicio de los demás derechos humanos y como factor de 
+movilidad social a lo largo de la vida, adoptando lo planteado por la Organización de las Naciones 
+Unidas	para	la	Educación,	la	Ciencia	y	la	Cultura	[Unesco]	(2005)	quien	afirma	que	“el	derecho	a	la	
+educación hace posible el ejercicio de otros derechos humanos fundamentales y, en consecuencia, 
+de la ciudadanía”(Pág. 16 y 17).
+En Cultura, arte y memoria, las políticas públicas se desarrollan conceptualmente a partir de los 
+elementos	que	define	la	Ley	397	de	1997,	por	la	cual	se	desarrollan	los	artículos	70,	71	y	72	y	demás	
+concordantes de la Constitución Política y se dictan normas sobre patrimonio cultural, fomentos y 
+estímulos a la cultura, se crea el Ministerio de la Cultura y se trasladan algunas dependencias.  Esta 
+asume la cultura como el “conjunto distintivo de rasgos espirituales, materiales, intelectuales y emo-
+cionales que caracterizan a los grupos humanos y que comprende, más allá de las artes y las letras, 
+modos de vida, derechos humanos, sistemas de valores, tradiciones y creencias”.  Los programas 
+en este componente se orientan al establecimiento de garantías para que la ciudadanía disfrute de 
+la cultura en todas sus manifestaciones, y para que los gestores y artistas accedan al apoyo del es-
+tado para el desarrollo de sus iniciativas en materia creativa o de generación de agenda y eventos 
+culturales y artísticos.  La base es el reconocimiento de la diversidad cultural de la ciudad, y facilitar 
+el acceso ciudadano a la agenda cultural.  Será muy importante la implementación del Plan de Desa-
+rrollo Cultural de Medellín y el fortalecimiento del papel del Consejo Municipal de Cultura, de acuerdo 
+a las directrices establecidas en el Decreto Nacional 1080 de 2015 por medio del cual se expide el 
+Decreto Reglamentario Único del Sector Cultura.

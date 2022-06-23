@@ -1,0 +1,1459 @@
+2 0 7
+Tercera parte. Marco programático
+3.1.  Capítulo I. Línea estratégica 1: 
+   Reactivación Económica y Valle del Software
+La Reactivación Económica y Valle del Software constituyen una Línea Estrategia del Plan de Desarrollo 
+que apunta a convertir de nuevo a nuestra ciudad en la capital industrial de Colombia, esta vez en 
+el marco de la Cuarta Revolución Industrial y de la economía digital. Así como en el siglo pasado la 
+imagen	de	Medellín	eran	el	edificio	Coltejer	y	los	avisos	que	la	iluminaban	desde	sus	cerros	tutelares	
+como testimonio de la ciudad textilera que fuimos, en la era del conocimiento y para el siglo XXI, esa 
+nueva imagen se plantea como un distrito de ciencia y tecnología, en donde Ruta N, los campus uni-
+versitarios,	las	sedes	de	las	nuevas	empresas	y	las	comunidades	científicas	y	tecnológicas	en	todo	
+el territorio, serán el motor de la nueva economía. 
+Bajo estas premisas, en la zona denominada “ecoparque Las Palmas” se desarrollará el “Parque 
+Ambiental Valle del Software” como referente y epicentro de la Línea Estratégica Valle del Software, y 
+para lo cual el Alcalde reglamentará todas las acciones que permitan realizar la intervención y puesta 
+en marcha de este ícono de ciudad.
+Igualmente, el Alcalde reglamentará e implementará herramientas para que el Distrito F (anterior 
+distrito de innovación), se consolide como proceso de transformación social, urbana y económica 
+articulado al Valle del Software.
+Una apuesta central de nuestra estrategia Reactivación Económica y Valle del Software es tener 
+como motor al sistema de ciencia, tecnología, innovación y emprendimiento (CTI+E) que, aunque 
+de tiempo atrás se viene desarrollando en la ciudad, todavía se encuentra en su etapa de activación 
+temprana (CUEE 2.0, 2019). Este sistema para pasar a una etapa de consolidación requiere de una 
+serie de acciones decididas tales como una mayor articulación de sus actores (el 86 % de sus miem-
+bros considera que el ecosistema está desarticulado), mejorar la calidad de las tutorías a las startups, 
+lograr la especialización de los actores del sistema CTI, y mejorar la calidad de los emprendimientos 
+para que sean atractivos al capital que hay en la región. Adicionalmente, se hace necesario alinear 
+la investigación aplicada en TIC con los emprendimientos de base tecnológica y que las empresas 
+desarrollen	sus	propias	unidades	de	investigación;	situación	que	se	refleja	en	indicadores	tales	como	
+que en el país solo 3.05 % de los investigadores trabajan con empresas y solo el 1.28 % se dedica al 
+desarrollo de nuevo conocimiento o desarrollo tecnológico e industrial (Colciencias, 2017). 
+Materializar	a	Medellín	como	ciudad	inteligente	no	ha	sido	posible	debido	a	deficiencias	en	aspectos	
+relevantes como el establecimiento de un liderazgo permanente, una adecuada articulación de los 
+actores	involucrados,	la	definición	desde	la	Administración	Municipal	de	una	hoja	de	ruta	clara,	el	de-
+sarrollo concertado de proyectos integrales que atiendan problemas de ciudad, así como la necesidad 
+de un cambio en la mentalidad y en la cultura. Aunque la información es hoy el activo más valioso 
+que tienen las economías contemporáneas y es un elemento clave para modernizar la gestión pública 
+2 0 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+todavía hay grandes limitaciones de ciudad en su aprovechamiento. El proyecto MEData (TIC, 2019), 
+desarrollado en la Administración anterior, solo ha logrado integrar datos de 17 de las 55 secretarías 
+y entes descentralizados existentes. Hace falta todavía integrar información de muchas más fuentes 
+del conglomerado público y se hace necesario implementar mecanismos de interoperabilidad entre 
+las entidades que habiliten el intercambio automático de información.  Respecto a la conectividad, 
+en	la	actualidad	existen	296	puntos	wifi	en	la	ciudad	(Secretaría	de	Desarrollo	Económico,	2019),	
+distribuidos en las 16 comunas y los 5 corregimientos, pero carecen de un plan de sostenibilidad y 
+mejoramiento de esta infraestructura.  
+La Cuarta Revolución Industrial que está transformando todos los sectores, todas las industrias 
+y todas las disciplinas, se presenta al tiempo como un riesgo y una oportunidad. Para los próximos 
+5 años un gran número de empleos serán destruidos o reemplazados en la economía global, como 
+efecto de la irrupción de procesos de automatización y el surgimiento de tecnologías como el big data, 
+la	inteligencia	artificial,	el	blockchain y el internet de las cosas (IoT). Pero al mismo tiempo, se crearán 
+cientos de miles de empleos de mayor remuneración, relacionados con la generación de mayor valor 
+agregado para las sociedades. En ese sentido y como retos cruciales para lograr que Medellín sea el 
+Valle del Software y pueda desarrollar tanto la industria 4.0 como la Economía Digital están el enorme 
+déficit	de	talento	humano	para	cubrir	los	miles	de	empleos	bien	remunerados	que	se	requerirán,	el	
+bajo nivel de bilingüismo de sus ciudadanos y la todavía limitada conectividad de la ciudad.  
+Propósito 
+La Reactivación Económica y el Valle del Software conforman una estrategia de desarrollo económico 
+con el objetivo de gestionar a partir de la educación, la innovación y el emprendimiento nuevas opor-
+tunidades,	aprovechando	nuestras	necesidades	y	fortalezas	para	potenciar,	sofisticar	y	diversificar	
+la economía de la ciudad a través de la apertura de nuevos escenarios y la generación de miles de 
+empleos, en áreas asociadas a la economía digital y la Cuarta Revolución Industrial.
+3.1.1.  Componente. Talento humano y empleo 
+En el marco de la Reactivación Económica y Valle del Software, desarrollaremos acciones de corto, 
+mediano y largo plazo, todas ellas encaminadas a cerrar las brechas en el acceso a oportunidades. 
+En el mediano y largo plazo, la Transformación Educativa y Cultural de este Plan de Desarrollo Munici-
+pal Medellín Futuro 2020-2023 contiene un conjunto de programas orientados a desarrollar y potenciar 
+en los niños y jóvenes habilidades como la creatividad, la innovación, la persistencia, la resolución 
+de	problemas	complejos,	aprender	a	aprender,	flexibilidad	cognitiva,	negociación	y	trabajo	en	equipo;	
+acompañadas	de	capacidades	específicas	como	el	desarrollo	de	software, el pensamiento lógico y 
+abstracto y el bilingüismo desde temprana edad y para todas las edades.  
+2 0 9
+Tercera parte. Marco programático
+En el corto y mediano plazo impulsaremos una serie de programas que conecten la oferta con la 
+demanda buscando reactivar la economía e incentivar y apoyar a los ciudadanos, especialmente a 
+los jóvenes y mujeres de la ciudad que quieren desarrollar sus capacidades y habilidades en áreas 
+TIC y relacionadas.  
+Objetivo 
+Conectar la oferta con la demanda requerida por los sectores empresariales locales e internacionales 
+relacionados a la Cuarta Revolución Industrial y a los sectores tradicionales de la economía, mediante 
+la formación, actualización y reentrenamiento de un gran número de personas, cerrando las brechas 
+en el acceso a oportunidades de inserción laboral. 
+Indicadores de resultado
+Unidad Meta 
+Indicadores de resultado Línea base Responsable Corresponsable
+de medida 2020-2023
+Empleos generados en la Secretaría 
+nueva economía del Valle del Número 95 6.449 de Desarrollo 
+Software. Económico
+Personas cualificadas en Secretaría 
+habilidades para la Cuarta Porcentaje 7 73 de Desarrollo 
+Revolución Industrial. Económico
+Empleos decentes 
+generados en sectores Secretaría 
+tradicionales con programas Número 9.315 12.110 de Desarrollo 
+de acompañamiento de la Económico
+Secretaría de Desarrollo 
+Económico.
+Agencia de 
+Empleos generados en la Cooperación 
+ciudad o en el distrito de e Inversión de 
+innovación enfocados a Número 4.837 20.000 Ruta N
+Medellín y el Área 
+CT+I (Ciencia, Tecnología e Metropolitana-ACI 
+Innovación). Medellín
+Secretaría 
+Tasa de formalidad. Porcentaje 59.4 60.3 de Desarrollo 
+Económico
+Secretaría 
+Tasa de ocupación laboral de Porcentaje 48.2 50.2 de Desarrollo 
+jóvenes entre 18 y 28 años. Económico
+2 1 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+Con los temas que se abordan en el componente Talento humano y empleo, se busca aportar a 
+las metas del octavo ODS, el cual busca promover el crecimiento económico sostenido, inclusivo y 
+sostenible, el empleo pleno y productivo y el trabajo decente para todos, esta contribución se moni-
+toreará a través del indicador de la Agenda de los Objetivos de Desarrollo Sostenible de la ciudad 
+para 2030 que se relaciona a continuación:
+Figura 59. Tasa de formalidad laboral, Medellín 2010-2018
+71.0 71.0 71.0 71.0 71.0 71.0 71.0 71.0 71.0
+52.4 53.2 55.1 55.8 55.8 58.1 57.6
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+ Fuente: Elaboración propia con información de la Gran Encuesta Integrada de 
+Hogares para Medellín (DANE), (2010-2018).
+Se espera que, con las acciones realizadas durante el período, para el año 2023 la tasa de for-
+malidad sea superior al 60 %. 
+Programas
+3.1.1.1.  Programa. Reentrenamiento y formación 
+    masiva en la industria 4.0
+Descripción 
+Generar oportunidades para el acceso de la ciudadanía a la formación especializada en habilidades y 
+conocimientos demandados por la industria 4.0; así mismo, apoyar la actualización y reentrenamiento 
+de los técnicos, tecnólogos y profesionales que requieran estas habilidades y conocimientos. Ambas 
+iniciativas responden a las necesidades del sector empresarial local e internacional, contribuyendo al 
+mejoramiento de la productividad, la competitividad y la calidad de vida de los ciudadanos.
+2 1 1
+Tercera parte. Marco programático
+Objetivo general 
+Mejorar las posibilidades de inserción laboral en sectores relacionados a la Cuarta Revolución Industrial 
+a través de oportunidades para la formación o el reentrenamiento de los ciudadanos.
+Objetivos específicos 
+• Generar oportunidades de formación y entrenamiento en habilidades asociadas a los 
+sectores de la Cuarta Revolución Industrial.
+• Gestionar	oportunidades	para	la	inserción	laboral	de	los	ciudadanos	que	se	han	cualifi-
+cado	en	habilidades	afines	a	la	Cuarta	Revolución	Industrial.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Personas beneficiadas en programas de Número NA 25.000 Sapiencia
+formación de talento especializado.
+Jóvenes formados en temas relacionados con Secretaría 
+competencias laborales y habilidades blandas Número 413 17.500 de Desarrollo 
+para la Cuarta Revolución Industrial. Económico
+Adultos formados en temas relacionados con Secretaría 
+competencias laborales y habilidades blandas Número 231 7.500 de Desarrollo 
+para la Cuarta Revolución Industrial. Económico
+Mujeres formadas en temas relacionados con Secretaría 
+competencias laborales y habilidades blandas Porcentaje 30 35 de Desarrollo 
+para la Cuarta Revolución Industrial. Económico
+Estrategia de difusión y sensibilización para la 
+promoción del acceso de mujeres a programas Porcentaje NA 100 Sapiencia
+de educación postsecundaria relacionadas con 
+Valle del Software implementada.
+3.1.1.2.  Programa. Inserción laboral
+Descripción 
+Promover	la	cualificación	en	competencias	laborales	en	sectores	tradicionales	y	mercados	internacio-
+nales; así mismo, buscar la generación de empleo e inserción laboral tanto en sectores tradicionales 
+2 1 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+como	en	sectores	afines	a	la	Cuarta	Revolución	Industrial	a	través	de	la	articulación	entre	la	oferta	y	
+la demanda, contribuyendo al cierre de brechas sociales en torno al acceso a oportunidades.
+Objetivo general 
+Fomentar la generación de empleos en sectores tradicionales y sectores asociados a la Cuarta Re-
+volución Industrial mediante la conexión entre la oferta y demanda del mercado laboral en busca del 
+mejoramiento de la calidad de vida de la población.
+Objetivos específicos 
+• Conectar	la	oferta	y	demanda	de	los	sectores	tradicionales	y	afines	a	la	Cuarta	
+Revolución Industrial, en ámbitos locales e internacionales.
+• Generar	oportunidades	de	cualificación	para	el	empleo	en	los	sectores	tradicionales	de	
+la economía. 
+• Incrementar espacios para que estudiantes técnicos, tecnológicos y profesionales se 
+acerquen al conocimiento de lo público.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Jóvenes vinculados laboralmente a través del Secretaría 
+fortalecimiento de una gran base empresarial de Número 3.524 6.360 de Desarrollo 
+oferta y demanda de empleo. Económico
+Secretaría 
+Jóvenes formados en competencias laborales Número 5.600 6.300 de Desarrollo 
+para los sectores tradicionales de la economía. Económico
+Personas que cooperan con el desarrollo e Secretaría 
+implementación del Valle del Software, en el marco Número NA 200 de Desarrollo 
+del proyecto Cerebros Fugados. Económico
+Secretaría 
+Adultos formados en competencias laborales para Número 2.516 2.700 de Desarrollo 
+los sectores tradicionales de la economía. Económico
+Secretaría 
+Mujeres formadas en competencias laborales para Porcentaje 72 74 de Desarrollo 
+los sectores tradicionales de la economía. Económico
+Adultos vinculados laboralmente a través del Secretaría 
+fortalecimiento de una gran base empresarial de Número 3.384 5.640 de Desarrollo 
+oferta y demanda de empleo. Económico
+Tabla continúa en la siguiente página...
+2 1 3
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Mujeres vinculadas laboralmente a través del Secretaría 
+fortalecimiento de una gran base empresarial de Porcentaje 44 46 de Desarrollo 
+oferta y demanda de empleo. Económico
+Secretaría 
+Gestión Humana 
+Estudiantes formados para el trabajo. Número 795 1000
+y Servicio a la 
+Ciudadanía
+Jóvenes recién graduados que acceden al primer Secretaría 
+empleo a través de una gran base empresarial de Porcentaje ND 11 de Desarrollo 
+oferta y demanda de empleo. Económico
+3.1.2.  Componente. Ciencia, Tecnología, Innovación y 
+    Emprendimiento (CTI+E)
+La Línea Estratégica Reactivación Económica y Valle del Software busca la transformación de una 
+sociedad basada en la producción de materias primas, bienes y servicios de bajo valor agregado a 
+una sociedad con una economía basada en el conocimiento y la interconectividad. Dicha apuesta 
+demanda el cierre de brechas importantes, un reto que debe ser asumido en conjunto por los actores 
+de la Cuádruple Hélice (Universidades, Empresas, Estado y Sociedad).
+La densidad poblacional del Área Metropolitana y su infraestructura urbanística, ofrecen espacios 
+concentrados para actividades que se favorecen de la proximidad social y espacial, lo que incrementa 
+las oportunidades de interacción y transferencia de conocimiento. Este fenómeno desata un efecto en 
+cascada,	ya	que	los	trabajadores	de	una	sociedad	del	conocimiento	prefieren	interactuar	en	espacios	
+densos, pues se reducen los costos de interacción y se aumenta su productividad. De otro lado, las 
+compañías	en	las	etapas	tempranas	de	desarrollo	de	productos	prefieren	ubicarse	en	lugares	donde	
+el conocimiento esté disponible de manera abundante y a bajo costo (Nijkamp, 2011).
+Las	dificultades	de	tipo	logístico	que	presenta	la	ciudad	de	Medellín	elevan	los	costos	de	transporte	
+de bienes a los principales puertos, e impiden el desarrollo de una industria de manufactura de bienes 
+con precios competitivos. En ese sentido, la industria del software y la Economía Digital —como uno 
+de los componentes del modelo económico que se propone— ofrece la ventaja de no hacer uso de 
+la infraestructura de vías y puertos (bastante subdesarrollada en el país) y explotar una que tiene un 
+nivel de desarrollo mejor como es el de las redes de telecomunicaciones.
+Esta transición hacia una economía del conocimiento demanda no solo una interacción fuerte entre 
+los actores locales, sino que también exige la creación de redes con otras comunidades, que aceleren 
+el intercambio de buenas prácticas mediante actividades más allá de la transmisión del conocimiento.
+2 1 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo
+Promover el desarrollo de las capacidades de Ciencia, Tecnología, Innovación y Emprendimiento de 
+la ciudad en las tecnologías de la información y la comunicación, mediante una mayor articulación 
+del ecosistema CTI, el fortalecimiento del programa de mentorías, la promoción de la inversión en la 
+región, la formación de alto nivel y el impulso a la investigación aplicada.  
+Indicadores de resultado
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Ventas generadas por las empresas creadas y/o Secretaría 
+Millones de 
+fortalecidas a partir de la gestión de los Centros de NA 200.000 de Desarrollo 
+pesos
+Valle del Software. Económico
+Ventas internacionales generadas por las Secretaría 
+empresas creadas y/o fortalecidas a partir de la Porcentaje NA 50 de Desarrollo 
+gestión de los Centros de Valle del Software. Económico
+Estrategia para la caracterización, fomento y Secretaría 
+articulación de la Economía Creativa y cultural de Porcentaje NA 100 de Cultura 
+Medellín diseñada e implementada. Ciudadana
+Secretaría 
+Retos de ciudad solucionados por el ecosistema Porcentaje NA 70 de Desarrollo 
+de CTI+E y la ciudadanía. Económico
+Inversión en actividades de ciencia, tecnología e Porcentaje 2.27 3.2 Ruta N
+innovación como porcentaje del PIB municipal.
+Inversión en Investigación y desarrollo como Porcentaje 1.24 1.6 Ruta N
+porcentaje del PIB municipal.
+Conexiones a internet gratuito a través de Secretaría 
+espacios públicos gracias al fortalecimiento del Número 22.000.000 100.000.000 de Desarrollo 
+programa Medellín Digital. Económico
+Población que participa en procesos de innovación Biblioteca 
+abierta en el diseño, construcción y socialización Número NA 406.640
+Pública Piloto
+de la Biblioteca Digital, en las fases 1 a 3.
+2 1 5
+Tercera parte. Marco programático
+Los temas que se abordan en el componente Ciencia, Tecnología, Innovación y Emprendimiento (CTI+E), 
+aportarán a las metas del noveno ODS, el cual busca construir infraestructuras resilientes, promover 
+la industrialización inclusiva y sostenible y fomentar la innovación, esta contribución se monitoreará 
+a través del indicador de la Agenda de los Objetivos de Desarrollo Sostenible de la ciudad para el 
+2030 que se relaciona a continuación:
+Figura 60. Inversión en actividades de Ciencia, Tecnología e Innovación sobre el PIB (ACTI/PIB), Medellín 2015-2018 
+3.34 3.34 3.34 3.34
+2.14 2.27
+1.82
+1.15
+2015 2016 2017 2018
+Porcentaje Meta 2030
+ Fuente: Ruta N, Observatorio Colombiano de Ciencia y Tecnología (OCyT), (2020).
+Con las acciones realizadas durante el período, se propiciará inversión en actividades de Ciencia, 
+Tecnología	e	Innovación	(ACTI/PIB)	con	el	fin	de	que	esta	sea	superior	al	3	%	sobre	el	PIB.
+Programas
+3.1.2.1.  Programa. Centros del Valle del Software
+Descripción 
+Epicentro para la transformación de la vocación económica de la ciudad de Medellín y funcionan como 
+plataforma para la creación de emprendimientos y empresas de base tecnológica, el diseño y aceleración 
+de modelos de negocio BPO por territorios, el fortalecimiento de spin-off públicas y privadas, y la creación 
+de la Red Futuro para generar conexiones entre oferta y demanda de personas, empresas e instituciones.
+2 1 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+Con un diseño metodológico especializado y una caracterización de la vocación económica 
+por	territorio,	se	definirán	rutas	para	la	creación	y	generación	de	riqueza	que	permitirán	captar	
+talento de alto potencial, y tener una oferta constante de formación especializada en TIC, 
+formación para el emprendimiento de base tecnológica y Cultura Digital, soportado transver-
+salmente	en	vigilancia	periódica	de	las	industrias	digitales,	la	identificación	de	oportunidades	
+de negocio, la articulación con el ecosistema CTI+E de la ciudad, y el acceso a mercados y 
+capital inteligente nacional e internacional. 
+Se hará uso de la infraestructura educativa y comunitaria del municipio, tal como los Centros 
+de Participación Zonal, sedes del CEDEZO, los Centros de Desarrollo Social (CIB), Bibliotecas, 
+UVAS, Colegios, Instituciones de Educación Superior, ciudadela universitaria, laboratorio de 
+innovación de Ruta N, entre otros, actualizando y mejorando su infraestructura y equipamiento 
+en donde sea necesario y oportuno según los objetivos trazados.
+Objetivo general 
+Transformar la vocación económica de la ciudad de Medellín propiciando la creación de em-
+prendimientos y empresas de base tecnológica y el desarrollo de nuevas tecnologías, aprove-
+chando la oferta existente del ecosistema CTI+E de la ciudad y sumando nuevas capacidades, 
+que permitan la transición de los negocios hacia la dinámica de la Cuarta Revolución Industrial, 
+reactivando la economía del territorio y logrando un posicionamiento competitivo a nivel global, 
+para alcanzar mayores ventas y exportaciones desde la ciudad.
+Objetivos específicos
+• Diseñar y poner en funcionamiento los Centros del Valle del Software.
+• Implementar estrategias de creación de modelos de negocios asociativos 
+articulando talento, empresas y emprendimientos mediante el modelo BPO.
+• Propiciar la creación de empresas y emprendimientos de base tecnológica, a 
+partir de la adopción de las tecnologías de la Cuarta Revolución Industrial (4RI) 
+y facilitando el acceso a mercados internacionales.
+• Impulsar estrategias dinámicas y adaptables a los entornos cambiantes para 
+fortalecer la forma de prestar servicios con una visión de alcance al mercado 
+latinoamericano.
+• Fortalecer las Spin off públicas y privadas, aprovechando el desarrollo y 
+transferencia de tecnología para el sector productivo de la economía.
+• Desarrollar un proyecto integral de ciudad, como epicentro y referente urbano 
+para la promoción y generación de un sistema de innovación, investigación 
+científica	y	competitividad,	en	beneficio	de	la	comunidad,	el	sector	educativo	y	
+empresarial.
+2 1 7
+Tercera parte. Marco programático
+Indicadores de producto
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Secretaría 
+Centros del Valle del Software creados y puestos Número NA 21 de Desarrollo 
+en funcionamiento. Económico
+Plan implementado para la creación de Secretaría 
+mecanismos asociativos creados a través del Porcentaje NA 100 de Desarrollo 
+modelo BPO. Económico
+Secretaría 
+Emprendimientos de base tecnológica Número ND 3.150 de Desarrollo 
+intervenidos. Económico
+Secretaría 
+Conexiones exitosas a través de la Red Futuro. Porcentaje NA 70 de Desarrollo 
+Económico
+Secretaría 
+Spin off universitarias y privadas fortalecidas. Número NA 20 de Desarrollo 
+Económico
+Estrategia de promoción de la formalización Secretaría 
+empresarial y laboral a través de los Centros del Porcentaje NA 100 de Desarrollo 
+Valle del Software creada e implementada. Económico
+Distrito Futuro para la transición como espacio Departamento 
+de intervención urbano-tecnológica diseñado, Número NA 1 Administrativo 
+formulado e implementado. de Planeación
+Secretaría 
+Epicentro del Valle del Software creado. Número ND 1 de Desarrollo 
+Económico
+3.1.2.2.  Programa. Economía Creativa
+Descripción 
+Conjunto de estrategias, herramientas y actividades del ecosistema de la Economía creativa y cul-
+tural orientadas a su fortalecimiento, a través del acompañamiento especializado a las iniciativas, 
+la formación de audiencias, generación de ingresos y el desarrollo de mercados, así como el diseño 
+e implementación de estrategias presenciales y virtuales, buscando que consoliden su oferta de 
+valor, promuevan su competitividad y contribuyan a dinamizar la economía del sector y de la ciudad. 
+Se busca además comprender las necesidades de cada nicho en procesos de economía creativa 
+y cultural, industrias culturales y creativas y gestión cultural, que se encuentran en las diferentes 
+etapas de preincubación e incubación.
+2 1 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo general 
+Implementar y fortalecer estrategias que permitan la consolidación del ecosistema, el desarrollo 
+económico del sector creativo y cultural, y el reconocimiento de las actividades, compuesta por 
+iniciativas públicas, privadas y no gubernamentales, por medio de un esquema de gobernanza, 
+participación ciudadana y el incremento de los ingresos de los proyectos creativos y culturales.
+Objetivos específicos
+• Articular y orientar las estrategias de ciudad enfocadas desde la Política Pública 
+de Desarrollo Económico para la ciudad y las líneas estratégicas del Plan 
+Intersectorial para la Economía Creativa, enfocada a las áreas de oportunidad, 
+maximizando el potencial y oportunidades entre el sector privado, sector público y 
+académico. 
+• Fomentar	el	conocimiento	de	la	Economía	Creativa	a	través	de	la	identificación	
+del estado actual del sector económico, las necesidades de fortalecimiento, de 
+acciones y estrategias que incentiven el crecimiento económico en la ciudad y 
+promueva las líneas de acción del Plan Intersectorial para el fomento y la gestión 
+del desarrollo económico.
+• Implementar estrategias de formación de audiencias y mercados para el desarrollo 
+de la cadena de valor de la Economía Creativa.
+• Generar condiciones propicias y asertivas para el desarrollo de la ley de Economía 
+Creativa en la ciudad de Medellín, acompañando iniciativas y emprendimientos 
+culturales y creativos para el fortalecimiento misional, técnico, administrativo, 
+de acceso a mercados y cadenas de circulación, que les permitan insertarse en 
+diálogos desde la creación, la innovación y el desarrollo económico, con una 
+mirada intersectorial e interdisciplinaria.  
+• Implementar herramientas y estrategias para el desarrollo del Distrito Perpetuo 
+Socorro.
+• Implementar un laboratorio de innovación que fortalezca proyectos audiovisuales, 
+cinematográficos,	de	animación	y	videojuegos	con	la	ayuda	y	aplicación	de	nuevas	
+tecnologías en procesos de desarrollo, producción y distribución de contenidos.
+• Fomentar	la	realización	de	producciones	audiovisuales	y	cinematográficas	en	
+la	ciudad	mediante	la	creación	de	un	mecanismo	de	financiación	que	combine	
+recursos públicos y privados para apalancar proyectos que dinamicen la economía, 
+generen empleo local y propicien transferencia de conocimiento, en concordancia 
+con la legislación nacional de fortalecimiento al sector.
+• Diseñar acciones que favorezcan la reinvención y reactivación de la Economía 
+Creativa de Medellín a partir de los cambios culturales globales y las 
+consecuencias de la Pandemia COVID-19.
+2 1 9
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Emprendimientos de la industria creativa Secretaría de 
+Número 175 290
+intervenidos. Desarrollo Económico
+Laboratorio de innovación audiovisual Secretaría de 
+Porcentaje NA 100
+creado e implementado. Desarrollo Económico
+Distrito creativo: Perpetuo Socorro Secretaría de 
+Porcentaje NA 100
+implementado. Desarrollo Económico
+Circuitos creativos de la ciudad declarados Secretaría de 
+Número 1 3
+como Áreas de Desarrollo Naranja (ADN). Desarrollo Económico
+Producciones audiovisuales incentivadas Comisión Fílmica-
+económicamente a través de la Comisión Número 10 10 Secretaría de 
+Fílmica de Medellín. Desarrollo Económico
+ Estrategia de cadena de valor Secretaría de Cultura 
+Porcentaje NA 100
+diseñada e implementada. Ciudadana
+Secretaría de Cultura 
+Ferias y/o mercados artesanales realizados. Número 55 55
+Ciudadana
+Estrategia de reinvención y reactivación de Secretaría de Cultura 
+la Economía Creativa de Medellín diseñada e Porcentaje NA 100
+Ciudadana
+implementada.
+3.1.2.3.  Programa. Investigación, innovación y retos de ciudad
+Descripción
+Incentivar la investigación y la innovación para la solución de retos de ciudad y empresariales, fo-
+mentando la integración de la academia, el estado, el sector productivo y emprendimientos para dar 
+solución a las necesidades del mercado y del sector público. Así como la actualización del plan CTI 
+de cara a los retos de ciudad.
+Objetivo general 
+Incentivar la investigación y la innovación por medio de la solución de retos de ciudad y empresa-
+riales, la integración de la academia, el estado, las organizaciones sociales, el sector productivo y 
+2 2 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+emprendimientos,	para	el	fomento	de	la	adopción	científica	y	tecnológica	en	todos	los	sectores	de	la	
+economía, y dar solución a las necesidades del mercado y del sector público.
+Objetivos específicos 
+• Solucionar retos de ciudad en articulación con el ecosistema de CTI+E y la 
+ciudadanía.
+• Aumentar la inversión en actividades de ciencia, tecnología e innovación que generen 
+impacto para la ciudad.
+• Crear centros de innovación especializados por industrias para el fortalecimiento del 
+tejido empresarial que genere competitividad para la ciudad.
+• Diseñar el plan de acción para que Medellín se consolide como el Distrito Especial de 
+Tecnología e Innovación. 
+• Realizar la actualización y ejecución del Plan CT+I vigente y futuro.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Centros de innovación especializados para las Secretaría de 
+Número NA 7
+áreas priorizadas diseñados e implementados. Desarrollo Económico
+Plan de acción diseñado para que Medellín Secretaría de 
+sea Distrito Especial de Ciencia, Tecnología e Porcentaje NA 100
+Desarrollo Económico
+Innovación.
+Proyectos diseñados y ejecutados del Plan CT+I Número 7 7 Ruta N
+vigente y futuro.
+Emprendimientos sociales basados en 
+CT+I acompañados a través de asesorías Número ND 40 Ruta N
+seguimiento o monitoreo.
+3.1.2.4.  Programa. Cultura digital
+Descripción
+Fomentar hábitos en las personas y empresas para la adopción y apropiación de herramientas digi-
+tales	y	nuevas	tecnologías	desde	el	marco	de	la	Cuarta	Revolución	Industrial,	mediante	la	definición	
+de criterios que promuevan la conectividad, la circulación de contenidos, la oferta institucional y la 
+cultura digital, acercando a la ciudadanía al mundo digital y las nuevas tecnologías en el marco de 
+la estrategia del Valle del Software.
+2 2 1
+Tercera parte. Marco programático
+Objetivo general 
+Incrementar la apropiación digital de la ciudad de Medellín a través del uso de herramientas 
+tecnológicas que permitan conectar la oferta institucional y posibilitar el establecimiento de 
+comunidades digitales.
+Objetivos específicos 
+• Apropiar el uso de herramientas tecnológicas que permitan disminuir la brecha 
+digital de los ciudadanos.
+• Implementar	de	manera	sostenible	espacios	públicos	con	acceso	a	wifi	gratuito.	
+• Implementar y operar una plataforma de comercio electrónico para las empresas 
+y emprendedores de la ciudad de Medellín.
+• Brindar información actualizada en tiempo real como insumo para tomar 
+decisiones	orientadas	a	la	definición	de	planes	y	proyectos	en	marco	de	la	
+transformación digital.
+• Garantizar el acceso a la información y al conocimiento, a través de una 
+plataforma digital que permita dinamizar, formar y contribuir a la transformación 
+educativa	de	los	ciudadanos,	donde	confluyen	los	actores	que	generan	el	
+conocimiento y los usuarios que lo apropian.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Plan de fortalecimiento del Programa Secretaría de 
+Porcentaje NA 100
+Medellín Digital implementado. Desarrollo Económico
+Espacios públicos con acceso a wifi Secretaría de 
+Número 302 402
+gratuito. Desarrollo Económico
+Plataforma de e-commerce Compra Secretaría de 
+Porcentaje NA 100
+Local implementada. Desarrollo Económico
+Ventas generadas a través de la Millones de Secretaría de 
+NA 1.080
+plataforma Compra Local. pesos Desarrollo Económico
+Biblioteca digital de Medellín Biblioteca Pública 
+Porcentaje NA 70
+implementada: fase 1 a 3. Piloto
+2 2 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+3.1.3.  Componente. Productividad, competitividad e 
+     internacionalización
+Según la Agenda Departamental de Competitividad e Innovación de Antioquia10, las vocaciones pro-
+ductivas del departamento son cacao, café, cítricos, derivados lácteos, caucho forestal, ganadería, 
+piscicultura, aguacate y turismo. Para Medellín y el Área Metropolitana, adicional al turismo, la agenda 
+incluye territorio verde y sostenible, región inteligente, medicina avanzada y bienestar, región empren-
+dedora, industria sostenible e inclusiva, actividades creativas y culturales, agroindustria y comercio. 
+Estas	áreas	estratégicas	de	Medellín	y	el	Área	Metropolitana	fueron	definidas	en	términos	de	la	
+especialización productiva de la ciudad-región.  Por otro lado, dentro de los sectores potenciales con 
+mayor	complejidad	de	Medellín	y	Área	Metropolitana,	identificados	en	Datlas	Colombia,	se	encuentran	
+en los primeros lugares: investigación de mercados y opinión pública, pastas celulósicas, papel y cartón, 
+formas	básicas	de	caucho,	flores	cortadas,	tejidos	y	artículos	de	punto	y	ganchillo,	otros	artículos	de	
+papel y cartón y productos farmacéuticos. Los productos farmacéuticos representan, dentro de ese 
+conjunto, el sector en el que se tiene mayor ventaja comparativa revelada. 
+Teniendo como marco la Agenda de Competitividad e Innovación de Antioquia el componente de 
+productividad, competitividad e internacionalización desarrollará acciones orientadas al uso y apro-
+piación de tecnologías que promuevan el incremento de la productividad y competitividad, la interna-
+cionalización empresarial, la atracción de inversión y la gestión de cooperación, el posicionamiento 
+de Medellín como destino turístico inteligente,  la dinamización de las economías tradicionales, y la 
+financiación	e	inversión	para	cerrar	brechas	de	acceso	a	capital.		
+Objetivo
+Aumentar las capacidades productivas y competitivas de las empresas de la ciudad para avanzar 
+hacia la creación y exportación de productos de mayor complejidad y valor agregado.
+Indicadores de resultado
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Productores agroindustriales con acceso y Secretaría de 
+Porcentaje NA 50
+articulación a sistemas de información digital. Desarrollo Económico
+Empresas que accedieron a mercados interna- Secretaría de 
+cionales como resultado del acompañamiento Número NA 150
+Desarrollo Económico
+en procesos de internacionalización.
+Tabla continúa en la siguiente página...
+10 http://www.colombiacompetitiva.gov.co/snci/Agendas/Agenda-Departamental-Antioquia.pdf
+2 2 3
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Agencia de Cooperación 
+Monto de inversión nacional y extranjera Millones de e Inversión de Medellín y 
+reportada para el desarrollo y la 1.248 850
+USD el Área Metropolitana-ACI 
+competitividad. Medellín
+Agencia de Cooperación 
+Monto de cooperación técnica y financiera Millones de e Inversión de Medellín y 
+37.3 30
+nacional e internacional recibida. USD el Área Metropolitana-ACI 
+Medellín
+Empresas que al terminar su 
+acompañamiento incorporaron procesos Secretaría Desarrollo 
+Porcentaje ND 80
+estandarizados que mejoraron su Económico
+productividad.
+Densidad empresarial (Empresas por cada Tasa por Secretaría Desarrollo 
+43.1 47
+1000 habitantes). 1.000 Económico
+Mipymes que crearon o fortalecieron sus Secretaría Desarrollo 
+capacidades de innovación en sus etapas Número ND 1.800
+Económico
+de desarrollo.
+Emprendimientos que crearon o Secretaría Desarrollo 
+fortalecieron sus capacidades de Número ND 800
+Económico
+innovación en sus etapas de desarrollo.
+Capital inteligente conectado per cápita Pesos 
+618.872 906.872 Ruta N
+(acumulado) Medellín. Colombianos
+Facturación por Innovación-Valle de Porcentaje 32 33 Ruta N
+Aburrá.
+Ocupación hotelera de la ciudad Secretaría de Desarrollo 
+Porcentaje 3.3 63
+reportada. Económico
+Agencia de Cooperación 
+Monto generado por las alianzas público e Inversión de Medellín y 
+privadas y con la sociedad civil para el Millones USD 419 288.3
+el Área Metropolitana-ACI 
+desarrollo. Medellín
+Mipymes que mejoraron su competitividad Secretaría de Desarrollo 
+a partir de la adopción de procesos de Porcentaje ND 50
+Económico
+transformación digital.
+El componente Productividad, competitividad e internacionalización, aportará a las metas del 
+ODS 17, el cual busca fortalecer los medios de implementación y revitalizar la Alianza Mundial para 
+el Desarrollo Sostenible, esta contribución se monitoreará a través del indicador de la Agenda de los 
+Objetivos de Desarrollo Sostenible de la ciudad para 2030 que se relaciona a continuación:
+2 2 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+Figura 61. Alianzas para el desarrollo (Inversiones extranjeras directas (IED), cooperación recibida y cooperación 
+ofertada) como proporción del presupuesto municipal anual ejecutado, Medellín 2010-2018
+39 39 39 39 39 39 39 39 39
+19.41
+15.41 14.39
+11.18 12.32
+10.39
+8.00
+5.75 6.27
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+ Fuente: Agencia de Cooperación e Inversión de Medellín y el Área Metropolitana (ACI), 
+Secretaría de Hacienda de Medellín y Banco de la República, (2010-2018).
+Con las acciones realizadas durante el período, se espera que las alianzas para el desarrollo 
+como proporción del Presupuesto Municipal Anual Ejecutado continúen con la tendencia registrada 
+en los últimos años. 
+Programas
+3.1.3.1. Programa. Transformación digital de la economía
+Descripción 
+El programa incentiva la especialización de nuestras empresas de cara al mercado local, nacional e 
+internacional, mediante la apropiación tecnológica y de conocimientos de la Cuarta Revolución Industrial, 
+y el fortalecimiento de las capacidades de innovación con miras al incremento de la productividad y la 
+competitividad de las empresas de la ciudad.  A partir de este programa, se busca promover la auto-
+matización de procesos y la generación de nuevos modelos de negocios que permitan la integración 
+digital en diferentes eslabones de las cadenas de valor, y una respuesta en términos de adaptación 
+enfocada a la reactivación económica durante y después de la contingencia de la COVID-19. Ade-
+más,	se	creará	el	Observatorio	de	Desarrollo	Económico	con	el	fin	de	tener	información	consolidada	
+y actualizada para la toma de decisiones en el ámbito económico y empresarial.
+2 2 5
+Tercera parte. Marco programático
+Objetivo general 
+Promover y facilitar la transición del tejido empresarial de Medellín a la digitalización y automatización 
+de procesos y actividades a través de diferentes mecanismos de transferencia de conocimiento y 
+apropiación de tecnologías para la Cuarta Revolución Industrial.
+Objetivos específicos 
+• Promover y acompañar procesos de transformación digital en el tejido empresarial de 
+la ciudad de Medellín y sus cadenas de valor. 
+• Crear un observatorio de desarrollo económico de Medellín, enfocado en el análisis de 
+datos	que	permita	tomar	decisiones	basadas	en	información	confiable	y	oportuna.	
+• Ejecutar la transformación digital del Banco de los Pobres con miras a fortalecer sus 
+servicios y la interacción con los ciudadanos.
+Indicadores de producto
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Mipymes acompañadas en la adopción de Secretaría de 
+Número 259 1.281
+procesos de transformación digital. Desarrollo Económico
+Transformación digital del Banco de los Pobres Secretaría de 
+Porcentaje NA 100
+ejecutada. Desarrollo Económico
+Observatorio de Desarrollo económico creado e Secretaría de 
+Porcentaje NA 100
+implementado. Desarrollo Económico
+3.1.3.2. Programa. Internacionalización empresarial
+Descripción 
+Posicionamiento de Medellín como exportador de bienes, servicios y modelos de negocio. Lo anterior, 
+priorizando	la	ampliación	de	la	base	exportadora	de	Medellín,	la	diversificación	de	la	canasta	expor-
+tadora, y ampliación de los mercados de las empresas exportadoras actuales, además de facilitar la 
+creación de zonas francas especiales para la exportación de servicios.
+2 2 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo general 
+Posicionar a Medellín como exportador de bienes, servicios y modelos de negocio.
+Objetivos específicos
+• Promover y ejecutar estrategias tendientes a la ampliación y fortalecimiento de la base 
+exportadora de la ciudad.
+• Propiciar el acceso y posicionamiento en nuevos mercados para las empresas expor-
+tadoras actuales. 
+• Facilitar la creación de zonas francas para el Valle del Software.
+• Promover	actividades	enfocadas	en	la	diversificación	de	la	canasta	exportadora	de	
+la ciudad.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Empresas intervenidas en procesos de Secretaría de 
+Número NA 500
+internacionalización. Desarrollo Económico
+Empresas exportadoras acompañadas que Secretaría de 
+Porcentaje NA 20
+acceden a más mercados. Desarrollo Económico
+Agencia de Coope-
+Gestiones encaminadas a fortalecer la presencia ración e Inversión de 
+de zonas francas para atraer y retener la inver- Porcentaje NA 100 Medellín y el Área 
+sión extranjera directa. Metropolitana (ACI 
+Medellín)
+3.1.3.3.  Programa. Muévete a Medellín
+Descripción 
+Promover la atracción de empresas nacionales e internacionales multisectoriales, dando prioridad 
+a las que tengan alto valor agregado e intensivas en conocimiento, y consolidar alianzas de coope-
+ración internacional multi actor que impacten positivamente los proyectos prioritarios de la Alcaldía 
+de	Medellín	y	sus	aliados	estratégicos;	con	el	fin	de	fortalecer	el	ecosistema	de	ciencia,	tecnología	e	
+innovación, la generación de nuevos empleos, las cadenas de valor del tejido empresarial, la compe-
+titividad	y	eficiencia	económica,	la	calidad	de	vida	de	los	habitantes	del	territorio	y	el	posicionamiento	
+de la ciudad como destino de inversión y cooperación. 
+2 2 7
+Tercera parte. Marco programático
+Objetivo general 
+Contribuir al desarrollo económico y social de Medellín a través de la internacionalización orientada 
+a la atracción de inversión y la gestión de cooperación.
+Objetivos específicos 
+• Atraer inversión nacional y extranjera para el desarrollo y la competitividad. 
+• Captar	cooperación	técnica	y	financiera	nacional	e	internacional.
+• Promocionar a Medellín como destino de inversión. 
+• Fortalecer la red de antioqueños en el exterior (Sos Paisa).
+• Posicionar a Medellín como oferente de cooperación.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Agencia de Coope-
+Nuevas inversiones y reinversiones nacionales ración e Inversión de 
+y extranjeras realizadas para el desarrollo y la Número 118 90 Medellín y el Área 
+competitividad. Metropolitana (ACI 
+Medellín)
+Agencia de Coope-
+ración e Inversión de 
+Eventos ¿Por qué Medellín? realizados con em- Número 29 20 Medellín y el Área 
+presarios nacionales y/o internacionales. Metropolitana (ACI 
+Medellín)
+Agencia de Coope-
+Aportes de paisas en el exterior, que contri- ración e Inversión de 
+buyan al fortalecimiento de las apuestas de Número 57 40 Medellín y el Área 
+desarrollo local. Metropolitana (ACI 
+Medellín)
+Agencia de Coope-
+ración e Inversión de 
+Acciones de cooperación sur-sur en las cuales Número 25 26 Medellín y el Área 
+Medellín comparte sus buenas prácticas. Metropolitana (ACI 
+Medellín)
+Agencia de Coope-
+ración e Inversión de 
+Proyectos impactados por las acciones de coo- Número 81 75 Medellín y el Área 
+peración para la ciudad y su área de influencia. Metropolitana (ACI 
+Medellín)
+2 2 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+3.1.3.4.  Programa. Reactivación y transformación del sector 
+     turístico Post-COVID-19
+Descripción 
+Analizar	las	condiciones	económicas	del	sector	y	su	afectación	post-COVID-19	con	el	fin	de	impulsar	
+su recuperación y reapertura de forma progresiva y alineada a las diferentes directrices de los orga-
+nismos de salud y de la Política Turística de la ciudad establecida en los Acuerdos 20 del 2015 y 054 
+de 2017, mediante la implementación de estrategias de inteligencia turística, fortalecimiento empre-
+sarial, desarrollo de capacidades productivas, diseño de nuevos productos turísticos, adopción de 
+buenas prácticas de seguridad e higiene, mercadeo de ciudad y desarrollo tecnológico que permitan 
+recuperar	la	confianza	de	los	habitantes,	empresarios	del	sector	y	turistas	e	incentivar	el	turismo	a	
+nivel local, regional, nacional e internacional.
+Objetivo general 
+Promover la reactivación económica del sector turístico a través de la transformación y el fortalecimiento 
+empresarial bajo metodologías de inteligencia turística que permitan la recuperación y desarrollo del 
+sector, basado en los ejes de: sostenibilidad, innovación, accesibilidad, gobernanza, infraestructura 
+turística y tecnologías, que contribuyan a mejorar la experiencia del visitante y la calidad de vida de 
+los habitantes de Medellín.
+Objetivos específicos 
+• Impulsar la recuperación económica del sector turístico mediante estrategias de cultu-
+ra turística, fomento del turismo doméstico, generación de marca y acceso a merca-
+dos nacionales e internacionales para la reactivación de los diferentes segmentos del 
+turismo (MICE y vacacional) en la ciudad de Medellín.
+• Contribuir a la recuperación de Medellín como un destino turístico competitivo a nivel 
+nacional e internacional, mediante la creación de un fondo de fomento a la industria 
+turística	y		la	revisión,	priorización	e	implementación	de	las	acciones	definidas	en	
+el Plan Estratégico de Turismo 2018-2024 como son el fortalecimiento empresarial, 
+cualificación	del	talento	humano,	adecuación	y	mejoramiento	de	la	infraestructura	
+turística y la implementación de procesos y herramientas de inteligencia turística.
+• Dinamizar la economía del sector a través de las dinámicas de negocios, inversión, 
+comercio, cultura y turismo en el escenario regional, nacional e internacional, con el 
+fin	de	contribuir	a	la	generación	de	empleo	y,	con	ello,	al	desarrollo	económico	y	a	la	
+competitividad. 
+• Fortalecer la economía del sector a través del desarrollo de herramientas tecnológicas 
+modernas e innovadoras en infraestructura y servicios asociados al turismo MICE, 
+2 2 9
+Tercera parte. Marco programático
+con	el	fin	de	contribuir	a	la	generación	de	empleo,	competitividad	y	desarrollo	econó-
+mico de la ciudad-región.
+• Fortalecer los emprendimientos turísticos comunitarios de Medellín y los cinco corre-
+gimientos	con	el	fin	de	diversificar	y	complementar	la	oferta	actual	de	turismo	MICE	
+y	desconcentrar	y	direccionar	los	flujos	de	turismo	hacia	otros	sectores	de	la	ciudad,	
+aprovechando el potencial del municipio en turismo de naturaleza y cultural con atrac-
+tivos como la cultura silletera, las rutas de senderismo, la oferta agrícola, el arte y la 
+cultura urbana y los procesos de memoria y transformación social.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Secretaría de 
+Unidad de inteligencia turística constituida. Porcentaje NA 100
+Desarrollo Económico
+Empresas de la cadena de valor del turismo Secretaría de 
+Número NA 1.000
+acompañadas en sus procesos de gestión. Desarrollo Económico
+Portal transaccional del sector turístico Secretaría de Desa-
+Número 0 1
+implementado. rrollo Económico
+Actualización operativa tecnológica de Plaza Porcentaje NA 100 Plaza Mayor
+Mayor lograda.
+Empleados del turismo beneficiados con Secretaría de 
+recursos del fondo de fomento a la industria Número NA 4.894
+Desarrollo Económico
+turística.
+Estímulos otorgados con recursos del fondo de Secretaría de 
+Número NA 90
+fomento a la industria turística. Desarrollo Económico
+3.1.3.5.  Programa. Dinamización economías tradicionales
+Descripción 
+Promover las condiciones para incentivar, crear y fortalecer en la ciudad modelos de negocios sos-
+tenibles en aras de propender por la reactivación económica y el acceso a mercados, durante y des-
+pués de la contingencia del COVID-19, a través de servicios especializados que eleven su capacidad 
+2 3 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+productiva, mediante la generación de espacios de articulación e integración con los diferentes 
+actores del ecosistema de la región.
+Este programa es de vital importancia para la adaptación a las nuevas condiciones de mercado, 
+y	para	crear	mecanismos	de	identificación	y	difusión	de	nuevas	oportunidades	de	negocio	con	
+alto potencial de crecimiento, para que sean apropiados por emprendedores y/o empresarios de 
+la ciudad, dado que a partir de este tejido empresarial se contribuye a la generación de empleo, 
+el cumplimiento de los Objetivos de Desarrollo Sostenible y la dinamización de nuestra economía.
+Objetivo general 
+Potenciar la dinámica económica a través de la integración empresarial existente y el fomento 
+de la creación de nuevas empresas y espacios propicios para la comercialización de productos 
+y servicios, incluyendo iniciativas del sector tradicional, del sector social y solidario, y de nego-
+cios con potencial de crecimiento y diferenciación, que aporten al aumento de la productividad 
+y creación de valor.
+Objetivos específicos 
+• Promover la optimización de procesos de producción para emprendedores 
+y empresas tradicionales de manera que desarrollen ventajas competitivas 
+sostenibles. 
+• Promover conexiones entre oferentes y demandantes para acceder al mercado 
+local, regional y nacional. 
+• Crear e implementar el Distrito de la Diversidad.
+• Promover en el ámbito escolar, familiar y social, la cultura de la cooperación 
+y la solidaridad, como principio de vida y de convivencia social, lo cual debe 
+promoverse con acciones pedagógicas desde la educación.
+• Potencializar	la	sostenibilidad	institucional,	organizacional	y	financiera	de	las	
+empresas, proyectos e iniciativas del sector social y solidario a través de la 
+implementación del Plan Decenal de Economía Social y Solidaria.
+• Implementar nuevos modelos de producción agrícola en los corregimientos de 
+Medellín y fortalecer la vocación productiva con transferencia tecnológica donde 
+se pueda transversalizar CTI+E en producción de alimentos y comercialización.
+• Fomentar la cultura emprendedora de la ciudad y la creación, aceleración, y 
+expansión de emprendimientos y empresas, cuyo modelo de negocio tenga 
+potencial de crecimiento, mediante el acompañamiento integral y especializado; 
+con	el	fin	del	fortalecimiento	de	sus	procesos	de	innovación	y	el	mejoramiento	de	
+la productividad, rentabilidad, escalabilidad y sostenibilidad en el tiempo.
+2 31
+Tercera parte. Marco programático
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Empresas creadas en economía social y Secretaría Desarrollo 
+Número ND 40
+solidaria. Económico
+Emprendimientos acompañados para el Secretaría Desarrollo 
+mejoramiento de su capacidad empresarial, a Número 2.183 4.000
+Económico
+través de los CEDEZO.
+Ruedas de negocio realizadas, virtuales y/o Secretaría Desarrollo 
+presenciales, en el marco de la estrategia de Número 17 20
+Económico
+acceso a mercados.
+Emprendedores y empresas vinculadas a Secretaría Desarrollo 
+Número 160 200
+iniciativas de acceso a mercados. Económico
+ría Desarrollo 
+Distrito de la Diversidad creado e implementado. Porcentaje Secreta
+NA 100
+Económico
+Venteros informales sensibilizados con acciones Secretaría de 
+Número ND 2.500
+de formalización empresarial. Desarrollo Económico
+Estrategia de fortalecimiento de Secretaría Desarrollo 
+emprendimientos tradicionales y territoriales Porcentaje NA 100
+Económico
+formulada e implementada.
+Política Pública de Lavaderos Informales Secretaría Desarrollo 
+Porcentaje 0 100
+actualizada. Económico
+Avance en la reforma de la Plaza José María Porcentaje ND 80 Gerencia del Centro
+Villa-Minorista.
+Diseños para la modernización y reforma de la Porcentaje 0 100 Gerencia del Centro
+Placita de Flores.
+3.1.3.6.  Programa. Financiación e inversión para el desarrollo y la  
+     innovación
+Descripción 
+Promover	el	acceso	a	la	financiación	y	a	la	inversión	inclusiva	y	sostenible	que	sirva	como	motor	de	
+desarrollo, aumento de la productividad, competitividad e innovación de las empresas y emprende-
+dores del municipio de Medellín.
+2 3 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo general 
+Diseñar,	gestionar	y	consolidar	mecanismos	de	financiación	e	inversión	para	cerrar	brechas	de	ac-
+ceso a capital. 
+Objetivos específicos 
+• Desarrollar	e	impulsar	mecanismos	de	financiación	e	inversión	para	el	tejido	empresa-
+rial de Medellín. 
+• Atraer capital para el desarrollo de negocios a través de la creación de nuevos vehícu-
+los de inversión. 
+• Incentivar	la	participación	del	sector	financiero	en	el	desarrollo	de	líneas	de	crédito	
+para emprendimiento. 
+• Atraer y fomentar la creación de empresas Fintech en la ciudad para el cierre de bre-
+chas	de	financiación.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Ruedas de negocio de inversión para mipymes Secretaría de 
+Número NA 4
+con alto potencial de crecimiento realizadas. Desarrollo Económico
+Nuevas líneas de crédito implementadas por el Secretaría de 
+Número NA 4
+Banco de los Pobres. Desarrollo Económico
+Créditos otorgados por el Banco de los Pobres a Secretaría de Desa-
+Número 10.995 12.095
+micro y pequeñas empresas. rrollo Económico
+Créditos otorgados por el Banco de los Secretaría de 
+Pobres a madres cabeza de familia en la línea Número NA 1.500
+Desarrollo Económico
+microcrédito individual.
+Fondo de Capital Privado (FCP) en Ciencia Ruta N, Secretaría de 
+Número 1 1
+Tecnología e Innovación (CT+I) creado. Desarrollo Económico
+Gestión del Banco de los Pobres para la 
+cobertura a pequeñas y medianas empresas Secretaría de 
+Porcentaje NA 100
+de garantías crediticias hasta del 90 % entre el Hacienda
+Fondo de Garantías de Antioquia.
+2 3 3
+Tercera parte. Marco programático
+3.1.4. Componente. Información, datos y generación de 
+    valor público
+La información y los datos son un factor clave para la toma de decisiones idónea y oportuna 
+en la gestión pública.  La cultura del uso de la Información y los datos abiertos promueven dos 
+asuntos básicos en materia de Gobernanza y Gobernabilidad. El primero, es la focalización de 
+la	acción	pública	que	permite	dirigir	de	manera	eficiente	los	recursos	y	la	energía	de	los	go-
+bernantes	para	cerrar	brechas;	se	trata	de	ahorrar	esfuerzos	mediante	la	identificación	de	los	
+beneficiarios	que	realmente	necesitan	el	apoyo	estatal.	El	segundo,	asunto	es	la	participación	
+ciudadana, en tanto los ciudadanos pueden usar e interactuar con sus gobernantes y conocer de 
+primera mano los resultados de las decisiones de gobierno; esa interacción de los ciudadanos 
+promueve la transparencia porque existe escrutinio público de las acciones que realizan con las 
+políticas públicas.  Estos dos asuntos básicos, focalización de la acción pública y participación 
+ciudadana, abren la posibilidad de lograr un gobierno cercano a la gente, transparente en su 
+gestión, ágil para la toma de decisiones y que hace un uso racional de los recursos en tanto 
+sus decisiones están focalizadas en los problemas reales de la ciudad. 
+Los Objetivos de Desarrollo Sostenible 2030 abogan por el fortalecimiento institucional 
+para la recolección e integración de datos que permitan medir mejor los progresos realizados 
+en los territorios (Resolución ODS, 2015: 15). Su indicador 16.10 busca garantizar el acceso 
+público a la información a la par que protege las libertades y la privacidad. En el indicador 
+17.18 propone para el 2030 aumentar significativamente la disponibilidad de datos oportu-
+nos, fiables y de gran calidad, desglosados por ingresos, sexo, edad, raza, origen étnico, 
+estatus migratorio, discapacidad, ubicación geográfica y otras características pertinentes 
+en los contextos nacionales. Dicha directriz internacional implica una ruta de acción pública 
+para lograr alcanzar los ODS 2030, con la cultura del dato justo y abierto como instrumento 
+para lograr un futuro sostenible. 
+La iniciativa de Ciudad inteligente busca introducir una mirada holística del territorio y a 
+partir	de	un	uso	intensivo	de	las	TIC,	lograr	una	gestión	más	eficiente	y	efectiva	de	todos	sus	
+procesos	con	el	propósito	del	beneficio	común	y	de	mejorar	la	calidad	de	vida	de	los	ciudadanos.	
+La mayoría de acciones y proyectos que se desarrollen en el contexto de ciudad inteligente 
+tendrán como insumo primario información oportuna y veraz del territorio, sobre cada uno de 
+los problemas de ciudad que se pretendan resolver: pobreza extrema, atención integral para 
+las	familias	más	vulnerables,	seguridad	ciudadana,	dificultades	en	movilidad,	control	ambiental,	
+crecimiento sostenible, entre otros.  
+El propósito central del componente de información, datos y generación de valor público es 
+el	de	afianzar	en	la	ciudad	la	cultura	de	los	datos	como	activo	precioso	que	puede	ser	usado	en	
+casi todas las actividades de la gestión pública y privada y como fuente generadora de valor.
+2 3 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivos
+• Desarrollar iniciativas orientadas a modernizar y mejorar la gestión pública, habilitar 
+la toma de decisiones de la Administración con información disponible, integrada y 
+confiable,	así	como	habilitar	nuevos	mecanismos	de	participación	ciudadana.	
+• Sentar las bases de ciudad para el desarrollo de Medellín como territorio Inteligen-
+te que apuntale las iniciativas de Ecociudad, Medellín Me Cuida y la Transformación 
+Educativa y Cultural,	dentro	de	los	propósitos	de	lograr	el	beneficio	común	y	mejorar	la	
+calidad de vida de sus ciudadanos.
+Indicadores de resultado
+Unidad Meta 
+Indicadores de producto Línea base Responsable Corresponsable
+de medida 2020-2023
+Secretaría 
+Satisfacción de los de Gestión 
+ciudadanos en el uso de Secretaría de 
+Porcentaje 50 80 Humana y 
+los servicios digitales Hacienda
+Servicio a la 
+disponibles. Ciudadanía
+Cobertura de servicios Secretaría 
+de conectividad de de Gestión 
+alta velocidad en el Porcentaje NA 70 Humana y 
+municipio de Medellín a Servicio a la 
+través de red neutra. Ciudadanía
+Iniciativas 
+implementadas usando Secretaría 
+analíticas a partir del de Gestión Departamento 
+lago de datos para Número 1 15 Humana y Administrativo de 
+el aprovechamiento Servicio a la Planeación
+en la entidad y el Ciudadanía
+conglomerado público.
+El componente Información, datos y generación de valor público dado que es una de las principales 
+apuestas del Plan Medellín Futuro, aportará también a las metas del ODS 9, esta contribución se mo-
+nitoreará a través del indicador de la Agenda de los Objetivos de Desarrollo Sostenible de la ciudad 
+para el 2030 que se relaciona a continuación:
+2 3 5
+Tercera parte. Marco programático
+Figura 62. Hogares con conexión a internet, Medellín 2010-2018
+100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+62.07 64.89
+54.60 56.56 60.39
+54.10
+45.20 48.62
+37.39
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+Porcentaje Meta 2030
+ Fuente: Encuesta de Calidad de Vida (ECV), Alcaldía de Medellín, (2019). 
+Con	relación	a	este	indicador,	se	espera	que	al	finalizar	el	gobierno	más	del	70	%	de	los	hogares	
+tengan conexión a internet.
+Programas
+3.1.4.1. Programa. Gobierno digital
+Descripción 
+Implementar	la	política	de	gobierno	digital	en	términos	de	servicios	y	trámites	digitales	de	confianza,	
+procesos	internos	seguros	y	eficientes,	toma	de	decisiones	basada	en	datos,	empoderamiento	de	
+los ciudadanos a través de datos y territorios inteligentes; todo lo anterior articulado con las políticas 
+de seguridad digital y gestión documental, y habilitado por procesos de innovación organizacional y 
+apropiación, así como el desarrollo de una arquitectura tecnológica fortalecida en sistemas de infor-
+mación, información y servicios de TI. 
+Entre	sus	propósitos	estará	avanzar	en	la	simplificación	de	trámites	para	el	ciudadano	y	de	avan-
+zar hacia la materialización de la política de cero papel, y el incentivar la participación ciudadana. 
+También será su propósito el diseño de una arquitectura empresarial para la Administración Municipal 
+que alinee sus propósitos misionales con la estrategia tecnológica.
+2 3 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+Objetivo general 
+Mejorar la satisfacción de los ciudadanos frente al uso de los servicios digitales suministrados por 
+el Municipio de Medellín.
+Objetivos específicos 
+• Garantizar el acceso a la información y al conocimiento, a través de una plataforma 
+digital que permita dinamizar, formar y contribuir a la transformación educativa 
+y cultural	de	los	ciudadanos,	donde	confluyen	los	actores	que	generan	el	
+conocimiento y los usuarios que lo apropian.
+• Apropiar el uso de herramientas tecnológicas que permitan disminuir la brecha 
+digital de los ciudadanos.
+• Optimizar los procesos y servicios digitales internos y externos para la satisfacción 
+de las partes interesadas, a través de las tecnologías de la Cuarta Revolución 
+Industrial. 
+• Desarrollar un plan de transformación digital que permita la implementación de 
+soluciones digitales para la mejora continua del proceso de Hacienda Pública 
+desde	la	gestión	de	los	recursos	públicos,	el	recaudo	y	la	fiscalización.
+• Implementar y operar una plataforma de comercio electrónico para las empresas de 
+la ciudad de Medellín.
+Indicadores de producto
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Secretaría Gestión 
+Procesos y servicios digitales internos y Porcentaje ND 50 Humana y Servicio a 
+externos para satisfacer las partes interesadas. la Ciudadanía
+Uso y apropiación de servicios digitales por Secretaría Gestión 
+parte de los servidores públicos, contratistas y Porcentaje 0 50 Humana y Servicio a 
+ciudadanos en general. la Ciudadanía
+Secretaría de 
+Hacienda
+Plan de transformación digital de Hacienda Porcentaje NA 70 Secretaría Gestión 
+Pública implementado. Humana y Servicio a 
+la Ciudadanía
+2 3 7
+Tercera parte. Marco programático
+3.1.4.2.  Programa. Ciudad inteligente
+Descripción
+Fomentar las acciones encaminadas a mejorar la infraestructura de conectividad de la ciudad, que 
+favorezca la interconexión de diferentes actores públicos del municipio de Medellín, potencialice el 
+desarrollo de las estrategias de Valle del Software y propenda por la ampliación de la cobertura y equidad 
+en el acceso a los servicios de internet acordes con las condiciones socioeconómicas de la población.
+Objetivo general 
+Construir	una	red	de	fibra	óptica	que	cubra	en	gran	parte	el	territorio	de	la	ciudad	de	Medellín	y	que	
+permita llegar a menos de 50 metros del punto de conexión de cada abonado al servicio, implemen-
+tando	así	una	red	de	fibra	neutra.
+Objetivos específicos 
+•  Interconectar las entidades del conglomerado público de Medellín a la infraestructura 
+de	red	de	fibra	neutra	para	mejorar	la	interacción	entre	ciudadanía	y	Estado.
+•  Potencializar el desarrollo de las estrategias de Valle del Software y Distrito de Innova-
+ción desde la capacidad de acceso a internet con velocidades de conectividad altas y 
+simétricas.
+•  Prestar los servicios de infraestructura física requeridos para la conectividad entre los 
+prestadores	de	servicios	de	internet	y	los	usuarios	finales	a	través	de	la	red	neutra.	
+•  Habilitar el acceso a los servicios de internet de forma equitativa para la población, con 
+costos	diferenciales	para	los	usuarios	finales	acorde	a	la	estratificación	de	los	hogares.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Secretaría Gestión 
+Índice de empresas suscriptoras con acceso a Porcentaje ND 15 Humana y Servicio a 
+los servicios de la red neutra. la Ciudadanía
+Secretaría Gestión 
+Índice de hogares suscriptores con acceso a los Porcentaje NA 70 Humana y Servicio a 
+servicios de la red neutra. la Ciudadanía
+Secretaría Gestión 
+Plan Maestro de Ciudad Inteligente formulado. Número NA 1 Humana y Servicio a 
+la Ciudadanía
+2 3 8
+Plan de Desarrollo Medellín Futuro 2020-2023
+3.1.4.3.  Programa. Gobernanza de datos
+Descripción  
+Fomentará políticas e iniciativas que permitan una mayor integración de la información de las dife-
+rentes dependencias y del conglomerado público; igualmente, fomentará el uso de estándares en el 
+manejo de la información y la conformación de comités de calidad de los datos. Por último, el programa 
+impulsará el desarrollo de mecanismos que garanticen la interoperabilidad y el intercambio de datos 
+entre las dependencias de la Administración Municipal y con el conglomerado público.  
+Objetivo general 
+Implementar una estrategia de gobernanza de datos que permita la integración de grandes volúmenes 
+y diversas fuentes de datos que se encuentran en diferentes sistemas y tecnologías de almacena-
+miento,	con	el	fin	de	proveer	una	visión	unificada	para	facilitar	el	aprovechamiento	de	la	información	
+generando	valor	público	en	el	marco	de	un	gobierno	eficiente	y	abierto.
+Objetivos específicos 
+• 	 Definir	lineamientos	técnicos,	protocolos	y	estándares,	que	se	constituyan	en	políticas	para	
+la interoperabilidad de los diferentes actores de ciudad, que tiene como objetivo mejorar el 
+funcionamiento de las entidades públicas y su relacionamiento con otras entidades. 
+•  Contribuir a la creación de productos y/o servicios para los ciudadanos mediante el 
+uso de los datos, promoviendo la generación de innovaciones que contribuyan en 
+soluciones a problemáticas de interés común.
+• 	 Identificar	las	estructuras	de	datos	en	las	fuentes	de	origen	para	posibilitar	la	integra-
+ción de la información.
+•  Desarrollar las capacidades del recurso humano para la integración de los datos.
+•  Establecer acuerdos de interoperabilidad con los diferentes actores de ciudad.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Secretaría de Gestión Humana 
+Retos de innovación implementados y Servicio a la Ciudadanía
+Número 3 11
+usando datos. Departamento Administrativo 
+de Planeación
+Secretaría de Gestión Humana 
+Conjunto de Datos abiertos publicados y Servicio a la Ciudadanía
+Número 373 600
+para uso de la ciudadanía. Departamento Administrativo 
+de Planeación
+2 3 9
+Tercera parte. Marco programático
+3.1.5.  Componente. Inglés para Valle del Software
+Las limitaciones bien conocidas que tenemos en formación en segunda lengua y en todos los niveles 
+educativos, permite establecer que la lengua extranjera debe hacer parte integral y transversal de 
+todos los currículos; pero que su inclusión debe trascender el esquema simple de agregar cursos 
+de	inglés	dentro	de	los	planes	de	estudio,	para	configurar	procesos	de	enseñanza-aprendizaje	que	
+involucran la lengua extranjera en múltiples ambientes de aprendizaje.  
+De la misma manera que en el componente de talento humano y empleo, en este componente se 
+requieren de estrategias de corto, mediano y largo plazo. Por tal motivo, se desarrollarán programas 
+dirigidos a docentes y estudiantes de la educación básica para consolidar la red de maestros y maestras 
+en lenguas extranjeras y garantizar la iniciación del bilingüismo desde la primera infancia.  Aportando 
+así, al desarrollo de habilidades en segunda lengua para el talento humano que es requerido en toda 
+la actividad económica derivada de la línea Reactivación Económica y Valle del Software.
+Objetivo
+Fortalecer los procesos de enseñanza y aprendizaje del inglés como lengua extranjera mediante el 
+reconocimiento de la interculturalidad que habita en la ciudad y en el mundo.
+Indicadores de resultado
+Unidad Meta 
+Indicadores de resultado Línea base Responsable
+de medida 2020-2023
+Estudiantes de instituciones oficiales 
+que logran clasificación de B1 y B+ en Porcentaje 7.78 9.60 Secretaría de Educación
+inglés en Saber 11.
+Programas
+3.1.5.1.  Programa. Semilla bilingüe para Valle del Software
+Descripción 
+Comunicarse en una lengua extranjera es una habilidad indispensable en el mundo de hoy, repre-
+senta, para las personas, para la ciudad, una ventaja comparativa, un atributo de su competencia y 
+competitividad. Lo anterior, no sólo hace posible la movilidad académica y laboral de las personas; 
+2 4 0
+Plan de Desarrollo Medellín Futuro 2020-2023
+es una de las bases sobre las cuales se construye la capacidad competitiva de una sociedad y una 
+herramienta para alcanzar nuevos conocimientos, abrirse a nuevas culturas y nuevas experiencias. 
+A	partir	de	lo	anterior,	se	diseñarán	e	implementarán	diferentes	estrategias	enfocadas	en	beneficiar	
+establecimientos educativos públicos de Medellín, sus estudiantes y maestros, de tal manera que se 
+puedan mejorar y fortalecer no solo las competencias comunicativas sino también aportar al fortale-
+cimiento curricular y la construcción de ambientes que favorezcan la enseñanza y el aprendizaje del 
+inglés para el futuro.
+Objetivo general 
+Fortalecer procesos de enseñanza y aprendizaje de lengua extranjera de estudiantes y docentes de 
+establecimientos educativos públicos de Medellín.
+Objetivos específicos 
+• Afianzar	la	competencia	comunicativa	en	inglés	de	docentes	de	establecimientos	edu-
+cativos públicos de Medellín. 
+• Fortalecer las prácticas pedagógicas, didácticas y curriculares de docentes de estable-
+cimientos educativos públicos de Medellín. 
+• Mejorar la competencia comunicativa en inglés de estudiantes de establecimientos 
+educativos públicos de Medellín. 
+• Fortalecer la formación en inglés de estudiantes de la media técnica con miras a favo-
+recer su inserción al mercado laboral y la consolidación de la ciudad como un Valle del 
+Software.
+• Contribuir al fortalecimiento curricular y la construcción de entornos que favorezcan la 
+enseñanza y el aprendizaje del inglés.
+Indicadores de producto 
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Docentes de inglés de instituciones educativas Secretaría de 
+oficiales clasificados en inglés B2 o superior Porcentaje NA 40
+Educación
+según Marco Común Europeo.
+Docentes de instituciones educativas oficiales Secretaría de 
+participantes en programas de formación o Número 510 2.044
+Educación
+reentrenamiento en inglés.
+Tabla continúa en la siguiente página...
+2 41
+Tercera parte. Marco programático
+Unidad Meta 
+Indicadores de producto Línea base Responsable
+de medida 2020-2023
+Instituciones educativas oficiales acompañadas Secretaría de 
+con programas de fortalecimiento de Número 24 100
+Educación
+ambientes de aprendizaje de inglés.
+Personas formadas en un segundo idioma para Secretaría de 
+Número 836 70.000
+el trabajo. Desarrollo Económico
+Instituciones educativas oficiales con media Secretaría de 
+técnica acompañadas con programas de Porcentaje NA 70
+Educación
+fortalecimiento del inglés.
+Estudiantes de educación inicial, preescolar, 
+básica y media de instituciones oficiales en Secretaría de 
+Número NA 10.000
+programas de sensibilización y fortalecimiento Educación
+del inglés.
+Aporte del Plan de Desarrollo Municipal Medellín Futuro 2020-2023 a la generación de 
+empleo de choque
+En materia de mercado laboral para la ciudad de Medellín se observa que entre 2018 y 2019 la tasa 
+de desempleo subió 0.5 %, alcanzando así una tasa del 12.2 %, mientras que la tasa de ocupación 
+disminuyó en 0.9 % pasando del 57.7 % en 2018 al 56.8 % en el 2019. Las cifras de empleo por 
+sexo para el 2019 muestran que los hombres presentaron una tasa de desempleo del 10.6 % y las 
+mujeres una del 14.1 %. Para el caso de los jóvenes las cifras muestran que la tasa de desempleo 
+fue del 19.2 % mientras que la de ocupación fue del 51.8 %. (DANE-Gran Encuesta Integrada de 
+Hogares-GEIH, 2019). 
+Las cifras anteriores resaltan la brecha creciente que existe entre hombres y mujeres en materia 
+de empleo y dejan en evidencia el gran reto que se tiene en materia de ocupación juvenil, puesto 
+que la cifra de desempleo para este rango de edad presenta una tendencia relativamente creciente a 
+través de los años, tendiendo a ser estructural y donde la dinámica educativa y de formación juegan 
+un papel determinante. En materia de ocupados el 40.7 % de estos se encuentran en la Industria 
+manufacturera	y	el	sector	comercio,	lo	que	pone	de	manifiesto	la	necesidad	que	se	tiene	en	la	ciudad	
+de	potencializar	otros	sectores	de	la	economía,	diversificar	la	producción	y	la	prestación	de	servicios	
+para favorecer la productividad, la competitividad y el desarrollo económico local. 
+Estas cifras sobre la situación del mercado laboral permiten evidenciar la gran tarea que se debe 
+realizar en materia de generación de empleo en la ciudad, en especial para las mujeres y la pobla-
+2 4 2
+Plan de Desarrollo Medellín Futuro 2020-2023
+ción joven; situación que con la crisis económica y social ocasionada por el COVID-19 a raíz de la 
+parálisis de diferentes sectores económicos, producto del aislamiento obligatorio, está exacerbando 
+la problemática del desempleo y que implican retos grandes para la Administración Municipal en 
+materia de generación de empleo de choque que permita palear los efectos negativos que sobre la 
+economía y la calidad de vida de los habitantes de Medellín. 
+Según el DANE-GEIH, en materia de informalidad en Medellín y su Área Metropolitana del total 
+de los ocupados existentes a 2019 el 58.4 % eran ocupados formales mientras que el 41.6 % res-
+tantes se encontraban ocupados de manera informal, estas cifras generan una alarma a la hora de 
+atender	la	crisis	puesto	que	producto	del	confinamiento	decretado	por	el	Gobierno	Nacional	casi	
+la mitad de los ocupados de la ciudad de Medellín podrían no estar recibiendo ingresos por activi-
+dades laborales, lo que en el corto plazo tendría fuertes repercusiones sobre la calidad de vida de 
+las familias y conduciría a aumentar el porcentaje de población en pobreza o pobreza extrema en 
+la ciudad. Según cifras del DANE, para el caso de Medellín y su Área Metropolitana el 66.8 % de la 
+población empleada se concentra en actividades fuertemente afectadas por las medidas: comercio 
+con el 28.7 % del total de ocupados; industrias manufactureras, 18.2 %, actividades inmobiliarias, 
+empresariales y de alquiler con el 11.7 % y construcción con el 8.2 %.
+A nivel de comuna utilizando información de la GEIH para Medellín de 2017, la tasa de ocupación 
+en Medellín, presenta los menores números en las comunas de Doce de Octubre en el noroccidente 
+y Santa Cruz, Popular, Manrique y Villa Hermosa hacia el nororiente. Esto coincide con el análisis 
+desde el punto de vista del desempleo, ya que los indicadores más precarios los presentan estas 
+mismas comunas. Por su parte, en materia de informalidad se presentan mayores niveles en Aran-
+juez, Santa Cruz, Popular, Manrique y Villahermosa en el nororiente de la ciudad y en San Javier.
+Teniendo claro este panorama el Plan de Desarrollo Municipal Medellín Futuro 2020-2023 tiene 
+el gran reto a través de sus diferentes componentes, programas y proyectos de generar estrategias 
+que permitan salirle al paso al incremento del desempleo y que alivien la problemática social en las 
+comunas y corregimientos. Lo que se busca es que los diferentes programas contemplados en el 
+Plan posibiliten la generación de empleos formales que dinamicen diferentes sectores económicos y 
+sociales y que sumados a las ayudas a la población más vulnerables repercutan de manera directa 
+en la calidad de vida de la población.
+Este Plan de generación de empleo de choque busca a través de las diferentes obras de in-
+fraestructura física, de los desarrollos constructivos en el sector vivienda y de las diferentes obras 
+contempladas en el Plan de Desarrollo la generación de empleo transitorio, busca también en su 
+componente de talento humano y empleo, el desarrollo de programas de capacitación en habilidades 
+y conocimientos demandados por las industrias 4.0, así como planes de formación y reentrenamiento 
+que respondan a las necesidad actuales del mercado y que generen competencias laborales en 
+sectores tradicionales.
+2 4 3
+Tercera parte. Marco programático
+A través del componente de Jóvenes busca mejorar las condiciones de vida de los mismos, 
+mediante la formación y habilitación para el trabajo, la inserción laboral y el emprendimiento juvenil 
+y mediante el componente de Mujeres con sus programas y proyectos busca cerrar las brechas 
+para posibilitar no sólo en el acceso a programas de educación superior, sino también la inserción 
+al mercado laboral y la generación de empleo. Dando así una respuesta que debe ser rápida e 
+integral al problema del desempleo en la ciudad y sus principales causas.
+Revisando el grado de incidencia que tienen los diferentes programas y acciones del Plan 
+de Desarrollo Municipal Medellín Futuro 2020-2023 en materia de reactivación económica y la 
+reconstrucción social de la ciudad, para dar respuesta a los efectos generados por la COVID-19, 
+se puede resaltar que cerca de una tercera parte de los proyectos contemplados, tienen una alta 
+incidencia a la hora de dar respuesta a los impactos generados por la crisis, siendo las líneas de 
+Reactivación Económica y Valle del Software, Ecociudad y Medellín Me Cuida donde más se concen-
+tran estos esfuerzos. Estás tres líneas tienen, por tanto, una alta incidencia en la recuperación 
+de la ciudad pues a través de sus diferentes programas y proyectos se puede generar empleo 
+de carácter masivo, mediante esfuerzos que, si bien son liderados por toda la Administración 
+Municipal, tienen como principales promotores a las secretarías de Desarrollo Económico, In-
+fraestructura Física y Salud.
+Es así como mediante los diferentes programas de la línea de Reactivación Económica y Valle 
+del Software en especial los de Inserción laboral, Centros de Valle del Software, Emprendimientos 
+4.0, Economía Creativa, Muévete a Medellín y Medellín destino inteligente, se busca la generación 
+de 39.000 empleos aproximadamente, en áreas asociadas especialmente a la economía digital y 
+a la Cuarta Revolución Industrial. Además del apoyo a 2.000 emprendimientos y 2.100 empresas 
+para que creen o mejoren su capacidad de innovación.
+En materia de políticas de empleo se reconoce el impacto directo que tienen las obras públicas 
+sobre el ciclo económico, impacto que se materializa básicamente en la generación de empleo, 
+tanto formal a través de las empresas constructoras, contratistas y subcontratistas de obras com-
+plementarias	o	afines;	como	en	empleo	informal.	Aunado,	a	sus	repercusiones	de	forma	indirecta	
+en la generación de empleo en empresas proveedoras de productos e insumos para el sector y 
+en las economías locales y próximas. Es por esto que el Plan Medellín Futuro contempla diferentes 
+obras de infraestructura física para la ciudad que se constituirán en una gran fuente de empleo y 
+que permitirán mitigar los efectos ocasionados por la crisis; se resaltan grandes proyectos como 
+la construcción del Metro de la 80, que en su pico máximo puede generar 2.100 empleos directos, 
+sin contar la generación de empleos indirectos, este es el proyecto de infraestructura más grande 
+del presente siglo en Medellín e implicará una inversión de $3.6 billones en el territorio, lo que 
+permitirá potenciar la economía, además impactará cerca de un millón de ciudadanos y posibilitará 
+la movilización de 60 millones de pasajeros anuales, reduciendo 37 mil toneladas de CO2 al año, 
+debido a que es un transporte limpio. 
+2 4 4
+Plan de Desarrollo Medellín Futuro 2020-2023
+En la Línea de Ecociudad, el ISVIMED generará a través del Programa Vivienda, hábitat sos-
+tenible y mejoramiento integral de barrios y de sus diferentes proyectos aproximadamente 34.700 
+empleos de forma directa. 
+También, desde la Línea de Ecociudad otras obras como el desarrollo del centro logístico de 
+transporte Aeropuerto Olaya Herrera, la construcción corredor vial y de transporte Avenida 80 y 
+obras complementarias, las obras del corredor Ayacucho, la construcción de obras del metroplús, 
+el Plan de Recuperación del Parque Norte, las obras en el Cinturón verde, así como la construc-
+ción de las obras PUI Noroccidental, comuna-13 y La Iguaná, Corredor Ayacucho, metroplus, se 
+constituyen en generadoras de un potencial de 120.000 empleo para la ciudad. En este mismo 
+sentido desde la Línea Estratégica de Medellín Me Cuida, se tiene importantes proyectos como la 
+construcción del Hospital mental y la reposición de las unidades hospitalarias de Buenos Aires 
+y Santa Cruz, obras que permitirán generar empleo y mejorar las condiciones de vida de los ha-
+bitantes de la ciudad. Finalmente, desde la Línea de Transformación Educativa y Cultural se tienen 
+importantes obras como la construcción de la Ciudadela Norte y la reconstrucción del Parque 
+Biblioteca Zona Nororiental.
+Si bien la crisis generada por la COVID-19, nos pone como ciudad en un escenario poco favorable 
+en materia económica y social, desde el Plan de Desarrollo Municipal Medellín Futuro 2020-2023 
+nos hemos venido preparando para afrontar los retos que en materia de reactivación económica y 
+en especial de generación de empleo se necesitan en la ciudad para mitigar los efectos de la crisis. 
+Relación de la Línea Estratégica con políticas públicas municipales
+La Línea Reactivación Económica y Valle del Software	definida	como	estrategia	de	desarrollo	económico,	
+se enmarca y armoniza con lo expuesto en la introducción del PDM 2020-2023 que establece que:
+“El Plan de Desarrollo de “Medellín Futuro” se fundamenta en tres concepciones del desarrollo. En 
+primer lugar, se preocupa por el desarrollo en clave de las capacidades que los ciudadanos y las ciuda-
+danas necesitan y a las que tienen derecho para asegurarse mejores modos de vida. En segundo lugar, 
+entiende el desarrollo a partir de la generación de formas responsables de producción y relacionamiento 
+con la naturaleza. Por último, comprende el desarrollo a partir de la generación de relaciones de equidad 
+en el acceso a bienes, servicios y asuntos públicos entre los diferentes territorios que la componen”.
+Se considera el desarrollo, no solo como una concepción de crecimiento económico, sino como 
+un	proceso	integral	de	creación	de	valor	y	capital	social,	donde	la	comunidad	percibe	y	se	beneficia	
+de las condiciones y mejoramiento  de calidad de vida; es así como el Estado incorpora normativas 
+que complementan, vinculan y fortalecen la institucionalidad  y las buenas prácticas de gerencia 
+pública;  consecuente con ello para esta línea  se tiene la Política Pública Integral de Desarrollo 
+Económico	para	el	municipio	de	Medellín	que	manifiesta	como	propósito	principal	lo	siguiente11: 
+2 4 5
+Tercera parte. Marco programático
+“… Crear condiciones que mejoren las tasas de crecimiento de la productividad, posibilitando el desa-
+rrollo competitivo, sostenible e innovador de las empresas y la generación de empleo local; lo que permitirá 
+la convergencia hacia niveles de ingreso y bienestar de una ciudad más próspera.”
+En este sentido, dicha política y sus decretos reglamentarios12 se convierte en el elemento orientador 
+y transversal para la Reactivación Económica y el Valle del Software, y, así mismo, para cada uno de sus 
+componentes, los cuales no solo se fundamentan en esta política, sino también, en otras normativas 
+más	específicas	que	se	exponen	a	continuación.
+Dentro del componente Talento humano y empleo no solo se acoge a mandatos locales, sino 
+también; a las orientaciones y convenios supranacionales de los ODS y la OIT, complementándola 
+con la Política Pública de Trabajo Decente13,  y el Decreto municipal 179 del 2019 el cual reglamenta 
+la dimensión de generación de empleo e ingresos en la Política Pública de Desarrollo Económico y 
+en su artículo 31 expone:
+“Artículo 31: Plan Local de Empleo. La Política Pública de Trabajo Decente se articulará en un Plan Local 
+de Empleo que incorpore los programas y proyectos que contemple el Plan de Desarrollo del municipio 
+de Medellín y los programas y proyectos de los planes estratégicos adoptados por los demás actores del 
+mercado laboral, con el fin de contribuir al cumplimiento de las políticas públicas de Desarrollo Económico 
+y Política Pública de Trabajo Decente.” 14    
+En forma complementaria se tienen en cuenta otras políticas públicas, (de Primer Empleo, de Res-
+ponsabilidad Social, Formación de Maestros, Venteros Informales entre otras),  que entran a engrosar 
+el quehacer de este componente y resaltando la gran importancia que representa la problemática 
+de generación de empleo y talento humano para la ciudad con énfasis en la población de mujeres y 
+jóvenes en los cual es más sentido el problema de inserción laboral, con las implicaciones que esto 
+conlleva para la construcción de tejido social, legalidad y crecimiento económico. 
+En el componente de Ciencia, Tecnología, Innovación y Emprendimiento CTi+E se referencian 
+Acuerdos de política pública para la adopción del plan de ciencia y tecnología e innovación 2011-
+202115 y particularmente para este componente, las “Estrategias de Ciencia, Tecnología e Innovación 
+orientado por Misiones” de Ruta N.
+	Adicionalmente,	se	presentan	otras	políticas	públicas	de	apoyo	como	la	masificación	del	internet,	
+de innovación y emprendimiento,  de universalización del uso de las TIC, y de no menos importancia 
+11 Acuerdo 074 del 2017, Título I, Capítulo I, Artículo 2.
+12 Decretos Municipales 088 y 179 del 2019 y Decreto Municipal 765 de 2018.
+13 Acuerdo 064 de 2013.
+14 Decreto Municipal 179 del 2019, reglamenta el Acuerdo 074 del 2017 de Política Pública de Desarrollo Económico.
+15 Acuerdo Municipal 24 del 2012.
+2 4 6
+Plan de Desarrollo Medellín Futuro 2020-2023
+la referente a la Economía Creativa (Acuerdo 119 del 2019) con la que se promueve el impulso, arti-
+culación, formalización y vinculación a las dinámicas económicas de la ciudad y que  se constituye en 
+eje fundamental de la Economía Naranja bajo las directrices del CONPES 3659 (Política nacional que 
+promueve las industrias culturales en Colombia). Como instrumento de implementación está el Plan 
+Intersectorial	de	Economía	Creativa	2018-2030	para	el	municipio	de	Medellín,	el	cual	que	identifica	
+claramente los ejes problemáticos de este programa.
+De otro lado, también se tiene el apoyo normativo para la creación y establecimiento del empren-
+dimiento 4.0 como es la Política Pública de Innovación y Emprendimiento Social (Acuerdo Municipal 
+034 del 2014) la cual busca lograr oportunidades, no solo para los ciudadanos, sino, también para 
+las entidades con o sin ánimo de lucro que gestionen propuestas creativas e innovadoras para incre-
+mentar la calidad de vida y el desarrollo local equitativo de los ciudadanos.
+Para el componente Productividad, competitividad e internacionalización se cuenta, entre otros, con la 
+adopción de la Política Pública de Turismo (Acuerdo 20 de 2015) reglamentada para su implementación 
+por el Decreto Municipal 328 de 2019 bajo la responsabilidad de la Secretaría de Desarrollo Económico 
+y	en	armonía	con	las	acciones	definidas	en	el	Plan	Estratégico	de	Turismo	2018-2024.	Para	ampliar	
+este componente se cuenta con las políticas públicas de cooperación internacional para el desarrollo, 
+y de universalización del uso de las TIC, que  conjuntamente admiten una visión más holística para  el 
+incremento de los procesos productivos  y de competitividad pensada dentro de estrategias comunicativas 
+para los negocios e intercambios de bienes y servicios mediante una metodología estructurada en tres 
+fases como son: Diseño, implementación y comercialización;  vigilando el desarrollo de productos que 
+generen experiencias únicas al visitante y potencialicen la vocación del territorio, complementando la 
+oferta y permitan la diferenciación de Medellín con nuevas dinámicas y liderazgo empresarial.
+Para el componente Información, datos y generación de valor público encontramos la política de 
+buen gobierno16, con la que se impulsan las buenas prácticas de gestión pública mediante el reconoci-
+miento de compromisos que desarrollen políticas de orientación estratégica y de gestión, con énfasis 
+en la transparencia e integridad para asegurar un manejo responsable y transparente del municipio.
+Por último, el componente Inglés para el Valle del Software, cuenta con el marco normativo del 
+Acuerdo Municipal 089 del 2013, que regula la política pública de enseñanza de lenguas extranjeras, 
+esta normativa está altamente ligada a los procesos de comunicación para contribuir con la interna-
+cionalización y competitividad de la ciudad, adoptando las bases de la Política Pública de Enseñanza 
+(aprendizaje de lenguas no nativas).
+16 Decreto 2654 del 2006.  
