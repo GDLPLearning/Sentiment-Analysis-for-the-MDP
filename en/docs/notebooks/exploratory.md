@@ -1,12 +1,13 @@
 
 
-### Business Context
-### Getting Data
-### Exploring Data
-### Data Preparation
-### Model
-### Evaluation
-### Implementation
+
+### Business Context - Exploratory
+### Getting Data - Exploratory
+### Exploring Data - Exploratory
+### Data Preparation - Exploratory
+### Model - Exploratory
+### Evaluation - Exploratory
+### Implementation - Exploratory
 
 ## Notebooks layout
 

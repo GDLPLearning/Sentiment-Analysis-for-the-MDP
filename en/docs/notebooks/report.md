@@ -1,18 +1,20 @@
 
 
-### Business Context
-### Getting Data
-### Exploring Data
-### Data Preparation
-### Model
-### Evaluation
-### Implementation
+
+### Business Context - Report
+### Getting Data - Report
+### Exploring Data - Report
+### Data Preparation - Report
+### Model - Report
+### Evaluation - Report
+### Implementation - Report
 
 ## Notebooks layout
 
     notebooks/
 
-		exploratory/
+
+		report/
 			1-business-context.ipynb  # Explanation
 			2-getting-data.ipynb      #
 			3-exploring-data.ipynb    #
