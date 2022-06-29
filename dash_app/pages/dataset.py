@@ -1,7 +1,7 @@
 # import libraries
 import dash
 from dash.dash_table import DataTable
-from dash import dcc as dcc
+from dash import dcc
 from dash import html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output

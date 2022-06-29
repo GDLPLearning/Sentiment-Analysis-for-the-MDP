@@ -1,12 +1,12 @@
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
+from dash import html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 
 
 #import parts of the app
-from pages import home, overview, dataset, eda, model, report, about, contact
+from pages import home, overview ,dataset, model, report, about, contact
 
 # app instantiation
 from app import app
