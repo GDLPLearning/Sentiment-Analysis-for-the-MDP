@@ -30,6 +30,7 @@ layout = html.Div([
                     controls=True,
                     indicators=True,
                     class_name="carousel-fade",
+                    variant='dark',
                     ),
                 ])
             ]),
