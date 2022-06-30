@@ -34,11 +34,8 @@ CONTENT_STYLE = {
 
 sidebar = html.Div(
     [
-        html.H2(children="Team 247", className="display-4"),
+        html.H2(children="Team 247", className="display-4", style={"text-align":"center"}),
         html.Hr(),
-        html.P(
-        children="Sentiment analysis in Twitter for the Medellin Development Plan", className="lead"
-        ),
         dbc.Nav(
             [
                 dbc.NavLink("Home", href="/", active="exact"),
@@ -47,8 +44,7 @@ sidebar = html.Div(
                 dbc.NavLink("EDA", href="/page-3", active="exact"),
                 dbc.NavLink("Model", href="/page-4", active="exact"),
                 dbc.NavLink("Report", href="/page-5", active="exact"),
-                dbc.NavLink("About us", href="/page-6", active="exact"),
-                dbc.NavLink("Contact us", href="/page-7", active="exact"),
+                dbc.NavLink("Contact us", href="/page-6", active="exact"),
             ],
             vertical=True,
             pills=True,
@@ -77,8 +73,6 @@ def render_page_content(pathname):
     elif pathname == "/page-5":
         return report.layout
     elif pathname == "/page-6":
-        return about.layout
-    elif pathname == "/page-7":
         return contact.layout
     # If the user tries to reach a different page, return a 404 message
     return dbc.Jumbotron(
