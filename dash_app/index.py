@@ -7,7 +7,7 @@ from dash.dependencies import Input, Output
 
 #import parts of the app
 from pages import home, overview  ,dataset, model, report, contact
-#from pages import eda
+from pages import eda
 # app instantiation
 from app import app
 
@@ -41,7 +41,7 @@ sidebar = html.Div(
                 dbc.NavLink("Home", href="/", active="exact"),
                 dbc.NavLink("Overview", href="/page-1", active="exact"),
                 dbc.NavLink("Dataset", href="/page-2", active="exact"),
-                #dbc.NavLink("EDA", href="/page-3", active="exact"),
+                dbc.NavLink("EDA", href="/page-3", active="exact"),
                 dbc.NavLink("Model", href="/page-4", active="exact"),
                 dbc.NavLink("Report", href="/page-5", active="exact"),
                 dbc.NavLink("Contact us", href="/page-6", active="exact"),
@@ -66,8 +66,8 @@ def render_page_content(pathname):
         return overview.layout
     elif pathname == "/page-2":
         return dataset.layout
-    #elif pathname == "/page-3":
-    #    return eda.layout
+    elif pathname == "/page-3":
+        return eda.layout
     elif pathname == "/page-4":
         return model.layout
     elif pathname == "/page-5":
