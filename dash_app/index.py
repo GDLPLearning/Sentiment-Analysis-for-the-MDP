@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output
 
 
 #import parts of the app
-from pages import home, overview , eda ,dataset, model, report, about, contact
+from pages import home, overview , eda ,dataset, model, report, contact
 
 # app instantiation
 from app import app

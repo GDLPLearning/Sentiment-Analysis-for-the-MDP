@@ -36,6 +36,14 @@ layout = html.Div([
     dbc.Row([
         dbc.Col(lg=2),
         dbc.Col([
+            html.Div(id='table_dataset_output'),
+            html.Br(), html.Br()
+            ], lg=8),
+        ]),
+
+    dbc.Row([
+        dbc.Col(lg=2),
+        dbc.Col([
             dcc.Markdown(id='dataset_details_md',
                          style={'backgroundColor': '#FFFFFF'}),
             ],lg=8)
@@ -46,28 +54,28 @@ layout = html.Div([
 
 
 
-@app.callback(Output('dataset_details_md', 'children'),
+@app.callback(Output('table_dataset_output', 'children'),
+              Output('dataset_details_md', 'children'),
               Input('dataset_selection', 'value'))
 def dataset_info_display(dataset):
     if (not dataset):
         raise PreventUpdate
 
     if dataset == 'Tweets 2019':
+        df = pd.read_csv('pages/data/2019.csv')
+
+        table = DataTable(columns = [{'name':col, 'id':col}
+                                     for col in df.columns],
+                          data = df.to_dict('records'),
+                          style_header={'whiteSpace': 'normal'},
+                          fixed_rows={'headers': True},
+                          virtualization=True,
+                          style_table={'height': '600px'},
+                          sort_action='native',
+                          filter_action='native',
+                          export_format='csv',
+                          style_cell={'minWidth': '150px'}),
         markdown = """
-
-        | No    | column name (variable)    | datatype  | description                               |
-        |----   |------------------------   |---------- |---------------------------------------    |
-        | 1     | full text                 | string    | full text of the tweet                    |
-        | 2     | user                      | string    | username who posted the tweet             |
-        | 3     | location                  | string    | location where the tweet was post         |
-        | 4     | date                      | datetime  | time when the tweet was post              |
-        | 5     | tweet id                  | str       | primary key, number id of the tweet       |
-        | 6     | number rt                 | int       | number of retweets of the tweet           |
-        | 7     | number likes              | int       | number of likes of the tweet              |
-        | 8     | number reply              | int       | number of likes in the reply              |
-        | 9     | conversation id           | int       | identification number of conversation     |
-
-        -----
 
         **Size:** 4.3 MB
 
@@ -78,22 +86,21 @@ def dataset_info_display(dataset):
         **Purpose:**
     """
     elif dataset == 'Tweets keywords 2019 - 2022':
+
+        df = pd.read_csv('pages/data/2019.csv')
+
+        table = DataTable(columns = [{'name':col, 'id':col}
+                                     for col in df.columns],
+                          data = df.to_dict('records'),
+                          style_header={'whiteSpace': 'normal'},
+                          fixed_rows={'headers': True},
+                          virtualization=True,
+                          style_table={'height': '600px'},
+                          sort_action='native',
+                          filter_action='native',
+                          export_format='csv',
+                          style_cell={'minWidth': '150px'}),
         markdown = """
-
-        | No | column name (variable) | datatype | description                           |
-        |----|------------------------|----------|---------------------------------------|
-        | 1  | full text              | string   | full text of the tweet                |
-        | 2  | user                   | string   | username who posted the tweet         |
-        | 3  | location               | string   | location where the tweet was post     |
-        | 4  | date                   | datetime | time when the tweet was post          |
-        | 5  | tweet id               | str      | primary key, number id of the tweet   |
-        | 6  | number rt              | int      | number of retweets of the tweet       |
-        | 7  | number likes           | int      | number of likes of the tweet          |
-        | 8  | number reply           | int      | number of likes in the reply          |
-        | 9  | conversation id        | int      | identification number of conversation |
-        | 10 | id key word            | int      | foreign key, keyword identifier       |
-        | 11 | key word               | string   | key word used to search the tweet     |
-
 
         -----
 
@@ -108,21 +115,21 @@ def dataset_info_display(dataset):
 
         """
     elif dataset == 'Dataset Model':
+
+        df = pd.read_csv('pages/data/tweets.csv')
+
+        table = DataTable(columns = [{'name':col, 'id':col}
+                                     for col in df.columns],
+                          data = df.to_dict('records'),
+                          style_header={'whiteSpace': 'normal'},
+                          fixed_rows={'headers': True},
+                          virtualization=True,
+                          style_table={'height': '600px'},
+                          sort_action='native',
+                          filter_action='native',
+                          export_format='csv',
+                          style_cell={'minWidth': '150px'}),
         markdown = """
-
-        | No | column name (variable) | datatype | description                           |
-        |----|------------------------|----------|---------------------------------------|
-        | 1  | full text              | string   | full text of the tweet                |
-        | 2  | user                   | string   | username who posted the tweet         |
-        | 3  | location               | string   | location where the tweet was post     |
-        | 4  | date                   | datetime | time when the tweet was post          |
-        | 5  | tweet id               | str      | primary key, number id of the tweet   |
-        | 6  | number rt              | int      | number of retweets of the tweet       |
-        | 7  | number likes           | int      | number of likes of the tweet          |
-        | 8  | number reply           | int      | number of likes in the reply          |
-        | 9  | conversation id        | int      | identification number of conversation |
-
-        -----
 
         **Size:** 4.3 MB
 
@@ -134,7 +141,7 @@ def dataset_info_display(dataset):
 
 
         """
-    return markdown
+    return table, markdown
 
 
 # html.Div([
@@ -145,3 +152,21 @@ def dataset_info_display(dataset):
 #         DataTable(data=df_description.to_dict('records'),columns=[{"name": i, "id": i} for i in df_description.columns])
 #     ])
 # ])
+
+# x = '''
+
+#         | No    | column name (variable)    | datatype  | description                               |
+#         |----   |------------------------   |---------- |---------------------------------------    |
+#         | 1     | full text                 | string    | full text of the tweet                    |
+#         | 2     | user                      | string    | username who posted the tweet             |
+#         | 3     | location                  | string    | location where the tweet was post         |
+#         | 4     | date                      | datetime  | time when the tweet was post              |
+#         | 5     | tweet id                  | str       | primary key, number id of the tweet       |
+#         | 6     | number rt                 | int       | number of retweets of the tweet           |
+#         | 7     | number likes              | int       | number of likes of the tweet              |
+#         | 8     | number reply              | int       | number of likes in the reply              |
+#         | 9     | conversation id           | int       | identification number of conversation     |
+
+#         -----
+
+#     '''
