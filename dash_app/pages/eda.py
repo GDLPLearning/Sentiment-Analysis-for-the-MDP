@@ -13,12 +13,12 @@ from dash.exceptions import PreventUpdate
 import pandas as pd
 pd.options.display.max_columns = None
 
-
+#df=pd.read_csv('https://media.githubusercontent.com/media/GDLPLearning/Sentiment-Analysis-for-the-MDP/master/notebooks/Exploratory/data/2019.csv')
 df = pd.read_csv('pages/data/2019.csv')
 df['num_chars'] = df['full_text'].str.len()
 df['num_words'] = df['full_text'].str.split().str.len()
 
-
+#df2=pd.read_csv('https://media.githubusercontent.com/media/GDLPLearning/Sentiment-Analysis-for-the-MDP/master/notebooks/Exploratory/data/tweets.csv')
 df2 = pd.read_csv('pages/data/tweets.csv')
 df2['weekday'] = pd.to_datetime(df2['date']).dt.weekday
 df2['year'] = pd.to_datetime(df2['date']).dt.year

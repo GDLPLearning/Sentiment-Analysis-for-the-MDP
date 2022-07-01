@@ -6,8 +6,13 @@ from dash.dependencies import Input, Output
 
 
 #import parts of the app
+<<<<<<< HEAD
 from pages import home, overview , eda ,dataset, model, report, contact
 
+=======
+from pages import home, overview  ,dataset, model, report, contact
+from pages import eda
+>>>>>>> 0561d3990526710287be73cde2f108190e29813e
 # app instantiation
 from app import app
 
