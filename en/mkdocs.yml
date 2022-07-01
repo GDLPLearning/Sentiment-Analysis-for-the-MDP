@@ -24,6 +24,8 @@ nav:
     
     
 theme:
+
+  # logo: assets/logo.png
   icon:
     repo: fontawesome/brands/github
     

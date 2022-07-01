@@ -1,15 +1,10 @@
 # Sentiment analysis in Twitter for the Medellin Development Plan
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This project was developed in the sixth cohort of the DSA4 Colombia program sponsored by MINTIC and led by Correlation One.
 
 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Project description
 
 
 ## Project timeline
