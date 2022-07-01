@@ -6,4 +6,4 @@ from dash.dependencies import Input, Output
 
 
 # app instantiation
-app = dash.Dash(external_stylesheets=[dbc.themes.YETI],suppress_callback_exceptions=True)
+app = dash.Dash(external_stylesheets=[dbc.themes.CERULEAN],suppress_callback_exceptions=True)
