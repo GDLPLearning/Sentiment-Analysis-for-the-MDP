@@ -1,18 +1,16 @@
+from turtle import width
 import dash
 from dash import dcc
 from dash import html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
+from matplotlib import image
+from sklearn.feature_extraction import img_to_graph
 
 
 #import parts of the app
-<<<<<<< HEAD
 from pages import home, overview , eda ,dataset, model, report, contact
 
-=======
-from pages import home, overview  ,dataset, model, report, contact
-from pages import eda
->>>>>>> 0561d3990526710287be73cde2f108190e29813e
 # app instantiation
 from app import app
 
@@ -39,7 +37,7 @@ CONTENT_STYLE = {
 
 sidebar = html.Div(
     [
-        html.H2(children="Team 247", className="display-4", style={"text-align":"center"}),
+        html.Img(src="assets/images/logo.jpg", height="200px",width="200px"),
         html.Hr(),
         dbc.Nav(
             [
