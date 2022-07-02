@@ -25,14 +25,28 @@ layout=html.Div([
         dbc.Col([
             html.Div([
                 html.H4('Gustavo Vergara', style={'textAlign': 'center'}),
-                html.Img(src='assets/profile/gv.jpg', style={'width': '45%', 'height': '45%', 'border-radius': '50%', 'margin-left': '25%'}),
+                html.Img(src='assets/profile/gv.png', style={'width': '45%', 'height': '45%', 'border-radius': '50%', 'margin-left': '25%'}),
                 html.Ul([
                     html.Li('Matematician, Universidad Del Norte'),
                     html.Li('Professor of Mathematics, Universidad Del Norte'),
-                    html.Li("Experience with Python, Matlab, and R"),
-                    html.Li('gustavovergara238@gmail.com'),
-                    html.Li('Lnkedin: https://www.linkedin.com/in/gustavovergara238/'),
-                    html.Li('Github: https://github.com/gustavovergara238/'),
+                    html.Li([
+                        html.Img(src='https://api.iconify.design/arcticons/huawei-email.svg', style={'width': '20px', 'height': '20px'}),
+                        ' gustavovergara238@gmail.com']),
+                    html.Li([
+                        html.Img(src="https://api.iconify.design/logos/linkedin-icon.svg", style={'width': '5%', 'height': '5%'}),  
+                        ' ',                  
+                        html.A('Gustavo Vergara', href='https://www.linkedin.com/in/gustavo-antonio-vergara-rolong-22b15a144/', style={'textDecoration': 'none'},target='_blank'),
+                    ]),
+                    html.Li([
+                        html.Img(src='https://api.iconify.design/ant-design/github-filled.svg', style={'width': '5%', 'height': '5%'}),
+                        ' ',                      
+                        html.A('gvergaraa77', href='https://github.com/gvergaraa77', style={'textDecoration': 'none'},target='_blank'),
+                    ]),
+                    html.Li([
+                        html.Img(src='https://api.iconify.design/academicons/google-scholar.svg', style={'width': '5%', 'height': '5%'}),
+                        ' ',
+                        html.A('Gustavo Vergara',href='https://scholar.google.es/citations?hl=es&pli=1&user=qumtL4IAAAAJ', style={'textDecoration': 'none'},target='_blank'),
+                    ])
                 ]),
             ],style=style_div)    
         ]),
@@ -50,8 +64,16 @@ layout=html.Div([
     html.Br(),
     html.Br(),
     dbc.Row([
-        dbc.Col([]),
-        dbc.Col([]),
+        dbc.Col([
+            html.Div([
+
+            ], style=style_div),
+        ]),
+        dbc.Col([
+            html.Div([
+
+            ], style=style_div),
+        ]),
         dbc.Col([]),
     ]),
 ])

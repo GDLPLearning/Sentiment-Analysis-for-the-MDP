@@ -30,28 +30,15 @@ layout =html.Div([
         ], style={'textAlign': 'center'}),
     html.Br(),
     html.Br(),
-    html.P("Is the MDP aligned with the expressed by the population?"),
+    html.P("The objective will be to answer the following questions"),
     html.Br(),
+    html.Ol([
+        html.Li("Is the Medellin Development Plan 2020 - 2023 (MDP) aligned with the expressed by the population?"),
+        html.Li("What is the perception of citizens in relation to MDP programs and projects during the government's term?"),
+    ]),
+    html.Br(),
+    html.P('First of all, you can explore on the bottom left an explanation of the development plan for the city of Medellín and on the bottom right some tweets from citizens.'),
     dbc.Row([
-        dbc.Col([
-            html.Div([
-                html.H4('Tweets'),
-                html.Br(),
-                html.P('The tweets show the main topics people are talking about. Therefore, they are an approximation of the needs of the citizens of the city of Medellín.'),
-                html.Br(),
-                dbc.Carousel(
-                    items=[
-                        {"key":"1","src":"assets/tweets/tweet_depmed.png",'caption':'one','img_style':{'height':'400px','padding':'80px',"padding-top":"5px"}},
-                        {"key":"2","src":"assets/tweets/tweet_largo.png",'caption':'two','img_style':{'height':'400px','padding':'80px',"padding-top":"5px"}},
-                    ],
-                    controls=True,
-                    indicators=True,
-                    class_name="carousel-fade",
-                    variant='dark',
-                    style={'height': '500px', 'width': '500px'}
-                ),
-            ],style=style_div),
-        ]),
         dbc.Col([
             html.Div([
                 html.H4('MDP'),
@@ -65,6 +52,28 @@ layout =html.Div([
                     dbc.AccordionItem([html.P("Establish the foundations of the ecological transition to direct Medellín to a future of sustainability, in which the full enjoyment of the right to the city, the dignified habitability for its inhabitants and the functional and harmonious integration of rurality are guaranteed through the recognition of the rights of rural dwellers and their access to them.")],title="Linea estrategica 4: Ecociudad"),
                     dbc.AccordionItem([html.P("Generate institutional, political and citizen conditions and capacities to strengthen the public sector, generating synergy between government and citizens. We seek open dialogue based on different knowledge, consensus-building among the different actors and the collective construction of citizen processes of territorial peace, based on knowledge of the territory, the installation of local and institutional capacities for the management and protection of the public, the use of data and information as a value-giving asset, and intra- and inter-institutional and territorial articulation.")],title="Linea estrategica 5: Gobernanza y Gobernabilidad"),
                 ],start_collapsed=True),
+                html.Br(),
+                html.P('Descriptive analysis of this plan will allow us to answer the first question.')
+            ],style=style_div),
+        ]),
+        dbc.Col([
+            html.Div([
+                html.H4('Tweets'),
+                html.Br(),
+                html.P('The tweets show the main topics people are talking about. Therefore, they are an approximation of the needs of the citizens of the city of Medellín.'),
+                html.Br(),
+                dbc.Carousel(
+                    items=[
+                        {"key":"1","src":"assets/tweets/tweet1.png",'caption':'Tweet 1: about security and opportunities','img_style':{'height':'400px','padding':'80px',"padding-top":"5px"}},
+                        {"key":"2","src":"assets/tweets/tweet2.png",'caption':'Tweeet 2: about "Metro de Medellín" ','img_style':{'height':'400px','padding':'80px',"padding-top":"5px"}},
+                    ],
+                    controls=True,
+                    indicators=True,
+                    class_name="carousel-fade",
+                    variant='dark',
+                    style={'height': '400px', 'width': '500px'}
+                ),
+                html.P('How would you classify, in terms of sentiment the above tweets? positive, negative or neutral? Sentiment analysis could help you with that and also answer the second question mentioned at the beginning of this page.'),
             ],style=style_div),
         ]),
     ]),
