@@ -16,7 +16,6 @@ style_div={
     'border':'#5BC0BE 0.03rem solid ',
     'border-radius':'1rem',
     'padding':'10px',
-    #'background-color':'#CCC9DC'
 }
 
 
