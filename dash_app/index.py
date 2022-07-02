@@ -22,7 +22,7 @@ SIDEBAR_STYLE = {
     "bottom": 0,
     "width": "16rem",
     "padding": "2rem 1rem",
-    "background-color": "#1B2A41",
+    "background-color": "#0C1821",
     "color": "white",
     "overflow": "scroll",
 }
@@ -42,12 +42,12 @@ sidebar = html.Div(
         dbc.Nav(
             [
                 dbc.NavLink("Home", href="/", active="exact"),
-                dbc.NavLink("Overview", href="/page-1", active="exact"),
-                dbc.NavLink("Dataset", href="/page-2", active="exact"),
-                dbc.NavLink("EDA", href="/page-3", active="exact"),
-                dbc.NavLink("Model", href="/page-4", active="exact"),
-                dbc.NavLink("Report", href="/page-5", active="exact"),
-                dbc.NavLink("Contact us", href="/page-6", active="exact"),
+                dbc.NavLink("Overview", href="/overview", active="exact"),
+                dbc.NavLink("Dataset", href="/dataset", active="exact"),
+                dbc.NavLink("EDA", href="/EDA", active="exact"),
+                dbc.NavLink("Model", href="/model", active="exact"),
+                dbc.NavLink("Report", href="/report", active="exact"),
+                dbc.NavLink("Contact us", href="/contact-us", active="exact"),
             ],
             vertical=True,
             pills=True,
@@ -65,17 +65,17 @@ app.layout = html.Div([dcc.Location(id="url"), sidebar, content])
 def render_page_content(pathname):
     if pathname == "/":
         return home.layout
-    elif pathname == "/page-1":
+    elif pathname == "/overview":
         return overview.layout
-    elif pathname == "/page-2":
+    elif pathname == "/dataset":
         return dataset.layout
-    elif pathname == "/page-3":
+    elif pathname == "/EDA":
         return eda.layout
-    elif pathname == "/page-4":
+    elif pathname == "/model":
         return model.layout
-    elif pathname == "/page-5":
+    elif pathname == "/report":
         return report.layout
-    elif pathname == "/page-6":
+    elif pathname == "/contact-us":
         return contact.layout
     # If the user tries to reach a different page, return a 404 message
     return dbc.Jumbotron(
