@@ -26,6 +26,10 @@ df2['month'] = pd.to_datetime(df2['date']).dt.month
 df2['num_chars'] = df2['full_text'].str.len()
 df2['num_words'] = df2['full_text'].str.split().str.len()
 
+months = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May',
+          6:'June', 7:'July', 8:'August', 9:'September', 10:'October',
+          11:'November', 12:'December'}
+
 
 df3 = df2['year'].value_counts().sort_index().to_frame().reset_index()
 fig = px.pie(df3,values='year',names='index', 
@@ -69,7 +73,7 @@ layout = html.Div([
 
 ############### Distribution of tweet text length #################
 
-            html.H3('Distribution of tweet text length'),
+            dbc.CardHeader(html.H3('Distribution of tweet text length')),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dbc.Row([
@@ -105,7 +109,7 @@ layout = html.Div([
 
 ############### Explore the text content of the tweet #################
             html.Br(),html.Br(),
-            html.H3('Explore the text content of the tweets'),
+            dbc.CardHeader(html.H3('Explore the text content of the tweets')),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dcc.Loading([
@@ -138,7 +142,7 @@ layout = html.Div([
 
 ############### Distribution of tweet text length #################
 
-           html.H3('Distribution of tweet text length'),
+            dbc.CardHeader(html.H3('Distribution of tweet text length')),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dbc.Row([
@@ -191,7 +195,7 @@ layout = html.Div([
 ############### Explore the text content of the tweet #################
 
             html.Br(),html.Br(),
-            html.H3('Explore the text content of the tweets'),
+            dbc.CardHeader(html.H3('Explore the text content of the tweets')),
             html.P('Explicacion de esta sección'),
             html.Br(),
             html.Div(id='feedback_3_2022'), 
@@ -200,6 +204,24 @@ layout = html.Div([
                          placeholder='Select one keyword',
                          options=[{'label':keyword.title(), 'value':keyword}
                                    for keyword in df2['key_word'].drop_duplicates().sort_values()]),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Label('Year:'),
+                    dcc.Slider(id='years_random_tweet_slider_2022',
+                       dots=True, min=2019, max=2022, step=1, included=False,
+                       marks={x: str(x) for x in range(2019, 2023, 1)}),
+                    ]),
+                dbc.Col([
+                    dbc.Label('Month:'),
+                    dcc.Dropdown(id='month_selector_2022',
+                         placeholder='Select one month',
+                         options=[{'label':month, 'value':i}
+                                   for i, month in months.items()]),
+                    ]),
+
+
+                ]),
             html.Br(),
             dcc.Loading([
                 dcc.Markdown(id='display_tweet_text_2022_md',
@@ -212,6 +234,58 @@ layout = html.Div([
                 ], className="d-grid gap-2 col-6 mx-auto"),
             html.Br(),
             html.P('Conclusiones de los gráficos anteriores'),
+
+############### Most used words in tweet text by keyword #################
+
+    #         html.Br(),html.Br(),
+    #         dbc.CardHeader(html.H3("Most used words in tweet text by keyword")),
+    #         dbc.Alert("Not enough data to render these plots, please adjust the filters",
+    #                   id="no-data-alert",
+    #                   color="warning",
+    #                   style={"display": "none"},),
+    #         html.P('Explicacion de esta sección'),
+    #         html.Br(),
+    #         html.Div(id='feedback_4_2022'), 
+    #         dbc.Label('Keyword:'),
+    #         dcc.Dropdown(id='keyword_selector_20222',
+    #                      placeholder='Select one keyword',
+    #                      options=[{'label':keyword.title(), 'value':keyword}
+    #                                for keyword in df2['key_word'].drop_duplicates().sort_values()]),
+    #         html.Br(),
+    #         dbc.CardBody([
+    #             dbc.Row([
+    #                 dbc.Col(
+    #                     dcc.Loading(
+    #                         id="loading-frequencies",
+    #                         children=[dcc.Graph(id="frequency_figure")],
+    #                         type="default",)
+    #                 ),
+    #                 dbc.Col([
+    #                     dcc.Tabs(id="tabs",
+    #                              children=[
+    #                         dcc.Tab(label="Treemap",
+    #                                 children=[
+    #                                     dcc.Loading(id="loading-treemap",
+    #                                                 children=[dcc.Graph(id="bank-treemap")],
+    #                                                 type="default",)],
+    #                                 ),
+    #                         dcc.Tab(label="Wordcloud",
+    #                                 children=[
+    #                                     dcc.Loading(id="loading-wordcloud",
+    #                                                 children=[
+    #                                                     dcc.Graph(id="bank-wordcloud")],
+    #                                                 type="default",)
+    #                                     ],
+    #                                 ),
+    #                             ],
+    #                         )
+    #                     ],
+    #                     md=8,
+    #                 ),
+    #             ]
+    #         )
+    #     ]
+    # ),            
 
 
         ],label='EDA: Tweets keywords 2019 - 2022'),
@@ -399,13 +473,15 @@ def plot_freq_hist(nclicks, nbins, years, keyword):
               Output('feedback_2_2022', 'children'),
               Output('feedback_3_2022', 'children'),
               Input('button2_2022', 'n_clicks'),
-              State('keyword_selector_20222', 'value'),)
+              State('keyword_selector_20222', 'value'),
+              State('years_random_tweet_slider_2022', 'value'),
+              State('month_selector_2022', 'value'))
 
-def gen_random_tweet_2022(nclicks, keyword):
+def gen_random_tweet_2022(nclicks, keyword, year, month):
     if (not nclicks):
         raise PreventUpdate
 
-    df = df2[df2['key_word'] == keyword]
+    df = df2[(df2['key_word'] == keyword) & (df2['year'].eq(year)) & (df2['month'].eq(month))]
 
     random_tweet = df['full_text'].sample().values[0]
 
@@ -415,7 +491,7 @@ def gen_random_tweet_2022(nclicks, keyword):
                          color='success',
                          dismissable=True)
 
-    message2 = dbc.Alert(f"You have selected the keyword: {keyword.title()}.",
+    message2 = dbc.Alert(f"You have selected - keyword: {keyword.title()} | year: {year} | month: {month}",
                          color='info',
                          dismissable=True)
 
