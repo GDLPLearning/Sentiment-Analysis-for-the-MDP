@@ -65,7 +65,7 @@ def dataset_info_display(dataset):
         df = pd.read_csv('pages/data/2019.csv')
 
         table = DataTable(columns = [{'name':col, 'id':col}
-                                     for col in df.columns],
+                                     for col in df[['full_text']].columns],
                           data = df.to_dict('records'),
                           style_header={'whiteSpace': 'normal'},
                           fixed_rows={'headers': True},
@@ -87,10 +87,10 @@ def dataset_info_display(dataset):
     """
     elif dataset == 'Tweets keywords 2019 - 2022':
 
-        df = pd.read_csv('pages/data/2019.csv')
+        df = pd.read_csv('pages/data/tweets.csv')
 
         table = DataTable(columns = [{'name':col, 'id':col}
-                                     for col in df.columns],
+                                     for col in df[['full_text', 'key_word']].columns],
                           data = df.to_dict('records'),
                           style_header={'whiteSpace': 'normal'},
                           fixed_rows={'headers': True},
