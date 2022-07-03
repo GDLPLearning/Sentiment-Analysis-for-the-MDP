@@ -23,6 +23,8 @@ df2 = pd.read_csv('pages/data/tweets.csv')
 df2['weekday'] = pd.to_datetime(df2['date']).dt.weekday
 df2['year'] = pd.to_datetime(df2['date']).dt.year
 df2['month'] = pd.to_datetime(df2['date']).dt.month
+df2['num_chars'] = df2['full_text'].str.len()
+df2['num_words'] = df2['full_text'].str.split().str.len()
 
 
 df3 = df2['year'].value_counts().sort_index().to_frame().reset_index()
@@ -40,106 +42,264 @@ def make_empty_fig():
     return fig
 
 layout = html.Div([
+################ Section Title ############################
+
     dbc.Col([
         html.Br(),
         html.H1('Exploratory Data Analisis - EDA'),
-        html.H2('Data understanding I'),
         ], style={'textAlign': 'center'}),
+    html.Br(), html.Br(),
+        html.P('Ingresar texto introductorio de la sección del EDA'),
 
-    html.Br(),
-    html.Br(),
-    html.H4('EDA: Tweets 2019'),
-    html.Br(),
-    dbc.Row([
-        dbc.Col([
-            dcc.Graph(id='chars_freq_hist')
-        ], lg=6),
-        dbc.Col([
-            dcc.Graph(id='words_freq_hist')
-        ], lg=6),
-    ]),
+############### Tabs #############################
 
-    dbc.Row([
-    dbc.Col(lg=1),
-    dbc.Col([
-        dbc.Label('Modify number of bins:'),
-        dcc.Slider(id='hist_bins_slider', 
+    dbc.Tabs([
+
+############### EDA: Tweets 2019 (Tab 1) #################
+
+############### Data understanding I #################
+        
+        dbc.Tab([
+            dbc.Col([
+                html.Br(),
+                html.H2('Data understanding I'),
+        ], style={'textAlign': 'center'}),
+            html.Br(),
+            html.Br(),
+
+############### Distribution of tweet text length #################
+
+            html.H3('Distribution of tweet text length'),
+            html.P('Explicacion de esta sección'),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dcc.Loading([
+                        dcc.Graph(id='chars_freq_hist')
+                        ]),
+                ], lg=6),
+                dbc.Col([
+                    dcc.Loading([
+                        dcc.Graph(id='words_freq_hist')
+                        ]),                 
+                ], lg=6),
+        ]),
+            html.Br(),
+            html.Div(id='feedback_1'),
+            dbc.Row([
+                dbc.Col(lg=1),
+                dbc.Col([
+                    dbc.Label('Modify number of bins:'),
+                    dcc.Slider(id='hist_bins_slider', 
                        dots=True, min=0, max=100, step=5, included=False,
                        marks={x: str(x) for x in range(0, 105, 5)}),
-        ], lg=10),
-    dbc.Col(lg=1),
-    ]),
-    html.Br(),
-    html.P('Conclusiones de los gráficos anteriores'),
-    dbc.Col([
-        html.Br(),
-        html.H2('Data understanding II'),
-        ], style={'textAlign': 'center'}),
+                ], lg=10),
+                dbc.Col(lg=1),
+            ]),
+            html.Br(),
+            html.Div([
+                dbc.Button("Generate Graphs", outline=True, color="primary", className="me-1", size="sm", id="button1"),
+                ],  className="d-grid gap-2 col-6 mx-auto"),      
+            html.Br(),
+            html.P('Conclusiones de los gráficos anteriores'),
 
-    html.Br(),
-    html.Br(),
-    html.H4('EDA: Tweets keywords 2019 - 2022'),
-    html.Br(),
-    html.Br(),
-    dcc.Dropdown(id='year_weekday_dropdown',
-                 placeholder='Select one year',
-                 #multi=True,
-                 #placeholder='Select one or more years',
-                 options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()]),
-    dcc.Graph(id='bar_freq_weekday', figure=make_empty_fig()),
-    dcc.Markdown(id='indicator_map_details_md',
-                 style={'backgroundColor': '#E5ECF6'}),
-    
-    html.Br(),
-    dbc.Row([
-        dbc.Col(lg=9),
-        dbc.Col([
-        dcc.Dropdown(id='year_keyword_dropdown',
-                     placeholder='Select one year',
-                     options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()])  
-            ], lg=3),
+############### Explore the text content of the tweet #################
+            html.Br(),html.Br(),
+            html.H3('Explore the text content of the tweets'),
+            html.P('Explicacion de esta sección'),
+            html.Br(),
+            dcc.Loading([
+                dcc.Markdown(id='display_tweet_text_md',
+                             style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue'}),
+            ]),
+            html.Br(),
+            html.Div(id='feedback_2'), 
+            html.Div([
+                dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2"),
+                ], className="d-grid gap-2 col-6 mx-auto"),
+            html.Br(),
+            html.P('Conclusiones de los gráficos anteriores'),
+
+        ],label='EDA: Tweets 2019'),
+
+
+
+############### EDA: Tweets keywords 2019 - 2022 (Tab 2) #################
+
+############### Data understanding II #################
+
+        dbc.Tab([
+            dbc.Col([
+                html.Br(),
+                html.H2('Data understanding II'),
+        ], style={'textAlign': 'center'}),
+            html.Br(),
+            html.Br(),
+
+############### Distribution of tweet text length #################
+
+           html.H3('Distribution of tweet text length'),
+            html.P('Explicacion de esta sección'),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dbc.Label('Years:'),
+                    dcc.Dropdown(id='hist_year_dropdown_2022',
+                                 multi=True,
+                                 placeholder='Select one or more years',
+                                 options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()]),
+                    ]),
+                dbc.Col([
+                    dbc.Label('Keyword:'),
+                    dcc.Dropdown(id='keyword_selector_20221',
+                                 placeholder='Select one keyword',
+                                 options=[{'label':keyword.title(), 'value':keyword}
+                                          for keyword in df2['key_word'].drop_duplicates().sort_values()]),
+                ]),
+                ]),
+            dbc.Row([
+                dbc.Col([
+                    dcc.Loading([
+                        dcc.Graph(id='chars_freq_hist_2022')
+                        ]),
+                ], lg=6),
+                dbc.Col([
+                    dcc.Loading([
+                        dcc.Graph(id='words_freq_hist_2022')
+                        ]),                 
+                ], lg=6),
         ]),
-    dbc.Row([
-        dbc.Col([
-            dcc.Graph(figure=fig)], lg=4),
-        dbc.Col([
-            dcc.Markdown(id='year_keyword_md',
-                        style={'backgroundColor': '#E5ECF6'}),
-            ], lg=3), 
-        dbc.Col([dcc.Graph(id='year_keyword_piechart', figure=make_empty_fig())], lg=5)
+            html.Br(),
+            html.Div(id='feedback_1_2022'),
+            dbc.Row([
+                dbc.Col(lg=1),
+                dbc.Col([
+                    dbc.Label('Modify number of bins:'),
+                    dcc.Slider(id='hist_bins_slider_2022',
+                       dots=True, min=0, max=100, step=5, included=False,
+                       marks={x: str(x) for x in range(0, 105, 5)}),
+                ], lg=10),
+                dbc.Col(lg=1),
+            ]),
+            html.Br(),
+            html.Div([
+                dbc.Button("Generate Graphs", outline=True, color="primary", className="me-1", size="sm", id="button1_2022"),
+                ],  className="d-grid gap-2 col-6 mx-auto"),      
+            html.Br(),
+            html.P('Conclusiones de los gráficos anteriores'),
+
+############### Explore the text content of the tweet #################
+
+            html.Br(),html.Br(),
+            html.H3('Explore the text content of the tweets'),
+            html.P('Explicacion de esta sección'),
+            html.Br(),
+            html.Div(id='feedback_3_2022'), 
+            dbc.Label('Keyword:'),
+            dcc.Dropdown(id='keyword_selector_20222',
+                         placeholder='Select one keyword',
+                         options=[{'label':keyword.title(), 'value':keyword}
+                                   for keyword in df2['key_word'].drop_duplicates().sort_values()]),
+            html.Br(),
+            dcc.Loading([
+                dcc.Markdown(id='display_tweet_text_2022_md',
+                             style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue'}),
+            ]),
+            html.Br(),
+            html.Div(id='feedback_2_2022'), 
+            html.Div([
+                dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2_2022"),
+                ], className="d-grid gap-2 col-6 mx-auto"),
+            html.Br(),
+            html.P('Conclusiones de los gráficos anteriores'),
+
+
+        ],label='EDA: Tweets keywords 2019 - 2022'),
+        
+        ]),
+    ])
+
+
+
+
+    # html.H4('EDA: Tweets keywords 2019 - 2022'),
+    # html.Br(),
+    # html.Br(),
+    # dcc.Dropdown(id='year_weekday_dropdown',
+    #              placeholder='Select one year',
+    #              #multi=True,
+    #              #placeholder='Select one or more years',
+    #              options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()]),
+    # dcc.Graph(id='bar_freq_weekday', figure=make_empty_fig()),
+    # dcc.Markdown(id='indicator_map_details_md',
+    #              style={'backgroundColor': '#E5ECF6'}),
+    
+    # html.Br(),
+    # dbc.Row([
+    #     dbc.Col(lg=9),
+    #     dbc.Col([
+    #     dcc.Dropdown(id='year_keyword_dropdown',
+    #                  placeholder='Select one year',
+    #                  options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()])  
+    #         ], lg=3),
+    #     ]),
+    # dbc.Row([
+    #     dbc.Col([
+    #         dcc.Graph(figure=fig)], lg=4),
+    #     dbc.Col([
+    #         dcc.Markdown(id='year_keyword_md',
+    #                     style={'backgroundColor': '#E5ECF6'}),
+    #         ], lg=3), 
+    #     dbc.Col([dcc.Graph(id='year_keyword_piechart', figure=make_empty_fig())], lg=5)
         
 
-        ]),
+    #     ]),
 
-    html.Br(),
-    html.Br(),
-    dcc.Dropdown(id='year_month_dropdown',
-                 placeholder='Select one year',
-                 #multi=True,
-                 #placeholder='Select one or more years',
-                 options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()]),
-    dcc.Graph(id='bar_freq_month', figure=make_empty_fig()),
-    dcc.Markdown(id='year_month_freq_md',
-                 style={'backgroundColor': '#E5ECF6'}),
+    # html.Br(),
+    # html.Br(),
+    # dcc.Dropdown(id='year_month_dropdown',
+    #              placeholder='Select one year',
+    #              #multi=True,
+    #              #placeholder='Select one or more years',
+    #              options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()]),
+    # dcc.Graph(id='bar_freq_month', figure=make_empty_fig()),
+    # dcc.Markdown(id='year_month_freq_md',
+    #              style={'backgroundColor': '#E5ECF6'}),
      
-    ])  
+    # ])  
+
+############### Callbacks #################
+
+############### EDA: Tweets 2019 (Tab 1) #################
+
+############### Data understanding I #################
+
+############### Distribution of tweet text length #################
+
 
 @app.callback(Output('chars_freq_hist', 'figure'),
               Output('words_freq_hist', 'figure'),
-              Input('hist_bins_slider', 'value'))
+              Output('feedback_1', 'children'),
+              Input('button1', 'n_clicks'),
+              State('hist_bins_slider', 'value'),
+              )
 
-def plot_freq_hist(nbins):
+def plot_freq_hist(nclicks, nbins):
+    if (not nclicks):
+        raise PreventUpdate
+
     fig1 = px.histogram(df,
                         x='num_chars',
                         nbins=nbins,
                         color_discrete_sequence=['#5BC0BE'],
                         title='Histogram - Character tweets distribution by length.',
                         marginal="box",
-                        height=550,
-                        width=600,
+                        height=500,
+                        width=500,
                         labels={'num_chars':'Length of text in characters'})
     fig1.layout.paper_bgcolor = '#FFFFFF'
     fig1.layout.plot_bgcolor = '#FFFFFF'
+    fig1.update_layout(title_font_size=15)
     
     fig2 = px.histogram(df,
                         x='num_words',
@@ -147,86 +307,194 @@ def plot_freq_hist(nbins):
                         color_discrete_sequence=['#5BC0BE'],
                         title='Histogram - Words tweets distribution by length.',
                         marginal="box",
-                        height=550,
-                        width=600,
+                        height=500,
+                        width=500,
                         labels={'num_words':'Length of text in words'})
     fig2.layout.paper_bgcolor = '#FFFFFF'
     fig2.layout.plot_bgcolor = '#FFFFFF'
+    fig2.update_layout(title_font_size=15)
 
-    return fig1, fig2
 
-@app.callback(Output('bar_freq_weekday', 'figure'),
-              Input('year_weekday_dropdown', 'value'))
-def plot_tweets_freq_weekday(year):
-    if (not year):
+
+    message = dbc.Alert(f"The number of bins has been modified to: {nbins} bins.",
+                        color='success',
+                         dismissable=True)
+                        
+
+    return fig1, fig2, message
+
+
+############### Explore the text content of the tweet #################
+@app.callback(Output('display_tweet_text_md', 'children'),
+              Output('feedback_2', 'children'),
+              Input('button2', 'n_clicks'),)
+
+def gen_random_tweet(nclicks):
+    if (not nclicks):
         raise PreventUpdate
 
-    df = df2[df2['year'].eq(year)]
-    df = df['weekday'].value_counts().sort_index().to_frame().reset_index()
-    
-    fig = px.bar(df,
-                 x='index',
-                 y='weekday',
-                 title=f'Bar chart - Tweets frequency by weekday ({year}).',
-                 labels={'index': 'weekdays', 'weekday': 'number of tweets'},
-                 text_auto='.2s')
-    fig.update_traces(marker_color='rgb(91,192,190)', marker_line_color='rgb(54,115,114)',
-                  marker_line_width=1.5, opacity=0.7)
-    fig.layout.paper_bgcolor = '#FFFFFF'
-    fig.layout.plot_bgcolor = '#FFFFFF'
-    return fig
+    random_tweet = df['full_text'].sample().values[0]
 
-@app.callback(Output('year_keyword_piechart', 'figure'),
-              Output('year_keyword_md', 'children'),
-              Input('year_keyword_dropdown', 'value'))
+    markdown = f"{random_tweet}"
 
-def plot_year_keyword_piechart(year):
-    if (not year):
-        raise PreventUpdate
-    df = df2[df2['year'].eq(year)]
-    df = df['key_word'].value_counts().sort_index().to_frame().reset_index()
-    fig = px.pie(df,values='key_word',names='index',
-                 title=f'Pie chart - Tweets distribution by keyword ({year}).')
+    message = dbc.Alert(f"Successfully generated random tweet.",
+                        color='success',
+                         dismissable=True)
 
-    if year == 2019:
-        markdown = f'Texto descriptivo para el año 2019'
-    elif year == 2020:
-        markdown = f'Texto descriptivo para el año 2020'
-    elif year == 2021:
-        markdown = f'Texto descriptivo para el año 2021'
-    elif year == 2022:
-        markdown = f'Texto descriptivo para el año 2022'
-    
-    return fig, markdown
+    return markdown, message
 
-@app.callback(Output('bar_freq_month', 'figure'),
-              Output('year_month_freq_md', 'children'),
-              Input('year_month_dropdown', 'value'))
-def plot_tweets_freq_weekday(year):
-    if (not year):
+############### Data understanding II #################
+
+############### Distribution of tweet text length #################
+
+@app.callback(Output('chars_freq_hist_2022', 'figure'),
+              Output('words_freq_hist_2022', 'figure'),
+              Output('feedback_1_2022', 'children'),
+              Input('button1_2022', 'n_clicks'),
+              State('hist_bins_slider_2022', 'value'),
+              State('hist_year_dropdown_2022', 'value'),
+              State('keyword_selector_20221', 'value'),
+              )
+def plot_freq_hist(nclicks, nbins, years, keyword):
+    if (not nclicks):
         raise PreventUpdate
 
-    df = df2[df2['year'].eq(year)]
-    df = df['month'].value_counts().sort_index().to_frame().reset_index()
-    
-    fig = px.bar(df,
-                 x='index',
-                 y='month',
-                 title=f'Bar chart - Tweets frequency by month ({year}).',
-                 labels={'index': 'months', 'month': 'number of tweets'},
-                 text_auto='.2s')
-    fig.update_traces(marker_color='rgb(91,192,190)', marker_line_color='rgb(54,115,114)',
-                  marker_line_width=1.5, opacity=0.7)
-    fig.layout.paper_bgcolor = '#FFFFFF'
-    fig.layout.plot_bgcolor = '#FFFFFF'
+    df = df2[(df2['year'].isin(years)) & (df2['key_word'] == keyword)]
 
-    if year == 2019:
-        markdown = f'Texto descriptivo para el año 2019'
-    elif year == 2020:
-        markdown = f'Texto descriptivo para el año 2020'
-    elif year == 2021:
-        markdown = f'Texto descriptivo para el año 2021'
-    elif year == 2022:
-        markdown = f'Texto descriptivo para el año 2022'
 
-    return fig, markdown
+    fig1 = px.histogram(df,
+                        x='num_chars',
+                        nbins=nbins,
+                        color_discrete_sequence=['#5BC0BE'],
+                        title='Histogram - Character tweets distribution by length.',
+                        marginal="box",
+                        height=500,
+                        width=500,
+                        labels={'num_chars': 'Length of text in characters'})
+    fig1.layout.paper_bgcolor = '#FFFFFF'
+    fig1.layout.plot_bgcolor = '#FFFFFF'
+    fig1.update_layout(title_font_size=15)
+
+    fig2 = px.histogram(df,
+                        x='num_words',
+                        nbins=nbins,
+                        color_discrete_sequence=['#5BC0BE'],
+                        title='Histogram - Words tweets distribution by length.',
+                        marginal="box",
+                        height=500,
+                        width=500,
+                        labels={'num_words': 'Length of text in words'})
+    fig2.layout.paper_bgcolor = '#FFFFFF'
+    fig2.layout.plot_bgcolor = '#FFFFFF'
+    fig2.update_layout(title_font_size=15)
+
+    message = dbc.Alert(f"The number of bins has been modified to: {nbins} bins.",
+                        color='success',
+                        dismissable=True)
+
+    return fig1, fig2, message
+
+############### Explore the text content of the tweet #################
+@app.callback(Output('display_tweet_text_2022_md', 'children'),
+              Output('feedback_2_2022', 'children'),
+              Output('feedback_3_2022', 'children'),
+              Input('button2_2022', 'n_clicks'),
+              State('keyword_selector_20222', 'value'),)
+
+def gen_random_tweet_2022(nclicks, keyword):
+    if (not nclicks):
+        raise PreventUpdate
+
+    df = df2[df2['key_word'] == keyword]
+
+    random_tweet = df['full_text'].sample().values[0]
+
+    markdown = f"{random_tweet}"
+
+    message = dbc.Alert(f"Successfully generated random tweet.",
+                         color='success',
+                         dismissable=True)
+
+    message2 = dbc.Alert(f"You have selected the keyword: {keyword.title()}.",
+                         color='info',
+                         dismissable=True)
+
+    return markdown, message, message2
+
+#########################################
+
+# @app.callback(Output('bar_freq_weekday', 'figure'),
+#               Input('year_weekday_dropdown', 'value'))
+# def plot_tweets_freq_weekday(year):
+#     if (not year):
+#         raise PreventUpdate
+#
+#     df = df2[df2['year'].eq(year)]
+#     df = df['weekday'].value_counts().sort_index().to_frame().reset_index()
+#
+#     fig = px.bar(df,
+#                  x='index',
+#                  y='weekday',
+#                  title=f'Bar chart - Tweets frequency by weekday ({year}).',
+#                  labels={'index': 'weekdays', 'weekday': 'number of tweets'},
+#                  text_auto='.2s')
+#     fig.update_traces(marker_color='rgb(91,192,190)', marker_line_color='rgb(54,115,114)',
+#                   marker_line_width=1.5, opacity=0.7)
+#     fig.layout.paper_bgcolor = '#FFFFFF'
+#     fig.layout.plot_bgcolor = '#FFFFFF'
+#     return fig
+#
+# @app.callback(Output('year_keyword_piechart', 'figure'),
+#               Output('year_keyword_md', 'children'),
+#               Input('year_keyword_dropdown', 'value'))
+#
+# def plot_year_keyword_piechart(year):
+#     if (not year):
+#         raise PreventUpdate
+#     df = df2[df2['year'].eq(year)]
+#     df = df['key_word'].value_counts().sort_index().to_frame().reset_index()
+#     fig = px.pie(df,values='key_word',names='index',
+#                  title=f'Pie chart - Tweets distribution by keyword ({year}).')
+#
+#     if year == 2019:
+#         markdown = f'Texto descriptivo para el año 2019'
+#     elif year == 2020:
+#         markdown = f'Texto descriptivo para el año 2020'
+#     elif year == 2021:
+#         markdown = f'Texto descriptivo para el año 2021'
+#     elif year == 2022:
+#         markdown = f'Texto descriptivo para el año 2022'
+#
+#     return fig, markdown
+#
+# @app.callback(Output('bar_freq_month', 'figure'),
+#               Output('year_month_freq_md', 'children'),
+#               Input('year_month_dropdown', 'value'))
+# def plot_tweets_freq_weekday(year):
+#     if (not year):
+#         raise PreventUpdate
+#
+#     df = df2[df2['year'].eq(year)]
+#     df = df['month'].value_counts().sort_index().to_frame().reset_index()
+#
+#     fig = px.bar(df,
+#                  x='index',
+#                  y='month',
+#                  title=f'Bar chart - Tweets frequency by month ({year}).',
+#                  labels={'index': 'months', 'month': 'number of tweets'},
+#                  text_auto='.2s')
+#     fig.update_traces(marker_color='rgb(91,192,190)', marker_line_color='rgb(54,115,114)',
+#                   marker_line_width=1.5, opacity=0.7)
+#     fig.layout.paper_bgcolor = '#FFFFFF'
+#     fig.layout.plot_bgcolor = '#FFFFFF'
+#
+#     if year == 2019:
+#         markdown = f'Texto descriptivo para el año 2019'
+#     elif year == 2020:
+#         markdown = f'Texto descriptivo para el año 2020'
+#     elif year == 2021:
+#         markdown = f'Texto descriptivo para el año 2021'
+#     elif year == 2022:
+#         markdown = f'Texto descriptivo para el año 2022'
+#
+#     return fig, markdown
