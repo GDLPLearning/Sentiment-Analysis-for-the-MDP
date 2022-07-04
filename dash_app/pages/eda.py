@@ -114,7 +114,7 @@ layout = html.Div([
             html.Br(),
             dcc.Loading([
                 dcc.Markdown(id='display_tweet_text_md',
-                             style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue'}),
+                             style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),
             ]),
             html.Br(),
             html.Div(id='feedback_2'), 
@@ -126,9 +126,19 @@ layout = html.Div([
 
         ],label='EDA: Tweets 2019'),
 
+############### Medellin Development Plan (Tab 2) #################
 
+        dbc.Tab([
+            dbc.Col([
+                    html.Br(),
+                    html.H2('Text Analysis'),
+            ], style={'textAlign': 'center'}),
+                html.Br(),
+                html.Br(),
 
-############### EDA: Tweets keywords 2019 - 2022 (Tab 2) #################
+        ], label='Medellin Development Plan'),
+
+############### EDA: Tweets keywords 2019 - 2022 (Tab 3) #################
 
 ############### Data understanding II #################
 
@@ -225,7 +235,7 @@ layout = html.Div([
             html.Br(),
             dcc.Loading([
                 dcc.Markdown(id='display_tweet_text_2022_md',
-                             style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue'}),
+                             style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),
             ]),
             html.Br(),
             html.Div(id='feedback_2_2022'), 
