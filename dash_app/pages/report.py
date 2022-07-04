@@ -94,7 +94,7 @@ layout = html.Div([
 
     html.Br(),
     dcc.Loading([
-        dcc.Markdown(id='display_random_tweet_by_keyword_and_sentiment_md',
+        dcc.Markdown(id='display_random_tweet_by_key_md',
                      style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),]),
     html.Br(),
     html.Div(id='feedback_2'), 
@@ -104,7 +104,7 @@ layout = html.Div([
     html.Br(),
     html.P('Conclusiones de los gráficos anteriores'),
 
-############### Evolución historica de los sentimientos por palabra clave #################
+############### Historical evolution of sentiment by keyword #################
 
     html.Br(),
     dbc.CardHeader(html.H3('Historical evolution of sentiment by keyword')),
@@ -112,87 +112,69 @@ layout = html.Div([
     html.Br(),
     dbc.Row([
         dbc.Col([
-            dbc.Label('Keyword:'),
-            dcc.Dropdown(id='historic_sentiment_keyword_dropdown',
-                         placeholder='Select one keyword',
-                         options=[{'label':keyword.title(), 'value':i}
-                         for i, keyword in keywords.items()]),
+            dbc.Label("Year:"),
+            dcc.Slider(id='hist_slider', dots=True, min=2019, max=2022, step=1, included=False,
+                       marks={x: str(x) for x in range(2019, 2023, 1)})
             ]),
         dbc.Col([
-            dbc.Label('Year:'),
-            dcc.Dropdown(id='historic_sentiment_year_dropdown',
+            dbc.Label("Keyword:"),
+            dcc.Dropdown(id='hist_keyword',
+                         placeholder='Select one keyword',
                          #multi=True,
-                         placeholder='Select one or more years',
-                         options=[{'label': year, 'value': year} for year in df['year'].drop_duplicates().sort_values()]),
+                         options=[{'label':keyword.title(), 'value':i}
+                                  for i, keyword in keywords.items()]),
+
             ]),
 
         ]),
+    html.Br(),
+    html.Div([
+        dbc.Button("Generate Graph", outline=True, color="primary", className="me-1", size="sm", id="button4"),
+            ], className="d-grid gap-2 col-6 mx-auto"),
+    html.Br(),html.Br(),
     dcc.Loading([
-        dcc.Graph(id='historic_sentiment')
+        dcc.Graph(id='hist_ev'),
         ]),
+        
 
 ############### Word cloud by keyword and sentiment #################
 
-    html.Br(),
+    html.Br(),html.Br(),
     dbc.CardHeader(html.H3('Word cloud by keyword and sentiment')),
     html.P('Explore tweet text sentiment by keyword.'),
     html.Br(),   
-    dbc.Row([
-        dbc.Col([
-            dbc.Label('Keyword:'),
-            dcc.Dropdown(id='word_cloud_sentiment_keyword_dropdown',
-                         placeholder='Select one keyword',
-                         options=[{'label':keyword.title(), 'value':i}
-                         for i, keyword in keywords.items()]),
+    dbc.Col([
+        dbc.Label('Keyword:'),
+        dcc.Dropdown(id='word_cloud_sentiment_keyword_dropdown',
+                     placeholder='Select one keyword',
+                     options=[{'label':keyword.title(), 'value':i}
+                     for i, keyword in keywords.items()]),
             ]),
-        dbc.Col([
-            dbc.Label('Year:'),
-            dcc.Dropdown(id='word_cloud_sentiment_year_dropdown',
-                         #multi=True,
-                         placeholder='Select one or more years',
-                         options=[{'label': year, 'value': year} for year in df['year'].drop_duplicates().sort_values()]),
-            ]),
-
-        ]),
+    html.Br(),
+    html.Div([
+        dbc.Button("Generate Wordclouds", outline=True, color="primary", className="me-1", size="sm", id="button3"),
+            ], className="d-grid gap-2 col-6 mx-auto"),
     html.Br(),html.Br(),
-    dbc.Row([
-        dbc.Col([
-            dbc.Label('General'),
-            dcc.Loading([
-            html.Img(src='assets/images/logo.jpg')
-        ]),
-
-
+    dcc.Loading([
+        html.Div([
+            html.Img(id='word_cloud_keyword')
             ]),
-        dbc.Col([
-            dbc.Label('Positive'),
-            dcc.Loading([
-            html.Img(src='assets/images/logo.jpg')
-        ]),
-
+        
+        # dcc.Markdown(id='word_cloud_keyword',
+        #              style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue'}),
             ]),
 
-        dbc.Col([
-            dbc.Label('Negative'),
-            dcc.Loading([
-            html.Img(src='assets/images/logo.jpg')
-        ]),
-
-            ]),
-
-
-
-
-
-
-        ]), 
 
 
 
 ])
 
+############### Callbacks #####################
 
-@app.callback(Output('display_random_tweet_by_keyword_and_sentiment_md', 'children'),
+
+############### Explore tweet text sentiment by keyword #####################
+
+@app.callback(Output('display_random_tweet_by_key_md', 'children'),
               Input('button1', 'n_clicks'),
               State('random_tweet_year_dropdown', 'value'),
               State('random_tweet_month_dropdown', 'value'),
@@ -220,3 +202,71 @@ def gen_random_tweet(nclicks, year, month, day, keyword, sentiment):
     """
 
     return markdown
+
+
+############### Historical evolution of sentiment by keyword #################
+
+@app.callback(Output('hist_ev', 'figure'),
+              Input('button4', 'n_clicks'),
+              State('hist_slider', 'value'),
+              State('hist_keyword', 'value'))
+
+def plotly_month_keyword(nclicks, year ,keyword):
+
+    if (not nclicks):
+        raise PreventUpdate
+
+    df_sent_freq=pd.DataFrame()
+    df_plot=df[(df['year']==year)]
+    for months in df_plot['month'].unique():
+        df_cross=pd.crosstab(df_plot[df_plot['month']==months]['key_word'],df_plot[df_plot['month']==months]['predicted_sentiment']).reset_index()
+        df_cross['total']=df_cross.sum(axis=1)
+        df_cross['month']=months
+        df_cross['porc_pos']=df_cross[1]/df_cross['total']
+        df_cross=df_cross[['month','key_word','porc_pos']]
+        df_sent_freq=df_sent_freq.append(df_cross)
+
+    df_sent_freq.reset_index(drop=True,inplace=True)
+    df_sent_freq=df_sent_freq.sort_values(by=['month','key_word'],ascending=True)
+    fig=px.line(df_sent_freq[df_sent_freq['key_word']==keyword], x='month', y='porc_pos',color='key_word' ,title='Frequency of Keywords in the Tweets',width=500)  
+    return fig 
+
+
+
+
+
+############### Word cloud by keyword and sentiment #################
+@app.callback(Output('word_cloud_keyword', 'src'),
+              Input('button3', 'n_clicks'),
+              State('word_cloud_sentiment_keyword_dropdown', 'value'))
+
+
+def gen_wordcloud(nclicks, keyword):
+
+    if (not nclicks):
+        raise PreventUpdate
+
+    if keyword == 1:
+        return 'assets/images/key_word_1.jpg'
+    elif keyword == 2:
+        return 'assets/images/key_word_2.jpg'
+    elif keyword == 3:
+        return 'assets/images/key_word_3.jpg'
+    elif keyword == 4:
+        return 'assets/images/key_word_4.jpg'
+    elif keyword == 5:
+        return 'assets/images/key_word_5.jpg'
+    elif keyword == 6:
+        return 'assets/images/key_word_6.jpg'
+    elif keyword == 7:
+        return 'assets/images/key_word_7.jpg'
+    elif keyword == 8:
+        return 'assets/images/key_word_8.jpg'
+    elif keyword == 9:
+        return 'assets/images/key_word_9.jpg'
+
+
+
+
+
+

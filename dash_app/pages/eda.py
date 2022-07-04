@@ -36,6 +36,11 @@ fig = px.pie(df3,values='year',names='index',
     title=f'Pie chart - Tweets distribution by year.')
 
 
+p1 = """
+
+
+"""
+
 # app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUMEN])
 
 
@@ -113,7 +118,7 @@ layout = html.Div([
             html.P('Explicacion de esta sección'),
             html.Br(),
             dcc.Loading([
-                dcc.Markdown(id='display_tweet_text_md',
+                dcc.Markdown(id='display_tweet_md',
                              style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),
             ]),
             html.Br(),
@@ -409,7 +414,7 @@ def plot_freq_hist(nclicks, nbins):
 
 
 ############### Explore the text content of the tweet #################
-@app.callback(Output('display_tweet_text_md', 'children'),
+@app.callback(Output('display_tweet_md', 'children'),
               Output('feedback_2', 'children'),
               Input('button2', 'n_clicks'),)
 
@@ -584,3 +589,5 @@ def gen_random_tweet_2022(nclicks, keyword, year, month):
 #         markdown = f'Texto descriptivo para el año 2022'
 #
 #     return fig, markdown
+
+
