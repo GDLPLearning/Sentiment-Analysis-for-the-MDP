@@ -55,21 +55,21 @@ layout = html.Div([
         dbc.Col([
             dbc.Label('Years:'),
             dcc.Dropdown(id='random_tweet_year_dropdown',
-                         multi=True,
+                         #multi=True,
                          placeholder='Select one or more years',
                          options=[{'label': year, 'value': year} for year in df['year'].drop_duplicates().sort_values()]),
                     ]),
         dbc.Col([
             dbc.Label('Months:'),
             dcc.Dropdown(id='random_tweet_month_dropdown',
-                         multi=True,
+                         #multi=True,
                          placeholder='Select one or more years',
                          options=[{'label':month.title(), 'value':i} for i, month in months.items()]),
             ]),
         dbc.Col([
             dbc.Label('Days:'),
             dcc.Dropdown(id='random_tweet_day_dropdown',
-                         multi=True,
+                         #multi=True,
                          placeholder='Select one or more years',
                          options=[{'label': days, 'value': days} for days in df['day'].drop_duplicates().sort_values()])
             ])
@@ -123,7 +123,7 @@ def gen_random_tweet(nclicks, year, month, day, keyword, sentiment):
 
     df_filtered = df[(df['year'].eq(year)) & (df['month'].eq(month)) & (df['day'].eq(day)) & (df['key_word'] == (keyword)) & (df['sentiment'].eq(sentiment))]
 
-    random_tweet = df_filtered['full_text'].sample().values[0]
+    random_tweet = df_filtered['tweet'].sample().values[0]
 
     markdown = f"{random_tweet}"
 
