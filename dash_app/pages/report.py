@@ -53,21 +53,21 @@ layout = html.Div([
     html.Br(),
     dbc.Row([
         dbc.Col([
-            dbc.Label('Years:'),
+            dbc.Label('Year:'),
             dcc.Dropdown(id='random_tweet_year_dropdown',
                          #multi=True,
                          placeholder='Select one or more years',
                          options=[{'label': year, 'value': year} for year in df['year'].drop_duplicates().sort_values()]),
                     ]),
         dbc.Col([
-            dbc.Label('Months:'),
+            dbc.Label('Month:'),
             dcc.Dropdown(id='random_tweet_month_dropdown',
                          #multi=True,
                          placeholder='Select one or more years',
                          options=[{'label':month.title(), 'value':i} for i, month in months.items()]),
             ]),
         dbc.Col([
-            dbc.Label('Days:'),
+            dbc.Label('Day:'),
             dcc.Dropdown(id='random_tweet_day_dropdown',
                          #multi=True,
                          placeholder='Select one or more years',
@@ -104,6 +104,90 @@ layout = html.Div([
     html.Br(),
     html.P('Conclusiones de los gráficos anteriores'),
 
+############### Evolución historica de los sentimientos por palabra clave #################
+
+    html.Br(),
+    dbc.CardHeader(html.H3('Historical evolution of sentiment by keyword')),
+    html.P('Explore tweet text sentiment by keyword.'),
+    html.Br(),
+    dbc.Row([
+        dbc.Col([
+            dbc.Label('Keyword:'),
+            dcc.Dropdown(id='historic_sentiment_keyword_dropdown',
+                         placeholder='Select one keyword',
+                         options=[{'label':keyword.title(), 'value':i}
+                         for i, keyword in keywords.items()]),
+            ]),
+        dbc.Col([
+            dbc.Label('Year:'),
+            dcc.Dropdown(id='historic_sentiment_year_dropdown',
+                         #multi=True,
+                         placeholder='Select one or more years',
+                         options=[{'label': year, 'value': year} for year in df['year'].drop_duplicates().sort_values()]),
+            ]),
+
+        ]),
+    dcc.Loading([
+        dcc.Graph(id='historic_sentiment')
+        ]),
+
+############### Word cloud by keyword and sentiment #################
+
+    html.Br(),
+    dbc.CardHeader(html.H3('Word cloud by keyword and sentiment')),
+    html.P('Explore tweet text sentiment by keyword.'),
+    html.Br(),   
+    dbc.Row([
+        dbc.Col([
+            dbc.Label('Keyword:'),
+            dcc.Dropdown(id='word_cloud_sentiment_keyword_dropdown',
+                         placeholder='Select one keyword',
+                         options=[{'label':keyword.title(), 'value':i}
+                         for i, keyword in keywords.items()]),
+            ]),
+        dbc.Col([
+            dbc.Label('Year:'),
+            dcc.Dropdown(id='word_cloud_sentiment_year_dropdown',
+                         #multi=True,
+                         placeholder='Select one or more years',
+                         options=[{'label': year, 'value': year} for year in df['year'].drop_duplicates().sort_values()]),
+            ]),
+
+        ]),
+    html.Br(),html.Br(),
+    dbc.Row([
+        dbc.Col([
+            dbc.Label('General'),
+            dcc.Loading([
+            html.Img(src='assets/images/logo.jpg')
+        ]),
+
+
+            ]),
+        dbc.Col([
+            dbc.Label('Positive'),
+            dcc.Loading([
+            html.Img(src='assets/images/logo.jpg')
+        ]),
+
+            ]),
+
+        dbc.Col([
+            dbc.Label('Negative'),
+            dcc.Loading([
+            html.Img(src='assets/images/logo.jpg')
+        ]),
+
+            ]),
+
+
+
+
+
+
+        ]), 
+
+
 
 ])
 
@@ -123,8 +207,16 @@ def gen_random_tweet(nclicks, year, month, day, keyword, sentiment):
 
     df_filtered = df[(df['year'].eq(year)) & (df['month'].eq(month)) & (df['day'].eq(day)) & (df['key_word'] == (keyword)) & (df['sentiment'].eq(sentiment))]
 
-    random_tweet = df_filtered['tweet'].sample().values[0]
+    random_tweet = df_filtered[['full_text', 'predicted_probability']].sample()
 
-    markdown = f"{random_tweet}"
+
+    tweet = random_tweet.iloc[0,0]
+    predict_prob = random_tweet.iloc[0,1]
+
+    markdown = f""" 
+    **Tweet:** {tweet}
+
+    **Predicted Probability:** {predict_prob:.4f} 
+    """
 
     return markdown
