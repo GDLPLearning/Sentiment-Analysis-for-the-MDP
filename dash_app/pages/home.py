@@ -21,6 +21,7 @@ layout =html.Div([
         dbc.Col([
             html.Div([
                 dbc.CardHeader(html.H3('Repository')),
+                html.Br(),
                 html.A([
                     html.Img(src='assets/profile/repo.png', style={'width':'100%','height':'100%'}),
                 ],href='https://github.com/GDLPLearning/Sentiment-Analysis-for-the-MDP',target='_blank'),
@@ -42,7 +43,9 @@ layout =html.Div([
     dbc.Row([
         dbc.Col([
             html.Div([
-
+                dbc.CardHeader(html.H3('Report')),
+                html.Br(),
+                html.Img(src='assets/images/logo_reporte.jpg', style={'width':'100%','height':'100%'}),
             ], style=style_div),
         ]),
         dbc.Col([
