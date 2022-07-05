@@ -47,11 +47,20 @@ sidebar = html.Div(
                 dbc.NavLink("EDA", href="/EDA", active="exact"),
                 dbc.NavLink("Model", href="/model", active="exact"),
                 dbc.NavLink("Report", href="/report", active="exact"),
-                dbc.NavLink("Contact us", href="/contact-us", active="exact"),
+                dbc.NavLink("Contact us", href="/contact-us", active="exact"),   
             ],
             vertical=True,
             pills=True,
         ),
+        html.Br(),
+        html.Div([
+            html.Img(src="assets/images/DS4A - C1.jpg", height="60px",width="200px"),
+            ]),
+        html.Br(),
+        html.Div([
+            html.Img(src="assets/images//MinTic.jpg", height="50px",width="200px"),
+            ]),
+               
     ],
     style=SIDEBAR_STYLE,
 )
