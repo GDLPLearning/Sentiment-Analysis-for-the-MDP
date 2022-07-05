@@ -387,9 +387,6 @@ layout = html.Div([
 
 def plot_freq_hist(nclicks, nbins):
     if (not nclicks):
-        message = dbc.Alert(f"Please select a bin num.",
-                        color='success',
-                         dismissable=True)
         raise PreventUpdate
 
     fig1 = px.histogram(df,
@@ -424,7 +421,8 @@ def plot_freq_hist(nclicks, nbins):
                         color='success',
                          fade=True,
                          is_open=True,
-                         duration=5000,)
+                         duration=4000,
+                         dismissable=True,)
                         
 
     return fig1, fig2, message
@@ -447,7 +445,8 @@ def gen_random_tweet(nclicks):
                         color='success',
                         fade=True,
                         is_open=True,
-                        duration=5000,)
+                        duration=5000,
+                        dismissable=True,)
 
     return markdown, message
 

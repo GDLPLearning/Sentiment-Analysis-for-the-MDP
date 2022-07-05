@@ -18,19 +18,35 @@ data_description={
 df_description=pd.DataFrame(data_description)
 
 
+p = f"Descripcion de esta seccion"
+
 layout = html.Div([
     dbc.Col([
         html.Br(),
         html.H1('Dataset'),
-        html.H2('Dataset selector'),
+        html.Br(),html.Br(),
         ], style={'textAlign': 'center'}),
+    html.P(p),
+    html.Br(), html.Br(),
+    dbc.CardHeader(html.H2('Dataset selector')),
     html.Br(),
     html.Br(),
     dcc.Dropdown(id='dataset_selection',
                  placeholder='Select one dataset',
                  options=[{'label':'Tweets 2019', 'value':'Tweets 2019'},
+                          {'label':'Medellin Development Plan', 'value':'Medellin Development Plan'},
                           {'label':'Tweets keywords 2019 - 2022', 'value':'Tweets keywords 2019 - 2022'},
                           {'label':'Dataset Model', 'value':'Dataset Model'}]),
+    html.Br(),
+    html.Div([
+                dbc.Alert(f"Please choose a dataset from the dropdown to display its description.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],
+
+                id='feedback_dataset'),
     html.Br(),
     html.Br(),
     dbc.Row([
@@ -45,6 +61,7 @@ layout = html.Div([
 
 
 @app.callback(Output('dataset_details_md', 'children'),
+              Output('feedback_dataset', 'children'),
               Input('dataset_selection', 'value'))
 
 def dataset_info_display(dataset):
@@ -55,73 +72,142 @@ def dataset_info_display(dataset):
 
         markdown = """
 
-        Column name (datatype): description.
+        ### Variables
 
-        **Size:** 4.3 MB
 
-        **Shape:** (17700, 9)
+        - **full_text** (string): *Full text of the tweet.*
+        - **user** (string): *Username who posted the tweet.*
+        - **location** (string): *Location where the tweet was post.*
+        - **date** (datetime): *Time when the tweet was post.*
+        - **tweet_id** (str): *Primary key, number id of the tweet.*
+        - **number rt** (int): *Number of retweets of the tweet.*
+        - **number likes** (int): *Number of likes of the tweet.*
+        - **number reply** (int): *Number of likes in the reply.*
+        - **conversation_id** (int): *Identification number of conversation.* 
 
-        **Creation:**
+        #### Size
 
-        **Purpose:**
+        4.3 MB
+
+        #### Shape
+
+        Dataframe: (17700, 9)
+
+        #### Creation
+
+        desc
+
+        #### Purpose
+
+        desc
     """
+
+    elif dataset == 'Medellin Development Plan':
+
+        markdown = """
+
+        ### Variables
+
+
+        - **full_text** (string): *Full text of the tweet.*
+        - **user** (string): *Username who posted the tweet.*
+        - **location** (string): *Location where the tweet was post.*
+        - **date** (datetime): *Time when the tweet was post.*
+        - **tweet_id** (str): *Primary key, number id of the tweet.*
+        - **number rt** (int): *Number of retweets of the tweet.*
+        - **number likes** (int): *Number of likes of the tweet.*
+        - **number reply** (int): *Number of likes in the reply.*
+        - **conversation_id** (int): *Identification number of conversation.* 
+
+        #### Size
+
+        4.3 MB
+
+        #### Shape
+
+        PDF File: #### pages.
+
+        #### Creation
+
+        desc
+
+        #### Purpose
+
+        desc
+
+        """
     elif dataset == 'Tweets keywords 2019 - 2022':
 
         markdown = """
 
-        -----
+        ### Variables
 
-        **Size:** 90.9 MB
 
-        **Shape:** (17700, 9)
+        - **full_text** (string): *Full text of the tweet.*
+        - **user** (string): *Username who posted the tweet.*
+        - **location** (string): *Location where the tweet was post.*
+        - **date** (datetime): *Time when the tweet was post.*
+        - **tweet_id** (str): *Primary key, number id of the tweet.*
+        - **number rt** (int): *Number of retweets of the tweet.*
+        - **number likes** (int): *Number of likes of the tweet.*
+        - **number reply** (int): *Number of likes in the reply.*
+        - **conversation_id** (int): *Identification number of conversation.* 
 
-        **Creation:**
+        #### Size
 
-        **Purpose:**
+        4.3 MB
 
+        #### Shape
+
+        Dataframe: (17700, 9)
+
+        #### Creation
+
+        desc
+
+        #### Purpose
+
+        desc
 
         """
     elif dataset == 'Dataset Model':
 
-
         markdown = """
 
-        **Size:** 4.3 MB
+        ### Variables
 
-        **Shape:** (17700, 9)
 
-        **Creation:**
+        - **full_text** (string): *Full text of the tweet.*
+        - **user** (string): *Username who posted the tweet.*
+        - **location** (string): *Location where the tweet was post.*
+        - **date** (datetime): *Time when the tweet was post.*
+        - **tweet_id** (str): *Primary key, number id of the tweet.*
+        - **number rt** (int): *Number of retweets of the tweet.*
+        - **number likes** (int): *Number of likes of the tweet.*
+        - **number reply** (int): *Number of likes in the reply.*
+        - **conversation_id** (int): *Identification number of conversation.* 
 
-        **Purpose:**
+        #### Size
 
+        4.3 MB
+
+        #### Shape
+
+        Dataframe: (17700, 9)
+
+        #### Creation
+
+        desc
+
+        #### Purpose
+
+        desc
 
         """
-    return markdown
+    message = dbc.Alert(f"You have selected the dataset: {dataset}.",
+                         color='success',
+                         is_open=True,
+                         duration=4000,
+                         dismissable=True,)
 
-
-# html.Div([
-#     html.Div(html.H1(children="DATASET")),
-#     html.Div([
-#         html.H3(children="Data description",style={'text-align': 'left'}),
-#         html.Br(),
-#         DataTable(data=df_description.to_dict('records'),columns=[{"name": i, "id": i} for i in df_description.columns])
-#     ])
-# ])
-
-# x = '''
-
-#         | No    | column name (variable)    | datatype  | description                               |
-#         |----   |------------------------   |---------- |---------------------------------------    |
-#         | 1     | full text                 | string    | full text of the tweet                    |
-#         | 2     | user                      | string    | username who posted the tweet             |
-#         | 3     | location                  | string    | location where the tweet was post         |
-#         | 4     | date                      | datetime  | time when the tweet was post              |
-#         | 5     | tweet id                  | str       | primary key, number id of the tweet       |
-#         | 6     | number rt                 | int       | number of retweets of the tweet           |
-#         | 7     | number likes              | int       | number of likes of the tweet              |
-#         | 8     | number reply              | int       | number of likes in the reply              |
-#         | 9     | conversation id           | int       | identification number of conversation     |
-
-#         -----
-
-#     '''
+    return markdown, message

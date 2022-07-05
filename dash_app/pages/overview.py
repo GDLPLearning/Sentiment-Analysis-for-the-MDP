@@ -18,15 +18,18 @@ style_div={
     'padding':'10px',
 }
 
-
+p = f"""Descripcion de esta seccion"""
 
 # app layout
 layout =html.Div([
     dbc.Col([
         html.Br(),
         html.H1('Overview'),
-        html.H2('Business context'),
+        html.Br(),
         ], style={'textAlign': 'center'}),
+    html.P(p),
+    html.Br(), html.Br(),
+    dbc.CardHeader(html.H2('Business context')),
     html.Br(),
     html.Br(),
     html.P("The objective will be to answer the following questions"),
