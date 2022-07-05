@@ -52,13 +52,13 @@ sidebar = html.Div(
             vertical=True,
             pills=True,
         ),
-        html.Br(),
+        html.Br(),html.Br(),
         html.Div([
-            html.Img(src="assets/images/DS4A - C1.jpg", height="60px",width="200px"),
+            html.Img(src="assets/images/DS4A - C1.jpg", height="60px",width="195px"),
             ]),
         html.Br(),
         html.Div([
-            html.Img(src="assets/images//MinTic.jpg", height="50px",width="200px"),
+            html.Img(src="assets/images//MinTic.jpg", height="40px",width="195px"),
             ]),
                
     ],
