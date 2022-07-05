@@ -145,20 +145,16 @@ layout = html.Div([
         dbc.Col([
             dcc.Loading([
             html.Div([
-                html.Img(id='word_cloud_keyword')
+                html.Img(src='assets/images/wc_text_stop.jpg')
             ]),
             ]),
 
         ]),
         dbc.Col(),    
     ]),
+    html.Br(),html.Br(),
 
     html.P('Explicacion de esta sección'),
-
-
-
-
-
 
 
 ############### Tweet text preprocessing #################

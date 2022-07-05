@@ -172,12 +172,14 @@ layout = html.Div([
     html.Br(),
     dbc.Row([
         dbc.Col([
-            dbc.Label("Year:"),
-            dcc.Slider(id='ratio_slider', dots=True, min=2019, max=2022, step=1, included=True,
-                       marks={x: str(x) for x in range(2019, 2023, 1)})
+            dbc.Label("Years:"),
+            dcc.Dropdown(id='ratio_year',
+                         multi=True,
+                         placeholder='Select one or more years',
+                         options=[{'label': year, 'value': year} for year in df['year'].drop_duplicates().sort_values()]),
             ]),
         dbc.Col([
-            dbc.Label("Keyword:"),
+            dbc.Label("Keywords:"),
             dcc.Dropdown(id='ratio_keyword',
                          placeholder='Select one keyword',
                          multi=True,
@@ -331,10 +333,38 @@ def gen_wordcloud(nclicks, keyword):
 
 ############### Ratio of sentiment per keyword #################
 
-# @app.callback(Output('ratio_graph', 'figure'),
-#               Input('button5', 'n_clicks'),
-#               State('ratio_slider', 'value'),
-#               State('ratio_keyword', 'value'))
+@app.callback(Output('ratio_graph', 'figure'),
+              Input('button5', 'n_clicks'),
+              State('ratio_year', 'value'),
+              State('ratio_keyword', 'value'))
+
+def freq_year(nclicks, year, keyword):
+
+    if (not nclicks):
+        raise PreventUpdate
+
+    df_year=df[(df['year'].isin(year))]
+    df_count=df_year.groupby(['key_word','sentiment']).size().reset_index().rename(columns={0: 'frequency'})
+    df_count.replace({'sentiment': {0: 'Negative', 1: 'Positive'}}, inplace=True)
+    df_count=df_count[df_count['key_word'].isin(keyword)]
+    df_count.replace({'key_word':{1:'Cultura',2:'Empresa',3:'Jovenes',4:'Metro',5:'Movilidad',6:'Seguridad',7:'Tecnologia',8:'Trabajo',9:'Vida'}},inplace=True)
+    fig=px.bar(df_count,
+               x='key_word',
+               y='frequency',
+               color='sentiment',
+               title=f'Frequency of tweets by sentiment {year}',
+               barmode='group',
+               text_auto='.2s',
+               color_discrete_map={'Positive':'#5BC0BE', 'Negative':'#1C2541'},
+               width=1000,
+               height=600,
+               labels={'key_word':'Keywords'})
+    fig.update_traces(marker_line_width=1.5, opacity=0.7)
+    fig.update_layout(title_font_size=15)
+    fig.layout.paper_bgcolor = '#FFFFFF'
+    fig.layout.plot_bgcolor = '#FFFFFF'
+    
+    return fig
 
 
 

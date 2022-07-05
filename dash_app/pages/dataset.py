@@ -36,14 +36,6 @@ layout = html.Div([
     dbc.Row([
         dbc.Col(lg=2),
         dbc.Col([
-            html.Div(id='table_dataset_output'),
-            html.Br(), html.Br()
-            ], lg=8),
-        ]),
-
-    dbc.Row([
-        dbc.Col(lg=2),
-        dbc.Col([
             dcc.Markdown(id='dataset_details_md',
                          style={'backgroundColor': '#FFFFFF'}),
             ],lg=8)
@@ -52,30 +44,18 @@ layout = html.Div([
     ])
 
 
-
-
-@app.callback(Output('table_dataset_output', 'children'),
-              Output('dataset_details_md', 'children'),
+@app.callback(Output('dataset_details_md', 'children'),
               Input('dataset_selection', 'value'))
+
 def dataset_info_display(dataset):
     if (not dataset):
         raise PreventUpdate
 
     if dataset == 'Tweets 2019':
-        df = pd.read_csv('pages/data/2019.csv')
 
-        table = DataTable(columns = [{'name':col, 'id':col}
-                                     for col in df[['full_text']].columns],
-                          data = df.to_dict('records'),
-                          style_header={'whiteSpace': 'normal'},
-                          fixed_rows={'headers': True},
-                          virtualization=True,
-                          style_table={'height': '600px'},
-                          sort_action='native',
-                          filter_action='native',
-                          export_format='csv',
-                          style_cell={'minWidth': '150px'}),
         markdown = """
+
+        Column name (datatype): description.
 
         **Size:** 4.3 MB
 
@@ -87,19 +67,6 @@ def dataset_info_display(dataset):
     """
     elif dataset == 'Tweets keywords 2019 - 2022':
 
-        df = pd.read_csv('pages/data/tweets.csv')
-
-        table = DataTable(columns = [{'name':col, 'id':col}
-                                     for col in df[['full_text', 'key_word']].columns],
-                          data = df.to_dict('records'),
-                          style_header={'whiteSpace': 'normal'},
-                          fixed_rows={'headers': True},
-                          virtualization=True,
-                          style_table={'height': '600px'},
-                          sort_action='native',
-                          filter_action='native',
-                          export_format='csv',
-                          style_cell={'minWidth': '150px'}),
         markdown = """
 
         -----
@@ -116,19 +83,7 @@ def dataset_info_display(dataset):
         """
     elif dataset == 'Dataset Model':
 
-        df = pd.read_csv('pages/data/tweets.csv')
 
-        table = DataTable(columns = [{'name':col, 'id':col}
-                                     for col in df.columns],
-                          data = df.to_dict('records'),
-                          style_header={'whiteSpace': 'normal'},
-                          fixed_rows={'headers': True},
-                          virtualization=True,
-                          style_table={'height': '600px'},
-                          sort_action='native',
-                          filter_action='native',
-                          export_format='csv',
-                          style_cell={'minWidth': '150px'}),
         markdown = """
 
         **Size:** 4.3 MB
@@ -141,7 +96,7 @@ def dataset_info_display(dataset):
 
 
         """
-    return table, markdown
+    return markdown
 
 
 # html.Div([

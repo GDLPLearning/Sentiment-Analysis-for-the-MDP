@@ -64,10 +64,6 @@ sidebar = html.Div(
                 html.Img(src="assets/images//MinTic.jpg", height="45px",width="195px"),
             ], href="https://www.mintic.gov.co/micrositios/cienciadedatos/747/w3-channel.html",target="_blank"),
         ]),
-<<<<<<< HEAD
-
-=======
->>>>>>> c89a38aa2aa9d5cc8fbef9b680593d7b867ca748
                
     ],
     style=SIDEBAR_STYLE,
