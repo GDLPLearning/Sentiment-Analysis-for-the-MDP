@@ -164,7 +164,37 @@ layout = html.Div([
         #              style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue'}),
             ]),
 
+############### Ratio of sentiment per keyword #################
 
+    html.Br(),html.Br(),
+    dbc.CardHeader(html.H3('Ratio of sentiment per keyword')),
+    html.P('Explore tweet text sentiment by keyword.'),
+    html.Br(),
+    dbc.Row([
+        dbc.Col([
+            dbc.Label("Year:"),
+            dcc.Slider(id='ratio_slider', dots=True, min=2019, max=2022, step=1, included=True,
+                       marks={x: str(x) for x in range(2019, 2023, 1)})
+            ]),
+        dbc.Col([
+            dbc.Label("Keyword:"),
+            dcc.Dropdown(id='ratio_keyword',
+                         placeholder='Select one keyword',
+                         multi=True,
+                         options=[{'label':keyword.title(), 'value':i}
+                                  for i, keyword in keywords.items()]),
+
+            ]),
+
+        ]),
+    html.Br(),
+    html.Div([
+        dbc.Button("Generate Graph", outline=True, color="primary", className="me-1", size="sm", id="button5"),
+            ], className="d-grid gap-2 col-6 mx-auto"),
+    html.Br(),html.Br(),
+    dcc.Loading([
+        dcc.Graph(id='ratio_graph'),
+        ]),
 
 
 ])
@@ -296,6 +326,18 @@ def gen_wordcloud(nclicks, keyword):
         return 'assets/images/key_word_8.jpg'
     elif keyword == 9:
         return 'assets/images/key_word_9.jpg'
+
+
+
+############### Ratio of sentiment per keyword #################
+
+# @app.callback(Output('ratio_graph', 'figure'),
+#               Input('button5', 'n_clicks'),
+#               State('ratio_slider', 'value'),
+#               State('ratio_keyword', 'value'))
+
+
+
 
 
 

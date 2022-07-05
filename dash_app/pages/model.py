@@ -134,6 +134,33 @@ layout = html.Div([
         html.H2(''),
         ], style={'textAlign': 'center'}),
 
+############### Stopwords #################
+
+    html.Br(), html.Br(),
+    dbc.CardHeader(html.H3('Stopwords')),
+    html.P('Explicacion de esta sección'),
+    html.Br(),html.Br(),
+    dbc.Row([
+        dbc.Col(),
+        dbc.Col([
+            dcc.Loading([
+            html.Div([
+                html.Img(id='word_cloud_keyword')
+            ]),
+            ]),
+
+        ]),
+        dbc.Col(),    
+    ]),
+
+    html.P('Explicacion de esta sección'),
+
+
+
+
+
+
+
 ############### Tweet text preprocessing #################
 
     dbc.CardHeader(html.H3('Tweet text preprocessing')),
