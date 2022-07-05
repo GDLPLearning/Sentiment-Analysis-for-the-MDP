@@ -12,11 +12,7 @@ from dash.dependencies import Input, Output
 # app instantiation
 list_color=['#0C1821','#0B132B','#1C2541','#1B2A41','#324A5F','#3A506B','#5BC0BE','#CCC9DC','#6FFFE9']
 
-style_div={
-    'border':'#5BC0BE 0.03rem solid ',
-    'border-radius':'1rem',
-    'padding':'10px',
-}
+
 
 p = f"""Descripcion de esta seccion"""
 
@@ -106,8 +102,12 @@ layout =html.Div([
                         ],title="Línea estratégica 5: Gobernanza y Gobernabilidad"),
                 ],start_collapsed=True),
                 html.Br(),
-                html.P('Descriptive analysis of this plan will allow us to answer the first question.')
-            ],style=style_div),
+                html.Br(),
+                html.P('Descriptive analysis of this plan will allow us to answer the first question.'),
+                html.Br(),
+                html.Br(),
+                html.Br(),
+            ],style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px'}),
         ]),
         dbc.Col([
             html.Div([
@@ -118,6 +118,8 @@ layout =html.Div([
                     items=[
                         {"key":"1","src":"assets/tweets/tweet1.png",'caption':'Tweet 1: about security and opportunities','img_style':{'padding':'80px'}},
                         {"key":"2","src":"assets/tweets/tweet2.png",'caption':'Tweeet 2: about Medellín City Subway ','img_style':{'padding':'80px'}},
+                        {"key":"3","src":"assets/tweets/tweet3.png",'caption':'Tweet 3: about culture','img_style':{'padding':'80px'}},
+                        {"key":"4","src":"assets/tweets/tweet4.png",'caption':'Tweet 4: about youth','img_style':{'padding':'80px'}},
                     ],
                     controls=True,
                     indicators=True,
@@ -125,8 +127,8 @@ layout =html.Div([
                     variant='dark',
                     style={'height': '400px', 'width': '500px'}
                 ),
-                html.P('How would you classify, in terms of sentiment the above tweets? positive, negative or neutral? Sentiment analysis could help you with that and also answer the second question mentioned at the beginning of this page.'),
-            ],style=style_div),
+                html.P('How would you classify, in terms of sentiment the above tweets? positive or negative? Sentiment analysis could help you with that and also answer the second question mentioned at the beginning of this page.'),
+            ],style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px'}),
         ]),
     ]),
 ])
