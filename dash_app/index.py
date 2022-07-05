@@ -52,8 +52,16 @@ sidebar = html.Div(
             vertical=True,
             pills=True,
         ),
+        html.Br(),html.Br(),
+        html.Div([
+<<<<<<< HEAD
+            html.Img(src="assets/images/DS4A - C1.jpg", height="60px",width="195px"),
+            ]),
         html.Br(),
         html.Div([
+            html.Img(src="assets/images//MinTic.jpg", height="40px",width="195px"),
+            ]),
+=======
             html.A([
                 html.Img(src="assets/images/DS4A - C1.jpg", height="60px",width="200px"),
             ], href="https://www.correlation-one.com/data-science-for-all-colombia",target="_blank"),
@@ -64,6 +72,7 @@ sidebar = html.Div(
                 html.Img(src="assets/images//MinTic.jpg", height="50px",width="200px"),
             ], href="https://www.mintic.gov.co/micrositios/cienciadedatos/747/w3-channel.html",target="_blank"),
         ]),
+>>>>>>> 431c656a179c86ac5696e1f803e5616ec21bab19
                
     ],
     style=SIDEBAR_STYLE,
