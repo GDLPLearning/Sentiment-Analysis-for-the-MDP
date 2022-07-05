@@ -42,7 +42,7 @@ layout =html.Div([
             html.Div([
                 dbc.CardHeader(html.H3('MDP')),
                 html.Br(),
-                html.P("The Medellin Development Plan (MDP) 2020 - 2023 is the local government proposal that seeks to guarantee comprehensive attention to the needs of Medellin's citizens. It is divided into five strategic lines:"),
+                html.P("The Medellin Development Plan (MDP) 2020 - 2023 is the local government proposal that seeks to guarantee comprehensive attention to the needs of Medellin's citizens. It is divided into five strategic lines (in spanish 'Líneas estrategicas'):"),
                 html.Br(),
                 dbc.Accordion([
                     dbc.AccordionItem([
@@ -55,7 +55,7 @@ layout =html.Div([
                             html.Li("Semilla bilingüe para Valle del Software."),
                             html.Li("Economía creativa."),
                         ]),
-                        ],title="Linea estrategica 1: Reactivación Económica y Valle del Software"),
+                        ],title="Línea estratégica 1: Reactivación Económica y Valle del Software"),
                     dbc.AccordionItem([
                         html.P("Guarantee quality education and promote culture and safeguard heritage and memories to turn Medellín into a peaceful and supportive city."),
                         html.Br(),
@@ -66,7 +66,7 @@ layout =html.Div([
                             html.Li("Medellín ciudad de la ciencia y el conocimiento."),
                             html.Li("Medellín vive las artes y la cultura."),
                         ]),
-                        ],title="Linea estrategica 2: Transformación Educativa y Cultural"),
+                        ],title="Línea estratégica 2: Transformación Educativa y Cultural"),
                     dbc.AccordionItem([
                         html.P("To guarantee the basic, social and cultural conditions that allow the citizens of Medellín to develop their human potential to the maximum."),
                         html.Br(),
@@ -77,7 +77,7 @@ layout =html.Div([
                             html.Li("Canasta básica de derechos."),
                             html.Li("Acciones de fortalecimiento social para el cuidado y la protección."),
                         ]),
-                        ],title="Linea estrategica 3: Medellín Me Cuida"),
+                        ],title="Línea estratégica 3: Medellín Me Cuida"),
                     dbc.AccordionItem([
                         html.P("to lead Medellín to a future of sustainability and guarantee the integration of the city and the rural space."),
                         html.Br(),
@@ -88,7 +88,7 @@ layout =html.Div([
                             html.Li("Vivienda, hábitat sostenible y mejoramiento integral de barrios."),
                             html.Li("Desarrollo rural sostenible."),
                         ]),
-                        ],title="Linea estrategica 4: Ecociudad"),
+                        ],title="Línea estratégica 4: Ecociudad"),
                     dbc.AccordionItem([
                         html.P("Generate institutional, political and citizen conditions and capacities to strengthen the public sector, generating synergy between government and citizens. Dialogue with different sectors for a collective construction of citizen processes."),
                         html.Br(),
@@ -100,7 +100,7 @@ layout =html.Div([
                             html.Li("Inteligencia, tecnología e infraestructura para la seguridad y la convivencia."),
                             html.Li("Planeación territorial para el desarrollo."),
                         ]),
-                        ],title="Linea estrategica 5: Gobernanza y Gobernabilidad"),
+                        ],title="Línea estratégica 5: Gobernanza y Gobernabilidad"),
                 ],start_collapsed=True),
                 html.Br(),
                 html.P('Descriptive analysis of this plan will allow us to answer the first question.')
@@ -111,11 +111,10 @@ layout =html.Div([
                 dbc.CardHeader(html.H3('Tweets')),
                 html.Br(),
                 html.P('The tweets show the main topics people are talking about. Therefore, they are an approximation of the needs of the citizens of the city of Medellín.'),
-                html.Br(),
                 dbc.Carousel(
                     items=[
-                        {"key":"1","src":"assets/tweets/tweet1.png",'caption':'Tweet 1: about security and opportunities','img_style':{'height':'400px','padding':'80px',"padding-top":"5px"}},
-                        {"key":"2","src":"assets/tweets/tweet2.png",'caption':'Tweeet 2: about "Metro de Medellín" ','img_style':{'height':'400px','padding':'80px',"padding-top":"5px"}},
+                        {"key":"1","src":"assets/tweets/tweet1.png",'caption':'Tweet 1: about security and opportunities','img_style':{'padding':'80px'}},
+                        {"key":"2","src":"assets/tweets/tweet2.png",'caption':'Tweeet 2: about Medellín City Subway ','img_style':{'padding':'80px'}},
                     ],
                     controls=True,
                     indicators=True,
@@ -128,6 +127,5 @@ layout =html.Div([
         ]),
     ]),
 ])
-
 
 

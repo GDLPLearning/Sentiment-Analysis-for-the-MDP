@@ -29,12 +29,16 @@ layout =html.Div([
         ]),
         dbc.Col([
             html.Div([
-
+                dbc.CardHeader(html.H3('Presentation')),
+                html.Br(),
+                html.A([
+                    html.Img(src='https://api.iconify.design/entypo-social/youtube.svg', style={'width':'42%','height':'42%','margin-left':'25%'}),
+                ]),
             ], style=style_div),
         ]),
         dbc.Col([
             html.Div([
-
+                dbc.CardHeader(html.H3('Datafolio')),
             ], style=style_div),
         ]),
     ]),
@@ -45,12 +49,12 @@ layout =html.Div([
             html.Div([
                 dbc.CardHeader(html.H3('Report')),
                 html.Br(),
-                html.Img(src='assets/images/logo_reporte.jpg', style={'width':'100%','height':'100%'}),
+                html.Img(src='assets/images/logo_reporte.jpg', style={'width':'50%','height':'50%','margin-left':'25%'}),
             ], style=style_div),
         ]),
         dbc.Col([
             html.Div([
-
+                dbc.CardHeader(html.H3('Documentation')),
             ], style=style_div),
         ]),
         dbc.Col([]),
