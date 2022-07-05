@@ -43,8 +43,33 @@ df3 = df2['year'].value_counts().sort_index().to_frame().reset_index()
 fig = px.pie(df3,values='year',names='index', 
     title=f'Pie chart - Tweets distribution by year.')
 
+df_words = pd.read_csv('pages/data/word_fre_2019.csv')
+
+def rep_words():
+    fig = px.bar(df_words.head(35).sort_values(by='frequency'), 
+                 x='frequency', 
+                 y='word',
+                 orientation='h',
+                 height=600,
+                 color_discrete_sequence=['#5BC0BE']
+                 )
+    fig.update_layout(title_font_size=15)
+    fig.layout.paper_bgcolor = '#FFFFFF'
+    fig.layout.plot_bgcolor = '#FFFFFF'
+
+    return fig
+
+
 
 p1 = """
+Welcome to the EDA, in this section you can interact with the data sets used to 
+develop the model, through interactive content you can learn first hand some of 
+the most important findings of each of the sections, as well as brief explanations 
+of how those responsible for the project manipulated, cleaned, enriched and visualized 
+the information to draw conclusions for the construction of the model and its future 
+interpretation, always guiding the analysis to find answers to the two hypotheses 
+proposed in the definition of the problem.
+
 
 
 """
@@ -66,7 +91,7 @@ layout = html.Div([
         html.H1('Exploratory Data Analisis - EDA'),
         ], style={'textAlign': 'center'}),
     html.Br(), html.Br(),
-        html.P('Ingresar texto introductorio de la sección del EDA'),
+        html.P(p1),
 
 ############### Tabs #############################
 
@@ -136,6 +161,32 @@ layout = html.Div([
                 ], className="d-grid gap-2 col-6 mx-auto"),
             html.Br(),
             html.P('Conclusiones de los gráficos anteriores'),
+
+
+
+############### Words frequency #################
+            html.Br(),html.Br(),
+            dbc.CardHeader(html.H3('Words frequency')),
+            html.P('Explicacion de esta sección'),
+            html.Br(),
+            dbc.Row([
+                dbc.Col([
+                    dcc.Loading([
+                        dcc.Graph(id='freq_words', figure=rep_words())
+                        ]),
+                    ]),
+                dbc.Col([
+                    dcc.Loading([
+                        html.Div([
+                            html.Img(src='assets/images/wc_text.jpg')
+                        ]),
+                    ]),
+
+                ]),
+
+            ]),
+
+
 
         ],label='EDA: Tweets 2019'),
 
@@ -310,6 +361,9 @@ layout = html.Div([
 
 def plot_freq_hist(nclicks, nbins):
     if (not nclicks):
+        message = dbc.Alert(f"Please select a bin num.",
+                        color='success',
+                         dismissable=True)
         raise PreventUpdate
 
     fig1 = px.histogram(df,
