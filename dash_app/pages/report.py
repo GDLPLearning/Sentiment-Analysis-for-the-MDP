@@ -120,7 +120,7 @@ layout = html.Div([
             dbc.Label("Keyword:"),
             dcc.Dropdown(id='hist_keyword',
                          placeholder='Select one keyword',
-                         #multi=True,
+                         multi=True,
                          options=[{'label':keyword.title(), 'value':i}
                                   for i, keyword in keywords.items()]),
 
@@ -195,10 +195,19 @@ def gen_random_tweet(nclicks, year, month, day, keyword, sentiment):
     tweet = random_tweet.iloc[0,0]
     predict_prob = random_tweet.iloc[0,1]
 
+    if sentiment == 1:
+        p_value = 100 * (2 * predict_prob - 1)
+        name = 'Positive Probability'
+    elif sentiment == 0:
+        p_value = -100 * (2 * predict_prob - 1)
+        name = 'Negative Probability'
+
     markdown = f""" 
     **Tweet:** {tweet}
 
-    **Predicted Probability:** {predict_prob:.4f} 
+    **Predicted Probability:** {predict_prob:.4f}
+
+    **{name}**: {p_value:.2f}% 
     """
 
     return markdown
@@ -219,16 +228,39 @@ def plotly_month_keyword(nclicks, year ,keyword):
     df_sent_freq=pd.DataFrame()
     df_plot=df[(df['year']==year)]
     for months in df_plot['month'].unique():
-        df_cross=pd.crosstab(df_plot[df_plot['month']==months]['key_word'],df_plot[df_plot['month']==months]['predicted_sentiment']).reset_index()
+        df_cross=pd.crosstab(df_plot[df_plot['month']==months]['key_word'],df_plot[df_plot['month']==months]['sentiment']).reset_index()
         df_cross['total']=df_cross.sum(axis=1)
         df_cross['month']=months
         df_cross['porc_pos']=df_cross[1]/df_cross['total']
         df_cross=df_cross[['month','key_word','porc_pos']]
-        df_sent_freq=df_sent_freq.append(df_cross)
+        df_sent_freq=pd.concat([df_sent_freq,df_cross])
 
     df_sent_freq.reset_index(drop=True,inplace=True)
     df_sent_freq=df_sent_freq.sort_values(by=['month','key_word'],ascending=True)
-    fig=px.line(df_sent_freq[df_sent_freq['key_word']==keyword], x='month', y='porc_pos',color='key_word' ,title='Frequency of Keywords in the Tweets',width=500)  
+    fig=px.line(df_sent_freq[df_sent_freq['key_word'].isin(keyword)], 
+        x='month', 
+        y='porc_pos',
+        color='key_word',
+        markers=True,
+        title='Frequency of Keywords in the Tweets',
+        width=1000,
+        height=600,
+        color_discrete_sequence=px.colors.sequential.Turbo,
+        labels={'porc_pos': '% Rate Positive Tweets', 'month': 'Months'},)
+
+    newnames = {'1': 'Cultura', '2': 'Empresa', '3': 'Jovenes', '4': 'Metro', 
+                '5': 'Movilidad', '6': 'Seguridad', '7': 'Tecnologia', 
+                '8': 'Trabajo', '9': 'Vida'}
+    fig.for_each_trace(lambda t: t.update(name = newnames[t.name],
+                                      legendgroup = newnames[t.name],
+                                      hovertemplate = t.hovertemplate.replace(t.name, newnames[t.name])
+                                     )
+                  )   
+    
+    fig.layout.paper_bgcolor = '#FFFFFF'
+    fig.layout.plot_bgcolor = '#FFFFFF'
+    fig.update_layout(title_font_size=15)
+
     return fig 
 
 

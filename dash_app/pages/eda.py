@@ -30,6 +30,14 @@ months = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May',
           6:'June', 7:'July', 8:'August', 9:'September', 10:'October',
           11:'November', 12:'December'}
 
+lineas_estrategicas = {'Medellin Development Plan': 0,
+                       'Línea estratégica 1: Reactivación Económica y Valle del Software': 1,
+                       'Línea estratégica 2: Transformación Educativa y Cultura': 2,
+                       'Línea estratégica 3: Medellin Me Cuida': 3,
+                       'Línea estratégica 4: Ecociudad': 4,
+                       'Línea estratégica 5: Gobernanza y Gobernabilidad': 5,
+                       }
+
 
 df3 = df2['year'].value_counts().sort_index().to_frame().reset_index()
 fig = px.pie(df3,values='year',names='index', 
@@ -141,7 +149,33 @@ layout = html.Div([
                 html.Br(),
                 html.Br(),
 
+            dbc.CardHeader(html.H3('Wordclouds by "Linea Estrategica"')),
+            html.P('Explicacion de esta sección'),
+            html.Br(),
+            dcc.Dropdown(id='lineas_estrategicas',
+                         placeholder='Select one "Linea Estrategica"',
+                         options=[{'label':linea, 'value':i}
+                                  for linea,i in lineas_estrategicas.items()]),
+            html.Br(),
+            html.Div([
+                dbc.Button("Generate Wordclouds", outline=True, color="primary", className="me-1", size="sm", id="button_lestr"),
+                ],  className="d-grid gap-2 col-6 mx-auto"),
+            html.Br(),html.Br(),
+            dbc.Row([
+                dbc.Col(),
+                dbc.Col([
+                    dcc.Loading([
+                    html.Div([
+                    html.Img(id='word_cloud_linea')]),
+                ]),
+                    ]),
+                dbc.Col(),
+                ]),
+            
+
         ], label='Medellin Development Plan'),
+
+
 
 ############### EDA: Tweets keywords 2019 - 2022 (Tab 3) #################
 
@@ -248,59 +282,7 @@ layout = html.Div([
                 dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2_2022"),
                 ], className="d-grid gap-2 col-6 mx-auto"),
             html.Br(),
-            html.P('Conclusiones de los gráficos anteriores'),
-
-############### Most used words in tweet text by keyword #################
-
-    #         html.Br(),html.Br(),
-    #         dbc.CardHeader(html.H3("Most used words in tweet text by keyword")),
-    #         dbc.Alert("Not enough data to render these plots, please adjust the filters",
-    #                   id="no-data-alert",
-    #                   color="warning",
-    #                   style={"display": "none"},),
-    #         html.P('Explicacion de esta sección'),
-    #         html.Br(),
-    #         html.Div(id='feedback_4_2022'), 
-    #         dbc.Label('Keyword:'),
-    #         dcc.Dropdown(id='keyword_selector_20222',
-    #                      placeholder='Select one keyword',
-    #                      options=[{'label':keyword.title(), 'value':keyword}
-    #                                for keyword in df2['key_word'].drop_duplicates().sort_values()]),
-    #         html.Br(),
-    #         dbc.CardBody([
-    #             dbc.Row([
-    #                 dbc.Col(
-    #                     dcc.Loading(
-    #                         id="loading-frequencies",
-    #                         children=[dcc.Graph(id="frequency_figure")],
-    #                         type="default",)
-    #                 ),
-    #                 dbc.Col([
-    #                     dcc.Tabs(id="tabs",
-    #                              children=[
-    #                         dcc.Tab(label="Treemap",
-    #                                 children=[
-    #                                     dcc.Loading(id="loading-treemap",
-    #                                                 children=[dcc.Graph(id="bank-treemap")],
-    #                                                 type="default",)],
-    #                                 ),
-    #                         dcc.Tab(label="Wordcloud",
-    #                                 children=[
-    #                                     dcc.Loading(id="loading-wordcloud",
-    #                                                 children=[
-    #                                                     dcc.Graph(id="bank-wordcloud")],
-    #                                                 type="default",)
-    #                                     ],
-    #                                 ),
-    #                             ],
-    #                         )
-    #                     ],
-    #                     md=8,
-    #                 ),
-    #             ]
-    #         )
-    #     ]
-    # ),            
+            html.P('Conclusiones de los gráficos anteriores'),           
 
 
         ],label='EDA: Tweets keywords 2019 - 2022'),
@@ -309,53 +291,6 @@ layout = html.Div([
     ])
 
 
-
-
-    # html.H4('EDA: Tweets keywords 2019 - 2022'),
-    # html.Br(),
-    # html.Br(),
-    # dcc.Dropdown(id='year_weekday_dropdown',
-    #              placeholder='Select one year',
-    #              #multi=True,
-    #              #placeholder='Select one or more years',
-    #              options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()]),
-    # dcc.Graph(id='bar_freq_weekday', figure=make_empty_fig()),
-    # dcc.Markdown(id='indicator_map_details_md',
-    #              style={'backgroundColor': '#E5ECF6'}),
-    
-    # html.Br(),
-    # dbc.Row([
-    #     dbc.Col(lg=9),
-    #     dbc.Col([
-    #     dcc.Dropdown(id='year_keyword_dropdown',
-    #                  placeholder='Select one year',
-    #                  options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()])  
-    #         ], lg=3),
-    #     ]),
-    # dbc.Row([
-    #     dbc.Col([
-    #         dcc.Graph(figure=fig)], lg=4),
-    #     dbc.Col([
-    #         dcc.Markdown(id='year_keyword_md',
-    #                     style={'backgroundColor': '#E5ECF6'}),
-    #         ], lg=3), 
-    #     dbc.Col([dcc.Graph(id='year_keyword_piechart', figure=make_empty_fig())], lg=5)
-        
-
-    #     ]),
-
-    # html.Br(),
-    # html.Br(),
-    # dcc.Dropdown(id='year_month_dropdown',
-    #              placeholder='Select one year',
-    #              #multi=True,
-    #              #placeholder='Select one or more years',
-    #              options=[{'label': year, 'value': year} for year in df2['year'].drop_duplicates().sort_values()]),
-    # dcc.Graph(id='bar_freq_month', figure=make_empty_fig()),
-    # dcc.Markdown(id='year_month_freq_md',
-    #              style={'backgroundColor': '#E5ECF6'}),
-     
-    # ])  
 
 ############### Callbacks #################
 
@@ -431,6 +366,32 @@ def gen_random_tweet(nclicks):
                          dismissable=True)
 
     return markdown, message
+
+############### Medellin Development Plan (Tab 2) #################
+
+@app.callback(Output('word_cloud_linea','src'),
+              Input('button_lestr', 'n_clicks'),
+              State('lineas_estrategicas', 'value'))
+
+def word_cloud_lin(nclicks, linea):
+
+    if (not nclicks):
+        raise PreventUpdate
+
+    if linea == 0:
+        return 'assets/images/wc_pdm.jpg'
+    elif linea == 1:
+        return 'assets/images/wcl1.jpg'
+    elif linea == 2:
+        return 'assets/images/wcl2.jpg'
+    elif linea == 3:
+        return 'assets/images/wcl3.jpg'
+    elif linea == 4:
+        return 'assets/images/wcl4.jpg'
+    elif linea == 5:
+        return 'assets/images/wcl5.jpg'
+
+
 
 ############### Data understanding II #################
 
