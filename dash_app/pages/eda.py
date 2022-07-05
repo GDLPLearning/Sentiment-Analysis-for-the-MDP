@@ -178,7 +178,15 @@ layout = html.Div([
                              style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),
             ]),
             html.Br(),
-            html.Div(id='feedback_2'), 
+            html.Div([
+                dbc.Alert(f"Click the buton to generate a random tweet, each time you press it a new tweet is generated.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],
+                id='feedback_2'), 
+            html.Br(),
             html.Div([
                 dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2"),
                 ], className="d-grid gap-2 col-6 mx-auto"),
@@ -223,23 +231,40 @@ layout = html.Div([
                     html.Br(),
                     html.H2('Text Analysis'),
             ], style={'textAlign': 'center'}),
-                html.Br(),
-                html.Br(),
-
+            html.Br(),
+            html.Br(),
+            html.P("Descripcion"),
+            html.Br(),
             dbc.CardHeader(html.H3('Wordclouds by "Linea Estrategica"')),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dcc.Dropdown(id='lineas_estrategicas',
                          placeholder='Select one "Linea Estrategica"',
+                         value = 0,
                          options=[{'label':linea, 'value':i}
                                   for linea,i in lineas_estrategicas.items()]),
             html.Br(),
+            html.Div([
+                dbc.Alert(f"Select a value from the dropdown to generate a short description and its word cloud.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],
+                id='feedback_wc_mdp'),
+            html.Br(), 
             html.Div([
                 dbc.Button("Generate Wordclouds", outline=True, color="primary", className="me-1", size="sm", id="button_lestr"),
                 ],  className="d-grid gap-2 col-6 mx-auto"),
             html.Br(),html.Br(),
             dbc.Row([
                 dbc.Col(),
+                dbc.Col([
+                    dcc.Loading([
+                        dcc.Markdown(id='mdp_details_md',
+                                     style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '10px'}),
+                        ]),
+                    ]),
                 dbc.Col([
                     dcc.Loading([
                     html.Div([
@@ -265,10 +290,13 @@ layout = html.Div([
         ], style={'textAlign': 'center'}),
             html.Br(),
             html.Br(),
+            html.P(p2),
+            html.Br(),
 
 ############### Distribution of tweet text length #################
 
             dbc.CardHeader(html.H3('Distribution of tweet text length')),
+            html.Br(),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dbc.Row([
@@ -300,7 +328,13 @@ layout = html.Div([
                 ], lg=6),
         ]),
             html.Br(),
-            html.Div(id='feedback_1_2022'),
+            html.Div([
+                dbc.Alert(f"Please select the number of bins, year(s) and keyword before generating the charts, otherwise the default value will be used.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],id='feedback_1_2022'),
             dbc.Row([
                 dbc.Col(lg=1),
                 dbc.Col([
@@ -322,12 +356,13 @@ layout = html.Div([
 
             html.Br(),html.Br(),
             dbc.CardHeader(html.H3('Explore the text content of the tweets')),
-            html.P('Explicacion de esta sección'),
             html.Br(),
-            html.Div(id='feedback_3_2022'), 
+            html.P('Explicacion de esta sección'),
+            html.Br(), 
             dbc.Label('Keyword:'),
             dcc.Dropdown(id='keyword_selector_20222',
                          placeholder='Select one keyword',
+                         value='cultura',
                          options=[{'label':keyword.title(), 'value':keyword}
                                    for keyword in df2['key_word'].drop_duplicates().sort_values()]),
             html.Br(),
@@ -335,13 +370,13 @@ layout = html.Div([
                 dbc.Col([
                     dbc.Label('Year:'),
                     dcc.Slider(id='years_random_tweet_slider_2022',
-                       dots=True, min=2019, max=2022, step=1, included=False,
+                       dots=True, min=2019, max=2022, step=1, included=False, value=2019,
                        marks={x: str(x) for x in range(2019, 2023, 1)}),
                     ]),
                 dbc.Col([
                     dbc.Label('Month:'),
                     dcc.Dropdown(id='month_selector_2022',
-                         placeholder='Select one month',
+                         placeholder='Select one month', value=1,
                          options=[{'label':month, 'value':i}
                                    for i, month in months.items()]),
                     ]),
@@ -354,11 +389,18 @@ layout = html.Div([
                              style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),
             ]),
             html.Br(),
-            html.Div(id='feedback_2_2022'), 
+            html.Div([
+                dbc.Alert(f"Select a value for keyword, year and month, otherwise the default value will be selected, then press the button to generate a random tweet, every time you press it a new tweet will be generated.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],id='feedback_2_2022'),
+            html.Br(),
             html.Div([
                 dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2_2022"),
                 ], className="d-grid gap-2 col-6 mx-auto"),
-            html.Br(),
+            html.Br(),html.Br(),
             html.P('Conclusiones de los gráficos anteriores'),           
 
 
@@ -445,14 +487,16 @@ def gen_random_tweet(nclicks):
                         color='success',
                         fade=True,
                         is_open=True,
-                        duration=5000,
+                        duration=4000,
                         dismissable=True,)
 
     return markdown, message
 
 ############### Medellin Development Plan (Tab 2) #################
 
-@app.callback(Output('word_cloud_linea','src'),
+@app.callback(Output('feedback_wc_mdp', 'children'),
+              Output('mdp_details_md','children'),
+              Output('word_cloud_linea','src'),
               Input('button_lestr', 'n_clicks'),
               State('lineas_estrategicas', 'value'))
 
@@ -461,18 +505,81 @@ def word_cloud_lin(nclicks, linea):
     if (not nclicks):
         raise PreventUpdate
 
+    for k, v in lineas_estrategicas.items():
+        if v == linea:
+            seleccion = k
+
+
+    message = dbc.Alert(f"You have selected - {seleccion}.",
+                        color='success',
+                        fade=True,
+                        is_open=True,
+                        duration=4000,
+                        dismissable=True)
+
     if linea == 0:
-        return 'assets/images/wc_pdm.jpg'
+
+        markdown = f"""
+
+        Descripcion de {seleccion}
+
+
+        """
+
+        return message, markdown, 'assets/images/wc_pdm.jpg'
     elif linea == 1:
-        return 'assets/images/wcl1.jpg'
+
+        markdown = f"""
+
+        Descripcion de {seleccion}
+
+
+        """
+
+        return message, markdown, 'assets/images/wcl1.jpg'
+
     elif linea == 2:
-        return 'assets/images/wcl2.jpg'
+
+        markdown = f"""
+
+        Descripcion de {seleccion}
+
+
+        """
+
+        return message, markdown, 'assets/images/wcl2.jpg'
+
     elif linea == 3:
-        return 'assets/images/wcl3.jpg'
+
+        markdown = f"""
+
+        Descripcion de {seleccion}
+
+
+        """
+
+        return message, markdown, 'assets/images/wcl3.jpg'
+
     elif linea == 4:
-        return 'assets/images/wcl4.jpg'
+
+        markdown = f"""
+
+        Descripcion de {seleccion}
+
+
+        """
+        return message, markdown, 'assets/images/wcl4.jpg'
+
     elif linea == 5:
-        return 'assets/images/wcl5.jpg'
+
+        markdown = f"""
+
+        Descripcion de {seleccion}
+
+
+        """
+
+        return message, markdown, 'assets/images/wcl5.jpg'
 
 
 
@@ -489,7 +596,7 @@ def word_cloud_lin(nclicks, linea):
               State('keyword_selector_20221', 'value'),
               )
 def plot_freq_hist(nclicks, nbins, years, keyword):
-    if (not nclicks):
+    if (not nclicks) and (not year) and (not keyword):
         raise PreventUpdate
 
     df = df2[(df2['year'].isin(years)) & (df2['key_word'] == keyword)]
@@ -523,6 +630,9 @@ def plot_freq_hist(nclicks, nbins, years, keyword):
 
     message = dbc.Alert(f"The number of bins has been modified to: {nbins} bins.",
                         color='success',
+                        fade=True,
+                        is_open=True,
+                        duration=4000,
                         dismissable=True,)
 
     return fig1, fig2, message
@@ -530,7 +640,6 @@ def plot_freq_hist(nclicks, nbins, years, keyword):
 ############### Explore the text content of the tweet #################
 @app.callback(Output('display_tweet_text_2022_md', 'children'),
               Output('feedback_2_2022', 'children'),
-              Output('feedback_3_2022', 'children'),
               Input('button2_2022', 'n_clicks'),
               State('keyword_selector_20222', 'value'),
               State('years_random_tweet_slider_2022', 'value'),
@@ -546,13 +655,12 @@ def gen_random_tweet_2022(nclicks, keyword, year, month):
 
     markdown = f"{random_tweet}"
 
-    message = dbc.Alert(f"Successfully generated random tweet.",
+    message = dbc.Alert(f"Random tweet generated successfully, you have chosen: {keyword} (keyword), {year} (year) and {month} (month).",
                          color='success',
-                         dismissable=True)
+                        fade=True,
+                        is_open=True,
+                        duration=4000,
+                        dismissable=True,)
 
-    message2 = dbc.Alert(f"You have selected - keyword: {keyword.title()} | year: {year} | month: {month}",
-                         color='info',
-                         dismissable=True)
-
-    return markdown, message, message2
+    return markdown, message
 
