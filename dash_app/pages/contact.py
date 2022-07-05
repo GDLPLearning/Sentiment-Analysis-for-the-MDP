@@ -19,16 +19,6 @@ layout=html.Div([
         html.H1('Contact us'),
     ], style={'textAlign': 'center'}),
     html.Br(),
-    html.Br(),
-    html.H2('Repository', style={'textAlign': 'center'}),
-    html.Br(),
-    html.Div([
-        html.A([
-            html.Img(src='assets/profile/repo.png', style={'width':'50%','height':'50%','margin-left':'25%'}),
-        ],href='https://github.com/GDLPLearning/Sentiment-Analysis-for-the-MDP',target='_blank'),
-    ],style={'padding':'10px'}),
-    html.Br(),
-    html.Br(),
     html.H2('Contributors', style={'textAlign': 'center'}),
     html.Br(),
     dbc.Row([
