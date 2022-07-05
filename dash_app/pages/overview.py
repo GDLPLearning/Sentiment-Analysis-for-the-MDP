@@ -40,7 +40,7 @@ layout =html.Div([
     dbc.Row([
         dbc.Col([
             html.Div([
-                html.H4('MDP'),
+                dbc.CardHeader(html.H3('MDP')),
                 html.Br(),
                 html.P("The Medellin Development Plan (MDP) 2020 - 2023 is the local government proposal that seeks to guarantee comprehensive attention to the needs of Medellin's citizens. It is divided into five strategic lines:"),
                 html.Br(),
@@ -108,7 +108,7 @@ layout =html.Div([
         ]),
         dbc.Col([
             html.Div([
-                html.H4('Tweets'),
+                dbc.CardHeader(html.H3('Tweets')),
                 html.Br(),
                 html.P('The tweets show the main topics people are talking about. Therefore, they are an approximation of the needs of the citizens of the city of Medellín.'),
                 html.Br(),
