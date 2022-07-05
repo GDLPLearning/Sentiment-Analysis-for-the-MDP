@@ -70,7 +70,18 @@ the information to draw conclusions for the construction of the model and its fu
 interpretation, always guiding the analysis to find answers to the two hypotheses 
 proposed in the definition of the problem.
 
+"""
 
+p2 = """
+
+Explicación de la sección del data understanding I
+
+"""
+
+
+p3 = """
+
+Conclusiones de los histogramas
 
 """
 
@@ -108,10 +119,13 @@ layout = html.Div([
         ], style={'textAlign': 'center'}),
             html.Br(),
             html.Br(),
+            html.P(p2),
+            html.Br(),
 
 ############### Distribution of tweet text length #################
 
             dbc.CardHeader(html.H3('Distribution of tweet text length')),
+            html.Br(),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dbc.Row([
@@ -127,7 +141,15 @@ layout = html.Div([
                 ], lg=6),
         ]),
             html.Br(),
-            html.Div(id='feedback_1'),
+            html.Div([
+                dbc.Alert(f"Please select the number of bins before generating the graphs, otherwise the default will be used.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],
+
+                id='feedback_1'),
             dbc.Row([
                 dbc.Col(lg=1),
                 dbc.Col([
@@ -148,6 +170,7 @@ layout = html.Div([
 ############### Explore the text content of the tweet #################
             html.Br(),html.Br(),
             dbc.CardHeader(html.H3('Explore the text content of the tweets')),
+            html.Br(),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dcc.Loading([
@@ -159,7 +182,7 @@ layout = html.Div([
             html.Div([
                 dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2"),
                 ], className="d-grid gap-2 col-6 mx-auto"),
-            html.Br(),
+            html.Br(), html.Br(),
             html.P('Conclusiones de los gráficos anteriores'),
 
 
@@ -167,6 +190,7 @@ layout = html.Div([
 ############### Words frequency #################
             html.Br(),html.Br(),
             dbc.CardHeader(html.H3('Words frequency')),
+            html.Br(),
             html.P('Explicacion de esta sección'),
             html.Br(),
             dbc.Row([
@@ -185,6 +209,8 @@ layout = html.Div([
                 ]),
 
             ]),
+            html.Br(), html.Br(),
+            html.P('Explicacion de esta seccion'),
 
 
 
@@ -396,7 +422,9 @@ def plot_freq_hist(nclicks, nbins):
 
     message = dbc.Alert(f"The number of bins has been modified to: {nbins} bins.",
                         color='success',
-                         dismissable=True)
+                         fade=True,
+                         is_open=True,
+                         duration=5000,)
                         
 
     return fig1, fig2, message
@@ -415,9 +443,11 @@ def gen_random_tweet(nclicks):
 
     markdown = f"{random_tweet}"
 
-    message = dbc.Alert(f"Successfully generated random tweet.",
+    message = dbc.Alert(f"Random tweet successfully generated.",
                         color='success',
-                         dismissable=True)
+                        fade=True,
+                        is_open=True,
+                        duration=5000,)
 
     return markdown, message
 
@@ -494,7 +524,7 @@ def plot_freq_hist(nclicks, nbins, years, keyword):
 
     message = dbc.Alert(f"The number of bins has been modified to: {nbins} bins.",
                         color='success',
-                        dismissable=True)
+                        dismissable=True,)
 
     return fig1, fig2, message
 
@@ -526,83 +556,4 @@ def gen_random_tweet_2022(nclicks, keyword, year, month):
                          dismissable=True)
 
     return markdown, message, message2
-
-#########################################
-
-# @app.callback(Output('bar_freq_weekday', 'figure'),
-#               Input('year_weekday_dropdown', 'value'))
-# def plot_tweets_freq_weekday(year):
-#     if (not year):
-#         raise PreventUpdate
-#
-#     df = df2[df2['year'].eq(year)]
-#     df = df['weekday'].value_counts().sort_index().to_frame().reset_index()
-#
-#     fig = px.bar(df,
-#                  x='index',
-#                  y='weekday',
-#                  title=f'Bar chart - Tweets frequency by weekday ({year}).',
-#                  labels={'index': 'weekdays', 'weekday': 'number of tweets'},
-#                  text_auto='.2s')
-#     fig.update_traces(marker_color='rgb(91,192,190)', marker_line_color='rgb(54,115,114)',
-#                   marker_line_width=1.5, opacity=0.7)
-#     fig.layout.paper_bgcolor = '#FFFFFF'
-#     fig.layout.plot_bgcolor = '#FFFFFF'
-#     return fig
-#
-# @app.callback(Output('year_keyword_piechart', 'figure'),
-#               Output('year_keyword_md', 'children'),
-#               Input('year_keyword_dropdown', 'value'))
-#
-# def plot_year_keyword_piechart(year):
-#     if (not year):
-#         raise PreventUpdate
-#     df = df2[df2['year'].eq(year)]
-#     df = df['key_word'].value_counts().sort_index().to_frame().reset_index()
-#     fig = px.pie(df,values='key_word',names='index',
-#                  title=f'Pie chart - Tweets distribution by keyword ({year}).')
-#
-#     if year == 2019:
-#         markdown = f'Texto descriptivo para el año 2019'
-#     elif year == 2020:
-#         markdown = f'Texto descriptivo para el año 2020'
-#     elif year == 2021:
-#         markdown = f'Texto descriptivo para el año 2021'
-#     elif year == 2022:
-#         markdown = f'Texto descriptivo para el año 2022'
-#
-#     return fig, markdown
-#
-# @app.callback(Output('bar_freq_month', 'figure'),
-#               Output('year_month_freq_md', 'children'),
-#               Input('year_month_dropdown', 'value'))
-# def plot_tweets_freq_weekday(year):
-#     if (not year):
-#         raise PreventUpdate
-#
-#     df = df2[df2['year'].eq(year)]
-#     df = df['month'].value_counts().sort_index().to_frame().reset_index()
-#
-#     fig = px.bar(df,
-#                  x='index',
-#                  y='month',
-#                  title=f'Bar chart - Tweets frequency by month ({year}).',
-#                  labels={'index': 'months', 'month': 'number of tweets'},
-#                  text_auto='.2s')
-#     fig.update_traces(marker_color='rgb(91,192,190)', marker_line_color='rgb(54,115,114)',
-#                   marker_line_width=1.5, opacity=0.7)
-#     fig.layout.paper_bgcolor = '#FFFFFF'
-#     fig.layout.plot_bgcolor = '#FFFFFF'
-#
-#     if year == 2019:
-#         markdown = f'Texto descriptivo para el año 2019'
-#     elif year == 2020:
-#         markdown = f'Texto descriptivo para el año 2020'
-#     elif year == 2021:
-#         markdown = f'Texto descriptivo para el año 2021'
-#     elif year == 2022:
-#         markdown = f'Texto descriptivo para el año 2022'
-#
-#     return fig, markdown
-
 

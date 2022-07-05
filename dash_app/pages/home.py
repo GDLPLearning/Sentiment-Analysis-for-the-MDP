@@ -14,8 +14,10 @@ style_div={
 layout =html.Div([
     dbc.Col([
         html.Br(),
-        html.H1('Home'),
+        html.H1('Sentiment Analysis in Twitter for the Medellin Development Plan'),
     ], style={'textAlign': 'center'}),
+    html.Br(),
+    html.Br(),
     html.Br(),
     dbc.Row([
         dbc.Col([
