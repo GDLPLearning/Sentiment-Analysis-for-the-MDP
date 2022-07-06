@@ -30,12 +30,12 @@ months = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May',
           6:'June', 7:'July', 8:'August', 9:'September', 10:'October',
           11:'November', 12:'December'}
 
-lineas_estrategicas = {'Medellin Development Plan': 0,
-                       'Línea estratégica 1: Reactivación Económica y Valle del Software': 1,
-                       'Línea estratégica 2: Transformación Educativa y Cultura': 2,
-                       'Línea estratégica 3: Medellin Me Cuida': 3,
-                       'Línea estratégica 4: Ecociudad': 4,
-                       'Línea estratégica 5: Gobernanza y Gobernabilidad': 5,
+lineas_estrategicas = {'Medellin Development Plan': 1,
+                       'Línea estratégica 1: Reactivación Económica y Valle del Software': 2,
+                       'Línea estratégica 2: Transformación Educativa y Cultura': 3,
+                       'Línea estratégica 3: Medellin Me Cuida': 4,
+                       'Línea estratégica 4: Ecociudad': 5,
+                       'Línea estratégica 5: Gobernanza y Gobernabilidad': 6,
                        }
 
 
@@ -206,7 +206,7 @@ layout = html.Div([
                     dcc.Loading([
                         dcc.Graph(id='freq_words', figure=rep_words())
                         ]),
-                    ]),
+                    ], lg=6),
                 dbc.Col([
                     dcc.Loading([
                         html.Div([
@@ -214,7 +214,7 @@ layout = html.Div([
                         ]),
                     ]),
 
-                ]),
+                ], lg=3),
 
             ]),
             html.Br(), html.Br(),
@@ -240,9 +240,8 @@ layout = html.Div([
             html.Br(),
             dcc.Dropdown(id='lineas_estrategicas',
                          placeholder='Select one "Linea Estrategica"',
-                         value = 0,
                          options=[{'label':linea, 'value':i}
-                                  for linea,i in lineas_estrategicas.items()]),
+                                  for linea ,i in lineas_estrategicas.items()]),
             html.Br(),
             html.Div([
                 dbc.Alert(f"Select a value from the dropdown to generate a short description and its word cloud.",
@@ -329,7 +328,7 @@ layout = html.Div([
         ]),
             html.Br(),
             html.Div([
-                dbc.Alert(f"Please select the number of bins, year(s) and keyword before generating the charts, otherwise the default value will be used.",
+                dbc.Alert(f"Please select the number of bins, year(s) and keyword before generating the charts.",
                          color='info',
                          fade=True,
                          is_open=True,
@@ -390,7 +389,7 @@ layout = html.Div([
             ]),
             html.Br(),
             html.Div([
-                dbc.Alert(f"Select a value for keyword, year and month, otherwise the default value will be selected, then press the button to generate a random tweet, every time you press it a new tweet will be generated.",
+                dbc.Alert(f"Select a value for keyword, year and month, otherwise the default value will be selected, then press the button to generate a random tweet, every time you press it a new random tweet will be generated.",
                          color='info',
                          fade=True,
                          is_open=True,
@@ -505,10 +504,13 @@ def word_cloud_lin(nclicks, linea):
     if (not nclicks):
         raise PreventUpdate
 
+    if (not linea):
+        raise PreventUpdate
+
+
     for k, v in lineas_estrategicas.items():
         if v == linea:
             seleccion = k
-
 
     message = dbc.Alert(f"You have selected - {seleccion}.",
                         color='success',
@@ -517,7 +519,10 @@ def word_cloud_lin(nclicks, linea):
                         duration=4000,
                         dismissable=True)
 
-    if linea == 0:
+
+
+
+    if linea == 1:
 
         markdown = f"""
 
@@ -527,16 +532,6 @@ def word_cloud_lin(nclicks, linea):
         """
 
         return message, markdown, 'assets/images/wc_pdm.jpg'
-    elif linea == 1:
-
-        markdown = f"""
-
-        Descripcion de {seleccion}
-
-
-        """
-
-        return message, markdown, 'assets/images/wcl1.jpg'
 
     elif linea == 2:
 
@@ -547,7 +542,7 @@ def word_cloud_lin(nclicks, linea):
 
         """
 
-        return message, markdown, 'assets/images/wcl2.jpg'
+        return message, markdown, 'assets/images/wcl1.jpg'
 
     elif linea == 3:
 
@@ -558,7 +553,7 @@ def word_cloud_lin(nclicks, linea):
 
         """
 
-        return message, markdown, 'assets/images/wcl3.jpg'
+        return message, markdown, 'assets/images/wcl2.jpg'
 
     elif linea == 4:
 
@@ -568,9 +563,21 @@ def word_cloud_lin(nclicks, linea):
 
 
         """
-        return message, markdown, 'assets/images/wcl4.jpg'
+
+        return message, markdown, 'assets/images/wcl3.jpg'
 
     elif linea == 5:
+
+        markdown = f"""
+
+        Descripcion de {seleccion}
+
+
+        """
+                            
+        return message, markdown, 'assets/images/wcl4.jpg'
+
+    elif linea == 6:
 
         markdown = f"""
 
@@ -596,7 +603,10 @@ def word_cloud_lin(nclicks, linea):
               State('keyword_selector_20221', 'value'),
               )
 def plot_freq_hist(nclicks, nbins, years, keyword):
-    if (not nclicks) and (not years) and (not keyword):
+    if (not nclicks):
+        raise PreventUpdate
+
+    if (not years) or (not keyword):
         raise PreventUpdate
 
     df = df2[(df2['year'].isin(years)) & (df2['key_word'] == keyword)]
@@ -606,7 +616,7 @@ def plot_freq_hist(nclicks, nbins, years, keyword):
                         x='num_chars',
                         nbins=nbins,
                         color_discrete_sequence=['#5BC0BE'],
-                        title='Histogram - Character tweets distribution by length.',
+                        title=f'Histogram - Character tweets distribution by length.<br><b>{keyword.title()}</b> {years}',
                         marginal="box",
                         height=500,
                         width=500,
@@ -619,7 +629,7 @@ def plot_freq_hist(nclicks, nbins, years, keyword):
                         x='num_words',
                         nbins=nbins,
                         color_discrete_sequence=['#5BC0BE'],
-                        title='Histogram - Words tweets distribution by length.',
+                        title=f'Histogram - Words tweets distribution by length.<br><b>{keyword.title()}</b> {years}',
                         marginal="box",
                         height=500,
                         width=500,

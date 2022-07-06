@@ -131,15 +131,17 @@ layout = html.Div([
     dbc.Col([
         html.Br(),
         html.H1('Model'),
-        html.H2(''),
         ], style={'textAlign': 'center'}),
+    html.Br(), html.Br(),
+    html.P('Desc de esta seccion'),
 
 ############### Stopwords #################
 
     html.Br(), html.Br(),
     dbc.CardHeader(html.H3('Stopwords')),
+    html.Br(),
     html.P('Explicacion de esta sección'),
-    html.Br(),html.Br(),
+    html.Br(), html.Br(),
     dbc.Row([
         dbc.Col(),
         dbc.Col([
@@ -158,8 +160,9 @@ layout = html.Div([
 
 
 ############### Tweet text preprocessing #################
-
+    html.Br(),html.Br(),
     dbc.CardHeader(html.H3('Tweet text preprocessing')),
+    html.Br(),
     html.P('Explicacion de esta sección'),
     html.Br(),
     dbc.Label('Tweet text:'),
@@ -167,6 +170,22 @@ layout = html.Div([
         id='textarea_preprocess',
         placeholder='Enter the text of the tweet',
         style={'width': '100%', 'height': 100}),
+    html.Br(),html.Br(),
+    html.Div([
+                dbc.Alert(f"Enter the text to be processed in the Tweet Text box, if you don't feel creative press the generate random tweet button to do it for you.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],
+
+                id='feedback_text_proc'),
+    html.Br(),
+    html.Div(id='random_feedback'),
+    html.Div([
+            dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button_random"),
+                ], className="d-grid gap-2 col-6 mx-auto"),
+    html.Br(),
     html.Div([
         dbc.Button("Preprocess Text", outline=True, color="primary", className="me-1", size="sm", id="button1"),
         ],  className="d-grid gap-2 col-6 mx-auto"), 
@@ -179,7 +198,27 @@ layout = html.Div([
 ############### Tweet classification #################
     html.Br(),
     dbc.CardHeader(html.H3('Tweet classification')),
+    html.Br(),
     html.P('Explicacion de esta sección'),
+    html.Br(),
+    html.Div([
+                dbc.Alert(f"At the time of viewing this message, the model has an accuracy of 77.7%, so the user may find unexpected results. Please send us your report.",
+                         color="warning",
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],
+
+                id='class_warn'),
+    html.Div([
+                dbc.Alert(f"Click the 'Sentiment classification' button to classify the text entered in the 'Tweet text' box according to a sentiment: positive or negative.",
+                         color='info',
+                         fade=True,
+                         is_open=True,
+                         dismissable=True,)
+                ],
+
+                id='feedback_tw_clas'),
     html.Br(), 
      html.Div([
         dbc.Button("Sentiment classification", outline=True, color="primary", className="me-1", size="sm", id="button2"),
@@ -189,20 +228,48 @@ layout = html.Div([
             dcc.Markdown(id='display_tweet_sentiment_md',
                         style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),
         ]),
+    html.Br(),html.Br(),
+    html.P('Explicacion de esta sección'),
     ])
 
 
 ############### Callbacks #################
 
+############### Generate a random tweet #################
+@app.callback(Output('random_feedback', 'children'),
+              Output('textarea_preprocess', 'value'),
+              Input('button_random', 'n_clicks'),)
+
+def gen_random_tweet(nclicks):
+    if (not nclicks):
+        raise PreventUpdate
+
+
+    random_tweet = df['full_text'].sample().values[0]
+
+
+    message = dbc.Alert(f"Random tweet successfully generated.",
+                        color='success',
+                        fade=True,
+                        is_open=True,
+                        duration=4000,
+                        dismissable=True,)
+
+    return message, random_tweet
+
 ############### Tweet text preprocessing #################
 
-@app.callback(Output('display_preprocess_tweet_text_md', 'children'),
+@app.callback(Output('feedback_text_proc', 'children'),
+              Output('display_preprocess_tweet_text_md', 'children'),
               Input('button1', 'n_clicks'),
               State('textarea_preprocess', 'value'))
 
 def display_preprocees_text(nclicks, text):
 
     if (not nclicks):
+        raise PreventUpdate
+
+    if (not text):
         raise PreventUpdate
 
     clean_text = clean_tweet(text)
@@ -255,30 +322,48 @@ def display_preprocees_text(nclicks, text):
 
     ----
 
-    ###### All funct together
-
-    {clean_text}
-
     """
 
-    return markdown
+    message = dbc.Alert(f"The entered tweet has been successfully processed.",
+                        color='success',
+                         fade=True,
+                         is_open=True,
+                         duration=4000,
+                         dismissable=True,)
 
-@app.callback(Output('display_tweet_sentiment_md', 'children'),
+    return message, markdown
+
+############### Tweet text classification #################
+
+@app.callback(Output('feedback_tw_clas', 'children'),
+              Output('display_tweet_sentiment_md', 'children'),
               Input('button2', 'n_clicks'),
               State('textarea_preprocess', 'value'))
 
+
 def gen_sentiment(nclicks, tweet):
     if (not nclicks):
+        raise PreventUpdate
+
+    if (not tweet):
         raise PreventUpdate
 
     sentiment = log_reg(tweet)
 
     if sentiment:
         markdown = f"Positive 😃✅"
+        sen = 'Positive'
     else:
         markdown = f"Negative 😡❌"
+        sen = 'Negative'
 
 
+    message = dbc.Alert(f"Your tweet has been classified as {sen} sentiment.",
+                        color='success',
+                        fade=True,
+                        is_open=True,
+                        duration=4000,
+                        dismissable=True,)
 
-    return markdown
+    return message, markdown
 
