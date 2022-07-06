@@ -596,7 +596,7 @@ def word_cloud_lin(nclicks, linea):
               State('keyword_selector_20221', 'value'),
               )
 def plot_freq_hist(nclicks, nbins, years, keyword):
-    if (not nclicks) and (not year) and (not keyword):
+    if (not nclicks) and (not years) and (not keyword):
         raise PreventUpdate
 
     df = df2[(df2['year'].isin(years)) & (df2['key_word'] == keyword)]
