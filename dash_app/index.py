@@ -9,7 +9,7 @@ from sklearn.feature_extraction import img_to_graph
 
 
 #import parts of the app
-from pages import home, overview , eda ,dataset, model, report, contact
+from pages import home, overview, dataset, eda, model, report, contact
 
 # app instantiation
 from app import app
@@ -41,13 +41,13 @@ sidebar = html.Div(
         html.Hr(),
         dbc.Nav(
             [
-                dbc.NavLink("Home", href="/", active="exact"),
-                dbc.NavLink("Overview", href="/overview", active="exact"),
-                dbc.NavLink("Dataset", href="/dataset", active="exact"),
-                dbc.NavLink("EDA", href="/EDA", active="exact"),
-                dbc.NavLink("Model", href="/model", active="exact"),
-                dbc.NavLink("Report", href="/report", active="exact"),
-                dbc.NavLink("Contact us", href="/contact-us", active="exact"),   
+                dbc.NavLink(["Home  ",html.Img(src='https://api.iconify.design/fluent/home-20-regular.svg?color=white', style={'width': '10%', 'height': '10%','margin-bottom':'2%'})], href="/", active="exact"),
+                dbc.NavLink(["Overview  ",html.Img(src='https://api.iconify.design/carbon/idea.svg?color=white', style={'width': '10%', 'height': '10%','margin-bottom':'2%'})], href="/overview", active="exact"),
+                dbc.NavLink(["Dataset  ",html.Img(src='https://api.iconify.design/bx/data.svg?color=white', style={'width': '10%', 'height': '10%','margin-bottom':'2%'})], href="/dataset", active="exact"),
+                dbc.NavLink(["EDA  ",html.Img(src='https://api.iconify.design/healthicons/magnifying-glass.svg?color=white', style={'width': '10%', 'height': '10%','margin-bottom':'2%'})], href="/EDA", active="exact"),
+                dbc.NavLink(["Model  ",html.Img(src='https://api.iconify.design/emojione-monotone/nut-and-bolt.svg?color=white', style={'width': '10%', 'height': '10%','margin-bottom':'2%'})], href="/model", active="exact"),
+                dbc.NavLink(["Report  ",html.Img(src='https://api.iconify.design/carbon/report.svg?color=white', style={'width': '10%', 'height': '10%','margin-bottom':'2%'})], href="/report", active="exact"),
+                dbc.NavLink(["Contact us  ",html.Img(src='https://api.iconify.design/ant-design/phone-outlined.svg?color=white', style={'width': '10%', 'height': '10%','margin-bottom':'2%'})], href="/contact-us", active="exact"),   
             ],
             vertical=True,
             pills=True,

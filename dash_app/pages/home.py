@@ -1,4 +1,5 @@
 # import libraries
+from click import style
 import dash
 from dash import dcc
 from dash import html
@@ -25,35 +26,56 @@ layout =html.Div([
             html.Div([
                 dbc.CardHeader(html.H3('Repository', style={'textAlign': 'center'})),
                 html.Br(),
-                html.A([
-                    html.Img(src='assets/profile/repo.png',style={'width': '100%','margin-top': '40px'}),
-                ],href='https://github.com/GDLPLearning/Sentiment-Analysis-for-the-MDP',target='_blank'),
                 html.Br(),
                 html.Br(),
-            ],style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'355px'})   
-        ]),
+                dbc.Row([
+                    dbc.Col([]),
+                    dbc.Col([
+                        html.Div([
+                            html.A([
+                                html.Img(src='assets/profile/repo.png', style={'width': '100%', 'height': '100%'}),
+                            ],href='https://github.com/GDLPLearning/Sentiment-Analysis-for-the-MDP',target='_blank'),
+                        ], style={'textAlign': 'center'}),
+                    ],lg=10),
+                    dbc.Col([]),
+                ]),
+            ],style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','height':'330px','text-align':'center'})   
+        ],lg=4),
         dbc.Col([
             html.Div([
                 dbc.CardHeader(html.H3('Presentation', style={'textAlign': 'center'})),
                 html.Br(),
-                html.A([
-                    html.Img(src='https://api.iconify.design/entypo-social/youtube.svg', style={'width': '150px','height': '150px','margin-top': '40px','margin-left': '25%'}),
+                html.Br(),
+                dbc.Row([
+                    dbc.Col([]),
+                    dbc.Col([
+                        html.Div([
+                            html.A([
+                                html.Img(src='https://api.iconify.design/entypo-social/youtube.svg', style={'width': '150px','height': '150px'}),
+                            ]),
+                        ],style={'text-align': 'center'}),
+                    ],lg=10),
+                    dbc.Col([]),
                 ]),
-                html.Br(),
-                html.Br(),
-            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'355px'}),
-        ]),
+            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','height':'330px','text-align':'center'}),
+        ],lg=4),
         dbc.Col([
             html.Div([
                 dbc.CardHeader(html.H3('Datafolio', style={'textAlign': 'center'})),
                 html.Br(),
-                html.A([
-                    html.Img(src='assets/images/datafolio.png', style={'width':'100%','height':'70%'}),
+                dbc.Row([
+                    dbc.Col([]),
+                    dbc.Col([
+                        html.Div([
+                            html.A([
+                                html.Img(src='assets/images/datafolio.png', style={'width':'100%','height':'100%'}),
+                            ]),
+                        ],style={'text-align':'center'}),
+                    ],lg=10),
+                    dbc.Col([]),
                 ]),
-                html.Br(),
-                html.Br(),
-            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'355px'}),
-        ]),
+            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','height':'330px','text-align':'center'}),
+        ],lg=4),
     ]),
     html.Br(),
     html.Br(),
@@ -62,32 +84,59 @@ layout =html.Div([
             html.Div([
                 dbc.CardHeader(html.H3('Report', style={'textAlign': 'center'})),
                 html.Br(),
-                html.Img(src='assets/images/logo_reporte.jpg', style={'width': '50%','height': '70%','margin-left': '25%'}),
+                dbc.Row([
+                    dbc.Col([]),
+                    dbc.Col([
+                        html.Div([
+                            html.A([
+                                html.Img(src='assets/images/logo_reporte.jpg', style={'width': '60%','height': '60%'}),
+                            ]),
+                        ],style={'text-align':'center'}),
+                    ],lg=10),
+                    dbc.Col([]),
+                ]),
                 html.Br(),
-                html.Br(),
-            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'358px'}),
+            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','height':'330px','text-align':'center'}),
         ]),
         dbc.Col([
             html.Div([
                 dbc.CardHeader(html.H3('Documentation', style={'textAlign': 'center'})),
                 html.Br(),
-                html.A([
-                    html.Img(src='assets/images/documentation.jpg', style={'width': '100%','height': '70%','margin-top': '5px','padding': '10px'}),
+                html.Br(),
+                dbc.Row([
+                    dbc.Col([]),
+                    dbc.Col([
+                        html.Div([
+                            html.A([
+                                html.Img(src='assets/images/mkdocs.png', style={'width': '60%','height': '60%'}),
+                            ]),
+                        ],style={'text-align':'center'}),
+                    ],lg=10),
+                    dbc.Col([]),
                 ]),
                 html.Br(),
                 html.Br(),
-            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'358px'}),
+            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','height':'330px','text-align':'center'}),
         ]),
         dbc.Col([
             html.Div([
                 dbc.CardHeader(html.H3('Notebooks', style={'textAlign': 'center'})),
                 html.Br(),
-                html.A([
-                    html.Img(src='assets/images/notebooks.png', style={'width': '100%','height': '70%','margin-top': '5px','padding': '10px'}),
+                html.Br(),
+                dbc.Row([
+                    dbc.Col([]),
+                    dbc.Col([
+                        html.Div([
+                            html.A([
+                                html.Img(src='assets/images/jupyterlogo.png', style={'width': '50%','height': '50%'}),
+                            ]),
+                        ],style={'text-align':'center'}),
+                    ],lg=10),
+                    dbc.Col([]),
                 ]),
                 html.Br(),
                 html.Br(),
-            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'358px'}),
+            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','height':'330px','text-align':'center'}),
         ]),
     ]),
 ])
