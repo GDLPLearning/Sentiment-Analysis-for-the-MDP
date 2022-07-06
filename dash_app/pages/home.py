@@ -48,11 +48,11 @@ layout =html.Div([
                 dbc.CardHeader(html.H3('Datafolio', style={'textAlign': 'center'})),
                 html.Br(),
                 html.A([
-                    html.Img(src='assets/images/datafolio.png', style={'width':'100%','height':'100%'}),
+                    html.Img(src='assets/images/datafolio.png', style={'width':'100%','height':'70%'}),
                 ]),
                 html.Br(),
                 html.Br(),
-            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px'}),
+            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'355px'}),
         ]),
     ]),
     html.Br(),
@@ -62,10 +62,10 @@ layout =html.Div([
             html.Div([
                 dbc.CardHeader(html.H3('Report', style={'textAlign': 'center'})),
                 html.Br(),
-                html.Img(src='assets/images/logo_reporte.jpg', style={'width': '50%','height': '50%','margin-left': '25%'}),
+                html.Img(src='assets/images/logo_reporte.jpg', style={'width': '50%','height': '70%','margin-left': '25%'}),
                 html.Br(),
                 html.Br(),
-            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px'}),
+            ], style={'border':'#5BC0BE 0.03rem solid ','border-radius':'1rem','padding':'10px','height':'358px'}),
         ]),
         dbc.Col([
             html.Div([
@@ -91,3 +91,4 @@ layout =html.Div([
         ]),
     ]),
 ])
+
