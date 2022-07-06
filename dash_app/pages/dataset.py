@@ -65,7 +65,7 @@ layout = html.Div([
               Input('dataset_selection', 'value'))
 
 def dataset_info_display(dataset):
-    if (not dataset):
+    if (not dataset) and (not dataset):
         raise PreventUpdate
 
     if dataset == 'Tweets 2019':
@@ -205,9 +205,10 @@ def dataset_info_display(dataset):
 
         """
     message = dbc.Alert(f"You have selected the dataset: {dataset}.",
-                         color='success',
-                         is_open=True,
-                         duration=4000,
-                         dismissable=True,)
+                        color='success',
+                        fade=True,
+                        is_open=True,
+                        duration=4000,
+                        dismissable=True,)
 
     return markdown, message
