@@ -14,7 +14,15 @@ list_color=['#0C1821','#0B132B','#1C2541','#1B2A41','#324A5F','#3A506B','#5BC0BE
 
 
 
-p = f"""Descripcion de esta seccion"""
+p = f"""
+Welcome to our web application. 
+Today you will learn what a sentiment analysis means through a real problem in a Colombian city. 
+We will show you the step by step process of exploring the problem, 
+making the visualizations, 
+developing the model and seeing the results. 
+Enjoy the process. 
+Let's explore each section together!
+"""
 
 # app layout
 layout =html.Div([
