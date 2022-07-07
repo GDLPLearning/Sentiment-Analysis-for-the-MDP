@@ -1,5 +1,5 @@
 # import libraries
-from app import app
+from app import dash_app
 import plotly
 import plotly.express as px
 import plotly.graph_objects as go
@@ -268,7 +268,7 @@ layout = html.Div([
 ############### Callbacks #################
 
 ############### Generate a random tweet #################
-@app.callback(Output('random_feedback', 'children'),
+@dash_app.callback(Output('random_feedback', 'children'),
               Output('textarea_preprocess', 'value'),
               Input('button_random', 'n_clicks'),)
 
@@ -291,7 +291,7 @@ def gen_random_tweet(nclicks):
 
 ############### Tweet text preprocessing #################
 
-@app.callback(Output('feedback_text_proc', 'children'),
+@dash_app.callback(Output('feedback_text_proc', 'children'),
               Output('display_preprocess_tweet_text_md', 'children'),
               Input('button1', 'n_clicks'),
               State('textarea_preprocess', 'value'))
@@ -367,7 +367,7 @@ def display_preprocees_text(nclicks, text):
 
 ############### Tweet text classification #################
 
-@app.callback(Output('feedback_tw_clas', 'children'),
+@dash_app.callback(Output('feedback_tw_clas', 'children'),
               Output('display_tweet_sentiment_md', 'children'),
               Input('button2', 'n_clicks'),
               State('textarea_preprocess', 'value'))

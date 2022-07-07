@@ -1,5 +1,5 @@
 # import libraries
-from app import app
+from app import dash_app
 import plotly
 import plotly.express as px
 import plotly.graph_objects as go
@@ -521,7 +521,7 @@ layout = html.Div([
 ############### Distribution of tweet text length #################
 
 
-@app.callback(Output('chars_freq_hist', 'figure'),
+@dash_app.callback(Output('chars_freq_hist', 'figure'),
               Output('words_freq_hist', 'figure'),
               Output('feedback_1', 'children'),
               Input('button1', 'n_clicks'),
@@ -572,7 +572,7 @@ def plot_freq_hist(nclicks, nbins):
 
 
 ############### Explore the text content of the tweet #################
-@app.callback(Output('display_tweet_md', 'children'),
+@dash_app.callback(Output('display_tweet_md', 'children'),
               Output('feedback_2', 'children'),
               Input('button2', 'n_clicks'),)
 
@@ -595,7 +595,7 @@ def gen_random_tweet(nclicks):
 
 ############### Medellin Development Plan (Tab 2) #################
 
-@app.callback(Output('feedback_wc_mdp', 'children'),
+@dash_app.callback(Output('feedback_wc_mdp', 'children'),
               Output('mdp_details_md','children'),
               Output('word_cloud_linea','src'),
               Input('button_lestr', 'n_clicks'),
@@ -697,7 +697,7 @@ keywords.
 
 ############### Distribution of tweet text length #################
 
-@app.callback(Output('chars_freq_hist_2022', 'figure'),
+@dash_app.callback(Output('chars_freq_hist_2022', 'figure'),
               Output('words_freq_hist_2022', 'figure'),
               Output('feedback_1_2022', 'children'),
               Input('button1_2022', 'n_clicks'),
@@ -751,7 +751,7 @@ def plot_freq_hist(nclicks, nbins, years, keyword):
     return fig1, fig2, message
 
 ############### Explore the text content of the tweet #################
-@app.callback(Output('display_tweet_text_2022_md', 'children'),
+@dash_app.callback(Output('display_tweet_text_2022_md', 'children'),
               Output('feedback_2_2022', 'children'),
               Input('button2_2022', 'n_clicks'),
               State('keyword_selector_20222', 'value'),

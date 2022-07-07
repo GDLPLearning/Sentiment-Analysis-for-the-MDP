@@ -18,9 +18,11 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 debugpy==1.6.0
 decorator==5.1.1
+distlib==0.3.4
 docutils==0.16
 entrypoints==0.4
 executing==0.8.3
+filelock==3.7.1
 Flask==2.1.2
 Flask-Compress==1.12
 fonttools==4.33.3
@@ -58,6 +60,7 @@ pandas==1.4.3
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.2.0
+platformdirs==2.5.2
 plotly==5.9.0
 prompt-toolkit==3.0.30
 psutil==5.9.1
@@ -87,6 +90,7 @@ threadpoolctl==3.1.0
 tornado==6.1
 traitlets==5.3.0
 urllib3==1.26.9
+virtualenv==20.15.1
 watchdog==2.1.9
 wcwidth==0.2.5
 Werkzeug==2.1.2

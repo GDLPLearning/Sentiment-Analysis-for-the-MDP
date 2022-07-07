@@ -6,7 +6,9 @@ from dash.dependencies import Input, Output
 
 
 # app instantiation
-app = dash.Dash(external_stylesheets=[dbc.themes.CERULEAN],suppress_callback_exceptions=True)
+dash_app = dash.Dash(external_stylesheets=[dbc.themes.CERULEAN],suppress_callback_exceptions=True)
+
+app = dash_app.server
 
 #CERULEAN
 #COSMO

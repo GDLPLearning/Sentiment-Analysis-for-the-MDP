@@ -24,6 +24,8 @@ nav:
     
     
 theme:
+
+  # logo: assets/logo.png
   icon:
     repo: fontawesome/brands/github
     
@@ -59,14 +61,6 @@ theme:
         name: Switch to light mode
     
     
-extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Español
-      link: /de/
-      lang: es
 
 
 repo_url: https://github.com/GDLPLearning/Sentiment-Analysis-for-the-MDP
@@ -76,9 +70,9 @@ repo_name: Sentiment-Analysis-for-the-MDP
 edit_uri: ""
 
 plugins:
-  - git-revision-date-localized:
-      type: iso_date
-      enable_creation_date: true
+  # - git-revision-date-localized:
+      # type: iso_date
+      # enable_creation_date: true
       
   - search:
       lang: 

@@ -1,5 +1,5 @@
 # import libraries
-from app import app
+from app import dash_app
 import dash
 from dash.dash_table import DataTable
 from dash import dcc
@@ -65,7 +65,7 @@ layout = html.Div([
     ])
 
 
-@app.callback(Output('dataset_details_md', 'children'),
+@dash_app.callback(Output('dataset_details_md', 'children'),
               Output('feedback_dataset', 'children'),
               Input('dataset_selection', 'value'))
 

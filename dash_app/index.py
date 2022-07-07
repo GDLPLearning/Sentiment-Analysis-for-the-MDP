@@ -1,3 +1,4 @@
+from app import dash_app
 from turtle import width
 import dash
 from dash import dcc
@@ -11,8 +12,6 @@ from sklearn.feature_extraction import img_to_graph
 #import parts of the app
 from pages import home, overview, dataset, eda, model, report, contact
 
-# app instantiation
-from app import app
 
 # the style arguments for the sidebar. We use position:fixed and a fixed width
 SIDEBAR_STYLE = {
@@ -71,10 +70,10 @@ sidebar = html.Div(
 
 content = html.Div(id="page-content", style=CONTENT_STYLE)
 
-app.layout = html.Div([dcc.Location(id="url"), sidebar, content])
+dash_app.layout = html.Div([dcc.Location(id="url"), sidebar, content])
 
 
-@app.callback(Output("page-content", "children"), [Input("url", "pathname")])
+@dash_app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def render_page_content(pathname):
     if pathname == "/":
         return home.layout
@@ -98,6 +97,4 @@ def render_page_content(pathname):
             html.P(f"The pathname {pathname} was not recognised..."),
         ]
     )
-
-
 

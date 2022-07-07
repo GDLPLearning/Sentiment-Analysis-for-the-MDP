@@ -4,7 +4,7 @@ from dash import dcc
 from dash import html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
-from app import app
+from app import dash_app
 import plotly
 import plotly.express as px
 import plotly.graph_objects as go
@@ -390,7 +390,7 @@ layout = html.Div([
 
 ############### Explore tweet text sentiment by keyword #####################
 
-@app.callback(Output('explore_feedback', 'children'),
+@dash_app.callback(Output('explore_feedback', 'children'),
               Output('display_random_tweet_by_key_md', 'children'),
               Input('button1', 'n_clicks'),
               State('random_tweet_year_dropdown', 'value'),
@@ -452,7 +452,7 @@ def gen_random_tweet(nclicks, year, month, day, keyword, sentiment):
 
 ############### Historical evolution of sentiment by keyword #################
 
-@app.callback(Output('historical_alert', 'children'),
+@dash_app.callback(Output('historical_alert', 'children'),
               Output('hist_ev', 'figure'),
               Input('button4', 'n_clicks'),
               State('hist_slider', 'value'),
@@ -522,7 +522,7 @@ def plotly_month_keyword(nclicks, year ,keyword):
 
 
 ############### Word cloud by keyword and sentiment #################
-@app.callback(Output('wc_alert', 'children'),
+@dash_app.callback(Output('wc_alert', 'children'),
               Output('word_cloud_keyword', 'src'),
               Input('button3', 'n_clicks'),
               State('word_cloud_sentiment_keyword_dropdown', 'value'))
@@ -568,7 +568,7 @@ def gen_wordcloud(nclicks, keyword):
 
 ############### Ratio of sentiment per keyword #################
 
-@app.callback(Output('ratio_feedback', 'children'),
+@dash_app.callback(Output('ratio_feedback', 'children'),
               Output('ratio_graph', 'figure'),
               Input('button5', 'n_clicks'),
               State('ratio_year', 'value'),
