@@ -74,14 +74,117 @@ proposed in the definition of the problem.
 
 p2 = """
 
-Explicación de la sección del data understanding I
+This section focuses on show you the needs of the population of Medellin before 
+the PDM comes into force (2020-2023) using the **Tweets 2019** dataset. The objective 
+of this analysis was to know the dynamics of interaction on the Twitter platform, and 
+the usefulness of the queries made to conform this dataset.
 
 """
 
 
 p3 = """
 
-Conclusiones de los histogramas
+
+The first variable of interest was the tweet text, this variable provides 
+information about the tweet composition and also some inputs to improve the API 
+request to excel in the sentiment analysis model. The following figures show you 
+the length distribution of tweets text  measured in characters and words. For the 
+project purpose, “word” is defined as  characters sequence separated by a single 
+white space.
+
+
+"""
+
+p4 = """
+Separately, both figures do not provide additional information, but when you 
+comparing them, some key pieces come into the picture. Focusing on the 75th 
+percentile for the first figure, it finds a distribution with sharp spikes, 
+unlike the distribution of the second figure in which there is a smooth behavior. A 
+proposed hypothesis to explain this could be the values of this distribution by 
+character length through the use of emojis, punctuation marks, mentions, hashtags, 
+white spaces or words like ``hellooo". The presence of these type of elements in the 
+text of the tweet distances its length value from the central tendencies. 
+
+"""
+
+p5 = """
+This section shows an exploration of the textual content of the tweets in order to obtain 
+information about the use of words such as Medellín, the use of elements such as emoticons, 
+hashtags and regional lexicon. There is an option available for you to generate a random tweet 
+from this dataset Tweets - 2019 in order for you to identify the above mentioned features.
+
+"""
+
+p6_1 = """
+
+As you can observe by exploring text contents of the Tweets, “Medellín” does not only refer to a geographical location. This word is also used to make comparisons or comments using this word as a reference city. Some main topics of the city such as “Metro” appear in the tweets and could be related to some of the needs of the people of Medellín. Other important conclusions about this section are summarized as follows: 
+"""
+
+p6_2 = """
+1. The large use of mentions with the at-word extends the length of the tweet and would not provide relevant information for sentiment analysis so its elimination could be considered.
+
+"""
+
+p6_3 = """
+2. It should be taken into account that the word “Medellín” depends on the context, i.e., it will not always refer to the city, but also to the soccer team, to the alcoholic beverage, as a comparison, or to other meaning. So it has to be careful when drawing conclusions and narrowing your search.
+
+"""
+
+p6_4 = """
+3. When finding different places it is to be expected that any resident abroad can mention the word “Medellin” and its different connotations, so it may not reflect problems in the city. When interpreting the results, grouping by localities or focusing only on the city of Medellin could solve this limitation.
+
+"""
+
+p7 = """
+The following figures show you the frequency of words within the text of the tweets 
+through a bar chart and a word cloud, the ones at the top of the list are: pronouns, prepositions, definite determiners, quantifier determiners, punctuation marks and the word "Medellín" with its variants. These types of words are intrinsic to the use of language and hence their high recurrence.
+
+"""
+
+p8 = """
+Analyzing the results of the previous figures, it was identified that not all the most frequent words referred to topics of interest for the city of Medellín. Therefore, making a more rigorous analysis, a list of 9 categories was determined (called in this project **keywords**) that encompassed transcendent topics to which the tweets alluded. These keywords were the following: 
+
+1. "metro"
+2. "vida"
+3. "cultura"
+4. "trabajo"
+5. "movilidad"
+6. "jovenes"
+7. "seguridad"
+8. "empresa"
+9. "tecnologia"
+
+"""
+
+p9 = """
+The purpose of the MPD document is to establish the different guidelines and projects in terms of public policies for the city of Medellin in the period 2020-2023. In order to answer the first question proposed in the overview section, this EDA show you a text analysis that was carried out on the MPD with the purpose of determine if the topics expressed in this document were aligned with the categories (keywords) obtained in the EDA:Tweets 2019. For this analysis, a cleaning text process was carried out taking into account the stop words defined in **EDA: Tweets 2019** in order to obtain a suitable set of words with which to perform the required comparison.
+
+As a result of this process was obtained a word cloud from the PMD text. From this Figure, it is possible to observe words that describe a project execution and the metrics to evaluate its impact and evolution. Another relevant fact is the presence of words such as “seguridad”, “vida”, and “cultura”, which are included in the list of keywords in the EDA: Tweets - 2019. You can observe this Figure selecting Medellin Development Plan.
+
+"""
+
+p10 = """
+This section shows the exploratory analysis performed for the tweets coming from the 2019-2022 dataset. This step allows obtaining information about the distribution of all the tweets by year, month and day, in order to understand some important dynamics and trends at the level of the city of Medellin associated with events with high interaction on twitter grouped by keywords.
+
+
+"""
+
+p11 = """
+The following graphs show the distribution of tweet text length measured in characters and words for **Tweets 2019 -2022** for each year and keyword. In these graphs you may be able to observe the behavior of tweets under this metric grouped for different years and beans number.
+
+"""
+
+p12 = """
+In these graphs you could observe the different distributions of tweet length in terms of words and characters for the topics encompassed by the keywords. It is observed that for certain particular topics there are substantial differences in the amount of words that a user uses to express his opinion, and these graphs give you the option to interact to determine the topics with more characters per tweet.
+"""
+
+p13 = """
+In this section you can explore the tweets 2019-2022 discriminating by keyword, year and month, so that each time random tweets appear on the screen under the above two parameters chosen, in order to observe the content of the tweets, elements used as hashtags, emoticons, among others.
+
+"""
+
+p14 = """
+In this section you can explore the tweets 2019-2022 discriminating by keyword, year and month, so that each time random tweets appear on the screen under the above two parameters chosen, in order to observe the content of the tweets, elements used as hashtags, emoticons, among others.
 
 """
 
@@ -126,7 +229,7 @@ layout = html.Div([
 
             dbc.CardHeader(html.H3('Distribution of tweet text length')),
             html.Br(),
-            html.P('Explicacion de esta sección'),
+            html.P(p3),
             html.Br(),
             dbc.Row([
                 dbc.Col([
@@ -165,13 +268,13 @@ layout = html.Div([
                 dbc.Button("Generate Graphs", outline=True, color="primary", className="me-1", size="sm", id="button1"),
                 ],  className="d-grid gap-2 col-6 mx-auto"),      
             html.Br(),
-            html.P('Conclusiones de los gráficos anteriores'),
+            html.P(p4),
 
 ############### Explore the text content of the tweet #################
             html.Br(),html.Br(),
             dbc.CardHeader(html.H3('Explore the text content of the tweets')),
             html.Br(),
-            html.P('Explicacion de esta sección'),
+            html.P(p5),
             html.Br(),
             dcc.Loading([
                 dcc.Markdown(id='display_tweet_md',
@@ -191,15 +294,14 @@ layout = html.Div([
                 dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2"),
                 ], className="d-grid gap-2 col-6 mx-auto"),
             html.Br(), html.Br(),
-            html.P('Conclusiones de los gráficos anteriores'),
-
+            html.P(p6_1),html.P(p6_2),html.P(p6_3),html.P(p6_4),
 
 
 ############### Words frequency #################
             html.Br(),html.Br(),
             dbc.CardHeader(html.H3('Words frequency')),
             html.Br(),
-            html.P('Explicacion de esta sección'),
+            html.P(p7),
             html.Br(),
             dbc.Row([
                 dbc.Col([
@@ -218,7 +320,7 @@ layout = html.Div([
 
             ]),
             html.Br(), html.Br(),
-            html.P('Explicacion de esta seccion'),
+            html.P(p8),
 
 
 
@@ -233,7 +335,7 @@ layout = html.Div([
             ], style={'textAlign': 'center'}),
             html.Br(),
             html.Br(),
-            html.P("Descripcion"),
+            html.P(p9),
             html.Br(),
             dbc.CardHeader(html.H3('Wordclouds by "Linea Estrategica"')),
             html.P('Explicacion de esta sección'),
@@ -289,14 +391,14 @@ layout = html.Div([
         ], style={'textAlign': 'center'}),
             html.Br(),
             html.Br(),
-            html.P(p2),
+            html.P(p10),
             html.Br(),
 
 ############### Distribution of tweet text length #################
 
             dbc.CardHeader(html.H3('Distribution of tweet text length')),
             html.Br(),
-            html.P('Explicacion de esta sección'),
+            html.P(p11),
             html.Br(),
             dbc.Row([
                 dbc.Col([
@@ -349,14 +451,14 @@ layout = html.Div([
                 dbc.Button("Generate Graphs", outline=True, color="primary", className="me-1", size="sm", id="button1_2022"),
                 ],  className="d-grid gap-2 col-6 mx-auto"),      
             html.Br(),
-            html.P('Conclusiones de los gráficos anteriores'),
+            html.P(p12),
 
 ############### Explore the text content of the tweet #################
 
             html.Br(),html.Br(),
             dbc.CardHeader(html.H3('Explore the text content of the tweets')),
             html.Br(),
-            html.P('Explicacion de esta sección'),
+            html.P(p13),
             html.Br(), 
             dbc.Label('Keyword:'),
             dcc.Dropdown(id='keyword_selector_20222',
@@ -400,7 +502,7 @@ layout = html.Div([
                 dbc.Button("Generate a random tweet", outline=True, color="primary", className="me-1", size="sm", id="button2_2022"),
                 ], className="d-grid gap-2 col-6 mx-auto"),
             html.Br(),html.Br(),
-            html.P('Conclusiones de los gráficos anteriores'),           
+            html.P(p14),           
 
 
         ],label='EDA: Tweets keywords 2019 - 2022'),
@@ -526,7 +628,7 @@ def word_cloud_lin(nclicks, linea):
 
         markdown = f"""
 
-        Descripcion de {seleccion}
+        Likewise, within PDM document there is a chapter called “Líneas Estratégicas” which establishes the different strategic lines of action that encompass the proposals of the government plan and its execution in relation to the most important issues for the city future. Therefore, it was performed a text analysis in order to obtain the most relevant words (the words with higher frequency in the text) for each PDM strategic line by word clouds. You can observe each word cloud for each strategic line selecting the interest option in the given list.
 
 
         """
@@ -537,7 +639,7 @@ def word_cloud_lin(nclicks, linea):
 
         markdown = f"""
 
-        Descripcion de {seleccion}
+        The first strategic line seeks to create a digital culture and economic reactivation that will improve the quality of life of the population of Medellin through the management of new opportunities, education, entrepreneurship and job creation in areas associated with the digital economy and the fourth industrial revolution. This objective is closely associ- ated with the words ”life”, ”culture” and ”technology”
 
 
         """
@@ -548,7 +650,8 @@ def word_cloud_lin(nclicks, linea):
 
         markdown = f"""
 
-        Descripcion de {seleccion}
+        The second strategic line seeks to articulate the city with cultural projects that strengthen the creative potential of citizens, safeguarding their heritage and memories, making Medellin a more supportive and peaceful city. It also contains programs focused on youth, gender equality, education, arts, and science. This makes it easy to explain the frequency of the
+keywords.
 
 
         """
@@ -559,7 +662,7 @@ def word_cloud_lin(nclicks, linea):
 
         markdown = f"""
 
-        Descripcion de {seleccion}
+        Line strategy 3 focuses on the citizens of Medellin, in promoting, creating and guaranteeing basic and cultural living conditions, in order to have the ability to enhance their human and individual talents. Likewise, it promotes the generation of social, community, healthy, creative, safe and sustainable environments. In addition, in this line there are programs established for youth from public health to the so-called ”Valle del Software”.
 
 
         """
@@ -570,7 +673,7 @@ def word_cloud_lin(nclicks, linea):
 
         markdown = f"""
 
-        Descripcion de {seleccion}
+        The fourth strategic line seeks to move Medellin towards a future of sustainability, in which dignified habitability is guaranteed for its inhabitants and functional and harmonious integration with rural areas. In this line, programs for sustainable and intelligent mobility are highlighted in which include clean energies and cultural transformations, focusing on the conservation of all forms of life.
 
 
         """
@@ -581,7 +684,7 @@ def word_cloud_lin(nclicks, linea):
 
         markdown = f"""
 
-        Descripcion de {seleccion}
+        The last line strategy aims to reinforce the synergy between government and citizenship, an open dialogue from the different knowledge, the consensus between the different actors and the collective construction of the citizen territorial peace process. Victims and justice are one of the components of this line, as well as security in terms of citizen coexistence and cybersecurity.
 
 
         """

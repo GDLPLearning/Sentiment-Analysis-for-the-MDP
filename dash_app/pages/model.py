@@ -127,20 +127,52 @@ def remove_stopword(tweet):
     return new_tweet[:-1]
 
 
+p1='''
+Welcome to the model section. 
+Once the data exploration is finished, you will be able to interact 
+with the application in this section to generate any tweet from our dataset, 
+do the cleaning process of the tweet 
+and its classification according to its sentiment. 
+Once this section is finished, you will be able to apply this model to the complete dataset.
+we will be working with the dataset containing tweets from 2019 to 2022.
+'''
+p2=''' 
+The first thing you will do is understand the cleaning process. This is detailed in the following section and one of the steps of the cleanup is to remove the stopwords. We have prepared a word cloud of them. Do you notice anything in the cloud?
+'''
+p3='''
+What are stopwords?
+They are words such as "de", "en" or "la", for example, that do not bring any sentiment to the model. You may even have noticed that "Medellín" has been included in this cloud. The reason is that "Medellín" appears throughout the dataset and since it is the name of a city it will not be meaningful to have it in the dataset either. Removing the stopwords will be a part of the cleaning process of the next step.
+'''
+
+p4='''
+Let's think of someone who writes "Amo Medellin" and another person who writes "amo medellín". Both want to express the same thing. By removing accents and unifying the lowercase case, we can obtain an equivalent expression for both: "amo medellin". This way the model will work better and removing the stopwords will be easier. Now, you can write a text randomly generating a tweet from our dataset to observe the detailed cleaning process.
+'''
+
+
+p5='''
+Now that you have gone through the cleaning process, you will be able to know if the text you wrote or the tweet generated is positive or negative.
+'''
+
+
+p6='''
+Do you agree with the outcome of the sentiment? At this point it should be made clear that models are approximations of reality and therefore have a margin of error. How can we measure how close to the real result is the sentiment result you have just obtained? If we apply the model to the complete dataset, what would we get? The next section will answer these questions.
+'''
+
+
 layout = html.Div([
     dbc.Col([
         html.Br(),
         html.H1('Model'),
         ], style={'textAlign': 'center'}),
     html.Br(), html.Br(),
-    html.P('Desc de esta seccion'),
+    html.P(p1),
 
 ############### Stopwords #################
 
     html.Br(), html.Br(),
     dbc.CardHeader(html.H3('Stopwords')),
     html.Br(),
-    html.P('Explicacion de esta sección'),
+    html.P(p2),
     html.Br(), html.Br(),
     dbc.Row([
         dbc.Col(),
@@ -156,14 +188,14 @@ layout = html.Div([
     ]),
     html.Br(),html.Br(),
 
-    html.P('Explicacion de esta sección'),
+    html.P(p3),
 
 
 ############### Tweet text preprocessing #################
     html.Br(),html.Br(),
     dbc.CardHeader(html.H3('Tweet text preprocessing')),
     html.Br(),
-    html.P('Explicacion de esta sección'),
+    html.P(p4),
     html.Br(),
     dbc.Label('Tweet text:'),
     dcc.Textarea(
@@ -199,7 +231,7 @@ layout = html.Div([
     html.Br(),
     dbc.CardHeader(html.H3('Tweet classification')),
     html.Br(),
-    html.P('Explicacion de esta sección'),
+    html.P(p5),
     html.Br(),
     html.Div([
                 dbc.Alert(f"At the time of viewing this message, the model has an accuracy of 77.7%, so the user may find unexpected results. Please send us your report.",
@@ -229,7 +261,7 @@ layout = html.Div([
                         style={'backgroundColor': '#FFFFFF', 'border': '2px solid powderblue', 'padding': '30px'}),
         ]),
     html.Br(),html.Br(),
-    html.P('Explicacion de esta sección'),
+    html.P(p6),
     ])
 
 
